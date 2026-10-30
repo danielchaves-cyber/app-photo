@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T03:17:40.844Z",
+ "atualizado": "2026-10-30T04:42:37.070Z",
  "fotos": [
   {
    "id": "f28cdfdbdfc8",
@@ -150,6 +150,56 @@
    "titulo": "Bank of Japan holds rates steady even as inflation ticks up",
    "date": "2026-10-30",
    "desc": "Bank of Japan holds rates steady even as inflation ticks up"
+  },
+  {
+   "id": "cea64ef33724",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571380.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/society/bureaucrats-working-hours-ai/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Generative AI reduces working hours for government staff, survey finds",
+   "date": "2026-10-30",
+   "desc": "Generative AI reduces working hours for government staff, survey finds"
+  },
+  {
+   "id": "cee7100a75fd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571365.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/forex-account-surplus-financial-resources/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Private-sector council proposes use of forex surplus to cover fiscal measures",
+   "date": "2026-10-30",
+   "desc": "Private-sector council proposes use of forex surplus to cover fiscal measures"
+  },
+  {
+   "id": "5fec3760d097",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571361.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/halloween-nurse-red-cross/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Dressing as a nurse this Halloween? Adding a red cross breaks the law.",
+   "date": "2026-10-30",
+   "desc": "Dressing as a nurse this Halloween? Adding a red cross breaks the law."
+  },
+  {
+   "id": "70e5f728c675",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571378.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/netanyahu-no-majority-israel-election/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
+   "date": "2026-10-30",
+   "desc": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority"
+  },
+  {
+   "id": "a0bacd139d9e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571400.JPG",
+   "url": "https://www.japantimes.co.jp/olympics/2026/10/30/dakar-youth-olympics-africa/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Africa making Olympic debut with 2026 Dakar Youth Games",
+   "date": "2026-10-30",
+   "desc": "Africa making Olympic debut with 2026 Dakar Youth Games"
   },
   {
    "id": "c2f023f6d80e",
