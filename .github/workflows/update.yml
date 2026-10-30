@@ -31,8 +31,12 @@ jobs:
       - run: |
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
-          git add docs/photos.json
-          git diff --cached --quiet || (git commit -m "Atualiza fotos" && git pull --rebase && git push)
+               git add docs/photos.json
+          git diff --cached --quiet || {
+            git commit -m "Atualiza fotos"
+            git pull --rebase -X theirs
+            git push
+          }
   deploy:
     needs: update
     runs-on: ubuntu-latest
