@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["docs/**", "scripts/**", ".github/workflows/**"]
+    paths: ["feed-asia/docs/**", "feed-asia/scripts/**", ".github/workflows/**"]
 permissions:
   contents: write
   pages: write
@@ -12,12 +12,15 @@ permissions:
 concurrency:
   group: pages
   cancel-in-progress: false
+defaults:
+  run:
+    working-directory: feed-asia
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Mostrar arquivos do repositório
+      - name: Mostrar arquivos
         run: ls -R docs scripts
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
@@ -29,7 +32,7 @@ jobs:
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
           git add docs/photos.json
-          git diff --cached --quiet || (git commit -m "Atualiza fotos" && git push)
+          git diff --cached --quiet || (git commit -m "Atualiza fotos" && git pull --rebase && git push)
   deploy:
     needs: update
     runs-on: ubuntu-latest
@@ -41,6 +44,6 @@ jobs:
       - run: touch docs/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
-        with: { path: docs }
+        with: { path: feed-asia/docs }
       - id: dep
         uses: actions/deploy-pages@v4
