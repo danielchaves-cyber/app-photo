@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T03:09:48.326Z",
+ "atualizado": "2026-10-30T03:16:37.421Z",
  "fotos": [
   {
    "id": "f28cdfdbdfc8",
@@ -140,6 +140,16 @@
    "titulo": "New toilets improve sanitation at schools in remote Son La",
    "date": "2026-10-30",
    "desc": "New toilets improve sanitation at schools in remote Son La"
+  },
+  {
+   "id": "8bd7ca47cba8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571379.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/boj-rates-steady-inflation/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Bank of Japan holds rates steady even as inflation ticks up",
+   "date": "2026-10-30",
+   "desc": "Bank of Japan holds rates steady even as inflation ticks up"
   },
   {
    "id": "c2f023f6d80e",
