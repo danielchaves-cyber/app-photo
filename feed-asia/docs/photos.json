@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T08:48:43.384Z",
+ "atualizado": "2026-10-30T12:44:41.895Z",
  "fotos": [
   {
    "id": "f28cdfdbdfc8",
@@ -310,6 +310,26 @@
    "titulo": "Foreign employers in Vietnam face new hiring duties from November",
    "date": "2026-10-30",
    "desc": "Foreign employers in Vietnam face new hiring duties from November"
+  },
+  {
+   "id": "e05dd74602c0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571366.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+   "date": "2026-10-30",
+   "desc": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea"
+  },
+  {
+   "id": "0ce1ace1a6ff",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571538.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/10/30/film/sabu-arrested-memory/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Arrested Memory’ filmmaker Sabu likes to stay on his toes",
+   "date": "2026-10-30",
+   "desc": "‘Arrested Memory’ filmmaker Sabu likes to stay on his toes"
   },
   {
    "id": "c2f023f6d80e",
