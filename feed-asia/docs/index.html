@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Feed Ásia</title>
+<style>
+:root{--bg:#fbf7f4;--card:#fff;--ink:#4a4452;--mute:#8d8596;--line:#efe6e8;--p1:#f9d5d3;--p2:#d6e8f5;--p3:#d9efdc;--p4:#fbeac4;--p5:#e4d9f3;--acc:#f2b8c0}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#2a2630;--card:#353040;--ink:#f0eaf2;--mute:#b3aabb;--line:#463f52;--acc:#c98a97}}
+*{box-sizing:border-box}html{height:100%}
+body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);font-family:"Nunito","Segoe UI",system-ui,sans-serif;display:flex;justify-content:center;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{width:100%;max-width:460px;padding:20px 16px 32px}
+header{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+h1{font-size:1.05rem;font-weight:600;margin:0}
+.tab{border:1px solid var(--line);background:transparent;color:var(--mute);padding:6px 12px;border-radius:99px;font:inherit;font-size:.8rem;cursor:pointer;margin-left:6px}
+.tab.on{background:var(--p5);color:#4a4452;border-color:transparent}
+.card{background:var(--card);border-radius:22px;overflow:hidden;box-shadow:0 6px 24px rgba(120,100,130,.10);margin-bottom:16px}
+.photo{aspect-ratio:4/5;background:var(--p2);display:flex;align-items:center;justify-content:center;font-size:3rem}
+.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.info{padding:16px 18px 6px}.row{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.src{font-weight:600;font-size:.92rem}.flag{font-size:1.5rem}.desc{margin:8px 0;font-size:.9rem;line-height:1.45}.date{color:var(--mute);font-size:.78rem}
+.actions{display:flex;gap:8px;padding:12px 18px 18px}
+.btn{flex:1;border:0;border-radius:14px;padding:11px 6px;font:inherit;font-size:.82rem;cursor:pointer;color:#4a4452;background:var(--p2)}
+.fav{background:var(--p1)}.fav.on{background:var(--acc)}.lnk{background:var(--p3)}
+.shuffle{display:block;width:100%;border:0;border-radius:18px;padding:15px;font:inherit;font-weight:600;font-size:1rem;color:#4a4452;background:var(--p4);cursor:pointer}
+.btn:active,.shuffle:active{transform:scale(.98)}
+.empty{padding:50px 20px;text-align:center;color:var(--mute);font-size:.9rem}
+.upd{margin-top:14px;text-align:center;color:var(--mute);font-size:.75rem}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:8px 16px;border-radius:99px;font-size:.8rem;opacity:0;transition:opacity .25s;pointer-events:none}
+.toast.show{opacity:.95}
+</style>
+</head>
+<body>
+<main>
+<header><h1>Feed Ásia 🌸</h1><div><button class="tab on" id="tFeed">Feed</button><button class="tab" id="tFav">Favoritas</button></div></header>
+<div id="view"></div>
+<button class="shuffle" id="shuf">🎲 Próxima foto</button>
+<div class="upd" id="upd"></div>
+</main>
+<div class="toast" id="toast"></div>
+<script>
+const $=i=>document.getElementById(i);
+const ld=k=>{try{return JSON.parse(localStorage.getItem(k)||"[]")}catch{return[]}};
+let fotos=[],favs=ld("fa_favs"),bag=[],cur=null,mode="feed";
+const http=u=>/^https?:\/\//.test(u||"");
+const fmt=d=>d.split("-").reverse().join("/");
+const toast=t=>{const e=$("toast");e.textContent=t;e.classList.add("show");setTimeout(()=>e.classList.remove("show"),1800)};
+const isFav=id=>favs.some(f=>f.id===id);
+function save(){try{localStorage.setItem("fa_favs",JSON.stringify(favs))}catch{toast("Sem espaço para salvar")}}
+function next(){
+  if(!fotos.length)return;
+  if(!bag.length){bag=fotos.slice().sort(()=>Math.random()-.5);if(cur&&bag.length>1&&bag[bag.length-1].id===cur.id)bag.unshift(bag.pop())}
+  cur=bag.pop();render();
+}
+function el(t,c,x){const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function card(p){
+  const c=el("article","card"),ph=el("div","photo");
+  if(http(p.img)){const i=new Image();i.referrerPolicy="no-referrer";i.loading="lazy";i.alt=p.desc;i.src=p.img;i.onerror=()=>{ph.textContent="🖼️"};ph.append(i)}else ph.textContent="🖼️";
+  const info=el("div","info"),row=el("div","row");row.append(el("span","src",p.src),el("span","flag",p.flag));
+  info.append(row,el("p","desc",p.desc),el("span","date","Publicada em "+fmt(p.date)));
+  const a=el("div","actions"),f=el("button","btn fav"+(isFav(p.id)?" on":""),isFav(p.id)?"♥ Salva":"♡ Favoritar"),
+        s=el("button","btn","↗ Compartilhar"),l=el("button","btn lnk","🔗 Fonte");
+  f.onclick=()=>{if(isFav(p.id)){favs=favs.filter(x=>x.id!==p.id);toast("Removida")}else{favs.push(p);toast("Salva")}save();render()};
+  s.onclick=()=>{const t=`${p.desc} — ${p.src} ${p.flag}`;
+    if(navigator.share)navigator.share({title:"Feed Ásia",text:t,url:p.url}).catch(()=>{});
+    else navigator.clipboard?.writeText(t+" "+p.url).then(()=>toast("Texto copiado"),()=>toast("Não foi possível copiar"))};
+  l.onclick=()=>{if(http(p.url))window.open(p.url,"_blank","noopener")};
+  a.append(f,s,l);c.append(ph,info,a);return c;
+}
+function render(){
+  const v=$("view");v.replaceChildren();
+  $("shuf").style.display=mode==="feed"?"block":"none";
+  if(mode==="fav"){
+    if(!favs.length)v.append(el("div","empty","Nenhuma foto favorita ainda."));
+    favs.forEach(p=>v.append(card(p)));return;
+  }
+  v.append(cur?card(cur):el("div","empty",fotos.length?"Toque em “Próxima foto”.":"Carregando…"));
+}
+$("shuf").onclick=next;
+$("tFeed").onclick=()=>{mode="feed";$("tFeed").classList.add("on");$("tFav").classList.remove("on");render()};
+$("tFav").onclick=()=>{mode="fav";$("tFav").classList.add("on");$("tFeed").classList.remove("on");render()};
+fetch("photos.json",{cache:"no-cache"}).then(r=>r.json()).then(d=>{
+  fotos=(d.fotos||[]).filter(p=>http(p.img)&&http(p.url));
+  if(d.atualizado)$("upd").textContent="Atualizado em "+new Date(d.atualizado).toLocaleString("pt-BR");
+  if(!fotos.length)$("view").replaceChildren(el("div","empty","Ainda não há fotos. Rode a atualização."));
+  else next();
+}).catch(()=>$("view").replaceChildren(el("div","empty","Não foi possível carregar photos.json.")));
+render();
+</script>
+</body>
+</html>

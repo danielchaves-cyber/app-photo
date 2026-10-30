@@ -1,0 +1,7 @@
+{
+  "name": "feed-asia",
+  "private": true,
+  "type": "module",
+  "scripts": { "update": "node scripts/update-feed.mjs" },
+  "dependencies": { "fast-xml-parser": "^4.5.0" }
+}
