@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T04:42:37.070Z",
+ "atualizado": "2026-10-30T08:48:43.384Z",
  "fotos": [
   {
    "id": "f28cdfdbdfc8",
@@ -200,6 +200,116 @@
    "titulo": "Africa making Olympic debut with 2026 Dakar Youth Games",
    "date": "2026-10-30",
    "desc": "Africa making Olympic debut with 2026 Dakar Youth Games"
+  },
+  {
+   "id": "6073a26c9d65",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571368.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/10/30/baseball/mlb/mlb-offseason-uncertainty-lockout/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "MLB heads into offseason of uncertainty with lockout looming",
+   "date": "2026-10-30",
+   "desc": "MLB heads into offseason of uncertainty with lockout looming"
+  },
+  {
+   "id": "8bbf5fe9c53a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571443.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/us-japan-joint-military-exercise/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "With China in mind, Japan eyes more realistic joint military exercises",
+   "date": "2026-10-30",
+   "desc": "With China in mind, Japan eyes more realistic joint military exercises"
+  },
+  {
+   "id": "f9eb64fec1b7",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571472.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/us-europe-cut-russia-rhetoric/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+   "date": "2026-10-30",
+   "desc": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say"
+  },
+  {
+   "id": "ed57bef292cb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571479.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/10/30/more-sports/packers-love-beat-panthers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Jordan Love tosses 3 TD passes as Packers beat Panthers",
+   "date": "2026-10-30",
+   "desc": "Jordan Love tosses 3 TD passes as Packers beat Panthers"
+  },
+  {
+   "id": "b3ad79f90682",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571471.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/science-health/indonesia-wildfire-toll/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Fire pollution killed 3,560 people in Indonesia in September, report says",
+   "date": "2026-10-30",
+   "desc": "Fire pollution killed 3,560 people in Indonesia in September, report says"
+  },
+  {
+   "id": "37070d2922aa",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571449.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/10/30/companies/food-price-hikes-november/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Prices of nearly 1,500 food and beverage items to rise in November",
+   "date": "2026-10-30",
+   "desc": "Prices of nearly 1,500 food and beverage items to rise in November"
+  },
+  {
+   "id": "159c4f23d037",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571420.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/kim-drone-dominance/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Kim urges drone dominance as North Korea fires missiles and rockets",
+   "date": "2026-10-30",
+   "desc": "Kim urges drone dominance as North Korea fires missiles and rockets"
+  },
+  {
+   "id": "7665defb1b9e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571457.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/10/30/companies/blackstone-tokyo-office-sale/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Blackstone said to plan $1.9 billion central Tokyo office sale",
+   "date": "2026-10-30",
+   "desc": "Blackstone said to plan $1.9 billion central Tokyo office sale"
+  },
+  {
+   "id": "f66f90d4c4db",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/southkoreaforeignresidentsthum-2402-8344-1793272333.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=U_Hzhh5N8RGVgH0mbW0NYw",
+   "url": "https://e.vnexpress.net/news/news/south-korea-s-foreign-residents-hit-record-2-66-million-as-international-student-numbers-soar-5138494.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "South Korea's foreign residents hit record 2.66 million as international student numbers soar",
+   "date": "2026-10-30",
+   "desc": "South Korea's foreign residents hit record 2.66 million as international student numbers soar"
+  },
+  {
+   "id": "df0d2ffa2bfd",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/singaporetailorprizethumb1500x-3772-9737-1793260706.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=atuC2B9q_396lctF5W_b8Q",
+   "url": "https://e.vnexpress.net/news/news/singapore-tailor-becomes-first-non-italian-to-win-italian-bespoke-tailoring-trophy-5138362.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Singapore tailor becomes first non-Italian to win Italian bespoke tailoring trophy",
+   "date": "2026-10-30",
+   "desc": "Singapore tailor becomes first non-Italian to win Italian bespoke tailoring trophy"
+  },
+  {
+   "id": "f6e10f1c288e",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/dsc03488-jpg-1793340610-6608-1793340653.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mxHR8u_ZG-AGg87pPAlPMQ",
+   "url": "https://e.vnexpress.net/news/news/foreign-employers-in-vietnam-face-new-hiring-duties-from-november-5138757.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Foreign employers in Vietnam face new hiring duties from November",
+   "date": "2026-10-30",
+   "desc": "Foreign employers in Vietnam face new hiring duties from November"
   },
   {
    "id": "c2f023f6d80e",
