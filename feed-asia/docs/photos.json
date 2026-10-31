@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T08:39:24.628Z",
+ "atualizado": "2026-10-31T12:40:26.084Z",
  "fotos": [
   {
    "id": "6c9b026b772d",
@@ -160,6 +160,36 @@
    "titulo": "Moroccan student's journey from knowing only the local words for 'hello' to becoming Vietnam's top maritime navigation graduate",
    "date": "2026-10-31",
    "desc": "Moroccan student's journey from knowing only the local words for 'hello' to becoming Vietnam's top maritime navigation graduate"
+  },
+  {
+   "id": "4763dbf3fd0b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571599.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/10/31/venezuela-oil-trump-reality/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump touted a record Venezuela oil deal. Now reality is setting in",
+   "date": "2026-10-31",
+   "desc": "Trump touted a record Venezuela oil deal. Now reality is setting in"
+  },
+  {
+   "id": "b417ba703828",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/avd-1793442133.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=pgFxL1aYG62b6lFj-u4JPA",
+   "url": "https://e.vnexpress.net/photo/news/vietnams-independence-palace-marks-60-years-with-rare-exhibits-revealing-its-four-year-construction-5139109.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's Independence Palace marks 60 years with rare exhibits revealing its four-year construction",
+   "date": "2026-10-31",
+   "desc": "Vietnam's Independence Palace marks 60 years with rare exhibits revealing its four-year construction"
+  },
+  {
+   "id": "f2b3505c3fe4",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/26/premiumphoto16619292495550fa99-8413-8107-1792983007.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JJNrwTnD-sShLjlOMtTblA",
+   "url": "https://e.vnexpress.net/news/news/thailand-s-chiang-mai-named-southeast-asia-s-safest-city-5136832.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thailand's Chiang Mai named Southeast Asia's safest city",
+   "date": "2026-10-31",
+   "desc": "Thailand's Chiang Mai named Southeast Asia's safest city"
   },
   {
    "id": "f28cdfdbdfc8",
