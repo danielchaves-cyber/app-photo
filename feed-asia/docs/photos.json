@@ -1,6 +1,86 @@
 {
- "atualizado": "2026-10-31T00:50:53.269Z",
+ "atualizado": "2026-10-31T04:38:51.763Z",
  "fotos": [
+  {
+   "id": "6c9b026b772d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571581.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/10/31/binance-hack-disappearing-money/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Binance hack exposes unsolvable crypto risk: disappearing money",
+   "date": "2026-10-31",
+   "desc": "Binance hack exposes unsolvable crypto risk: disappearing money"
+  },
+  {
+   "id": "cffb171a447a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571578.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/japan-russia-g20-meeting/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan demands release of national in meeting with Russia’s Lavrov",
+   "date": "2026-10-31",
+   "desc": "Japan demands release of national in meeting with Russia’s Lavrov"
+  },
+  {
+   "id": "68fe64e13f2c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571577.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/politics/japan-myanmar-blacklist-removal-push/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan pushes to remove Myanmar from global financial watchdog’s blacklist",
+   "date": "2026-10-31",
+   "desc": "Japan pushes to remove Myanmar from global financial watchdog’s blacklist"
+  },
+  {
+   "id": "66fa558df265",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571575.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/world/politics/hegseth-bipartisan-ouster-midterms/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Hegseth faces bipartisan push for his ouster after midterms",
+   "date": "2026-10-31",
+   "desc": "Hegseth faces bipartisan push for his ouster after midterms"
+  },
+  {
+   "id": "388dd9a55a99",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571574.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/world/politics/gerrymander-republicans/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Republicans are about to find out if their gerrymanders backfired",
+   "date": "2026-10-31",
+   "desc": "Republicans are about to find out if their gerrymanders backfired"
+  },
+  {
+   "id": "f4f9092b4de3",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/afp20261016d3g892cv2highrestop-3309-3076-1792146055.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_JVb2VXKOyc94r_ozw6GUQ",
+   "url": "https://e.vnexpress.net/news/news/environment/haze-pollution-costs-malaysia-1-9b-potentially-claims-1-700-lives-report-5139042.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Haze pollution costs Malaysia $1.9B, potentially claims 1,700 lives: report",
+   "date": "2026-10-31",
+   "desc": "Haze pollution costs Malaysia $1.9B, potentially claims 1,700 lives: report"
+  },
+  {
+   "id": "5eb630e7ac92",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/dsjghjdhf-1793358201-6713-1793358212.png?w=900&h=0&q=100&dpr=1&fit=crop&s=IPe31qeKjUWzj2sr4eLjWg",
+   "url": "https://e.vnexpress.net/news/news/education/king-s-college-wimbledon-hcmc-campus-completes-main-structure-ahead-of-2027-opening-5138356.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "King's College Wimbledon HCMC campus completes main structure ahead of 2027 opening",
+   "date": "2026-10-31",
+   "desc": "King's College Wimbledon HCMC campus completes main structure ahead of 2027 opening"
+  },
+  {
+   "id": "da3001e28735",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/31/ap26303648560314-1793415204-1964-1793415278.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=KzJZGyUmwJRS85BUBRweNw",
+   "url": "https://e.vnexpress.net/news/news/crime/vietnamese-american-professor-and-wife-shot-dead-by-31-year-old-son-police-say-5139074.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnamese American professor and wife shot dead by 31-year-old son, police say",
+   "date": "2026-10-31",
+   "desc": "Vietnamese American professor and wife shot dead by 31-year-old son, police say"
+  },
   {
    "id": "f28cdfdbdfc8",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571384.jpg",
