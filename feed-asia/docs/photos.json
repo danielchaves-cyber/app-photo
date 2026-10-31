@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T04:38:51.763Z",
+ "atualizado": "2026-10-31T08:39:24.628Z",
  "fotos": [
   {
    "id": "6c9b026b772d",
@@ -80,6 +80,86 @@
    "titulo": "Vietnamese American professor and wife shot dead by 31-year-old son, police say",
    "date": "2026-10-31",
    "desc": "Vietnamese American professor and wife shot dead by 31-year-old son, police say"
+  },
+  {
+   "id": "4061cecbd845",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571598.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-patriot-missile-sale-approve/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump administration approves potential Patriot missiles sale to Ukraine",
+   "date": "2026-10-31",
+   "desc": "Trump administration approves potential Patriot missiles sale to Ukraine"
+  },
+  {
+   "id": "8ae566a060e0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571593.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/world/crime-legal/europe-small-museums-theft-guard/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "After Louvre heist and string of thefts, Europe’s smaller museums are on guard",
+   "date": "2026-10-31",
+   "desc": "After Louvre heist and string of thefts, Europe’s smaller museums are on guard"
+  },
+  {
+   "id": "cac3d0ac92ee",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571592.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/world/crime-legal/madagascar-scam-centers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Scam centers relocated from Cambodia operate in Madagascar",
+   "date": "2026-10-31",
+   "desc": "Scam centers relocated from Cambodia operate in Madagascar"
+  },
+  {
+   "id": "aa174083c3e0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571587.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/doshisha-head-apology/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Doshisha chairman apologizes over fatal boat accident in Okinawa",
+   "date": "2026-10-31",
+   "desc": "Doshisha chairman apologizes over fatal boat accident in Okinawa"
+  },
+  {
+   "id": "112c4d957289",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571586.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/asia-pacific/politics/north-korea-denuclearization-vow/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea",
+   "date": "2026-10-31",
+   "desc": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea"
+  },
+  {
+   "id": "9114215695b2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571591.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/10/31/crypto-exchanges-defense-call/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
+   "date": "2026-10-31",
+   "desc": "Crypto exchanges call for quick moves to bolster defenses after Binance heist"
+  },
+  {
+   "id": "0b7781f82de5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571585.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-truce-hopes/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Breath of fresh air’ truce brings hope to Ukraine’s ravaged Kherson",
+   "date": "2026-10-31",
+   "desc": "‘Breath of fresh air’ truce brings hope to Ukraine’s ravaged Kherson"
+  },
+  {
+   "id": "a2e8d38ee6f7",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/1788503914172-1793249841-3720-1793262620.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=0-kCEtNKDH1OEuG2Wh_cbg",
+   "url": "https://e.vnexpress.net/news/news/education/moroccan-student-s-journey-from-knowing-only-the-local-words-for-hello-to-becoming-vietnam-s-top-maritime-navigation-graduate-5138307.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Moroccan student's journey from knowing only the local words for 'hello' to becoming Vietnam's top maritime navigation graduate",
+   "date": "2026-10-31",
+   "desc": "Moroccan student's journey from knowing only the local words for 'hello' to becoming Vietnam's top maritime navigation graduate"
   },
   {
    "id": "f28cdfdbdfc8",
