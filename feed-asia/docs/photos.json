@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T20:33:07.021Z",
+ "atualizado": "2026-10-31T00:50:53.269Z",
  "fotos": [
   {
    "id": "f28cdfdbdfc8",
@@ -330,6 +330,66 @@
    "titulo": "‘Arrested Memory’ filmmaker Sabu likes to stay on his toes",
    "date": "2026-10-30",
    "desc": "‘Arrested Memory’ filmmaker Sabu likes to stay on his toes"
+  },
+  {
+   "id": "462a38746d76",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571320.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/10/31/books/ryu-murakami/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ryu Murakami was a provocateur to the very end",
+   "date": "2026-10-30",
+   "desc": "Ryu Murakami was a provocateur to the very end"
+  },
+  {
+   "id": "f4540c8731af",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/31/tphcm-1793405160-2713-1793405197.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wALDHM-CL_VYykUa3ixwfA",
+   "url": "https://e.vnexpress.net/news/news/vietnam-set-to-overtake-southeast-asia-s-largest-economy-in-gdp-per-capita-this-year-5138797.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam set to overtake Southeast Asia's largest economy in GDP per capita this year",
+   "date": "2026-10-30",
+   "desc": "Vietnam set to overtake Southeast Asia's largest economy in GDP per capita this year"
+  },
+  {
+   "id": "0d9ac2de16fe",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/820525483232387051509881969043-2928-4756-1793358515.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=3ewkNBC4q6_-2I2LO2KSYg",
+   "url": "https://e.vnexpress.net/news/news/traffic/vietnam-s-largest-airport-long-thanh-to-open-on-dec-24-with-up-to-366-flights-a-week-5138904.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's largest airport Long Thanh to open on Dec 24 with up to 366 flights a week",
+   "date": "2026-10-30",
+   "desc": "Vietnam's largest airport Long Thanh to open on Dec 24 with up to 366 flights a week"
+  },
+  {
+   "id": "c60a0e2571ed",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/27/pexels-aline-ang-1793098391-3827-1793098413.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9nYiLvEKCZRBMzAQRk0V2g",
+   "url": "https://e.vnexpress.net/news/news/southeast-asian-city-ranks-among-world-s-top-3-for-quality-of-life-5137584.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Southeast Asian city ranks among world's top 3 for quality of life",
+   "date": "2026-10-30",
+   "desc": "Southeast Asian city ranks among world's top 3 for quality of life"
+  },
+  {
+   "id": "6475d0f5064d",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/22/hubeiflyingboardthumb1500x900-1732-7788-1792662820.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=MUpeTKDHc7T6RMECryKdBg",
+   "url": "https://e.vnexpress.net/news/news/chinese-school-dropout-builds-green-goblin-style-flying-board-and-rides-it-across-asia-s-longest-river-5135688.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Chinese school dropout builds Green Goblin-style flying board and rides it across Asia's longest river",
+   "date": "2026-10-30",
+   "desc": "Chinese school dropout builds Green Goblin-style flying board and rides it across Asia's longest river"
+  },
+  {
+   "id": "086506a47d68",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/indonesiahazedeathsthumb1500x9-2100-5950-1793354347.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=GCoqSqugCgxr_PqwjsCZOw",
+   "url": "https://e.vnexpress.net/news/news/environment/wildfire-smoke-kills-an-estimated-3-560-in-one-month-in-southeast-asia-s-largest-economy-5138883.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Wildfire smoke kills an estimated 3,560 in one month in Southeast Asia's largest economy",
+   "date": "2026-10-30",
+   "desc": "Wildfire smoke kills an estimated 3,560 in one month in Southeast Asia's largest economy"
   },
   {
    "id": "c2f023f6d80e",
