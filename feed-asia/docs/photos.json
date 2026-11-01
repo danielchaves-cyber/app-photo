@@ -1,6 +1,86 @@
 {
- "atualizado": "2026-11-01T00:51:16.513Z",
+ "atualizado": "2026-11-01T04:45:59.889Z",
  "fotos": [
+  {
+   "id": "95ae3efc7483",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571647.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/japan-russia-g20-meeting/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan demands release of national in meeting with Russia’s Lavrov",
+   "date": "2026-11-01",
+   "desc": "Japan demands release of national in meeting with Russia’s Lavrov"
+  },
+  {
+   "id": "fb4aa2f1d4d4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571669.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/crime-legal/us-marine-okinawa-arrest-drunken-driving/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. Marine arrested in Okinawa for driving under influence",
+   "date": "2026-11-01",
+   "desc": "U.S. Marine arrested in Okinawa for driving under influence"
+  },
+  {
+   "id": "204099bac25f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571642.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/politics/india-protest-movements-unite-modi/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "India’s protest movements unite in fresh headache for Modi",
+   "date": "2026-11-01",
+   "desc": "India’s protest movements unite in fresh headache for Modi"
+  },
+  {
+   "id": "73ed965ddf9e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571421.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/politics/disaster-prevention-agency/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s new disaster agency aims to streamline response, but challenges remain",
+   "date": "2026-11-01",
+   "desc": "Japan’s new disaster agency aims to streamline response, but challenges remain"
+  },
+  {
+   "id": "64188d78abb9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571640.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/01/companies/kioxia-chip-prices-stall/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Kioxia warns flash memory prices stalling after outlook miss",
+   "date": "2026-11-01",
+   "desc": "Kioxia warns flash memory prices stalling after outlook miss"
+  },
+  {
+   "id": "5a053a4557b2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571621.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/01/more-sports/ryo-hirakawa-f1-debut/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ryo Hirakawa set for F1 debut as Esteban Ocon denies being in ‘physical altercation’",
+   "date": "2026-11-01",
+   "desc": "Ryo Hirakawa set for F1 debut as Esteban Ocon denies being in ‘physical altercation’"
+  },
+  {
+   "id": "d5bcea42b8f9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571620.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/01/soccer/mourinho-mbappe-china-controversy/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Jose Mourinho says Real Madrid and Kylian Mbappe have moved on from China controversy",
+   "date": "2026-11-01",
+   "desc": "Jose Mourinho says Real Madrid and Kylian Mbappe have moved on from China controversy"
+  },
+  {
+   "id": "08ad68338be5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571626.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/gmo-ceo-kumagai-cyberattack-presser/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack",
+   "date": "2026-11-01",
+   "desc": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack"
+  },
   {
    "id": "6c9b026b772d",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571581.jpg",
