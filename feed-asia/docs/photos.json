@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T20:29:30.416Z",
+ "atualizado": "2026-11-01T00:51:16.513Z",
  "fotos": [
   {
    "id": "6c9b026b772d",
@@ -190,6 +190,66 @@
    "titulo": "Thailand's Chiang Mai named Southeast Asia's safest city",
    "date": "2026-10-31",
    "desc": "Thailand's Chiang Mai named Southeast Asia's safest city"
+  },
+  {
+   "id": "8e9a6a1356f4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571608.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/us-deport-afghan-immigrants/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. to reportedly deport 150 Afghan immigrants back to Afghanistan",
+   "date": "2026-10-31",
+   "desc": "U.S. to reportedly deport 150 Afghan immigrants back to Afghanistan"
+  },
+  {
+   "id": "dff8b6969b5e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571604.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/clashes-protest-france/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Clashes break out as hundreds of thousands protest in France",
+   "date": "2026-10-31",
+   "desc": "Clashes break out as hundreds of thousands protest in France"
+  },
+  {
+   "id": "28baa61f644a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571118.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/01/food-drink/saki-jw-marriott-restaurant-japanese-cuisine-kappo-counter-omakase/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Fine ‘omakase’ dining, with a twist, at Saki",
+   "date": "2026-10-31",
+   "desc": "Fine ‘omakase’ dining, with a twist, at Saki"
+  },
+  {
+   "id": "11872792482c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/570819.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/01/film/moonlit-golden-gai/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Moonlit Golden-Gai’: A director’s love letter to Shinjuku’s bar district",
+   "date": "2026-10-31",
+   "desc": "‘Moonlit Golden-Gai’: A director’s love letter to Shinjuku’s bar district"
+  },
+  {
+   "id": "17ddd96bf476",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/570883.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/history/japan-times-gone-by-november-2026/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan Times 2001: Ichiro is American League MVP",
+   "date": "2026-10-31",
+   "desc": "Japan Times 2001: Ichiro is American League MVP"
+  },
+  {
+   "id": "74fd1e74d949",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/570854.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/01/food-drink/almond-tofu-annindofu-dessert-recipe-japanese-cuisine/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Putting the almond back into Japan’s ‘almond tofu’",
+   "date": "2026-10-31",
+   "desc": "Putting the almond back into Japan’s ‘almond tofu’"
   },
   {
    "id": "f28cdfdbdfc8",
