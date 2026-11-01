@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T04:45:59.889Z",
+ "atualizado": "2026-11-01T08:43:19.700Z",
  "fotos": [
   {
    "id": "95ae3efc7483",
@@ -80,6 +80,66 @@
    "titulo": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack",
    "date": "2026-11-01",
    "desc": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack"
+  },
+  {
+   "id": "9f28efed6f08",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571583.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/01/tennis/lower-ranked-players-mental-health/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Lower-ranked players struggle with mental and physical strain near end of long season",
+   "date": "2026-11-01",
+   "desc": "Lower-ranked players struggle with mental and physical strain near end of long season"
+  },
+  {
+   "id": "e2e134ece0e1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/28/571000.jpg",
+   "url": "https://www.japantimes.co.jp/community/2026/11/01/cassiopeia-galaxy-cat-adoption/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "A feline brother and sister pair who are simply out of this world",
+   "date": "2026-11-01",
+   "desc": "A feline brother and sister pair who are simply out of this world"
+  },
+  {
+   "id": "4195973ba5ad",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571701.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/01/tennis/pan-pacific-open-final/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Diana Shnaider survives rally to top Leylah Fernandez in Pan Pacific Open final",
+   "date": "2026-11-01",
+   "desc": "Diana Shnaider survives rally to top Leylah Fernandez in Pan Pacific Open final"
+  },
+  {
+   "id": "9a5cd30a67b9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571615.jpg",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/01/climate-change/nitrogen-fertilizer-concern-climate-change/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "What a Japanese scientist says can be done about the climate’s nitrogen problem",
+   "date": "2026-11-01",
+   "desc": "What a Japanese scientist says can be done about the climate’s nitrogen problem"
+  },
+  {
+   "id": "b01fd2a93b8d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571683.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/01/more-sports/cas-russia-world-championships/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "CAS clears way for Russia to compete at ice hockey world championships",
+   "date": "2026-11-01",
+   "desc": "CAS clears way for Russia to compete at ice hockey world championships"
+  },
+  {
+   "id": "01ecaeb2f9c0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571673.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test",
+   "date": "2026-11-01",
+   "desc": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test"
   },
   {
    "id": "6c9b026b772d",
