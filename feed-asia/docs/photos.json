@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T12:41:23.117Z",
+ "atualizado": "2026-11-01T16:32:51.092Z",
  "fotos": [
   {
    "id": "95ae3efc7483",
@@ -170,6 +170,36 @@
    "titulo": "Pompeii cupboard opens window onto life before Vesuvius erupted",
    "date": "2026-11-01",
    "desc": "Pompeii cupboard opens window onto life before Vesuvius erupted"
+  },
+  {
+   "id": "dc4cd986e4bc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571711.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/politics/world-us-midterms-trumpism/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "World watches U.S. midterms with Trumpism already waning globally",
+   "date": "2026-11-01",
+   "desc": "World watches U.S. midterms with Trumpism already waning globally"
+  },
+  {
+   "id": "e9e82d9fd388",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571526.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/01/world/improving-global-mineral-governance/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "How to improve global mineral governance",
+   "date": "2026-11-01",
+   "desc": "How to improve global mineral governance"
+  },
+  {
+   "id": "0808f41863a0",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/01/quyn6578-1793519503-1653-1793519559.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mNhrmMzIMijMrMRSzh6qcQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/vietnam-airlines-flight-diverts-to-pakistan-after-german-passenger-suffers-seizure-5139353.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam Airlines flight diverts to Pakistan after German passenger suffers seizure",
+   "date": "2026-11-01",
+   "desc": "Vietnam Airlines flight diverts to Pakistan after German passenger suffers seizure"
   },
   {
    "id": "6c9b026b772d",
