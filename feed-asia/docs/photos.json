@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T08:43:19.700Z",
+ "atualizado": "2026-11-01T12:41:23.117Z",
  "fotos": [
   {
    "id": "95ae3efc7483",
@@ -140,6 +140,36 @@
    "titulo": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test",
    "date": "2026-11-01",
    "desc": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test"
+  },
+  {
+   "id": "e5c817bc2bee",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571717.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/kherson-truce-ukrainian-families/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Kherson truce lets Ukrainian family ‘close chapter’ on old life",
+   "date": "2026-11-01",
+   "desc": "Kherson truce lets Ukrainian family ‘close chapter’ on old life"
+  },
+  {
+   "id": "fe7c210bd6e3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571704.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/vietnamese-fish-for-japan-surimi-ingredient/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Farmed fish from Vietnam eyed as surimi ingredient alternative",
+   "date": "2026-11-01",
+   "desc": "Farmed fish from Vietnam eyed as surimi ingredient alternative"
+  },
+  {
+   "id": "f7663235326c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571706.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/pompeii-cupboard-life-vesuvius/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Pompeii cupboard opens window onto life before Vesuvius erupted",
+   "date": "2026-11-01",
+   "desc": "Pompeii cupboard opens window onto life before Vesuvius erupted"
   },
   {
    "id": "6c9b026b772d",
