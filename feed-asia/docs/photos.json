@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T04:54:18.777Z",
+ "atualizado": "2026-11-02T08:56:42.227Z",
  "fotos": [
   {
    "id": "89e58ae81b3f",
@@ -120,6 +120,106 @@
    "titulo": "Jet nosedives, erupts into fireball near South Florida busy roadway, killing all 9 on board",
    "date": "2026-11-02",
    "desc": "Jet nosedives, erupts into fireball near South Florida busy roadway, killing all 9 on board"
+  },
+  {
+   "id": "6c8a0e57fb91",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571887.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/02/companies/cyber-security-insurance-policies/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "More companies seeking cyber insurance following high-profile data breaches",
+   "date": "2026-11-02",
+   "desc": "More companies seeking cyber insurance following high-profile data breaches"
+  },
+  {
+   "id": "594e4be310e7",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571924.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/02/economy/bank-of-japan-quarterly-outlook/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "BOJ signals low hopes for consumer spending as population falls",
+   "date": "2026-11-02",
+   "desc": "BOJ signals low hopes for consumer spending as population falls"
+  },
+  {
+   "id": "fefc2d6eea4b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571925.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/gmo-news-conference-kumagai/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "GMO execs apologize over inadequate response to cyberattacks",
+   "date": "2026-11-02",
+   "desc": "GMO execs apologize over inadequate response to cyberattacks"
+  },
+  {
+   "id": "f29dafe7996d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571906.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/crime-legal/stolen-luxury-watch-returned/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Stolen luxury watch returned to Tokyo store via courier with apology note",
+   "date": "2026-11-02",
+   "desc": "Stolen luxury watch returned to Tokyo store via courier with apology note"
+  },
+  {
+   "id": "9dc7635ef445",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571915.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/politics/ishiba-disaster-management/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ishiba underscores importance of National Disaster Management Agency",
+   "date": "2026-11-02",
+   "desc": "Ishiba underscores importance of National Disaster Management Agency"
+  },
+  {
+   "id": "2e43fba15b68",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571888.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/02/world/politics/europe-right-germany-afd-euro/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "As Europe’s right advances, Germany’s AfD rethinks its anti-euro roots",
+   "date": "2026-11-02",
+   "desc": "As Europe’s right advances, Germany’s AfD rethinks its anti-euro roots"
+  },
+  {
+   "id": "61dda048a175",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571914.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/02/soccer/manchester-united-ten-hag-relegation/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Erik ten Hag floats relegation as possibility for struggling Manchester United",
+   "date": "2026-11-02",
+   "desc": "Erik ten Hag floats relegation as possibility for struggling Manchester United"
+  },
+  {
+   "id": "8608593f972b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571844.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/spain-train-crash-japanese/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese national confirmed dead in Spanish train crash",
+   "date": "2026-11-02",
+   "desc": "Japanese national confirmed dead in Spanish train crash"
+  },
+  {
+   "id": "39287cdfdf12",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/changivapesthumb1500x900-17936-4108-7834-1793606109.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=o4vsvo_wF0Y0soIdVc85bQ",
+   "url": "https://e.vnexpress.net/news/news/crime/over-5-200-vapes-and-components-found-in-4-foreigners-luggage-at-singapore-changi-airport-5139772.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Over 5,200 vapes and components found in 4 foreigners' luggage at Singapore Changi airport",
+   "date": "2026-11-02",
+   "desc": "Over 5,200 vapes and components found in 4 foreigners' luggage at Singapore Changi airport"
+  },
+  {
+   "id": "e92c0c0a7a0e",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/9f8a7b8c1f2ee670bf3f3796157784-3456-8101-1793602638.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=X2uVfSHYfWfAvcEC0SQk2w",
+   "url": "https://e.vnexpress.net/news/news/hanoi-to-offer-154-to-women-having-2-children-before-age-35-5139731.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Hanoi to offer $154 to women having 2 children before age 35",
+   "date": "2026-11-02",
+   "desc": "Hanoi to offer $154 to women having 2 children before age 35"
   },
   {
    "id": "95ae3efc7483",
