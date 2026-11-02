@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T08:56:42.227Z",
+ "atualizado": "2026-11-02T12:55:55.914Z",
  "fotos": [
   {
    "id": "89e58ae81b3f",
@@ -220,6 +220,56 @@
    "titulo": "Hanoi to offer $154 to women having 2 children before age 35",
    "date": "2026-11-02",
    "desc": "Hanoi to offer $154 to women having 2 children before age 35"
+  },
+  {
+   "id": "34c0959e745e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571937.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/02/binance-outflows-north-korea-hack/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Binance outflows hit $4.7 billion after record North Korea hack",
+   "date": "2026-11-02",
+   "desc": "Binance outflows hit $4.7 billion after record North Korea hack"
+  },
+  {
+   "id": "308e5bad9e74",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571936.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/new-disaster-agency-public-prepare/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s new disaster agency calls on public to prepare for disasters",
+   "date": "2026-11-02",
+   "desc": "Japan’s new disaster agency calls on public to prepare for disasters"
+  },
+  {
+   "id": "4a21fc9efd1e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571935.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/02/asia-pacific/north-korea-hackers-crypto-heist-ai/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "North Korea’s hackers supercharge crypto heists with AI skills",
+   "date": "2026-11-02",
+   "desc": "North Korea’s hackers supercharge crypto heists with AI skills"
+  },
+  {
+   "id": "658a58c0d226",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571541.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/02/japan/chinese-builds-ai-global-advantage/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Will Chinese AI build a global advantage?",
+   "date": "2026-11-02",
+   "desc": "Will Chinese AI build a global advantage?"
+  },
+  {
+   "id": "fe8054fd00b5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571926.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/02/companies/hokkaido-licorice-production/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Oji makes inroads on licorice cultivation in Japan",
+   "date": "2026-11-02",
+   "desc": "Oji makes inroads on licorice cultivation in Japan"
   },
   {
    "id": "95ae3efc7483",
