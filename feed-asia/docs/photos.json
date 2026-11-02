@@ -1,6 +1,26 @@
 {
- "atualizado": "2026-11-01T20:30:11.882Z",
+ "atualizado": "2026-11-02T00:52:38.337Z",
  "fotos": [
+  {
+   "id": "89e58ae81b3f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571742.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China’s robot makers have mastered the moves. Now comes the race for brains.",
+   "date": "2026-11-02",
+   "desc": "China’s robot makers have mastered the moves. Now comes the race for brains."
+  },
+  {
+   "id": "8cbff5a62892",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571753.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/02/more-sports/miyu-yamashita-defends-title/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Miyu Yamashita defends title at Maybank Championship",
+   "date": "2026-11-02",
+   "desc": "Miyu Yamashita defends title at Maybank Championship"
+  },
   {
    "id": "95ae3efc7483",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571647.jpg",
@@ -200,6 +220,36 @@
    "titulo": "Vietnam Airlines flight diverts to Pakistan after German passenger suffers seizure",
    "date": "2026-11-01",
    "desc": "Vietnam Airlines flight diverts to Pakistan after German passenger suffers seizure"
+  },
+  {
+   "id": "46cbf609bb40",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/570758.jpg",
+   "url": "https://www.japantimes.co.jp/community/2026/11/02/our-lives/tokyo-running-clubs-community-ties/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Lazy’ running becomes fresh way for Tokyo runners to build community",
+   "date": "2026-11-01",
+   "desc": "‘Lazy’ running becomes fresh way for Tokyo runners to build community"
+  },
+  {
+   "id": "0a4b2026b03e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/570867.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/02/film/in-their-traces/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘In Their Traces’: An unflinching documentary about the survivors of sexual violence",
+   "date": "2026-11-01",
+   "desc": "‘In Their Traces’: An unflinching documentary about the survivors of sexual violence"
+  },
+  {
+   "id": "c47e59306052",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571739.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/02/world/gulf-states-iran-us/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Gulf states fear fiercer Iran retaliation if U.S. strikes again",
+   "date": "2026-11-01",
+   "desc": "Gulf states fear fiercer Iran retaliation if U.S. strikes again"
   },
   {
    "id": "6c9b026b772d",
