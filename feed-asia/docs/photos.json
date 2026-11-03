@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T08:54:48.698Z",
+ "atualizado": "2026-11-03T12:54:15.064Z",
  "fotos": [
   {
    "id": "e49e8d9b7e72",
@@ -270,6 +270,56 @@
    "titulo": "10yo boy shoots teen over loud music, mother faces murder charges",
    "date": "2026-11-03",
    "desc": "10yo boy shoots teen over loud music, mother faces murder charges"
+  },
+  {
+   "id": "be3e6aa2c183",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572111.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/society/private-sector-rural-community-revitalize/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Private sector steps in to revitalize Japan’s rural communities",
+   "date": "2026-11-03",
+   "desc": "Private sector steps in to revitalize Japan’s rural communities"
+  },
+  {
+   "id": "0d358d35864f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572103.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/society/russia-inflation-shock/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "For many Russians, higher utility bills are latest inflation shock",
+   "date": "2026-11-03",
+   "desc": "For many Russians, higher utility bills are latest inflation shock"
+  },
+  {
+   "id": "1dab9da550fb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571716.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/03/japan/japan-beijings-strategy/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Asia for China? Tokyo’s answer to Beijing’s coercive strategy",
+   "date": "2026-11-03",
+   "desc": "Asia for China? Tokyo’s answer to Beijing’s coercive strategy"
+  },
+  {
+   "id": "afcc840884d1",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/du-kha-ch-tre-n-ho-gu-o-m-nga-2917-4171-1793614421.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QMVTDlPG08w_IlJeNJm5MQ",
+   "url": "https://e.vnexpress.net/news/news/environment/vietnam-records-hottest-october-in-history-5140308.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam records hottest October in history",
+   "date": "2026-11-03",
+   "desc": "Vietnam records hottest October in history"
+  },
+  {
+   "id": "0688c25f3f9b",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/singaporeanperthairtagthumb150-7163-9082-1793692809.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=GOcyMWLJ5P8832AzTyRXHg",
+   "url": "https://e.vnexpress.net/news/news/crime/singaporean-tourist-jailed-in-australia-for-fatally-running-over-man-with-stolen-backpack-5140219.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Singaporean tourist jailed in Australia for fatally running over man with stolen backpack",
+   "date": "2026-11-03",
+   "desc": "Singaporean tourist jailed in Australia for fatally running over man with stolen backpack"
   },
   {
    "id": "89e58ae81b3f",
