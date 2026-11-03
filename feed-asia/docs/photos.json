@@ -1,6 +1,26 @@
 {
- "atualizado": "2026-11-02T20:40:14.453Z",
+ "atualizado": "2026-11-03T00:52:01.004Z",
  "fotos": [
+  {
+   "id": "e49e8d9b7e72",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571946.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/supermarkets-europe-freezer-hack/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Supermarkets across Europe report new suspected freezer hack",
+   "date": "2026-11-03",
+   "desc": "Supermarkets across Europe report new suspected freezer hack"
+  },
+  {
+   "id": "7884f60606b0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571949.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/politics/israel-opposition-eisenkot-netanyahu/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Israel opposition meets to back Eisenkot, but Netanyahu says voters chose him",
+   "date": "2026-11-03",
+   "desc": "Israel opposition meets to back Eisenkot, but Netanyahu says voters chose him"
+  },
   {
    "id": "89e58ae81b3f",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571742.JPG",
@@ -270,6 +290,56 @@
    "titulo": "Oji makes inroads on licorice cultivation in Japan",
    "date": "2026-11-02",
    "desc": "Oji makes inroads on licorice cultivation in Japan"
+  },
+  {
+   "id": "ac9c97636ba2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571944.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/03/asia-pacific/north-korea-binance-us-hacking/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "North Korea calls U.S. claims it was behind Binance hack ‘a grave political provocation’",
+   "date": "2026-11-02",
+   "desc": "North Korea calls U.S. claims it was behind Binance hack ‘a grave political provocation’"
+  },
+  {
+   "id": "1e1fad579827",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571943.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/politics/trump-iran-threat-gulf-war/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump’s Iran threat renews Gulf fears of a war it didn’t choose",
+   "date": "2026-11-02",
+   "desc": "Trump’s Iran threat renews Gulf fears of a war it didn’t choose"
+  },
+  {
+   "id": "b17502de333f",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/wm1wm13c51f3aeaf38e122037a3c17-6164-5087-1793354587.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=T_ZcjaJp5xHHk3boAerByw",
+   "url": "https://e.vnexpress.net/news/news/vietnam-japan-s-biggest-source-of-foreign-workers-struggles-to-recruit-more-5138895.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam, Japan's biggest source of foreign workers, struggles to recruit more",
+   "date": "2026-11-02",
+   "desc": "Vietnam, Japan's biggest source of foreign workers, struggles to recruit more"
+  },
+  {
+   "id": "0f207a620aed",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/pexelsfedericoabisphotography3-1114-8981-1793588124.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ismO5pe783_60S6PTwVg2Q",
+   "url": "https://e.vnexpress.net/news/news/which-asian-city-ranks-world-s-best-for-gen-z-in-2026-5139579.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Which Asian city ranks world's best for Gen Z in 2026?",
+   "date": "2026-11-02",
+   "desc": "Which Asian city ranks world's best for Gen Z in 2026?"
+  },
+  {
+   "id": "af27a1b9cc47",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/taobaothailandyuanthumb1500x90-3417-4502-1793606425.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=uP6fL_LhiPG5fZhbnlL0ow",
+   "url": "https://e.vnexpress.net/news/news/crime/bangkok-firm-behind-taobao-thailand-website-accused-of-illegal-yuan-exchange-for-buyers-of-chinese-goods-5139765.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Bangkok firm behind 'Taobao Thailand' website accused of illegal yuan exchange for buyers of Chinese goods",
+   "date": "2026-11-02",
+   "desc": "Bangkok firm behind 'Taobao Thailand' website accused of illegal yuan exchange for buyers of Chinese goods"
   },
   {
    "id": "95ae3efc7483",
