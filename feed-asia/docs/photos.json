@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T00:53:15.618Z",
+ "atualizado": "2026-11-04T04:52:43.232Z",
  "fotos": [
   {
    "id": "1686d4a12279",
@@ -30,6 +30,126 @@
    "titulo": "As Americans vote, Trump says U.S. will stop $4 billion in aid to Israel",
    "date": "2026-11-04",
    "desc": "As Americans vote, Trump says U.S. will stop $4 billion in aid to Israel"
+  },
+  {
+   "id": "d848615207af",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572223.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/04/basketball/wnba-record-viewing-figures/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Record 3.3 million tuned in for WNBA’s first-ever Game 7",
+   "date": "2026-11-04",
+   "desc": "Record 3.3 million tuned in for WNBA’s first-ever Game 7"
+  },
+  {
+   "id": "664e22a703b2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572211.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/north-korea-missile-test-november-4/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "North Korea fires off ‘several’ missiles in latest weapons test",
+   "date": "2026-11-04",
+   "desc": "North Korea fires off ‘several’ missiles in latest weapons test"
+  },
+  {
+   "id": "2fc105440bda",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572212.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/04/more-sports/jets-canadiens-comeback-win/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Jets beat Habs in latest four-goal comeback win in NHL history",
+   "date": "2026-11-04",
+   "desc": "Jets beat Habs in latest four-goal comeback win in NHL history"
+  },
+  {
+   "id": "f28c6d2a601e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572198.png",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/typhoon-infa/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "High waves around Ogasawara Islands expected as Typhoon In-fa approaches",
+   "date": "2026-11-04",
+   "desc": "High waves around Ogasawara Islands expected as Typhoon In-fa approaches"
+  },
+  {
+   "id": "84890551648d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572203.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/04/tennis/djokovic-paris-masters-opener/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Djokovic battles through Paris Masters opener",
+   "date": "2026-11-04",
+   "desc": "Djokovic battles through Paris Masters opener"
+  },
+  {
+   "id": "ad63e9bb0c4c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572186.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/manhole-card-collectors/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Manhole card’ collectors’ bad behavior forces some municipalities to end distribution",
+   "date": "2026-11-04",
+   "desc": "‘Manhole card’ collectors’ bad behavior forces some municipalities to end distribution"
+  },
+  {
+   "id": "55a63bd53fa5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572202.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/04/more-sports/camara-ocon-hirakawa-haas/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Camara to make home F1 debut in Brazil as Haas rules out Ocon’s return",
+   "date": "2026-11-04",
+   "desc": "Camara to make home F1 debut in Brazil as Haas rules out Ocon’s return"
+  },
+  {
+   "id": "71d8ff85b343",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/videocapture-1793760091-8640-1793760248.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=t4xVJwWESatXgk6DLckxsQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/hcmc-to-build-2-pedestrian-bridges-over-busy-downtown-street-to-saigon-river-park-5140543.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "HCMC to build 2 pedestrian bridges over busy downtown street to Saigon River park",
+   "date": "2026-11-04",
+   "desc": "HCMC to build 2 pedestrian bridges over busy downtown street to Saigon River park"
+  },
+  {
+   "id": "5d9632ff237a",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/vnuhola-1793683813-3926-1793683857.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=hmH66WcFgjj8ICaDUne8RQ",
+   "url": "https://e.vnexpress.net/news/news/education/vietnam-has-record-33-universities-in-2027-qs-asian-rankings-despite-widespread-declines-5140426.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam has record 33 universities in 2027 QS Asian rankings, despite widespread declines",
+   "date": "2026-11-04",
+   "desc": "Vietnam has record 33 universities in 2027 QS Asian rankings, despite widespread declines"
+  },
+  {
+   "id": "94d1f43a4d73",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/yrcidwh3tvjhxeakgjitrpg564-179-1674-8907-1793763840.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=p1aYKf6yrIE3-MXnRLXR_Q",
+   "url": "https://e.vnexpress.net/news/news/traffic/guangzhou-airport-reclaims-title-as-china-s-busiest-5140502.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Guangzhou airport reclaims title as China's busiest",
+   "date": "2026-11-04",
+   "desc": "Guangzhou airport reclaims title as China's busiest"
+  },
+  {
+   "id": "9241c24f847b",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/lu-lut-thai-lan-jpeg-179375758-7004-4544-1793757712.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=eAsMtTyxS-un6dXtziYNOw",
+   "url": "https://e.vnexpress.net/news/news/environment/thailand-urges-residents-to-prepare-72-hour-emergency-bags-5140504.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thailand urges residents to prepare 72-hour emergency bags",
+   "date": "2026-11-04",
+   "desc": "Thailand urges residents to prepare 72-hour emergency bags"
+  },
+  {
+   "id": "df5da79fc989",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/rdctqcf725lhjjxdb3t4hcd5ui-179-7349-8050-1793673917.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=MAkx8dZzZlk0LpVI2NACKA",
+   "url": "https://e.vnexpress.net/news/news/traffic/japan-s-narita-international-airport-plans-to-combine-3-terminals-5140017.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Japan's Narita International Airport plans to combine 3 terminals",
+   "date": "2026-11-04",
+   "desc": "Japan's Narita International Airport plans to combine 3 terminals"
   },
   {
    "id": "e49e8d9b7e72",
