@@ -1,6 +1,36 @@
 {
- "atualizado": "2026-11-03T20:42:46.787Z",
+ "atualizado": "2026-11-04T00:53:15.618Z",
  "fotos": [
+  {
+   "id": "1686d4a12279",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572170.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/04/tech/google-schools-gemini-ai-search/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Google lets schools turn off Gemini, but not the AI in search",
+   "date": "2026-11-04",
+   "desc": "Google lets schools turn off Gemini, but not the AI in search"
+  },
+  {
+   "id": "7c13ab7aa25d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572165.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/serbia-leaderless-vucic-regime/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Serbia’s leaderless force starts dismantling Vucic’s regime",
+   "date": "2026-11-04",
+   "desc": "Serbia’s leaderless force starts dismantling Vucic’s regime"
+  },
+  {
+   "id": "aafcfeb2ad37",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572162.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/americans-trump-us-aid-israel/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "As Americans vote, Trump says U.S. will stop $4 billion in aid to Israel",
+   "date": "2026-11-04",
+   "desc": "As Americans vote, Trump says U.S. will stop $4 billion in aid to Israel"
+  },
   {
    "id": "e49e8d9b7e72",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571946.jpg",
@@ -350,6 +380,36 @@
    "titulo": "China accuses Philippine politicians of ‘intolerable’ conduct as tensions rise",
    "date": "2026-11-03",
    "desc": "China accuses Philippine politicians of ‘intolerable’ conduct as tensions rise"
+  },
+  {
+   "id": "194846b9964e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572161.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/04/tech/binance-hackers-job-interviews-heist/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Binance hackers used fake job interviews in record heist",
+   "date": "2026-11-03",
+   "desc": "Binance hackers used fake job interviews in record heist"
+  },
+  {
+   "id": "1ab8d719f9a9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572158.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/russia-ukraine-power-abu-dhabi-merz/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
+   "date": "2026-11-03",
+   "desc": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage"
+  },
+  {
+   "id": "f63888329690",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572160.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/america-us-midterms-vote-congress/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Americans vote with control of Congress at stake",
+   "date": "2026-11-03",
+   "desc": "Americans vote with control of Congress at stake"
   },
   {
    "id": "89e58ae81b3f",
