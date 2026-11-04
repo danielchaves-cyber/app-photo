@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T04:52:43.232Z",
+ "atualizado": "2026-11-04T08:52:03.436Z",
  "fotos": [
   {
    "id": "1686d4a12279",
@@ -150,6 +150,136 @@
    "titulo": "Japan's Narita International Airport plans to combine 3 terminals",
    "date": "2026-11-04",
    "desc": "Japan's Narita International Airport plans to combine 3 terminals"
+  },
+  {
+   "id": "16cc034625a3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572269.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/germany-japan-gcap-fighter-jet/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Talk of Germany joining GCAP fighter program grows, but Japanese concerns persist",
+   "date": "2026-11-04",
+   "desc": "Talk of Germany joining GCAP fighter program grows, but Japanese concerns persist"
+  },
+  {
+   "id": "d7f11262d700",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572204.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/onoda-foreign-residents/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan unlikely to raise cap for foreign workers despite labor shortages",
+   "date": "2026-11-04",
+   "desc": "Japan unlikely to raise cap for foreign workers despite labor shortages"
+  },
+  {
+   "id": "65b1dfd5147f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572265.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/trump-senate-candidates-republicans/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump hand-picked Senate candidates. Republicans paid the price.",
+   "date": "2026-11-04",
+   "desc": "Trump hand-picked Senate candidates. Republicans paid the price."
+  },
+  {
+   "id": "69490c190e0a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572261.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/04/food-tax-benefits-savings-survey/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "25.7% in Japan to use food tax cut benefits for savings, survey finds",
+   "date": "2026-11-04",
+   "desc": "25.7% in Japan to use food tax cut benefits for savings, survey finds"
+  },
+  {
+   "id": "abf0f609f36e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572258.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/politics/tamaki-consumption-tax-bill-rejection/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "DPP leader rejects food tax cut bill in current form",
+   "date": "2026-11-04",
+   "desc": "DPP leader rejects food tax cut bill in current form"
+  },
+  {
+   "id": "a4ab785ac681",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572229.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/04/markets/japan-stocks-sink/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese stocks sink as U.S. midterm results hit tech shares",
+   "date": "2026-11-04",
+   "desc": "Japanese stocks sink as U.S. midterm results hit tech shares"
+  },
+  {
+   "id": "323b73d33546",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572205.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/hiroshima-atomic-victim-remains/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Family receives remains of Hiroshima A-bomb victim 81 years after his death",
+   "date": "2026-11-04",
+   "desc": "Family receives remains of Hiroshima A-bomb victim 81 years after his death"
+  },
+  {
+   "id": "dea62b291639",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/1793689750183-jpeg-1793772307-7822-1793772350.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Rx9RpGTDGA2JiBB4g1I8ww",
+   "url": "https://e.vnexpress.net/news/news/companies-look-to-absorb-1-600-workers-laid-off-after-hcmc-based-danish-shoe-factory-closes-5140660.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Companies look to absorb 1,600 workers laid off after HCMC-based Danish shoe factory closes",
+   "date": "2026-11-04",
+   "desc": "Companies look to absorb 1,600 workers laid off after HCMC-based Danish shoe factory closes"
+  },
+  {
+   "id": "fa4247e94288",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/pexels-chaikong2511-1793763495-5890-1793763905.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=GVDYZqsv4cYjOg5xJ4Tbvw",
+   "url": "https://e.vnexpress.net/news/news/democrats-win-us-congress-in-midterm-rout-of-trump-5140576.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Democrats win US Congress in midterm rout of Trump",
+   "date": "2026-11-04",
+   "desc": "Democrats win US Congress in midterm rout of Trump"
+  },
+  {
+   "id": "600ac5aebb08",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/firstdatesinglesthumb1500x900-5512-2824-1793701439.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=90uDHEkiBRiDRwNkjcAzrA",
+   "url": "https://e.vnexpress.net/news/news/1-in-3-singles-in-southeast-asia-s-lowest-fertility-nation-would-use-government-s-dating-site-if-eligible-5140357.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "1 in 3 singles in Southeast Asia's lowest-fertility nation would use government's dating site if eligible",
+   "date": "2026-11-04",
+   "desc": "1 in 3 singles in Southeast Asia's lowest-fertility nation would use government's dating site if eligible"
+  },
+  {
+   "id": "46319a837e90",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/870904691186352376860216324277-2998-2829-1793701070.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lmwrI3kiOGOYSQ7gxiwCQg",
+   "url": "https://e.vnexpress.net/news/news/crime/former-miss-thailand-may-face-fraud-money-laundering-charges-as-she-accuses-husband-over-charity-funds-5140347.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Former Miss Thailand may face fraud, money laundering charges as she accuses husband over charity funds",
+   "date": "2026-11-04",
+   "desc": "Former Miss Thailand may face fraud, money laundering charges as she accuses husband over charity funds"
+  },
+  {
+   "id": "2435d510238a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/thaifatherschoolthumb1500x900-7717-5556-1793700404.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=AHPv6lRdipiF4EAgPTgN0w",
+   "url": "https://e.vnexpress.net/news/news/education/man-fires-gun-into-air-at-thai-school-as-his-first-grade-child-can-t-read-5140348.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Man fires gun into air at Thai school as his first-grade child can't read",
+   "date": "2026-11-04",
+   "desc": "Man fires gun into air at Thai school as his first-grade child can't read"
+  },
+  {
+   "id": "3ccf259e6f1c",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/a3021031120261080pezgifcomvide-1604-6335-1793773104.gif?w=900&h=0&q=100&dpr=1&fit=crop&s=hkBowrBXhIM9P9NkIx2VYQ&t=image",
+   "url": "https://e.vnexpress.net/news/news/traffic/tourist-killed-as-helicopters-collide-mid-air-near-everest-5140669.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Tourist killed as helicopters collide mid-air near Everest",
+   "date": "2026-11-04",
+   "desc": "Tourist killed as helicopters collide mid-air near Everest"
   },
   {
    "id": "e49e8d9b7e72",
