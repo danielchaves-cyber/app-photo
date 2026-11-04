@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T08:52:03.436Z",
+ "atualizado": "2026-11-04T12:54:16.120Z",
  "fotos": [
   {
    "id": "1686d4a12279",
@@ -280,6 +280,46 @@
    "titulo": "Tourist killed as helicopters collide mid-air near Everest",
    "date": "2026-11-04",
    "desc": "Tourist killed as helicopters collide mid-air near Everest"
+  },
+  {
+   "id": "de8d2cee636d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572312.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/04/mufg-emut-cash-cards/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "MUFG Emut Bank to operate without cash cards",
+   "date": "2026-11-04",
+   "desc": "MUFG Emut Bank to operate without cash cards"
+  },
+  {
+   "id": "5a9fcabec5cb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572311.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/crime-legal/tokyo-police-ai-reconstruction/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tokyo police to introduce AI-based accident reconstruction system",
+   "date": "2026-11-04",
+   "desc": "Tokyo police to introduce AI-based accident reconstruction system"
+  },
+  {
+   "id": "60b3a2136da6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572308.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/04/entertainment-news/tiff-closing-film-tokyo/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Sister Brother Manhole Cover’ wins top prize at Tokyo International Film Festival",
+   "date": "2026-11-04",
+   "desc": "‘Sister Brother Manhole Cover’ wins top prize at Tokyo International Film Festival"
+  },
+  {
+   "id": "0df126b9d332",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/siaamadeusdatabreachthumb1500x-4073-9915-1793776763.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mXq6rTb2k192T9g-Hn7q0A",
+   "url": "https://e.vnexpress.net/news/news/traffic/amadeus-data-breach-exposes-46-000-bookings-at-world-s-best-airline-5140683.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Amadeus data breach exposes 46,000 bookings at world's best airline",
+   "date": "2026-11-04",
+   "desc": "Amadeus data breach exposes 46,000 bookings at world's best airline"
   },
   {
    "id": "e49e8d9b7e72",
