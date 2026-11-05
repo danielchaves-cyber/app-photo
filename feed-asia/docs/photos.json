@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T00:55:02.170Z",
+ "atualizado": "2026-11-05T04:53:54.277Z",
  "fotos": [
   {
    "id": "a54b6686322e",
@@ -10,6 +10,126 @@
    "titulo": "Goalkeeper Jesus Owono breaks silence after collision with Jesus De Miguel",
    "date": "2026-11-05",
    "desc": "Goalkeeper Jesus Owono breaks silence after collision with Jesus De Miguel"
+  },
+  {
+   "id": "ea3b4421b6e2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572399.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/us-marine-okinawa-training-death/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. Marine dies during training in Okinawa",
+   "date": "2026-11-05",
+   "desc": "U.S. Marine dies during training in Okinawa"
+  },
+  {
+   "id": "41d2c28ebc4a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572338.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/politics/tokyo-us-midterm-fallout/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tokyo braces for fallout from the U.S. midterms",
+   "date": "2026-11-05",
+   "desc": "Tokyo braces for fallout from the U.S. midterms"
+  },
+  {
+   "id": "d7f8861c0f2e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572373.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/nidec-short-seller-corporate-governance/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nidec scandal exposes limits of Japan reform, Muddy Waters says",
+   "date": "2026-11-05",
+   "desc": "Nidec scandal exposes limits of Japan reform, Muddy Waters says"
+  },
+  {
+   "id": "f3e8e834c953",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572361.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/society/calligraphy-unesco-list/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese calligraphy poised to join UNESCO intangible cultural heritage list",
+   "date": "2026-11-05",
+   "desc": "Japanese calligraphy poised to join UNESCO intangible cultural heritage list"
+  },
+  {
+   "id": "c6dcd5dd8a4d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572363.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/china-trump-defeat-risks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China keeps faith in Trump even as ‘total defeat’ adds new risks",
+   "date": "2026-11-05",
+   "desc": "China keeps faith in Trump even as ‘total defeat’ adds new risks"
+  },
+  {
+   "id": "990dc7db196c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572358.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/mitsui-chemicals-jsr-acquisition/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mitsui Chemicals eyes acquisition of JSR for over ¥1 trillion",
+   "date": "2026-11-05",
+   "desc": "Mitsui Chemicals eyes acquisition of JSR for over ¥1 trillion"
+  },
+  {
+   "id": "449f01470b1a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572346.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/hungary-communist-informer-files/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Hungary opens communist-era informer files",
+   "date": "2026-11-05",
+   "desc": "Hungary opens communist-era informer files"
+  },
+  {
+   "id": "c5b8d84f1844",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572347.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/uk-ambassador-japan-ai/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Next British envoy to Japan calls for stronger cooperation on AI",
+   "date": "2026-11-05",
+   "desc": "Next British envoy to Japan calls for stronger cooperation on AI"
+  },
+  {
+   "id": "bdef5d7b65d1",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/thai72hourbagreactionsthumb150-4944-7438-1793788336.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=AZrKt9qtAGKMquuKtnk_Ag",
+   "url": "https://e.vnexpress.net/news/news/environment/thailand-s-72-hour-emergency-bag-advice-leaves-residents-asking-what-they-re-fleeing-5140829.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thailand's 72-hour emergency bag advice leaves residents asking what they're fleeing",
+   "date": "2026-11-05",
+   "desc": "Thailand's 72-hour emergency bag advice leaves residents asking what they're fleeing"
+  },
+  {
+   "id": "bbe6e87ec681",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/thaiairwayscockpitcrackthumb15-3386-7256-1793783287.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=23SOeQ7vHI7pARY8pPX2Hg",
+   "url": "https://e.vnexpress.net/news/news/traffic/bangkok-bound-dreamliner-forced-to-dump-fuel-and-turn-back-as-cockpit-window-cracks-5140783.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Bangkok-bound Dreamliner forced to dump fuel and turn back as cockpit window cracks",
+   "date": "2026-11-05",
+   "desc": "Bangkok-bound Dreamliner forced to dump fuel and turn back as cockpit window cracks"
+  },
+  {
+   "id": "6904da1f75b3",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/chiangmailanternvisitorsthumb1-9384-7351-1793701910.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=vOnc-pDtfBicoIxMYDSKxA",
+   "url": "https://e.vnexpress.net/news/news/traffic/airlines-cancel-108-flights-to-make-way-for-200-000-lanterns-in-chiang-mai-5140366.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Airlines cancel 108 flights to make way for 200,000 lanterns in Chiang Mai",
+   "date": "2026-11-05",
+   "desc": "Airlines cancel 108 flights to make way for 200,000 lanterns in Chiang Mai"
+  },
+  {
+   "id": "5f69219a4936",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/untitled-1793849312-8269-1793849655.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Cq2W09jAOT6HdpfymsakPQ",
+   "url": "https://e.vnexpress.net/news/news/crime/philippine-police-find-child-abuse-imagery-on-devices-tied-to-meghan-markle-s-estranged-father-5141033.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Philippine police find child abuse imagery on devices tied to Meghan Markle's estranged father",
+   "date": "2026-11-05",
+   "desc": "Philippine police find child abuse imagery on devices tied to Meghan Markle's estranged father"
   },
   {
    "id": "1686d4a12279",
