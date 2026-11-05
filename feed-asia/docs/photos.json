@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T08:54:20.055Z",
+ "atualizado": "2026-11-05T12:58:48.645Z",
  "fotos": [
   {
    "id": "a54b6686322e",
@@ -230,6 +230,116 @@
    "titulo": "Singapore to impose $15M fines and arrest threats on firms linked to transboundary haze",
    "date": "2026-11-05",
    "desc": "Singapore to impose $15M fines and arrest threats on firms linked to transboundary haze"
+  },
+  {
+   "id": "6916c6b4d7f5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572562.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/thailand-textbook-ban-national-security/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Thailand bans textbook on national security grounds",
+   "date": "2026-11-05",
+   "desc": "Thailand bans textbook on national security grounds"
+  },
+  {
+   "id": "1211e3ebd753",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572559.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/takaichi-climate-summit/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Takaichi to skip U.N. climate summit in Turkey",
+   "date": "2026-11-05",
+   "desc": "Takaichi to skip U.N. climate summit in Turkey"
+  },
+  {
+   "id": "06e02308773c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572558.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/ntt-docomo-network-glitches/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "NTT Docomo faces network glitches",
+   "date": "2026-11-05",
+   "desc": "NTT Docomo faces network glitches"
+  },
+  {
+   "id": "89f682590243",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572551.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/nintendo-quarterly-net-profit-drops/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nintendo’s net profit drops in Q2 as Switch 2 unit sales slow",
+   "date": "2026-11-05",
+   "desc": "Nintendo’s net profit drops in Q2 as Switch 2 unit sales slow"
+  },
+  {
+   "id": "1c2739c75dba",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572522.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/05/sumo/sumo-modern-sports-science/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s seemingly unchanging ancient sport of sumo may already be at peak optimization",
+   "date": "2026-11-05",
+   "desc": "Japan’s seemingly unchanging ancient sport of sumo may already be at peak optimization"
+  },
+  {
+   "id": "e215f5dded6f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572500.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/nigeria-godfathers-elections/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nigeria’s ‘godfathers’ pull the strings ahead of elections",
+   "date": "2026-11-05",
+   "desc": "Nigeria’s ‘godfathers’ pull the strings ahead of elections"
+  },
+  {
+   "id": "b74bfa9fdd61",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572550.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/japan-deny-myanmar-blacklist-removal-push/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan denies seeking Myanmar’s removal from blacklist",
+   "date": "2026-11-05",
+   "desc": "Japan denies seeking Myanmar’s removal from blacklist"
+  },
+  {
+   "id": "33529d2bd2f1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572495.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/politics/new-zealand-leaders-election/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "New Zealand leaders make final appeals as election remains tight",
+   "date": "2026-11-05",
+   "desc": "New Zealand leaders make final appeals as election remains tight"
+  },
+  {
+   "id": "5befbfc1ca8a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/koreanjapanesemarriagesthumb15-5172-4159-1793875700.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2hvW_9PBtLjwNcdEWDVowg",
+   "url": "https://e.vnexpress.net/news/news/korean-men-marry-japanese-women-in-record-numbers-as-k-culture-s-pull-in-japan-grows-5141293.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Korean men marry Japanese women in record numbers as K-culture's pull in Japan grows",
+   "date": "2026-11-05",
+   "desc": "Korean men marry Japanese women in record numbers as K-culture's pull in Japan grows"
+  },
+  {
+   "id": "b6ecdf8d7a29",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/dji179378892836841793790515-17-6478-3669-1793875236.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=g9V4lbAgIJ1vf-3yHY-I_w",
+   "url": "https://e.vnexpress.net/news/news/traffic/vietnam-s-da-lat-eyes-over-100-km-of-electric-rail-linking-airport-and-top-attractions-5141291.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's Da Lat eyes over 100 km of electric rail linking airport and top attractions",
+   "date": "2026-11-05",
+   "desc": "Vietnam's Da Lat eyes over 100 km of electric rail linking airport and top attractions"
+  },
+  {
+   "id": "ed46bbb2ce14",
+   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/795494501-1793345735-9091-1793345740.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=u9LTxbuSbgNKf4aOob2_YA",
+   "url": "https://e.vnexpress.net/news/news/education/american-private-universities-halve-tuition-amid-projections-of-enrollment-decline-5138796.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "American private universities halve tuition amid projections of enrollment decline",
+   "date": "2026-11-05",
+   "desc": "American private universities halve tuition amid projections of enrollment decline"
   },
   {
    "id": "1686d4a12279",
