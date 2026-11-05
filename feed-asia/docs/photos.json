@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T04:53:54.277Z",
+ "atualizado": "2026-11-05T08:54:20.055Z",
  "fotos": [
   {
    "id": "a54b6686322e",
@@ -130,6 +130,106 @@
    "titulo": "Philippine police find child abuse imagery on devices tied to Meghan Markle's estranged father",
    "date": "2026-11-05",
    "desc": "Philippine police find child abuse imagery on devices tied to Meghan Markle's estranged father"
+  },
+  {
+   "id": "17c5f030bd9a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572498.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/tech/ai-skills-uk-youth-job-market/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "AI skills are make or break in U.K.’s brutal youth jobs market",
+   "date": "2026-11-05",
+   "desc": "AI skills are make or break in U.K.’s brutal youth jobs market"
+  },
+  {
+   "id": "437f980edebb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572473.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/autumn-leaves-forecast/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Fall foliage expected later than usual this year, weather forecaster says",
+   "date": "2026-11-05",
+   "desc": "Fall foliage expected later than usual this year, weather forecaster says"
+  },
+  {
+   "id": "e1474c7f4a80",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572497.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/toyota-profit-forecast-upward-revision/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Toyota hikes profit forecasts on strong demand, weak yen",
+   "date": "2026-11-05",
+   "desc": "Toyota hikes profit forecasts on strong demand, weak yen"
+  },
+  {
+   "id": "9698b7e6f6ee",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572494.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/world/russia-attack-satellite-specialist/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Russia may have rehearsed attack on Western satellite, specialist says",
+   "date": "2026-11-05",
+   "desc": "Russia may have rehearsed attack on Western satellite, specialist says"
+  },
+  {
+   "id": "60a86e6413d9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572541.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/sony-outlook-up-strong-entertainment/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Sony lifts outlook after Spider-Man and games fuel growth",
+   "date": "2026-11-05",
+   "desc": "Sony lifts outlook after Spider-Man and games fuel growth"
+  },
+  {
+   "id": "4428e0e1c41b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572490.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/tech/china-tech-retail-traders/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China tech frenzy turns into year of dismay for retail traders",
+   "date": "2026-11-05",
+   "desc": "China tech frenzy turns into year of dismay for retail traders"
+  },
+  {
+   "id": "71448e2486f1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572542.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/china-block-softbank-robot-sale/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China blocks SoftBank’s $5.4 billion ABB robot unit takeover",
+   "date": "2026-11-05",
+   "desc": "China blocks SoftBank’s $5.4 billion ABB robot unit takeover"
+  },
+  {
+   "id": "675983b8a78b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572463.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/japan-child-safety-car-seat-rule-revise/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan to discuss expanding requirements for child safety seats",
+   "date": "2026-11-05",
+   "desc": "Japan to discuss expanding requirements for child safety seats"
+  },
+  {
+   "id": "a8002c809720",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/tsing2-jpeg-1793779291-7650-1793779557.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=K3Msc1x4tkmB3XoE9ATC5w",
+   "url": "https://e.vnexpress.net/news/news/education/china-tightens-grip-on-asia-s-top-universities-as-singapore-slips-in-qs-rankings-5140716.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "China tightens grip on Asia's top universities as Singapore slips in QS rankings",
+   "date": "2026-11-05",
+   "desc": "China tightens grip on Asia's top universities as Singapore slips in QS rankings"
+  },
+  {
+   "id": "7df17dd427e5",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/screenshot20261105141136-17938-2635-4605-1793862854.png?w=900&h=0&q=100&dpr=1&fit=crop&s=WOYaxBaCtAmI-tFSfmDLiw",
+   "url": "https://e.vnexpress.net/news/news/environment/singapore-to-impose-15m-fines-and-arrest-threats-on-firms-linked-to-transboundary-haze-5141140.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Singapore to impose $15M fines and arrest threats on firms linked to transboundary haze",
+   "date": "2026-11-05",
+   "desc": "Singapore to impose $15M fines and arrest threats on firms linked to transboundary haze"
   },
   {
    "id": "1686d4a12279",
@@ -500,6 +600,16 @@
    "titulo": "Singapore wins first seat on UN's top court, topping General Assembly vote",
    "date": "2026-11-04",
    "desc": "Singapore wins first seat on UN's top court, topping General Assembly vote"
+  },
+  {
+   "id": "0992a249225a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/pisa2025quizthumb1500x900-1793-4785-5916-1793608905.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=nlI-_qBDQKWyasw4FISJmQ",
+   "url": "https://e.vnexpress.net/news/news/brainteaser/which-asian-country-has-the-best-performing-students-in-pisa-test-5139819.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Which Asian country has the best-performing students in PISA test?",
+   "date": "2026-11-04",
+   "desc": "Which Asian country has the best-performing students in PISA test?"
   },
   {
    "id": "e49e8d9b7e72",
