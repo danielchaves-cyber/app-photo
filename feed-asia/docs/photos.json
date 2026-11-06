@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T00:56:05.033Z",
+ "atualizado": "2026-11-06T04:52:51.802Z",
  "fotos": [
   {
    "id": "ed222fbedb43",
@@ -40,6 +40,96 @@
    "titulo": "World's second best airport wins award for most beautiful restroom",
    "date": "2026-11-06",
    "desc": "World's second best airport wins award for most beautiful restroom"
+  },
+  {
+   "id": "2bd09848e6d8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572678.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/economy/boe-raises-rates/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Bank of England raises rates for first time since 2023 and warns more likely",
+   "date": "2026-11-06",
+   "desc": "Bank of England raises rates for first time since 2023 and warns more likely"
+  },
+  {
+   "id": "d812a42551b3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572670.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/blue-tsunami-wipes-nasdaq/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Blue tsunami wipes out $2.5 trillion from Nasdaq as investors fret about AI trade",
+   "date": "2026-11-06",
+   "desc": "Blue tsunami wipes out $2.5 trillion from Nasdaq as investors fret about AI trade"
+  },
+  {
+   "id": "239c7043a603",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572567.jpeg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/06/art/mariko-mori-tokyo-exhibition/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mariko Mori predicted the future. She’ll do it again.",
+   "date": "2026-11-06",
+   "desc": "Mariko Mori predicted the future. She’ll do it again."
+  },
+  {
+   "id": "e3caf5f35dfd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572655.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/somalia-political-crisis/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Chaos in Somalia as president accused of arresting chief justice",
+   "date": "2026-11-06",
+   "desc": "Chaos in Somalia as president accused of arresting chief justice"
+  },
+  {
+   "id": "a1247987b1a0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572668.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/06/more-sports/putin-russia-world-sports/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Vladimir Putin calls out nations opposing Russia’s return to international sports",
+   "date": "2026-11-06",
+   "desc": "Vladimir Putin calls out nations opposing Russia’s return to international sports"
+  },
+  {
+   "id": "72b95009fdb1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572659.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/france-protest-budget-impasse/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "French protests draw 575,000 amid parliament budget impasse",
+   "date": "2026-11-06",
+   "desc": "French protests draw 575,000 amid parliament budget impasse"
+  },
+  {
+   "id": "a7fed2578ff5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572664.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/06/more-sports/lewis-hamilton-voices-opinion/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Lewis Hamilton will not apologize for remarks after clash with teammate Charles Leclerc",
+   "date": "2026-11-06",
+   "desc": "Lewis Hamilton will not apologize for remarks after clash with teammate Charles Leclerc"
+  },
+  {
+   "id": "88c90c5d0908",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572653.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/crime-legal/noto-quake-fatal-collapse-lawsuit/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Noto quake victims’ family sues government and building owner over fatal collapse",
+   "date": "2026-11-06",
+   "desc": "Noto quake victims’ family sues government and building owner over fatal collapse"
+  },
+  {
+   "id": "309d3617b0e2",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/incheonairportrestroomthumb150-6559-3383-1793863983.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Hrv5uckZ0bP7MJdYlWBCaQ",
+   "url": "https://e.vnexpress.net/news/news/world-s-second-best-airport-wins-award-for-beautiful-restroom-5141147.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "World's second best airport wins award for beautiful restroom",
+   "date": "2026-11-06",
+   "desc": "World's second best airport wins award for beautiful restroom"
   },
   {
    "id": "a54b6686322e",
