@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T08:52:10.992Z",
+ "atualizado": "2026-11-06T12:55:04.548Z",
  "fotos": [
   {
    "id": "ed222fbedb43",
@@ -250,6 +250,76 @@
    "titulo": "Vietnam responds to other countries advising their citizens to stock up on emergency supplies",
    "date": "2026-11-06",
    "desc": "Vietnam responds to other countries advising their citizens to stock up on emergency supplies"
+  },
+  {
+   "id": "70e4158c3548",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572826.png",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/tokyo-shallow-quake/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Magnitude 6.1 quake hits off Tokyo, but no tsunami alert issued",
+   "date": "2026-11-06",
+   "desc": "Magnitude 6.1 quake hits off Tokyo, but no tsunami alert issued"
+  },
+  {
+   "id": "50520aa80a44",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572825.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/society/declining-birthrate-expert-panel/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Quiet crisis’: Government expert panel convenes to tackle population decline",
+   "date": "2026-11-06",
+   "desc": "‘Quiet crisis’: Government expert panel convenes to tackle population decline"
+  },
+  {
+   "id": "d1cac0051d01",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572753.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/takaichi-cybersecurity-package/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Takaichi administration announces emergency cyberdefense package",
+   "date": "2026-11-06",
+   "desc": "Takaichi administration announces emergency cyberdefense package"
+  },
+  {
+   "id": "e5350e945941",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572784.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/crime-legal/najib-pays-house-arrest-fine/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest",
+   "date": "2026-11-06",
+   "desc": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest"
+  },
+  {
+   "id": "b3723c24de1a",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/wm1-wm1-chay-truong-1793956657-7276-1793956703.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=S5eTGuxQVZYjhi9hhW3E0w",
+   "url": "https://e.vnexpress.net/news/news/students-recount-moments-of-panic-as-fire-engulfs-hanoi-school-killing-one-5141651.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Students recount moments of panic as fire engulfs Hanoi school, killing one",
+   "date": "2026-11-06",
+   "desc": "Students recount moments of panic as fire engulfs Hanoi school, killing one"
+  },
+  {
+   "id": "29dd74623d4f",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/06/chinamarriages18yearlowthumb15-8613-3305-1793958086.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9ZoDoNETygYyQMfxJavspQ",
+   "url": "https://e.vnexpress.net/news/news/china-s-marriage-registrations-hit-18-year-low-in-first-9-months-5141628.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "China's marriage registrations hit 18-year low in first 9 months",
+   "date": "2026-11-06",
+   "desc": "China's marriage registrations hit 18-year low in first 9 months"
+  },
+  {
+   "id": "abfdbc03f1cf",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/06/japanbirthsrisethumb1500x900-1-3188-8986-1793955004.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=iqkdyUYT5jG7HcFdQbiw-Q",
+   "url": "https://e.vnexpress.net/news/news/japan-s-births-rise-for-first-time-in-11-years-driven-by-tokyo-5141629.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Japan's births rise for first time in 11 years, driven by Tokyo",
+   "date": "2026-11-06",
+   "desc": "Japan's births rise for first time in 11 years, driven by Tokyo"
   },
   {
    "id": "a54b6686322e",
