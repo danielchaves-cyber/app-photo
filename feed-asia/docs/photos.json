@@ -1,6 +1,116 @@
 {
- "atualizado": "2026-11-07T00:51:44.831Z",
+ "atualizado": "2026-11-07T04:47:16.829Z",
  "fotos": [
+  {
+   "id": "90ff5f0414bd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572854.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/japan/politics/japan-contribution-icc-us-sanctions/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan eyes early contribution payment to ICC as court faces U.S. sanctions",
+   "date": "2026-11-07",
+   "desc": "Japan eyes early contribution payment to ICC as court faces U.S. sanctions"
+  },
+  {
+   "id": "c62471ac629f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572853.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/boj-ueda-2-inflation-rate/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "BOJ’s Ueda says unclear how long 2% inflation rate will remain",
+   "date": "2026-11-07",
+   "desc": "BOJ’s Ueda says unclear how long 2% inflation rate will remain"
+  },
+  {
+   "id": "d441f3378900",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572852.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China’s top spy agency recruited woman who targeted Nvidia’s Jensen Huang",
+   "date": "2026-11-07",
+   "desc": "China’s top spy agency recruited woman who targeted Nvidia’s Jensen Huang"
+  },
+  {
+   "id": "33a78578d4cc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572840.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings",
+   "date": "2026-11-07",
+   "desc": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings"
+  },
+  {
+   "id": "baf477c44cec",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572849.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/china-japan-selective-economic-dependence/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan and China shifting toward selective economic dependence",
+   "date": "2026-11-07",
+   "desc": "Japan and China shifting toward selective economic dependence"
+  },
+  {
+   "id": "64a1e16198bd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572846.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/paraguay-president-santiago-pena-impeached/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Crisis-hit Paraguay impeaches president, replaces him with VP",
+   "date": "2026-11-07",
+   "desc": "Crisis-hit Paraguay impeaches president, replaces him with VP"
+  },
+  {
+   "id": "8162e44efd7a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572847.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-biz-community-china-tensions/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan business community working to ease tensions between Tokyo and Beijing",
+   "date": "2026-11-07",
+   "desc": "Japan business community working to ease tensions between Tokyo and Beijing"
+  },
+  {
+   "id": "04b0514761ac",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/hkp3maththumb1500x900-17938757-3736-6671-1793875781.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=7Jq0LtxrTV-C9xOa6SP-QQ",
+   "url": "https://e.vnexpress.net/news/news/education/hong-kong-third-graders-basic-math-results-fall-to-their-lowest-since-testing-began-in-2004-5141294.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Hong Kong third-graders' basic math results fall to their lowest since testing began in 2004",
+   "date": "2026-11-07",
+   "desc": "Hong Kong third-graders' basic math results fall to their lowest since testing began in 2004"
+  },
+  {
+   "id": "f836b77a2077",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/thaigiantrodentthumb1500x900-1-7204-2510-1793865403.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=1Ms7QQh_u0x9FHAHP_Ok2A",
+   "url": "https://e.vnexpress.net/news/news/environment/fossil-of-30-kg-rodent-from-35-million-years-ago-discovered-in-thailand-5141144.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Fossil of 30 kg rodent from 35 million years ago discovered in Thailand",
+   "date": "2026-11-07",
+   "desc": "Fossil of 30 kg rodent from 35 million years ago discovered in Thailand"
+  },
+  {
+   "id": "89c278b0db12",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/ap26303648560314-1793607463-5796-1793607468.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tDXGJbcx0ypoLzJfuafXXg",
+   "url": "https://e.vnexpress.net/news/news/education/chinese-universities-sweep-top-10-in-global-chemistry-rankings-5139802.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Chinese universities sweep top 10 in global chemistry rankings",
+   "date": "2026-11-07",
+   "desc": "Chinese universities sweep top 10 in global chemistry rankings"
+  },
+  {
+   "id": "2bae21ccb483",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/anhuistudentclassmatesthumb150-3331-3211-1793695701.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LICPKisQJ6uftpOIeqjXWg",
+   "url": "https://e.vnexpress.net/news/news/education/classmates-give-up-treasured-possessions-to-help-a-top-student-with-seriously-ill-mother-5140250.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Classmates give up treasured possessions to help a top student with seriously ill mother",
+   "date": "2026-11-07",
+   "desc": "Classmates give up treasured possessions to help a top student with seriously ill mother"
+  },
   {
    "id": "ed222fbedb43",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572613.JPG",
@@ -370,6 +480,16 @@
    "titulo": "Which Asian city is world's best for public transport?",
    "date": "2026-11-06",
    "desc": "Which Asian city is world's best for public transport?"
+  },
+  {
+   "id": "6697b10d5b8f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572843.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/trump-congress-tariffs-clash/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump and U.S. Congress set to clash over economic costs of tariffs",
+   "date": "2026-11-06",
+   "desc": "Trump and U.S. Congress set to clash over economic costs of tariffs"
   },
   {
    "id": "a54b6686322e",
