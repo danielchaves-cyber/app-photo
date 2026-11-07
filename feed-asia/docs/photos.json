@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T04:47:16.829Z",
+ "atualizado": "2026-11-07T08:46:23.518Z",
  "fotos": [
   {
    "id": "90ff5f0414bd",
@@ -110,6 +110,56 @@
    "titulo": "Classmates give up treasured possessions to help a top student with seriously ill mother",
    "date": "2026-11-07",
    "desc": "Classmates give up treasured possessions to help a top student with seriously ill mother"
+  },
+  {
+   "id": "017609aafbff",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572856.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/japan/crime-legal/us-japan-okinawa-crime/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan eyes education programs for U.S. troops in Okinawa after recent robbery-murder",
+   "date": "2026-11-07",
+   "desc": "Japan eyes education programs for U.S. troops in Okinawa after recent robbery-murder"
+  },
+  {
+   "id": "be496a1e24db",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572855.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-priority-items-investments/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan picks 28 priority items for ¥370 trillion in investments",
+   "date": "2026-11-07",
+   "desc": "Japan picks 28 priority items for ¥370 trillion in investments"
+  },
+  {
+   "id": "7777e522df8c",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/07/gemini-generated-image-cdte4sc-9631-5140-1794029883.png?w=900&h=0&q=100&dpr=1&fit=crop&s=wsz_Vx31ToIzBAN1tbjywg",
+   "url": "https://e.vnexpress.net/news/news/ice-arrests-uc-berkeley-student-and-asylum-seeker-at-san-francisco-airport-5141867.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "ICE arrests UC Berkeley student and asylum seeker at San Francisco airport",
+   "date": "2026-11-07",
+   "desc": "ICE arrests UC Berkeley student and asylum seeker at San Francisco airport"
+  },
+  {
+   "id": "66877f067418",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/st-1793936198.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=19PXc5mGxtH8R7sgUnjy5A",
+   "url": "https://e.vnexpress.net/photo/traffic/new-pedestrian-overpasses-set-to-transform-downtown-ho-chi-minh-citys-riverfront-5141800.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "New pedestrian overpasses set to transform downtown Ho Chi Minh City's riverfront",
+   "date": "2026-11-07",
+   "desc": "New pedestrian overpasses set to transform downtown Ho Chi Minh City's riverfront"
+  },
+  {
+   "id": "0bfa0c6cc643",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/07/wm1wm1anh28jpg1793961590778817-9049-6382-1794024492.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=H8asurV6OiAoIoATa10hxA",
+   "url": "https://e.vnexpress.net/news/news/traffic/authority-proposes-delaying-long-thanh-airport-catering-ground-handling-projects-5141849.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Authority proposes delaying Long Thanh airport catering, ground-handling projects",
+   "date": "2026-11-07",
+   "desc": "Authority proposes delaying Long Thanh airport catering, ground-handling projects"
   },
   {
    "id": "ed222fbedb43",
