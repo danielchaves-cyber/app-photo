@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T08:46:23.518Z",
+ "atualizado": "2026-11-07T12:42:05.744Z",
  "fotos": [
   {
    "id": "90ff5f0414bd",
@@ -160,6 +160,36 @@
    "titulo": "Authority proposes delaying Long Thanh airport catering, ground-handling projects",
    "date": "2026-11-07",
    "desc": "Authority proposes delaying Long Thanh airport catering, ground-handling projects"
+  },
+  {
+   "id": "216b5dc3d4b8",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/07/lisata2-1794044685-4176-1794044748.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=RSHJqH0Fa5Cqhd7KY-dNrQ",
+   "url": "https://e.vnexpress.net/news/news/crime/homicide-squad-takes-over-hunt-for-13-year-old-vietnamese-girl-missing-in-berlin-5141932.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Homicide squad takes over hunt for 13-year-old Vietnamese girl missing in Berlin",
+   "date": "2026-11-07",
+   "desc": "Homicide squad takes over hunt for 13-year-old Vietnamese girl missing in Berlin"
+  },
+  {
+   "id": "a6930d88d8b1",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/hai-an-1793278195-2942-1793282453.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wGrv4xS8OYhsk-BIhWYoEA",
+   "url": "https://e.vnexpress.net/news/news/education/student-chosen-by-fields-medalist-ngo-bao-chau-for-top-scholarship-sees-math-as-foundation-of-science-5140174.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Student chosen by Fields Medalist Ngo Bao Chau for top scholarship sees math as foundation of science",
+   "date": "2026-11-07",
+   "desc": "Student chosen by Fields Medalist Ngo Bao Chau for top scholarship sees math as foundation of science"
+  },
+  {
+   "id": "72e7b79224fe",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/07/vvv-1794044157-7048-1794044179.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6wSjHzSoV-eLDzqXqbkQpA",
+   "url": "https://e.vnexpress.net/news/news/vietnam-eyes-24-7-entertainment-zones-tax-holidays-for-billion-dollar-tourism-projects-5141908.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam eyes 24/7 entertainment zones, tax holidays for billion-dollar tourism projects",
+   "date": "2026-11-07",
+   "desc": "Vietnam eyes 24/7 entertainment zones, tax holidays for billion-dollar tourism projects"
   },
   {
    "id": "ed222fbedb43",
