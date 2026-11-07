@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T20:41:55.379Z",
+ "atualizado": "2026-11-07T00:51:44.831Z",
  "fotos": [
   {
    "id": "ed222fbedb43",
@@ -320,6 +320,56 @@
    "titulo": "Japan's births rise for first time in 11 years, driven by Tokyo",
    "date": "2026-11-06",
    "desc": "Japan's births rise for first time in 11 years, driven by Tokyo"
+  },
+  {
+   "id": "eb1a16cb63bb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572837.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/politics/chinese-military-zhang-shengmin/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Xi taps military ‘hatchet man’ to rebuild China’s army command",
+   "date": "2026-11-06",
+   "desc": "Xi taps military ‘hatchet man’ to rebuild China’s army command"
+  },
+  {
+   "id": "9825fa624d1c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572836.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/trump-stephen-miller-chief-of-staff/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump makes hard-liner Stephen Miller his chief of staff after midterm defeat",
+   "date": "2026-11-06",
+   "desc": "Trump makes hard-liner Stephen Miller his chief of staff after midterm defeat"
+  },
+  {
+   "id": "582dc13c7e1a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572190.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/07/travel/cruises-japan-disney-domestic-mitsui-nyk/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "As Japan gets a Disney cruise, smaller vessels chart their own course",
+   "date": "2026-11-06",
+   "desc": "As Japan gets a Disney cruise, smaller vessels chart their own course"
+  },
+  {
+   "id": "f285a70abdbb",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/ge787turbinebladesthumb1500x90-8504-1647-1793638055.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QroD0CeaXw_y8yo6XGQAFw",
+   "url": "https://e.vnexpress.net/news/news/traffic/some-boeing-787-turbine-blades-can-crack-within-1-000-flights-chinese-study-5139930.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Some Boeing 787 turbine blades can crack within 1,000 flights: Chinese study",
+   "date": "2026-11-06",
+   "desc": "Some Boeing 787 turbine blades can crack within 1,000 flights: Chinese study"
+  },
+  {
+   "id": "07d2f883f713",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/r6d9662jpg1793869911-179387041-5332-4259-1793870425.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=PhROYGwelGv9tHlZiJ5rvQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/which-asian-city-is-world-s-best-for-public-transport-5141247.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Which Asian city is world's best for public transport?",
+   "date": "2026-11-06",
+   "desc": "Which Asian city is world's best for public transport?"
   },
   {
    "id": "a54b6686322e",
