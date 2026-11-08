@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-07T20:31:58.093Z",
+ "atualizado": "2026-11-08T00:52:25.102Z",
  "fotos": [
+  {
+   "id": "b625d6b636b1",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/08/4a685d4e-dd7fec0bc8-1794098454-1332-1794098470.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=WbnwUhcTEyVP72EnSkXHiQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/two-ho-chi-minh-city-students-win-iphone-17s-for-frequent-bus-travel-5142061.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Two Ho Chi Minh City students win iPhone 17s for frequent bus travel",
+   "date": "2026-11-08",
+   "desc": "Two Ho Chi Minh City students win iPhone 17s for frequent bus travel"
+  },
   {
    "id": "90ff5f0414bd",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572854.jpg",
@@ -190,6 +200,36 @@
    "titulo": "Vietnam eyes 24/7 entertainment zones, tax holidays for billion-dollar tourism projects",
    "date": "2026-11-07",
    "desc": "Vietnam eyes 24/7 entertainment zones, tax holidays for billion-dollar tourism projects"
+  },
+  {
+   "id": "a5edbf1fda38",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/571975.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/08/food-drink/naohiko-noguchi-living-national-treasure-sake-japan/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "A toast to Naohiko Noguchi, sake’s first living national treasure",
+   "date": "2026-11-07",
+   "desc": "A toast to Naohiko Noguchi, sake’s first living national treasure"
+  },
+  {
+   "id": "55011b9887df",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/571963.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/08/food-drink/curry-roux-cube-recipe-kakushi-aji-hidden-flavor/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "A curry palette for all your ‘hidden flavors’",
+   "date": "2026-11-07",
+   "desc": "A curry palette for all your ‘hidden flavors’"
+  },
+  {
+   "id": "aeaeb49a49aa",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/07/786354525-n-jpeg-1794020399-5878-1794020422.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=j6xalslC_6WTVEI0xfZwYg",
+   "url": "https://e.vnexpress.net/news/news/education/asian-american-share-of-harvard-students-reaches-10-year-high-5141818.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Asian American share of Harvard students reaches 10-year high",
+   "date": "2026-11-07",
+   "desc": "Asian American share of Harvard students reaches 10-year high"
   },
   {
    "id": "ed222fbedb43",
@@ -2960,26 +3000,6 @@
    "titulo": "Warm welcome, trade truce extended: the takeaways as Xi arrives in US",
    "date": "2026-09-24",
    "desc": "Warm welcome, trade truce extended: the takeaways as Xi arrives in US"
-  },
-  {
-   "id": "0ef0192a7df7",
-   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/3652e9fa-248e-4efc-91e8-52224ec04f37_bc32cd9c.jpg?itok=i2lVERKB&v=1789972535",
-   "url": "https://www.scmp.com/news/china/politics/article/3368215/communist-party-sets-date-key-political-gathering-october",
-   "flag": "🇨🇳",
-   "src": "William Zheng · SCMP (Xinhua)",
-   "titulo": "Communist Party sets October plenum date as Xi prepares for Trump summit",
-   "date": "2026-09-21",
-   "desc": "Communist Party sets October plenum date as Xi prepares for Trump summit"
-  },
-  {
-   "id": "9778a460a3a0",
-   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/20/2e3d5a7b-a8df-496a-81e7-a00c83a9848c_bad9cdc7.jpg?itok=oejuZNc6&v=1789914272",
-   "url": "https://www.scmp.com/news/hong-kong/politics/article/3368170/his-love-hong-kong-was-profound-tung-chee-hwa-honoured-state-funeral",
-   "flag": "🇨🇳",
-   "src": "Matthew Cheng,Jess Ma,Ng Kang-chung · SCMP (Xinhua)",
-   "titulo": "‘His love for Hong Kong was profound’: Tung Chee-hwa honoured at state funeral",
-   "date": "2026-09-20",
-   "desc": "‘His love for Hong Kong was profound’: Tung Chee-hwa honoured at state funeral"
   }
  ]
 }
