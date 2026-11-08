@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T04:47:42.604Z",
+ "atualizado": "2026-11-08T08:47:42.775Z",
  "fotos": [
   {
    "id": "b625d6b636b1",
@@ -100,6 +100,96 @@
    "titulo": "Vietnam's top leader and spouse depart for official visit to Japan",
    "date": "2026-11-08",
    "desc": "Vietnam's top leader and spouse depart for official visit to Japan"
+  },
+  {
+   "id": "fb28bb1505b2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572889.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/08/dutchman-spaniard-ecb-presidency/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Dutchman and Spaniard in two-horse race for ECB presidency",
+   "date": "2026-11-08",
+   "desc": "Dutchman and Spaniard in two-horse race for ECB presidency"
+  },
+  {
+   "id": "ce956be7c8b6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572887.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/godzilla-megamullion-heritage/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "JCG-discovered ‘Godzilla’ seafloor formation wins heritage status",
+   "date": "2026-11-08",
+   "desc": "JCG-discovered ‘Godzilla’ seafloor formation wins heritage status"
+  },
+  {
+   "id": "d73d6c8706a2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572881.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/08/tv-streaming/azerbaijan-vivant/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Azerbaijan welcoming ‘set-jetting’ fans of Japan TV drama ‘Vivant’",
+   "date": "2026-11-08",
+   "desc": "Azerbaijan welcoming ‘set-jetting’ fans of Japan TV drama ‘Vivant’"
+  },
+  {
+   "id": "931b44bd46e5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572891.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/08/music/eurovision-pop-politics-asia/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Eurovision brings pop and politics to Asia",
+   "date": "2026-11-08",
+   "desc": "Eurovision brings pop and politics to Asia"
+  },
+  {
+   "id": "17a806baf06a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/08/1-1794123889-4448-1794124269.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=xQHwsyX0wJi9VUajilX-6Q",
+   "url": "https://e.vnexpress.net/news/news/thai-king-stages-grand-river-procession-to-celebrate-queen-suthida-s-48th-birthday-5142163.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thai King stages grand river procession to celebrate Queen Suthida's 48th birthday",
+   "date": "2026-11-08",
+   "desc": "Thai King stages grand river procession to celebrate Queen Suthida's 48th birthday"
+  },
+  {
+   "id": "73dc91164a47",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/08/cv-y7-p46-nn-xmq-f6-eljqdcgq-j-2068-5432-1794119202.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=jS6-gARL-hhvQtGuAf7hiw",
+   "url": "https://e.vnexpress.net/news/news/crime/malaysian-king-at-odds-with-attorney-general-over-ex-pm-najib-s-pardon-5142150.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Malaysian king at odds with attorney general over ex-PM Najib's pardon",
+   "date": "2026-11-08",
+   "desc": "Malaysian king at odds with attorney general over ex-PM Najib's pardon"
+  },
+  {
+   "id": "6802ba957dcc",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/koreatownsprisonsthumb1500x900-3702-1221-1793783113.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=GWqvgKNLrH6iI5sn6T0Yrw",
+   "url": "https://e.vnexpress.net/news/news/shrinking-south-korean-towns-compete-to-host-once-shunned-prisons-5140767.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Shrinking South Korean towns compete to host once-shunned prisons",
+   "date": "2026-11-08",
+   "desc": "Shrinking South Korean towns compete to host once-shunned prisons"
+  },
+  {
+   "id": "9734176362dd",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/08/singapore-1794112199-3516-1794112275.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=P4O9qChcbd7XxGoC44bVuQ",
+   "url": "https://e.vnexpress.net/news/news/crime/american-man-jailed-for-stealing-chanel-perfumes-at-changi-airport-5142117.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "American man jailed for stealing Chanel perfumes at Changi Airport",
+   "date": "2026-11-08",
+   "desc": "American man jailed for stealing Chanel perfumes at Changi Airport"
+  },
+  {
+   "id": "fee28d091cdc",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/08/wm30-wm30-tbt-ctn-nb-1794125823-4058-1794125883.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tV9S4pp4Qx_dHC4D0C-dNQ",
+   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-begins-official-visit-to-japan-5142100.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's top leader begins official visit to Japan",
+   "date": "2026-11-08",
+   "desc": "Vietnam's top leader begins official visit to Japan"
   },
   {
    "id": "90ff5f0414bd",
@@ -2910,96 +3000,6 @@
    "titulo": "Blackstone said to plan $1.9 billion central Tokyo office sale",
    "date": "2026-10-30",
    "desc": "Blackstone said to plan $1.9 billion central Tokyo office sale"
-  },
-  {
-   "id": "f66f90d4c4db",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/southkoreaforeignresidentsthum-2402-8344-1793272333.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=U_Hzhh5N8RGVgH0mbW0NYw",
-   "url": "https://e.vnexpress.net/news/news/south-korea-s-foreign-residents-hit-record-2-66-million-as-international-student-numbers-soar-5138494.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "South Korea's foreign residents hit record 2.66 million as international student numbers soar",
-   "date": "2026-10-30",
-   "desc": "South Korea's foreign residents hit record 2.66 million as international student numbers soar"
-  },
-  {
-   "id": "df0d2ffa2bfd",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/singaporetailorprizethumb1500x-3772-9737-1793260706.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=atuC2B9q_396lctF5W_b8Q",
-   "url": "https://e.vnexpress.net/news/news/singapore-tailor-becomes-first-non-italian-to-win-italian-bespoke-tailoring-trophy-5138362.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singapore tailor becomes first non-Italian to win Italian bespoke tailoring trophy",
-   "date": "2026-10-30",
-   "desc": "Singapore tailor becomes first non-Italian to win Italian bespoke tailoring trophy"
-  },
-  {
-   "id": "f6e10f1c288e",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/dsc03488-jpg-1793340610-6608-1793340653.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mxHR8u_ZG-AGg87pPAlPMQ",
-   "url": "https://e.vnexpress.net/news/news/foreign-employers-in-vietnam-face-new-hiring-duties-from-november-5138757.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Foreign employers in Vietnam face new hiring duties from November",
-   "date": "2026-10-30",
-   "desc": "Foreign employers in Vietnam face new hiring duties from November"
-  },
-  {
-   "id": "e05dd74602c0",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571366.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
-   "date": "2026-10-30",
-   "desc": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea"
-  },
-  {
-   "id": "0ce1ace1a6ff",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571538.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/10/30/film/sabu-arrested-memory/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Arrested Memory’ filmmaker Sabu likes to stay on his toes",
-   "date": "2026-10-30",
-   "desc": "‘Arrested Memory’ filmmaker Sabu likes to stay on his toes"
-  },
-  {
-   "id": "462a38746d76",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571320.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/10/31/books/ryu-murakami/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Ryu Murakami was a provocateur to the very end",
-   "date": "2026-10-30",
-   "desc": "Ryu Murakami was a provocateur to the very end"
-  },
-  {
-   "id": "f4540c8731af",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/31/tphcm-1793405160-2713-1793405197.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wALDHM-CL_VYykUa3ixwfA",
-   "url": "https://e.vnexpress.net/news/news/vietnam-set-to-overtake-southeast-asia-s-largest-economy-in-gdp-per-capita-this-year-5138797.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam set to overtake Southeast Asia's largest economy in GDP per capita this year",
-   "date": "2026-10-30",
-   "desc": "Vietnam set to overtake Southeast Asia's largest economy in GDP per capita this year"
-  },
-  {
-   "id": "0d9ac2de16fe",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/820525483232387051509881969043-2928-4756-1793358515.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=3ewkNBC4q6_-2I2LO2KSYg",
-   "url": "https://e.vnexpress.net/news/news/traffic/vietnam-s-largest-airport-long-thanh-to-open-on-dec-24-with-up-to-366-flights-a-week-5138904.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's largest airport Long Thanh to open on Dec 24 with up to 366 flights a week",
-   "date": "2026-10-30",
-   "desc": "Vietnam's largest airport Long Thanh to open on Dec 24 with up to 366 flights a week"
-  },
-  {
-   "id": "c60a0e2571ed",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/27/pexels-aline-ang-1793098391-3827-1793098413.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9nYiLvEKCZRBMzAQRk0V2g",
-   "url": "https://e.vnexpress.net/news/news/southeast-asian-city-ranks-among-world-s-top-3-for-quality-of-life-5137584.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Southeast Asian city ranks among world's top 3 for quality of life",
-   "date": "2026-10-30",
-   "desc": "Southeast Asian city ranks among world's top 3 for quality of life"
   }
  ]
 }
