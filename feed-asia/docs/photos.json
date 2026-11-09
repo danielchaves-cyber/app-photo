@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T09:02:42.960Z",
+ "atualizado": "2026-11-09T13:00:04.536Z",
  "fotos": [
   {
    "id": "754a9728e0ed",
@@ -200,6 +200,56 @@
    "titulo": "Fire in China apartment building kills 14: state media",
    "date": "2026-11-09",
    "desc": "Fire in China apartment building kills 14: state media"
+  },
+  {
+   "id": "06ba720e4939",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573057.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/japan-vietnam-economic-security/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan and Vietnam agree to boost economic security and energy ties",
+   "date": "2026-11-09",
+   "desc": "Japan and Vietnam agree to boost economic security and energy ties"
+  },
+  {
+   "id": "a640ebba287f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573025.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/politics/russia-ukraine-hotels-owner/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Russia has seized dozens of Ukrainian hotels. One owner is fighting back.",
+   "date": "2026-11-09",
+   "desc": "Russia has seized dozens of Ukrainian hotels. One owner is fighting back."
+  },
+  {
+   "id": "14bc31a54db3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573014.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/asia-pacific/science-health/india-dirtiest-skies-air-pollution/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Burning’: life under the world’s dirtiest skies",
+   "date": "2026-11-09",
+   "desc": "‘Burning’: life under the world’s dirtiest skies"
+  },
+  {
+   "id": "4a33a99e3d99",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573030.JPG",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/09/environmental-groups-ai-data-centers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Environmental groups embrace AI, even as they warn of data center impacts",
+   "date": "2026-11-09",
+   "desc": "Environmental groups embrace AI, even as they warn of data center impacts"
+  },
+  {
+   "id": "542f812bc347",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/1-1794217122-9090-1794217143.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=l8-OaLhvivFSd5bdhG8Iuw",
+   "url": "https://e.vnexpress.net/news/news/crime/missing-vietnamese-girl-13-found-dead-near-german-polish-border-5142462.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Missing Vietnamese girl, 13, found dead near German-Polish border",
+   "date": "2026-11-09",
+   "desc": "Missing Vietnamese girl, 13, found dead near German-Polish border"
   },
   {
    "id": "b625d6b636b1",
@@ -2950,56 +3000,6 @@
    "titulo": "‘Moonlit Golden-Gai’: A director’s love letter to Shinjuku’s bar district",
    "date": "2026-10-31",
    "desc": "‘Moonlit Golden-Gai’: A director’s love letter to Shinjuku’s bar district"
-  },
-  {
-   "id": "17ddd96bf476",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/570883.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/history/japan-times-gone-by-november-2026/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan Times 2001: Ichiro is American League MVP",
-   "date": "2026-10-31",
-   "desc": "Japan Times 2001: Ichiro is American League MVP"
-  },
-  {
-   "id": "74fd1e74d949",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/570854.jpg",
-   "url": "https://www.japantimes.co.jp/life/2026/11/01/food-drink/almond-tofu-annindofu-dessert-recipe-japanese-cuisine/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Putting the almond back into Japan’s ‘almond tofu’",
-   "date": "2026-10-31",
-   "desc": "Putting the almond back into Japan’s ‘almond tofu’"
-  },
-  {
-   "id": "f28cdfdbdfc8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571384.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/science-health/indonesia-haze-rain/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Indonesia rain set to ease toxic haze in Singapore and Malaysia",
-   "date": "2026-10-30",
-   "desc": "Indonesia rain set to ease toxic haze in Singapore and Malaysia"
-  },
-  {
-   "id": "c705d0fb9312",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571352.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/electricity-gas-subsidies-december/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Takaichi says electricity and gas subsidies will resume in December",
-   "date": "2026-10-30",
-   "desc": "Takaichi says electricity and gas subsidies will resume in December"
-  },
-  {
-   "id": "a52d3b0ac3f1",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571359.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/10/30/companies/google-500-billion-wipeout/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Google erases a record $500 billion as AI eats into sales",
-   "date": "2026-10-30",
-   "desc": "Google erases a record $500 billion as AI eats into sales"
   }
  ]
 }
