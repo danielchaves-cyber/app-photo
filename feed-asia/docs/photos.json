@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-08T20:31:27.413Z",
+ "atualizado": "2026-11-09T00:54:53.184Z",
  "fotos": [
+  {
+   "id": "754a9728e0ed",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572927.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/hacked-russians-killed-ukraine/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Hacked records show 400,000 Russians killed in war on Ukraine",
+   "date": "2026-11-09",
+   "desc": "Hacked records show 400,000 Russians killed in war on Ukraine"
+  },
   {
    "id": "b625d6b636b1",
    "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/08/4a685d4e-dd7fec0bc8-1794098454-1332-1794098470.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=WbnwUhcTEyVP72EnSkXHiQ",
@@ -220,6 +230,26 @@
    "titulo": "HCMC's 63-year-old apartment complex faces collapse as 141 families stay put",
    "date": "2026-11-08",
    "desc": "HCMC's 63-year-old apartment complex faces collapse as 141 families stay put"
+  },
+  {
+   "id": "da41ec6e8ddc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572920.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/japan-takaichi-xi-china-summit/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan works to shield Takaichi from any Xi snub at China summit",
+   "date": "2026-11-08",
+   "desc": "Japan works to shield Takaichi from any Xi snub at China summit"
+  },
+  {
+   "id": "b72252f0bb40",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572922.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/09/tech/nvidia-board-spying-ceo-affair/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia board to probe spying case after CEO admits affair",
+   "date": "2026-11-08",
+   "desc": "Nvidia board to probe spying case after CEO admits affair"
   },
   {
    "id": "90ff5f0414bd",
@@ -2970,36 +3000,6 @@
    "titulo": "With China in mind, Japan eyes more realistic joint military exercises",
    "date": "2026-10-30",
    "desc": "With China in mind, Japan eyes more realistic joint military exercises"
-  },
-  {
-   "id": "f9eb64fec1b7",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571472.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/us-europe-cut-russia-rhetoric/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
-   "date": "2026-10-30",
-   "desc": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say"
-  },
-  {
-   "id": "ed57bef292cb",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571479.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/10/30/more-sports/packers-love-beat-panthers/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Jordan Love tosses 3 TD passes as Packers beat Panthers",
-   "date": "2026-10-30",
-   "desc": "Jordan Love tosses 3 TD passes as Packers beat Panthers"
-  },
-  {
-   "id": "b3ad79f90682",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571471.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/science-health/indonesia-wildfire-toll/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Fire pollution killed 3,560 people in Indonesia in September, report says",
-   "date": "2026-10-30",
-   "desc": "Fire pollution killed 3,560 people in Indonesia in September, report says"
   }
  ]
 }
