@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T13:00:04.536Z",
+ "atualizado": "2026-11-09T17:00:04.880Z",
  "fotos": [
   {
    "id": "754a9728e0ed",
@@ -250,6 +250,16 @@
    "titulo": "Missing Vietnamese girl, 13, found dead near German-Polish border",
    "date": "2026-11-09",
    "desc": "Missing Vietnamese girl, 13, found dead near German-Polish border"
+  },
+  {
+   "id": "360f28f309d9",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/afp-d3-h88-zr-v3-mid-res-jpeg-3424-7252-1794221062.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=sNX7-a6TmLDuyAi_Wzqo_w",
+   "url": "https://e.vnexpress.net/news/news/environment/singapore-loses-1-8b-to-haze-crisis-exceeding-2015-record-5142592.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Singapore loses $1.8B to haze crisis, exceeding 2015 record",
+   "date": "2026-11-09",
+   "desc": "Singapore loses $1.8B to haze crisis, exceeding 2015 record"
   },
   {
    "id": "b625d6b636b1",
@@ -2990,16 +3000,6 @@
    "titulo": "Fine ‘omakase’ dining, with a twist, at Saki",
    "date": "2026-10-31",
    "desc": "Fine ‘omakase’ dining, with a twist, at Saki"
-  },
-  {
-   "id": "11872792482c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/570819.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/01/film/moonlit-golden-gai/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Moonlit Golden-Gai’: A director’s love letter to Shinjuku’s bar district",
-   "date": "2026-10-31",
-   "desc": "‘Moonlit Golden-Gai’: A director’s love letter to Shinjuku’s bar district"
   }
  ]
 }
