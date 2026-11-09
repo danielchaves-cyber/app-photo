@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T00:54:53.184Z",
+ "atualizado": "2026-11-09T04:58:39.051Z",
  "fotos": [
   {
    "id": "754a9728e0ed",
@@ -10,6 +10,106 @@
    "titulo": "Hacked records show 400,000 Russians killed in war on Ukraine",
    "date": "2026-11-09",
    "desc": "Hacked records show 400,000 Russians killed in war on Ukraine"
+  },
+  {
+   "id": "d1434c5d0110",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572979.jpg",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/09/climate-change/cop31-turkey-climate-war-ai/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "COP31 to open in Turkey, with climate goals under pressure from war and AI",
+   "date": "2026-11-09",
+   "desc": "COP31 to open in Turkey, with climate goals under pressure from war and AI"
+  },
+  {
+   "id": "105cbf071517",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572978.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/crime-legal/poland-krakow-victims-security/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Poland mourns victims of Krakow shooting amid security fears",
+   "date": "2026-11-09",
+   "desc": "Poland mourns victims of Krakow shooting amid security fears"
+  },
+  {
+   "id": "526619e4f190",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572960.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/politics/bank-collapse-paraguay-president/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "How a digital bank’s collapse toppled Paraguay’s president",
+   "date": "2026-11-09",
+   "desc": "How a digital bank’s collapse toppled Paraguay’s president"
+  },
+  {
+   "id": "04b1cd199346",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572959.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/kristallnacht-survivor-94-witness/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Last generation’: ‘Kristallnacht’ survivor, 94, bears witness",
+   "date": "2026-11-09",
+   "desc": "‘Last generation’: ‘Kristallnacht’ survivor, 94, bears witness"
+  },
+  {
+   "id": "3e55ca5c9233",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572981.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/09/more-sports/mercedes-constructors-championship/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Norris wins in wet Brazil as Mercedes takes constructors’ title",
+   "date": "2026-11-09",
+   "desc": "Norris wins in wet Brazil as Mercedes takes constructors’ title"
+  },
+  {
+   "id": "fe857413761f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572943.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/refugees-turkey-climate-change/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "War drove refugees into Turkey. Climate change is making it harder to leave.",
+   "date": "2026-11-09",
+   "desc": "War drove refugees into Turkey. Climate change is making it harder to leave."
+  },
+  {
+   "id": "33697dd09cc4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572365.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/09/tv-streaming/koji-yakusho-did-someone-happen-to-mention-me/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Did Someone Happen to Mention Me?’: The comedy and horror of being forgotten",
+   "date": "2026-11-09",
+   "desc": "‘Did Someone Happen to Mention Me?’: The comedy and horror of being forgotten"
+  },
+  {
+   "id": "22866b2dce6f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572935.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/politics/eisenkot-israeli-government-vote/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Eisenkot gets chance to form Israeli government after vote",
+   "date": "2026-11-09",
+   "desc": "Eisenkot gets chance to form Israeli government after vote"
+  },
+  {
+   "id": "043ae86683db",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/1794184748109-a6f8154de5ca13eb678e3622b1fb2493-1794186259.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=IasXKGd99jX0FXDTEl5C5g",
+   "url": "https://e.vnexpress.net/photo/traffic/rain-triggers-morning-traffic-jams-in-hanoi-5142317.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Rain triggers morning traffic jams in Hanoi",
+   "date": "2026-11-09",
+   "desc": "Rain triggers morning traffic jams in Hanoi"
+  },
+  {
+   "id": "03579d26e0b5",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/08/tong-bi-thu-chu-tich-nuoc-to-l-2710-8363-1794151376.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=vMIEM49ElLth3t5EdZnkyA",
+   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-calls-for-stronger-ai-quantum-technology-ties-with-japan-5142305.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's top leader calls for stronger AI, quantum technology ties with Japan",
+   "date": "2026-11-09",
+   "desc": "Vietnam's top leader calls for stronger AI, quantum technology ties with Japan"
   },
   {
    "id": "b625d6b636b1",
@@ -2900,106 +3000,6 @@
    "titulo": "Singapore tests solar roof tiles to preserve heritage buildings",
    "date": "2026-10-30",
    "desc": "Singapore tests solar roof tiles to preserve heritage buildings"
-  },
-  {
-   "id": "eccd84f042ad",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/564585967184298370430967396104-1557-7432-1793290298.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=xi_S9D0IfZLvbhvXabmsEQ",
-   "url": "https://e.vnexpress.net/news/news/actor-yoon-dae-yeol-stops-gas-leaking-after-incheon-restaurant-explosion-5138501.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Actor Yoon Dae-yeol stops gas leaking after Incheon restaurant explosion",
-   "date": "2026-10-30",
-   "desc": "Actor Yoon Dae-yeol stops gas leaking after Incheon restaurant explosion"
-  },
-  {
-   "id": "468b8a00f45e",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/BansaocuaDSC03317-1792905658-1199-1792906135.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=RomYxCE5LrH1-H5mV2-wmg",
-   "url": "https://e.vnexpress.net/news/news/new-toilets-improve-sanitation-at-schools-in-remote-son-la-5138343.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "New toilets improve sanitation at schools in remote Son La",
-   "date": "2026-10-30",
-   "desc": "New toilets improve sanitation at schools in remote Son La"
-  },
-  {
-   "id": "8bd7ca47cba8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571379.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/boj-rates-steady-inflation/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Bank of Japan holds rates steady even as inflation ticks up",
-   "date": "2026-10-30",
-   "desc": "Bank of Japan holds rates steady even as inflation ticks up"
-  },
-  {
-   "id": "cea64ef33724",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571380.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/society/bureaucrats-working-hours-ai/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Generative AI reduces working hours for government staff, survey finds",
-   "date": "2026-10-30",
-   "desc": "Generative AI reduces working hours for government staff, survey finds"
-  },
-  {
-   "id": "cee7100a75fd",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571365.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/forex-account-surplus-financial-resources/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Private-sector council proposes use of forex surplus to cover fiscal measures",
-   "date": "2026-10-30",
-   "desc": "Private-sector council proposes use of forex surplus to cover fiscal measures"
-  },
-  {
-   "id": "5fec3760d097",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571361.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/halloween-nurse-red-cross/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Dressing as a nurse this Halloween? Adding a red cross breaks the law.",
-   "date": "2026-10-30",
-   "desc": "Dressing as a nurse this Halloween? Adding a red cross breaks the law."
-  },
-  {
-   "id": "70e5f728c675",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571378.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/netanyahu-no-majority-israel-election/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
-   "date": "2026-10-30",
-   "desc": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority"
-  },
-  {
-   "id": "a0bacd139d9e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571400.JPG",
-   "url": "https://www.japantimes.co.jp/olympics/2026/10/30/dakar-youth-olympics-africa/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Africa making Olympic debut with 2026 Dakar Youth Games",
-   "date": "2026-10-30",
-   "desc": "Africa making Olympic debut with 2026 Dakar Youth Games"
-  },
-  {
-   "id": "6073a26c9d65",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571368.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/10/30/baseball/mlb/mlb-offseason-uncertainty-lockout/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "MLB heads into offseason of uncertainty with lockout looming",
-   "date": "2026-10-30",
-   "desc": "MLB heads into offseason of uncertainty with lockout looming"
-  },
-  {
-   "id": "8bbf5fe9c53a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571443.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/us-japan-joint-military-exercise/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "With China in mind, Japan eyes more realistic joint military exercises",
-   "date": "2026-10-30",
-   "desc": "With China in mind, Japan eyes more realistic joint military exercises"
   }
  ]
 }
