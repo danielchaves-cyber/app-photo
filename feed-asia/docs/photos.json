@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T17:00:04.880Z",
+ "atualizado": "2026-11-09T20:49:10.350Z",
  "fotos": [
   {
    "id": "754a9728e0ed",
@@ -260,6 +260,16 @@
    "titulo": "Singapore loses $1.8B to haze crisis, exceeding 2015 record",
    "date": "2026-11-09",
    "desc": "Singapore loses $1.8B to haze crisis, exceeding 2015 record"
+  },
+  {
+   "id": "4b7932621f1b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/572147.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/10/style-design/robot-smart-garbage-bins/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s search for a better public trash bin — and why robots may help",
+   "date": "2026-11-09",
+   "desc": "Japan’s search for a better public trash bin — and why robots may help"
   },
   {
    "id": "b625d6b636b1",
@@ -2990,16 +3000,6 @@
    "titulo": "Clashes break out as hundreds of thousands protest in France",
    "date": "2026-10-31",
    "desc": "Clashes break out as hundreds of thousands protest in France"
-  },
-  {
-   "id": "28baa61f644a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571118.jpg",
-   "url": "https://www.japantimes.co.jp/life/2026/11/01/food-drink/saki-jw-marriott-restaurant-japanese-cuisine-kappo-counter-omakase/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Fine ‘omakase’ dining, with a twist, at Saki",
-   "date": "2026-10-31",
-   "desc": "Fine ‘omakase’ dining, with a twist, at Saki"
   }
  ]
 }
