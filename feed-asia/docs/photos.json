@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T04:58:39.051Z",
+ "atualizado": "2026-11-09T09:02:42.960Z",
  "fotos": [
   {
    "id": "754a9728e0ed",
@@ -110,6 +110,96 @@
    "titulo": "Vietnam's top leader calls for stronger AI, quantum technology ties with Japan",
    "date": "2026-11-09",
    "desc": "Vietnam's top leader calls for stronger AI, quantum technology ties with Japan"
+  },
+  {
+   "id": "d5f39a18fe3b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573005.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/crime-legal/illegal-mobile-phone-station/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Man arrested over operation of rogue cellular base station in Tokyo",
+   "date": "2026-11-09",
+   "desc": "Man arrested over operation of rogue cellular base station in Tokyo"
+  },
+  {
+   "id": "cc624ba3dd26",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572980.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/okinawa-koja-defense-bases-burden/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Okinawa’s Koja calls for central government to explain ‘minimum’ military buildup",
+   "date": "2026-11-09",
+   "desc": "Okinawa’s Koja calls for central government to explain ‘minimum’ military buildup"
+  },
+  {
+   "id": "e00cca46831a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572819.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/09/world/south-koreas-military-ambitions/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "South Korea’s military ambitions get a reality check",
+   "date": "2026-11-09",
+   "desc": "South Korea’s military ambitions get a reality check"
+  },
+  {
+   "id": "609c9a09b5bf",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572244.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/09/japan/chinas-hard-power-undermines-soft-power/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China’s hard power keeps undermining its soft power",
+   "date": "2026-11-09",
+   "desc": "China’s hard power keeps undermining its soft power"
+  },
+  {
+   "id": "5195cf1fb5b4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572184.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/09/world/oligarchic-world-order/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "The rise of the global oligarchic world order",
+   "date": "2026-11-09",
+   "desc": "The rise of the global oligarchic world order"
+  },
+  {
+   "id": "d66a0e3b6a64",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573010.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/food-tax-bill-abstain/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Takaichi and LDP weigh disciplinary action for party members who abstained from food tax vote",
+   "date": "2026-11-09",
+   "desc": "Takaichi and LDP weigh disciplinary action for party members who abstained from food tax vote"
+  },
+  {
+   "id": "8d8b6d9570e5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573038.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/media/mofa-japanese-app/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Government betting on language app powered by anime and AI",
+   "date": "2026-11-09",
+   "desc": "Government betting on language app powered by anime and AI"
+  },
+  {
+   "id": "0402c45e3446",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572814.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/09/japan/data-center-debate-reset/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Voters reset the debate on data centers and billionaires",
+   "date": "2026-11-09",
+   "desc": "Voters reset the debate on data centers and billionaires"
+  },
+  {
+   "id": "4a45a88cf732",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/pexelsmauriciokrupkabuendia114-5910-7344-1794209139.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=PBoy0Dui1gg1-qUcsZOdqw",
+   "url": "https://e.vnexpress.net/news/news/fire-in-china-apartment-building-kills-14-state-media-5142477.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Fire in China apartment building kills 14: state media",
+   "date": "2026-11-09",
+   "desc": "Fire in China apartment building kills 14: state media"
   },
   {
    "id": "b625d6b636b1",
@@ -2910,96 +3000,6 @@
    "titulo": "Google erases a record $500 billion as AI eats into sales",
    "date": "2026-10-30",
    "desc": "Google erases a record $500 billion as AI eats into sales"
-  },
-  {
-   "id": "c9456da55916",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/29/571318.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/10/30/companies/ana-acquisitions-midsize-airlines/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "ANA holdings to fully acquire parent of two midsize airlines",
-   "date": "2026-10-30",
-   "desc": "ANA holdings to fully acquire parent of two midsize airlines"
-  },
-  {
-   "id": "56dae16da48d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571345.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/world/nvidia-chief-spy-plot-target/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nvidia chief seen as target of Chinese spy plot",
-   "date": "2026-10-30",
-   "desc": "Nvidia chief seen as target of Chinese spy plot"
-  },
-  {
-   "id": "2e32eb0368b2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571385.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/10/30/more-sports/fernando-alonso-doubles-down/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Fernando Alonso doubles down on comments about backmarkers",
-   "date": "2026-10-30",
-   "desc": "Fernando Alonso doubles down on comments about backmarkers"
-  },
-  {
-   "id": "b7aa21673d42",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571355.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/crime-legal/pianist-kyohei-sorita-speeding/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Renowned Japanese pianist found guilty of driving at 144 kph",
-   "date": "2026-10-30",
-   "desc": "Renowned Japanese pianist found guilty of driving at 144 kph"
-  },
-  {
-   "id": "2addfbe78654",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571353.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/10/30/companies/japan-shopping-habits-inflation/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan’s beleaguered shoppers are a worry for convenience stores and the economy",
-   "date": "2026-10-30",
-   "desc": "Japan’s beleaguered shoppers are a worry for convenience stores and the economy"
-  },
-  {
-   "id": "1ed249b8025d",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/thaygiaongadanhhocsinhco524361-4190-3088-1793288818.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=5-9CD0yI3dyDPMCPi_dL5A",
-   "url": "https://e.vnexpress.net/news/news/education/russian-teacher-slaps-two-second-graders-grabs-another-by-the-neck-in-vietnamese-classroom-5138515.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Russian teacher slaps two second graders, grabs another by the neck in Vietnamese classroom",
-   "date": "2026-10-30",
-   "desc": "Russian teacher slaps two second graders, grabs another by the neck in Vietnamese classroom"
-  },
-  {
-   "id": "88631669f4ce",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/hkacidattackthumb1500x900-1793-7230-7115-1793273579.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=o9nGSQa1tw62fKp8UpPkww",
-   "url": "https://e.vnexpress.net/news/news/crime/singaporean-tourist-bears-permanent-scars-as-hong-kong-teen-gets-8-years-for-1-200-acid-attack-5138503.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singaporean tourist bears permanent scars as Hong Kong teen gets 8 years for $1,200 acid attack",
-   "date": "2026-10-30",
-   "desc": "Singaporean tourist bears permanent scars as Hong Kong teen gets 8 years for $1,200 acid attack"
-  },
-  {
-   "id": "ea65afcc0ca2",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/thairabbicitizenshipthumb1500x-7574-3485-1793272718.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=vYiwYh_aN0HLS9KrjZYBAA",
-   "url": "https://e.vnexpress.net/news/news/thailand-revokes-jewish-community-leader-s-citizenship-over-16-trips-to-australia-on-us-passport-5138493.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Thailand revokes Jewish community leader's citizenship over 16 trips to Australia on US passport",
-   "date": "2026-10-30",
-   "desc": "Thailand revokes Jewish community leader's citizenship over 16 trips to Australia on US passport"
-  },
-  {
-   "id": "3b6a136380ad",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/29/winel-sutanto-rbswwkvfgk0-unsp-6130-4784-1793243758.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ug3RIQF7p6Qkkj-OAbCo9w",
-   "url": "https://e.vnexpress.net/news/news/singapore-tests-solar-roof-tiles-to-preserve-heritage-buildings-5138208.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singapore tests solar roof tiles to preserve heritage buildings",
-   "date": "2026-10-30",
-   "desc": "Singapore tests solar roof tiles to preserve heritage buildings"
   }
  ]
 }
