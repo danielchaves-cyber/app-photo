@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T04:47:57.375Z",
+ "atualizado": "2026-11-10T08:53:49.599Z",
  "fotos": [
   {
    "id": "d678df8d6b52",
@@ -130,6 +130,106 @@
    "titulo": "Vietnam Connect Forum 2026 to connect FDI enterprises with business opportunities",
    "date": "2026-11-10",
    "desc": "Vietnam Connect Forum 2026 to connect FDI enterprises with business opportunities"
+  },
+  {
+   "id": "8ba46955e396",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573203.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/10/softbank-loss-data-center-costs/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "SoftBank logs $7 billion loss after U.S. data center costs swell",
+   "date": "2026-11-10",
+   "desc": "SoftBank logs $7 billion loss after U.S. data center costs swell"
+  },
+  {
+   "id": "303941207835",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573221.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/politics/cop31-japan-technologies/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan to use COP31 to showcase environmental technologies",
+   "date": "2026-11-10",
+   "desc": "Japan to use COP31 to showcase environmental technologies"
+  },
+  {
+   "id": "cc1d4f3db795",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573224.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/society/macron-angkor-france-role/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Macron’s Angkor visit highlights France’s custodial role",
+   "date": "2026-11-10",
+   "desc": "Macron’s Angkor visit highlights France’s custodial role"
+  },
+  {
+   "id": "af249a3c2da6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573195.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/10/companies/sakana-ai-ipo/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Sakana AI may go public in 2027",
+   "date": "2026-11-10",
+   "desc": "Sakana AI may go public in 2027"
+  },
+  {
+   "id": "87aecaf88e22",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573162.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/government-guidelines-children-social-media/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan to call for limiting children’s exposure to social media",
+   "date": "2026-11-10",
+   "desc": "Japan to call for limiting children’s exposure to social media"
+  },
+  {
+   "id": "b5df2a2e8ac8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573185.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/10/tech/china-trade-surplus-1-trillion-ai/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China’s trade surplus soars past $1 trillion as AI boom powers exports",
+   "date": "2026-11-10",
+   "desc": "China’s trade surplus soars past $1 trillion as AI boom powers exports"
+  },
+  {
+   "id": "eeb86f0ed3fe",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573184.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/10/asia-pacific/politics/indonesia-vice-president-probe/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Fate of Indonesia’s vice president hangs in the balance as lawmakers mull probe",
+   "date": "2026-11-10",
+   "desc": "Fate of Indonesia’s vice president hangs in the balance as lawmakers mull probe"
+  },
+  {
+   "id": "1dc33e4db031",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573169.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/politics/ldp-discipline-ishiba-tax-bill/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "LDP reprimands Ishiba and three others for walking out on consumption tax vote",
+   "date": "2026-11-10",
+   "desc": "LDP reprimands Ishiba and three others for walking out on consumption tax vote"
+  },
+  {
+   "id": "7bd22dd07020",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/1794274935325-6032111001673559666-6032111001673559666-9bcc5f81497f3868a9f4d5ffbb3a2ad8-1794284978.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=bZE59wbuEprjqg4NGWr00w",
+   "url": "https://e.vnexpress.net/photo/environment/heavy-rain-and-strong-winds-topple-trees-signboards-across-hue-da-nang-5142909.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Heavy rain and strong winds topple trees, signboards across Hue, Da Nang",
+   "date": "2026-11-10",
+   "desc": "Heavy rain and strong winds topple trees, signboards across Hue, Da Nang"
+  },
+  {
+   "id": "66f9d8353a88",
+   "img": "https://vcdn1-giadinh.vnecdn.net/2026/11/07/a-nh-ma-n-hi-nh-lu-c-179405976-8087-5666-1794059791.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=KOkvCF8Fljo96BXA-wTh9Q",
+   "url": "https://e.vnexpress.net/news/news/hundreds-of-young-patients-attend-sun-of-hope-festival-in-hanoi-5142931.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Hundreds of young patients attend Sun of Hope festival in Hanoi",
+   "date": "2026-11-10",
+   "desc": "Hundreds of young patients attend Sun of Hope festival in Hanoi"
   },
   {
    "id": "754a9728e0ed",
@@ -2900,106 +3000,6 @@
    "titulo": "Pompeii cupboard opens window onto life before Vesuvius erupted",
    "date": "2026-11-01",
    "desc": "Pompeii cupboard opens window onto life before Vesuvius erupted"
-  },
-  {
-   "id": "dc4cd986e4bc",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571711.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/politics/world-us-midterms-trumpism/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "World watches U.S. midterms with Trumpism already waning globally",
-   "date": "2026-11-01",
-   "desc": "World watches U.S. midterms with Trumpism already waning globally"
-  },
-  {
-   "id": "e9e82d9fd388",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571526.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/01/world/improving-global-mineral-governance/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "How to improve global mineral governance",
-   "date": "2026-11-01",
-   "desc": "How to improve global mineral governance"
-  },
-  {
-   "id": "0808f41863a0",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/01/quyn6578-1793519503-1653-1793519559.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mNhrmMzIMijMrMRSzh6qcQ",
-   "url": "https://e.vnexpress.net/news/news/traffic/vietnam-airlines-flight-diverts-to-pakistan-after-german-passenger-suffers-seizure-5139353.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam Airlines flight diverts to Pakistan after German passenger suffers seizure",
-   "date": "2026-11-01",
-   "desc": "Vietnam Airlines flight diverts to Pakistan after German passenger suffers seizure"
-  },
-  {
-   "id": "46cbf609bb40",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/570758.jpg",
-   "url": "https://www.japantimes.co.jp/community/2026/11/02/our-lives/tokyo-running-clubs-community-ties/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Lazy’ running becomes fresh way for Tokyo runners to build community",
-   "date": "2026-11-01",
-   "desc": "‘Lazy’ running becomes fresh way for Tokyo runners to build community"
-  },
-  {
-   "id": "0a4b2026b03e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/570867.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/02/film/in-their-traces/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘In Their Traces’: An unflinching documentary about the survivors of sexual violence",
-   "date": "2026-11-01",
-   "desc": "‘In Their Traces’: An unflinching documentary about the survivors of sexual violence"
-  },
-  {
-   "id": "c47e59306052",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571739.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/world/gulf-states-iran-us/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Gulf states fear fiercer Iran retaliation if U.S. strikes again",
-   "date": "2026-11-01",
-   "desc": "Gulf states fear fiercer Iran retaliation if U.S. strikes again"
-  },
-  {
-   "id": "6c9b026b772d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571581.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/10/31/binance-hack-disappearing-money/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Binance hack exposes unsolvable crypto risk: disappearing money",
-   "date": "2026-10-31",
-   "desc": "Binance hack exposes unsolvable crypto risk: disappearing money"
-  },
-  {
-   "id": "cffb171a447a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571578.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/japan-russia-g20-meeting/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan demands release of national in meeting with Russia’s Lavrov",
-   "date": "2026-10-31",
-   "desc": "Japan demands release of national in meeting with Russia’s Lavrov"
-  },
-  {
-   "id": "68fe64e13f2c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571577.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/politics/japan-myanmar-blacklist-removal-push/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan pushes to remove Myanmar from global financial watchdog’s blacklist",
-   "date": "2026-10-31",
-   "desc": "Japan pushes to remove Myanmar from global financial watchdog’s blacklist"
-  },
-  {
-   "id": "66fa558df265",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571575.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/10/31/world/politics/hegseth-bipartisan-ouster-midterms/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Hegseth faces bipartisan push for his ouster after midterms",
-   "date": "2026-10-31",
-   "desc": "Hegseth faces bipartisan push for his ouster after midterms"
   }
  ]
 }
