@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T08:53:49.599Z",
+ "atualizado": "2026-11-10T12:55:09.445Z",
  "fotos": [
   {
    "id": "d678df8d6b52",
@@ -230,6 +230,86 @@
    "titulo": "Hundreds of young patients attend Sun of Hope festival in Hanoi",
    "date": "2026-11-10",
    "desc": "Hundreds of young patients attend Sun of Hope festival in Hanoi"
+  },
+  {
+   "id": "e29c2a573567",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573194.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/society/war-putin-home-russia/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "The war Putin wanted to keep away is coming home to Russia",
+   "date": "2026-11-10",
+   "desc": "The war Putin wanted to keep away is coming home to Russia"
+  },
+  {
+   "id": "a5ab888d3dad",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/572905.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/10/japan/japan-us-losing-south-korea/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Are Japan and the U.S. losing South Korea as an ally?",
+   "date": "2026-11-10",
+   "desc": "Are Japan and the U.S. losing South Korea as an ally?"
+  },
+  {
+   "id": "6ea7a3141e8b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/572885.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/10/world/lame-duck-trump-plan/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. allies need a plan for a lame-duck Trump",
+   "date": "2026-11-10",
+   "desc": "U.S. allies need a plan for a lame-duck Trump"
+  },
+  {
+   "id": "2039aaf2e694",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/b34daefad7fd65-b8bc-efaac65060-1495-4146-1794067326.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=A5LUAm2dJQthmOT-NSfXqQ",
+   "url": "https://e.vnexpress.net/news/news/education/financial-pressure-plunging-enrollment-force-wave-of-us-college-closures-5142873.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Financial pressure, plunging enrollment force wave of US college closures",
+   "date": "2026-11-10",
+   "desc": "Financial pressure, plunging enrollment force wave of US college closures"
+  },
+  {
+   "id": "eb3fd10268eb",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/thaistudentnasaletterthumb1500-2014-7178-1794301204.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=O62wcir9N1K0gn37EZX0HA",
+   "url": "https://e.vnexpress.net/news/news/education/thai-student-earns-thank-you-letter-from-nasa-for-reporting-security-hole-5143020.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thai student earns thank-you letter from NASA for reporting security hole",
+   "date": "2026-11-10",
+   "desc": "Thai student earns thank-you letter from NASA for reporting security hole"
+  },
+  {
+   "id": "4a4dea322609",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/suvarnabhumicocainethumb1500x9-5274-3862-1794301292.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=t6CKTi6OeP-NasjzSFJ3qA",
+   "url": "https://e.vnexpress.net/news/news/crime/2-travelers-from-brazil-arrested-with-610-000-in-cocaine-at-bangkok-airport-5143016.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "2 travelers from Brazil arrested with $610,000 in cocaine at Bangkok airport",
+   "date": "2026-11-10",
+   "desc": "2 travelers from Brazil arrested with $610,000 in cocaine at Bangkok airport"
+  },
+  {
+   "id": "948198d33977",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/1-1794304144-5276-1794304197.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lkz6wmFtNYdwyIjqMGSuaw",
+   "url": "https://e.vnexpress.net/news/news/vietnamese-hospital-receives-japanese-cell-therapy-technology-for-cancer-and-chronic-disease-treatment-5143056.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnamese hospital receives Japanese cell therapy technology for cancer and chronic disease treatment",
+   "date": "2026-11-10",
+   "desc": "Vietnamese hospital receives Japanese cell therapy technology for cancer and chronic disease treatment"
+  },
+  {
+   "id": "8d0e96c7b57c",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/dsc00371-1794300768-5422-1794300906.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Iguc_Zt1ZBPatdDK0Jy0iw",
+   "url": "https://e.vnexpress.net/news/news/education/vietnam-requires-schools-to-have-at-least-one-english-fluent-leader-5143011.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam requires schools to have at least one English-fluent leader",
+   "date": "2026-11-10",
+   "desc": "Vietnam requires schools to have at least one English-fluent leader"
   },
   {
    "id": "754a9728e0ed",
@@ -2920,86 +3000,6 @@
    "titulo": "Lower-ranked players struggle with mental and physical strain near end of long season",
    "date": "2026-11-01",
    "desc": "Lower-ranked players struggle with mental and physical strain near end of long season"
-  },
-  {
-   "id": "e2e134ece0e1",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/28/571000.jpg",
-   "url": "https://www.japantimes.co.jp/community/2026/11/01/cassiopeia-galaxy-cat-adoption/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "A feline brother and sister pair who are simply out of this world",
-   "date": "2026-11-01",
-   "desc": "A feline brother and sister pair who are simply out of this world"
-  },
-  {
-   "id": "4195973ba5ad",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571701.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/01/tennis/pan-pacific-open-final/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Diana Shnaider survives rally to top Leylah Fernandez in Pan Pacific Open final",
-   "date": "2026-11-01",
-   "desc": "Diana Shnaider survives rally to top Leylah Fernandez in Pan Pacific Open final"
-  },
-  {
-   "id": "9a5cd30a67b9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571615.jpg",
-   "url": "https://www.japantimes.co.jp/environment/2026/11/01/climate-change/nitrogen-fertilizer-concern-climate-change/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "What a Japanese scientist says can be done about the climate’s nitrogen problem",
-   "date": "2026-11-01",
-   "desc": "What a Japanese scientist says can be done about the climate’s nitrogen problem"
-  },
-  {
-   "id": "b01fd2a93b8d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571683.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/01/more-sports/cas-russia-world-championships/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "CAS clears way for Russia to compete at ice hockey world championships",
-   "date": "2026-11-01",
-   "desc": "CAS clears way for Russia to compete at ice hockey world championships"
-  },
-  {
-   "id": "01ecaeb2f9c0",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571673.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test",
-   "date": "2026-11-01",
-   "desc": "North Korea fires off cluster bomb warheads in latest ‘major’ weapons test"
-  },
-  {
-   "id": "e5c817bc2bee",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571717.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/kherson-truce-ukrainian-families/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Kherson truce lets Ukrainian family ‘close chapter’ on old life",
-   "date": "2026-11-01",
-   "desc": "Kherson truce lets Ukrainian family ‘close chapter’ on old life"
-  },
-  {
-   "id": "fe7c210bd6e3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571704.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/vietnamese-fish-for-japan-surimi-ingredient/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Farmed fish from Vietnam eyed as surimi ingredient alternative",
-   "date": "2026-11-01",
-   "desc": "Farmed fish from Vietnam eyed as surimi ingredient alternative"
-  },
-  {
-   "id": "f7663235326c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571706.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/pompeii-cupboard-life-vesuvius/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Pompeii cupboard opens window onto life before Vesuvius erupted",
-   "date": "2026-11-01",
-   "desc": "Pompeii cupboard opens window onto life before Vesuvius erupted"
   }
  ]
 }
