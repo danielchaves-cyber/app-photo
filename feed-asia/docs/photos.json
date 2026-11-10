@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T12:55:09.445Z",
+ "atualizado": "2026-11-10T16:47:17.113Z",
  "fotos": [
   {
    "id": "d678df8d6b52",
@@ -310,6 +310,16 @@
    "titulo": "Vietnam requires schools to have at least one English-fluent leader",
    "date": "2026-11-10",
    "desc": "Vietnam requires schools to have at least one English-fluent leader"
+  },
+  {
+   "id": "8e3c7aa3c0d1",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/3179431571115341794316454jpg-1-8836-3524-1794326594.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ErnWoh5-sA2K-6LWXlq2OA",
+   "url": "https://e.vnexpress.net/news/news/traffic/flights-forced-to-circle-over-central-vietnam-as-thunderstorms-cut-airport-visibility-to-350-m-5143141.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Flights forced to circle over central Vietnam as thunderstorms cut airport visibility to 350 m",
+   "date": "2026-11-10",
+   "desc": "Flights forced to circle over central Vietnam as thunderstorms cut airport visibility to 350 m"
   },
   {
    "id": "754a9728e0ed",
@@ -2990,16 +3000,6 @@
    "titulo": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack",
    "date": "2026-11-01",
    "desc": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack"
-  },
-  {
-   "id": "9f28efed6f08",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571583.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/01/tennis/lower-ranked-players-mental-health/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Lower-ranked players struggle with mental and physical strain near end of long season",
-   "date": "2026-11-01",
-   "desc": "Lower-ranked players struggle with mental and physical strain near end of long season"
   }
  ]
 }
