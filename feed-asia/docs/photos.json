@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T20:49:10.350Z",
+ "atualizado": "2026-11-10T00:53:28.132Z",
  "fotos": [
   {
    "id": "754a9728e0ed",
@@ -270,6 +270,46 @@
    "titulo": "Japan’s search for a better public trash bin — and why robots may help",
    "date": "2026-11-09",
    "desc": "Japan’s search for a better public trash bin — and why robots may help"
+  },
+  {
+   "id": "0f753493d798",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573070.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/10/tech/nvidia-scandal-ai-industry-ceo/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia scandal creates risks for whole AI industry, not just CEO",
+   "date": "2026-11-09",
+   "desc": "Nvidia scandal creates risks for whole AI industry, not just CEO"
+  },
+  {
+   "id": "0156ad0fcde3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573074.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/politics/russia-ukraine-ceasefire-territory/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Russia, Ukraine envoys to talk ceasefire monitoring, territory",
+   "date": "2026-11-09",
+   "desc": "Russia, Ukraine envoys to talk ceasefire monitoring, territory"
+  },
+  {
+   "id": "063427b1e1c3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573075.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/politics/hegseth-crimes-impeachment/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Hegseth accused of crimes, misconduct in impeachment effort",
+   "date": "2026-11-09",
+   "desc": "Hegseth accused of crimes, misconduct in impeachment effort"
+  },
+  {
+   "id": "5adc0a472b8a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572949.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/10/film/godzilla-minus-zero-takashi-yamazaki-interview/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Godzilla Minus Zero’ director sees the monster as a mirror",
+   "date": "2026-11-09",
+   "desc": "‘Godzilla Minus Zero’ director sees the monster as a mirror"
   },
   {
    "id": "b625d6b636b1",
@@ -2960,46 +3000,6 @@
    "titulo": "Trump touted a record Venezuela oil deal. Now reality is setting in",
    "date": "2026-10-31",
    "desc": "Trump touted a record Venezuela oil deal. Now reality is setting in"
-  },
-  {
-   "id": "b417ba703828",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/avd-1793442133.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=pgFxL1aYG62b6lFj-u4JPA",
-   "url": "https://e.vnexpress.net/photo/news/vietnams-independence-palace-marks-60-years-with-rare-exhibits-revealing-its-four-year-construction-5139109.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's Independence Palace marks 60 years with rare exhibits revealing its four-year construction",
-   "date": "2026-10-31",
-   "desc": "Vietnam's Independence Palace marks 60 years with rare exhibits revealing its four-year construction"
-  },
-  {
-   "id": "f2b3505c3fe4",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/26/premiumphoto16619292495550fa99-8413-8107-1792983007.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JJNrwTnD-sShLjlOMtTblA",
-   "url": "https://e.vnexpress.net/news/news/thailand-s-chiang-mai-named-southeast-asia-s-safest-city-5136832.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Thailand's Chiang Mai named Southeast Asia's safest city",
-   "date": "2026-10-31",
-   "desc": "Thailand's Chiang Mai named Southeast Asia's safest city"
-  },
-  {
-   "id": "8e9a6a1356f4",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571608.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/us-deport-afghan-immigrants/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "U.S. to reportedly deport 150 Afghan immigrants back to Afghanistan",
-   "date": "2026-10-31",
-   "desc": "U.S. to reportedly deport 150 Afghan immigrants back to Afghanistan"
-  },
-  {
-   "id": "dff8b6969b5e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571604.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/world/clashes-protest-france/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Clashes break out as hundreds of thousands protest in France",
-   "date": "2026-10-31",
-   "desc": "Clashes break out as hundreds of thousands protest in France"
   }
  ]
 }
