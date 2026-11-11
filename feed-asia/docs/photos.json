@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T16:50:29.404Z",
+ "atualizado": "2026-11-11T21:28:50.194Z",
  "fotos": [
   {
    "id": "d67feedfba25",
@@ -330,6 +330,16 @@
    "titulo": "Nintendo sells 5.2 million copies of ‘Zelda’ remake in four days",
    "date": "2026-11-11",
    "desc": "Nintendo sells 5.2 million copies of ‘Zelda’ remake in four days"
+  },
+  {
+   "id": "30d6334e7df1",
+   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/14b43219-a5ea-48b8-80c4-4dedb11f9591_aa45c11f.jpg?itok=mRRaDBx9&v=1794423052",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3374120/rubio-wang-hold-phone-call-trump-xi-meeting-next-week",
+   "flag": "🇨🇳",
+   "src": "Nayan Seth · SCMP (Xinhua)",
+   "titulo": "Rubio, Wang hold phone call before Xi-Trump meeting next week",
+   "date": "2026-11-11",
+   "desc": "Rubio, Wang hold phone call before Xi-Trump meeting next week"
   },
   {
    "id": "d678df8d6b52",
@@ -2990,16 +3000,6 @@
    "titulo": "‘Distraught’ George Russell makes quick exit after Kimi Antonelli wins F1 title",
    "date": "2026-11-02",
    "desc": "‘Distraught’ George Russell makes quick exit after Kimi Antonelli wins F1 title"
-  },
-  {
-   "id": "8562ddf849d3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/570911.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/02/world/trump-xi-putin-nuclear-arms/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "A Cold War blueprint for today’s nuclear dangers",
-   "date": "2026-11-02",
-   "desc": "A Cold War blueprint for today’s nuclear dangers"
   }
  ]
 }
