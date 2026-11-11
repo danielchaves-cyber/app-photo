@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T12:58:38.069Z",
+ "atualizado": "2026-11-11T16:50:29.404Z",
  "fotos": [
   {
    "id": "d67feedfba25",
@@ -320,6 +320,16 @@
    "titulo": "Top Vietnamese leader To Lam meets with Japanese Emperor Naruhito",
    "date": "2026-11-11",
    "desc": "Top Vietnamese leader To Lam meets with Japanese Emperor Naruhito"
+  },
+  {
+   "id": "29531d11d93f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573506.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/11/zelda-remake-sales/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nintendo sells 5.2 million copies of ‘Zelda’ remake in four days",
+   "date": "2026-11-11",
+   "desc": "Nintendo sells 5.2 million copies of ‘Zelda’ remake in four days"
   },
   {
    "id": "d678df8d6b52",
@@ -2990,16 +3000,6 @@
    "titulo": "A Cold War blueprint for today’s nuclear dangers",
    "date": "2026-11-02",
    "desc": "A Cold War blueprint for today’s nuclear dangers"
-  },
-  {
-   "id": "0cc33e5bb8fa",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571773.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/02/markets/katayama-ready-market-election/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan ready to respond to disorderly movements in FX market, Katayama says",
-   "date": "2026-11-02",
-   "desc": "Japan ready to respond to disorderly movements in FX market, Katayama says"
   }
  ]
 }
