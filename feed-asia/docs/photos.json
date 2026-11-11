@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T08:52:11.577Z",
+ "atualizado": "2026-11-11T12:58:38.069Z",
  "fotos": [
   {
    "id": "d67feedfba25",
@@ -220,6 +220,106 @@
    "titulo": "Opposition presses for consumption tax cut details as Upper House debate begins",
    "date": "2026-11-11",
    "desc": "Opposition presses for consumption tax cut details as Upper House debate begins"
+  },
+  {
+   "id": "8d33bb94941f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573504.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/11/companies/nissan-sales-forecast/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nissan pares car sales forecast on tougher China competition",
+   "date": "2026-11-11",
+   "desc": "Nissan pares car sales forecast on tougher China competition"
+  },
+  {
+   "id": "879b598d43cb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573503.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/cambodia-exiled-opposition-leader-democracy/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Exiled Cambodian opposition leader urges Japan to aid democracy",
+   "date": "2026-11-11",
+   "desc": "Exiled Cambodian opposition leader urges Japan to aid democracy"
+  },
+  {
+   "id": "9bb66e42f0cc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573502.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/climate-talks-fossil-award/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan, eight others get fossil award over leaders skipping climate talks",
+   "date": "2026-11-11",
+   "desc": "Japan, eight others get fossil award over leaders skipping climate talks"
+  },
+  {
+   "id": "0b513f3ad5bc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573111.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/11/film/three-millimeters-to-you/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Three Millimeters to You’: A hokey but heartfelt tale of cross-cultural first love",
+   "date": "2026-11-11",
+   "desc": "‘Three Millimeters to You’: A hokey but heartfelt tale of cross-cultural first love"
+  },
+  {
+   "id": "c38789230805",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573472.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/upper-house-election-unconstitutional-state/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan top court rules 2025 election in unconstitutional state",
+   "date": "2026-11-11",
+   "desc": "Japan top court rules 2025 election in unconstitutional state"
+  },
+  {
+   "id": "08e7ff14db85",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573108.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/11/film/godzilla-minus-zero/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Action thrills best treacly drama in ‘Godzilla Minus Zero’",
+   "date": "2026-11-11",
+   "desc": "Action thrills best treacly drama in ‘Godzilla Minus Zero’"
+  },
+  {
+   "id": "ce6acf3d95ea",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573331.jpeg",
+   "url": "https://www.japantimes.co.jp/community/2026/11/11/jet-programme-40-years/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "As JET Programme turns 40, alumni and ministers stress its importance in age of AI",
+   "date": "2026-11-11",
+   "desc": "As JET Programme turns 40, alumni and ministers stress its importance in age of AI"
+  },
+  {
+   "id": "e3ca6156414c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573440.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/11/tech/us-mobile-gaming-china/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. loses grip on $121 billion mobile gaming sector to China",
+   "date": "2026-11-11",
+   "desc": "U.S. loses grip on $121 billion mobile gaming sector to China"
+  },
+  {
+   "id": "e55a0525544d",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/11/neustudentsthumb1360x816-17943-9489-4905-1794392028.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=NvE_Q2jBKCmWDo36AuB4Zw",
+   "url": "https://e.vnexpress.net/news/news/education/70-year-old-vietnamese-university-urged-to-rank-among-world-s-top-150-in-selected-fields-by-2030-5143524.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "70-year-old Vietnamese university urged to rank among world's top 150 in selected fields by 2030",
+   "date": "2026-11-11",
+   "desc": "70-year-old Vietnamese university urged to rank among world's top 150 in selected fields by 2030"
+  },
+  {
+   "id": "9715d4dba225",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/11/1794391403-1794391435-7198-1794391462.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=efzzibzceKGbJj_Htjhjng",
+   "url": "https://e.vnexpress.net/news/news/politics/top-vietnamese-leader-to-lam-meets-with-japanese-emperor-naruhito-5143523.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Top Vietnamese leader To Lam meets with Japanese Emperor Naruhito",
+   "date": "2026-11-11",
+   "desc": "Top Vietnamese leader To Lam meets with Japanese Emperor Naruhito"
   },
   {
    "id": "d678df8d6b52",
@@ -2900,106 +3000,6 @@
    "titulo": "Japan ready to respond to disorderly movements in FX market, Katayama says",
    "date": "2026-11-02",
    "desc": "Japan ready to respond to disorderly movements in FX market, Katayama says"
-  },
-  {
-   "id": "bfa0195d7106",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571779.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/02/more-sports/bryson-dechambeau-liv-golf/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Bryson DeChambeau seemingly onboard with LIV 2.0",
-   "date": "2026-11-02",
-   "desc": "Bryson DeChambeau seemingly onboard with LIV 2.0"
-  },
-  {
-   "id": "cf6a06d099eb",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571765.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/world/politics/cyber-attacks-russia-ukraine-truce/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Cyberattacks hit Russia and Ukraine after truce ends",
-   "date": "2026-11-02",
-   "desc": "Cyberattacks hit Russia and Ukraine after truce ends"
-  },
-  {
-   "id": "5aea70741e86",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571766.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/world/politics/poland-tusk-court-standoff/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Poland’s Tusk says he won’t back down in top court standoff",
-   "date": "2026-11-02",
-   "desc": "Poland’s Tusk says he won’t back down in top court standoff"
-  },
-  {
-   "id": "c8fa41ff4efc",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/bgczm5pefbjwnczri6he6zxv6q-179-8503-8153-1793584997.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tJkhGSm8n9pq5yobclyC-A",
-   "url": "https://e.vnexpress.net/news/news/traffic/malaysia-airlines-becomes-latest-carrier-hit-by-amadeus-booking-system-data-breach-5139523.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Malaysia Airlines becomes latest carrier hit by Amadeus booking system data breach",
-   "date": "2026-11-02",
-   "desc": "Malaysia Airlines becomes latest carrier hit by Amadeus booking system data breach"
-  },
-  {
-   "id": "81b39edee30f",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/Settop-1793575752-6298-1793576227.gif?w=900&h=0&q=100&dpr=1&fit=crop&s=NkqtNtGIMEGagRVJcTsKsA&t=image",
-   "url": "https://e.vnexpress.net/news/news/traffic/jet-nosedives-erupts-into-fireball-near-south-florida-busy-roadway-killing-all-9-on-board-5139505.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Jet nosedives, erupts into fireball near South Florida busy roadway, killing all 9 on board",
-   "date": "2026-11-02",
-   "desc": "Jet nosedives, erupts into fireball near South Florida busy roadway, killing all 9 on board"
-  },
-  {
-   "id": "6c8a0e57fb91",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571887.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/02/companies/cyber-security-insurance-policies/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "More companies seeking cyber insurance following high-profile data breaches",
-   "date": "2026-11-02",
-   "desc": "More companies seeking cyber insurance following high-profile data breaches"
-  },
-  {
-   "id": "594e4be310e7",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571924.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/02/economy/bank-of-japan-quarterly-outlook/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "BOJ signals low hopes for consumer spending as population falls",
-   "date": "2026-11-02",
-   "desc": "BOJ signals low hopes for consumer spending as population falls"
-  },
-  {
-   "id": "fefc2d6eea4b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571925.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/gmo-news-conference-kumagai/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "GMO execs apologize over inadequate response to cyberattacks",
-   "date": "2026-11-02",
-   "desc": "GMO execs apologize over inadequate response to cyberattacks"
-  },
-  {
-   "id": "f29dafe7996d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571906.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/crime-legal/stolen-luxury-watch-returned/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Stolen luxury watch returned to Tokyo store via courier with apology note",
-   "date": "2026-11-02",
-   "desc": "Stolen luxury watch returned to Tokyo store via courier with apology note"
-  },
-  {
-   "id": "9dc7635ef445",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571915.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/politics/ishiba-disaster-management/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Ishiba underscores importance of National Disaster Management Agency",
-   "date": "2026-11-02",
-   "desc": "Ishiba underscores importance of National Disaster Management Agency"
   }
  ]
 }
