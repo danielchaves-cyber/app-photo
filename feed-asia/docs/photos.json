@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T04:54:05.087Z",
+ "atualizado": "2026-11-11T08:52:11.577Z",
  "fotos": [
   {
    "id": "d67feedfba25",
@@ -140,6 +140,86 @@
    "titulo": "Ho Chi Minh City to hold 4-day New Year countdown on Nguyen Hue walking street",
    "date": "2026-11-11",
    "desc": "Ho Chi Minh City to hold 4-day New Year countdown on Nguyen Hue walking street"
+  },
+  {
+   "id": "aed174df4c26",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573470.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/koizumi-obuchi-ldp/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Amid concerns over internal opposition within LDP, Koizumi pledges support for Takaichi",
+   "date": "2026-11-11",
+   "desc": "Amid concerns over internal opposition within LDP, Koizumi pledges support for Takaichi"
+  },
+  {
+   "id": "38d8939eca59",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573456.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/world/iran-50-missiles-month-industry/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Iran producing 50 missiles per month despite crippled industry",
+   "date": "2026-11-11",
+   "desc": "Iran producing 50 missiles per month despite crippled industry"
+  },
+  {
+   "id": "c282135ceedc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573411.JPG",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/11/climate-change/disaster-warning-systems-climate/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Disaster warning systems race to keep pace with galloping climate risks",
+   "date": "2026-11-11",
+   "desc": "Disaster warning systems race to keep pace with galloping climate risks"
+  },
+  {
+   "id": "4c6fbabb8403",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573471.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/crime-legal/stolen-luxury-watch-arrest/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Man arrested over theft of watch that was returned days later to Tokyo mall",
+   "date": "2026-11-11",
+   "desc": "Man arrested over theft of watch that was returned days later to Tokyo mall"
+  },
+  {
+   "id": "57a90b299f71",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573444.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/asia-pacific/politics/thailand-arsenic-rivers-myanmar/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Thailand to raise arsenic-tainted rivers in talks with Myanmar",
+   "date": "2026-11-11",
+   "desc": "Thailand to raise arsenic-tainted rivers in talks with Myanmar"
+  },
+  {
+   "id": "2fc934aaf4ac",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573412.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/asia-pacific/bangladesh-garment-worker-wages/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Behind Bangladesh’s garment boom, workers cut food, healthcare as wages fall short",
+   "date": "2026-11-11",
+   "desc": "Behind Bangladesh’s garment boom, workers cut food, healthcare as wages fall short"
+  },
+  {
+   "id": "ad9e84438abc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573455.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/11/sumo/kyushu-basho-week-1/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Onosato looks sharp as Kyushu Basho contenders emerge",
+   "date": "2026-11-11",
+   "desc": "Onosato looks sharp as Kyushu Basho contenders emerge"
+  },
+  {
+   "id": "c7d39f4aa736",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573433.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/tax-debate-kickoff-senate/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Opposition presses for consumption tax cut details as Upper House debate begins",
+   "date": "2026-11-11",
+   "desc": "Opposition presses for consumption tax cut details as Upper House debate begins"
   },
   {
    "id": "d678df8d6b52",
@@ -2920,86 +3000,6 @@
    "titulo": "Ishiba underscores importance of National Disaster Management Agency",
    "date": "2026-11-02",
    "desc": "Ishiba underscores importance of National Disaster Management Agency"
-  },
-  {
-   "id": "2e43fba15b68",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571888.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/world/politics/europe-right-germany-afd-euro/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "As Europe’s right advances, Germany’s AfD rethinks its anti-euro roots",
-   "date": "2026-11-02",
-   "desc": "As Europe’s right advances, Germany’s AfD rethinks its anti-euro roots"
-  },
-  {
-   "id": "61dda048a175",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571914.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/02/soccer/manchester-united-ten-hag-relegation/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Erik ten Hag floats relegation as possibility for struggling Manchester United",
-   "date": "2026-11-02",
-   "desc": "Erik ten Hag floats relegation as possibility for struggling Manchester United"
-  },
-  {
-   "id": "8608593f972b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571844.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/spain-train-crash-japanese/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japanese national confirmed dead in Spanish train crash",
-   "date": "2026-11-02",
-   "desc": "Japanese national confirmed dead in Spanish train crash"
-  },
-  {
-   "id": "39287cdfdf12",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/changivapesthumb1500x900-17936-4108-7834-1793606109.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=o4vsvo_wF0Y0soIdVc85bQ",
-   "url": "https://e.vnexpress.net/news/news/crime/over-5-200-vapes-and-components-found-in-4-foreigners-luggage-at-singapore-changi-airport-5139772.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Over 5,200 vapes and components found in 4 foreigners' luggage at Singapore Changi airport",
-   "date": "2026-11-02",
-   "desc": "Over 5,200 vapes and components found in 4 foreigners' luggage at Singapore Changi airport"
-  },
-  {
-   "id": "e92c0c0a7a0e",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/9f8a7b8c1f2ee670bf3f3796157784-3456-8101-1793602638.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=X2uVfSHYfWfAvcEC0SQk2w",
-   "url": "https://e.vnexpress.net/news/news/hanoi-to-offer-154-to-women-having-2-children-before-age-35-5139731.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Hanoi to offer $154 to women having 2 children before age 35",
-   "date": "2026-11-02",
-   "desc": "Hanoi to offer $154 to women having 2 children before age 35"
-  },
-  {
-   "id": "34c0959e745e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571937.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/02/binance-outflows-north-korea-hack/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Binance outflows hit $4.7 billion after record North Korea hack",
-   "date": "2026-11-02",
-   "desc": "Binance outflows hit $4.7 billion after record North Korea hack"
-  },
-  {
-   "id": "308e5bad9e74",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571936.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/new-disaster-agency-public-prepare/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan’s new disaster agency calls on public to prepare for disasters",
-   "date": "2026-11-02",
-   "desc": "Japan’s new disaster agency calls on public to prepare for disasters"
-  },
-  {
-   "id": "4a21fc9efd1e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571935.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/asia-pacific/north-korea-hackers-crypto-heist-ai/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "North Korea’s hackers supercharge crypto heists with AI skills",
-   "date": "2026-11-02",
-   "desc": "North Korea’s hackers supercharge crypto heists with AI skills"
   }
  ]
 }
