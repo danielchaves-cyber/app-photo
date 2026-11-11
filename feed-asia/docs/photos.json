@@ -1,6 +1,26 @@
 {
- "atualizado": "2026-11-10T20:40:12.250Z",
+ "atualizado": "2026-11-11T00:52:56.748Z",
  "fotos": [
+  {
+   "id": "d67feedfba25",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573239.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/world/crime-legal/france-supermarket-hack-iran-war/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "France supermarket hack marks new phase in Iran’s shadow war",
+   "date": "2026-11-11",
+   "desc": "France supermarket hack marks new phase in Iran’s shadow war"
+  },
+  {
+   "id": "106a75b5ed40",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573243.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/world/politics/eisenkot-netanyahu-israeli-parliament/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament",
+   "date": "2026-11-11",
+   "desc": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament"
+  },
   {
    "id": "d678df8d6b52",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573102.JPG",
@@ -320,6 +340,16 @@
    "titulo": "Flights forced to circle over central Vietnam as thunderstorms cut airport visibility to 350 m",
    "date": "2026-11-10",
    "desc": "Flights forced to circle over central Vietnam as thunderstorms cut airport visibility to 350 m"
+  },
+  {
+   "id": "b8ac21e90fe5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573249.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/11/world/politics/us-house-impeach-hegseth/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. House blocks path to impeach Defense Secretary Hegseth",
+   "date": "2026-11-10",
+   "desc": "U.S. House blocks path to impeach Defense Secretary Hegseth"
   },
   {
    "id": "754a9728e0ed",
@@ -2970,36 +3000,6 @@
    "titulo": "Kioxia warns flash memory prices stalling after outlook miss",
    "date": "2026-11-01",
    "desc": "Kioxia warns flash memory prices stalling after outlook miss"
-  },
-  {
-   "id": "5a053a4557b2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571621.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/01/more-sports/ryo-hirakawa-f1-debut/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Ryo Hirakawa set for F1 debut as Esteban Ocon denies being in ‘physical altercation’",
-   "date": "2026-11-01",
-   "desc": "Ryo Hirakawa set for F1 debut as Esteban Ocon denies being in ‘physical altercation’"
-  },
-  {
-   "id": "d5bcea42b8f9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571620.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/01/soccer/mourinho-mbappe-china-controversy/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Jose Mourinho says Real Madrid and Kylian Mbappe have moved on from China controversy",
-   "date": "2026-11-01",
-   "desc": "Jose Mourinho says Real Madrid and Kylian Mbappe have moved on from China controversy"
-  },
-  {
-   "id": "08ad68338be5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571626.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/01/japan/gmo-ceo-kumagai-cyberattack-presser/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack",
-   "date": "2026-11-01",
-   "desc": "GMO’s CEO Kumagai to hold news conference Monday on cyberattack"
   }
  ]
 }
