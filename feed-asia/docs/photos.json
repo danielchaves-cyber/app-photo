@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T08:55:24.261Z",
+ "atualizado": "2026-11-12T12:59:55.723Z",
  "fotos": [
   {
    "id": "6eeb337c914d",
@@ -220,6 +220,86 @@
    "titulo": "New Ho Chi Minh City chairman pledges to tackle traffic congestion, flooding",
    "date": "2026-11-12",
    "desc": "New Ho Chi Minh City chairman pledges to tackle traffic congestion, flooding"
+  },
+  {
+   "id": "9d0dca47de03",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573766.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/crime-legal/toyama-killings-death-penalty-sought/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Death penalty sought for ex-SDF member over 2018 Toyama murders",
+   "date": "2026-11-12",
+   "desc": "Death penalty sought for ex-SDF member over 2018 Toyama murders"
+  },
+  {
+   "id": "feb81623a8d6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573765.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/12/softbank-apollo-open-ai-bet/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet",
+   "date": "2026-11-12",
+   "desc": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet"
+  },
+  {
+   "id": "e62ae1484fe5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573763.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/vance-buttigieg-us-presidential-hopefuls/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Vance, Rubio, Ossoff and Buttigieg lead 2028 White House hopefuls, Reuters/Ipsos poll finds",
+   "date": "2026-11-12",
+   "desc": "Vance, Rubio, Ossoff and Buttigieg lead 2028 White House hopefuls, Reuters/Ipsos poll finds"
+  },
+  {
+   "id": "197596a48afd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573762.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/12/muji-credit-card-leak/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Muji operator fails to delete unnecessary credit card data",
+   "date": "2026-11-12",
+   "desc": "Muji operator fails to delete unnecessary credit card data"
+  },
+  {
+   "id": "62907d3239a1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573751.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/crackdown-rip-offs-foreign-visitors-tokyo/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Five arrested in crackdown on rip-offs targeting foreign visitors in Tokyo",
+   "date": "2026-11-12",
+   "desc": "Five arrested in crackdown on rip-offs targeting foreign visitors in Tokyo"
+  },
+  {
+   "id": "d28b6a022438",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573714.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/12/nvidia-supply-chain-asia/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia’s Asian supply chain prepares for life after Huang",
+   "date": "2026-11-12",
+   "desc": "Nvidia’s Asian supply chain prepares for life after Huang"
+  },
+  {
+   "id": "0e51c9f2b861",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/baiguixe-vnexpress1_1794197184-1794206813.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6T8rIwh2F_93q0-lFmNqIA",
+   "url": "https://e.vnexpress.net/photo/traffic/hanois-parking-shortage-pushes-cars-onto-sidewalks-and-streets-5143884.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Hanoi's parking shortage pushes cars onto sidewalks and streets",
+   "date": "2026-11-12",
+   "desc": "Hanoi's parking shortage pushes cars onto sidewalks and streets"
+  },
+  {
+   "id": "3fb6a1cb790f",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/thaitourscamsentencethumb1500x-4405-3522-1794468955.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=WPHWxUKpbkanUfb2SleKxQ",
+   "url": "https://e.vnexpress.net/news/news/crime/thai-businessman-gets-1-244-years-in-prison-for-tour-package-investment-scam-5143875.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thai businessman gets 1,244 years in prison for tour package investment scam",
+   "date": "2026-11-12",
+   "desc": "Thai businessman gets 1,244 years in prison for tour package investment scam"
   },
   {
    "id": "d67feedfba25",
@@ -2920,86 +3000,6 @@
    "titulo": "Second Japanese national confirmed dead in Spanish train crash",
    "date": "2026-11-03",
    "desc": "Second Japanese national confirmed dead in Spanish train crash"
-  },
-  {
-   "id": "c2c11f642373",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571958.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/trump-washington-makeover-midterm/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Trump touts Washington makeover as midterm campaign nears end",
-   "date": "2026-11-03",
-   "desc": "Trump touts Washington makeover as midterm campaign nears end"
-  },
-  {
-   "id": "aab6ccd4a7fe",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/pexelskubranurcakiroglu3797807-4215-5640-1793600583.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=XtE5e4ZE99yC8S9TshUOKQ",
-   "url": "https://e.vnexpress.net/news/news/education/uk-to-hike-proof-of-funds-requirement-for-international-students-from-nov-30-5139725.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "UK to hike proof-of-funds requirement for international students from Nov 30",
-   "date": "2026-11-03",
-   "desc": "UK to hike proof-of-funds requirement for international students from Nov 30"
-  },
-  {
-   "id": "6530cb42f002",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/abbychoitrialthumb1334x800-179-4237-2253-1793608818.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mhCComfjY1Cq0Jx_qZqdaw",
-   "url": "https://e.vnexpress.net/news/news/crime/hong-kong-socialite-abby-choi-s-remains-found-in-pots-and-fridge-murder-trial-hears-5139789.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Hong Kong socialite Abby Choi's remains found in pots and fridge, murder trial hears",
-   "date": "2026-11-03",
-   "desc": "Hong Kong socialite Abby Choi's remains found in pots and fridge, murder trial hears"
-  },
-  {
-   "id": "bfdfbd031ade",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/ap26303648560314-1793670883-1682-1793672940.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=43Qm5B8BK9hYVcCrdxzYFA",
-   "url": "https://e.vnexpress.net/news/news/south-korean-president-lee-jae-myung-s-passport-details-leaked-online-report-5139991.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "South Korean president Lee Jae Myung's passport details leaked online: report",
-   "date": "2026-11-03",
-   "desc": "South Korean president Lee Jae Myung's passport details leaked online: report"
-  },
-  {
-   "id": "30eb76058ebe",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/changiworkpassprobethumb1500x9-2745-9738-1793638914.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=hhBE20Boknb7L1RI1qUCbg",
-   "url": "https://e.vnexpress.net/news/news/45-companies-operating-world-s-best-airport-under-scrutiny-over-possible-work-pass-breaches-5139932.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "45 companies operating world's best airport under scrutiny over possible work pass breaches",
-   "date": "2026-11-03",
-   "desc": "45 companies operating world's best airport under scrutiny over possible work pass breaches"
-  },
-  {
-   "id": "dafa46b3ec3c",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/stolenwatchtokyothumb1500x900-8428-1261-1793637863.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=G8-yRTzKEAiEFas_OrMBHg",
-   "url": "https://e.vnexpress.net/news/news/crime/stolen-291-000-watch-comes-back-to-tokyo-shop-by-courier-with-handwritten-apology-5139927.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Stolen $291,000 watch comes back to Tokyo shop by courier with handwritten apology",
-   "date": "2026-11-03",
-   "desc": "Stolen $291,000 watch comes back to Tokyo shop by courier with handwritten apology"
-  },
-  {
-   "id": "86c84aac22f9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571908.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/science-health/jaxa-yoneda-astronaut/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan’s newest female astronaut wants to speak Japanese on the moon",
-   "date": "2026-11-03",
-   "desc": "Japan’s newest female astronaut wants to speak Japanese on the moon"
-  },
-  {
-   "id": "0b138f11eda3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572078.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/asia-pacific/society/india-food-inflation/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "India faces prolonged food inflation as weak monsoon threatens winter crops",
-   "date": "2026-11-03",
-   "desc": "India faces prolonged food inflation as weak monsoon threatens winter crops"
   }
  ]
 }
