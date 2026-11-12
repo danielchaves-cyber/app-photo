@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T01:00:05.465Z",
+ "atualizado": "2026-11-12T04:54:30.848Z",
  "fotos": [
   {
    "id": "6eeb337c914d",
@@ -10,6 +10,116 @@
    "titulo": "Russia and Ukraine agree to prisoner swap as U.S. says lack of trust holds back talks",
    "date": "2026-11-12",
    "desc": "Russia and Ukraine agree to prisoner swap as U.S. says lack of trust holds back talks"
+  },
+  {
+   "id": "841f2adebb48",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573577.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/kyoto-first-bird-flu-season/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "First bird flu case of the season confirmed at Kyoto poultry farm",
+   "date": "2026-11-12",
+   "desc": "First bird flu case of the season confirmed at Kyoto poultry farm"
+  },
+  {
+   "id": "1ae06821acad",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573591.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/12/tennis/andreeva-sabalenka-wta-finals/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Andreeva powers past Sabalenka to reach WTA Finals last four",
+   "date": "2026-11-12",
+   "desc": "Andreeva powers past Sabalenka to reach WTA Finals last four"
+  },
+  {
+   "id": "188043142291",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573590.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/12/soccer/pochettino-carrick-man-utd/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Man Utd reaches ‘verbal agreement’ with Pochettino to replace Carrick",
+   "date": "2026-11-12",
+   "desc": "Man Utd reaches ‘verbal agreement’ with Pochettino to replace Carrick"
+  },
+  {
+   "id": "0d88470dc0e9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573585.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/12/soccer/kane-england-appearance-record/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Kane says England appearance record a ‘testament to dedication’",
+   "date": "2026-11-12",
+   "desc": "Kane says England appearance record a ‘testament to dedication’"
+  },
+  {
+   "id": "09570d29b7db",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573567.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/12/companies/nomura-europe-crypto-unit-sale-talks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nomura explores possible sale of Laser Digital crypto unit",
+   "date": "2026-11-12",
+   "desc": "Nomura explores possible sale of Laser Digital crypto unit"
+  },
+  {
+   "id": "cecc76b303ba",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573559.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/12/markets/yen-near-160-renewed-intervention-risks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Yen nears key ¥160 level after U.S. inflation data, sparking intervention risk",
+   "date": "2026-11-12",
+   "desc": "Yen nears key ¥160 level after U.S. inflation data, sparking intervention risk"
+  },
+  {
+   "id": "ca0e9921d53e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573542.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/crime-legal/japan-crime-leader-trial-hearing/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Luffy’ crime group’s alleged leader denies robbery resulting in death",
+   "date": "2026-11-12",
+   "desc": "‘Luffy’ crime group’s alleged leader denies robbery resulting in death"
+  },
+  {
+   "id": "43ef359034d2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573555.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/japan-aid-to-gaza-healthcare/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan to contribute ¥294 million to Gaza’s healthcare system",
+   "date": "2026-11-12",
+   "desc": "Japan to contribute ¥294 million to Gaza’s healthcare system"
+  },
+  {
+   "id": "b0e02c58eb7f",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/settop-1794448557-4857-1794453949.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mxcXFoliZ9FfB9ckZtEE4Q",
+   "url": "https://e.vnexpress.net/news/news/politics/ho-chi-minh-city-gets-new-chairman-5143740.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Ho Chi Minh City gets new chairman",
+   "date": "2026-11-12",
+   "desc": "Ho Chi Minh City gets new chairman"
+  },
+  {
+   "id": "37af3a18e7b6",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/11/diorceoewhathumb1500x900-17943-5242-3213-1794398213.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=RwV0z9Io2xX5W5TJIRtlGQ",
+   "url": "https://e.vnexpress.net/news/news/education/dior-ceo-delphine-arnault-to-receive-honorary-doctorate-from-korea-s-first-school-for-women-5143555.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Dior CEO Delphine Arnault to receive honorary doctorate from Korea's first school for women",
+   "date": "2026-11-12",
+   "desc": "Dior CEO Delphine Arnault to receive honorary doctorate from Korea's first school for women"
+  },
+  {
+   "id": "dc4367f97692",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/15b1c5a6-a8eb-4fe3-9a35-0bd5bcec6151-jpeg-1794398939.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=PzB3QQZpALk_N0khNUhndQ",
+   "url": "https://e.vnexpress.net/photo/environment/floods-sever-roads-swallow-excavators-inundate-hundreds-of-homes-in-central-vietnam-5143658.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Floods sever roads, swallow excavators, inundate hundreds of homes in central Vietnam",
+   "date": "2026-11-12",
+   "desc": "Floods sever roads, swallow excavators, inundate hundreds of homes in central Vietnam"
   },
   {
    "id": "d67feedfba25",
@@ -2890,116 +3000,6 @@
    "titulo": "Private sector steps in to revitalize Japan’s rural communities",
    "date": "2026-11-03",
    "desc": "Private sector steps in to revitalize Japan’s rural communities"
-  },
-  {
-   "id": "0d358d35864f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572103.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/society/russia-inflation-shock/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "For many Russians, higher utility bills are latest inflation shock",
-   "date": "2026-11-03",
-   "desc": "For many Russians, higher utility bills are latest inflation shock"
-  },
-  {
-   "id": "1dab9da550fb",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571716.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/03/japan/japan-beijings-strategy/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Asia for China? Tokyo’s answer to Beijing’s coercive strategy",
-   "date": "2026-11-03",
-   "desc": "Asia for China? Tokyo’s answer to Beijing’s coercive strategy"
-  },
-  {
-   "id": "afcc840884d1",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/du-kha-ch-tre-n-ho-gu-o-m-nga-2917-4171-1793614421.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=QMVTDlPG08w_IlJeNJm5MQ",
-   "url": "https://e.vnexpress.net/news/news/environment/vietnam-records-hottest-october-in-history-5140308.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam records hottest October in history",
-   "date": "2026-11-03",
-   "desc": "Vietnam records hottest October in history"
-  },
-  {
-   "id": "0688c25f3f9b",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/singaporeanperthairtagthumb150-7163-9082-1793692809.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=GOcyMWLJ5P8832AzTyRXHg",
-   "url": "https://e.vnexpress.net/news/news/crime/singaporean-tourist-jailed-in-australia-for-fatally-running-over-man-with-stolen-backpack-5140219.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singaporean tourist jailed in Australia for fatally running over man with stolen backpack",
-   "date": "2026-11-03",
-   "desc": "Singaporean tourist jailed in Australia for fatally running over man with stolen backpack"
-  },
-  {
-   "id": "44d5030bee7c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/560514.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/society/tokyo-braille-blocks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Talking braille blocks allow people with visual impairments to walk around freely",
-   "date": "2026-11-03",
-   "desc": "Talking braille blocks allow people with visual impairments to walk around freely"
-  },
-  {
-   "id": "5548712f24dc",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/smartphone17936036049202179360-8126-1481-1793693788.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=wuzs65LGf1BlJ3xWxogV9g",
-   "url": "https://e.vnexpress.net/news/news/vietnam-s-new-list-of-banned-used-electronics-refurbished-phones-included-takes-effect-from-2027-5140252.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's new list of banned used electronics, refurbished phones included, takes effect from 2027",
-   "date": "2026-11-03",
-   "desc": "Vietnam's new list of banned used electronics, refurbished phones included, takes effect from 2027"
-  },
-  {
-   "id": "dc27a2ca47ed",
-   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/04/835c8ad1-67fd-442e-8793-4a5354ee5ed0_c444266e.jpg?itok=ed5osrO0&v=1793731643",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3373185/china-accuses-philippine-politicians-intolerable-conduct-tensions-escalate",
-   "flag": "🇨🇳",
-   "src": "Liu Zhen · SCMP (Xinhua)",
-   "titulo": "China accuses Philippine politicians of ‘intolerable’ conduct as tensions rise",
-   "date": "2026-11-03",
-   "desc": "China accuses Philippine politicians of ‘intolerable’ conduct as tensions rise"
-  },
-  {
-   "id": "194846b9964e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572161.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/04/tech/binance-hackers-job-interviews-heist/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Binance hackers used fake job interviews in record heist",
-   "date": "2026-11-03",
-   "desc": "Binance hackers used fake job interviews in record heist"
-  },
-  {
-   "id": "1ab8d719f9a9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572158.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/russia-ukraine-power-abu-dhabi-merz/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
-   "date": "2026-11-03",
-   "desc": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage"
-  },
-  {
-   "id": "f63888329690",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572160.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/america-us-midterms-vote-congress/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Americans vote with control of Congress at stake",
-   "date": "2026-11-03",
-   "desc": "Americans vote with control of Congress at stake"
-  },
-  {
-   "id": "89e58ae81b3f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571742.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "China’s robot makers have mastered the moves. Now comes the race for brains.",
-   "date": "2026-11-02",
-   "desc": "China’s robot makers have mastered the moves. Now comes the race for brains."
   }
  ]
 }
