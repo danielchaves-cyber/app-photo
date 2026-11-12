@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T04:54:30.848Z",
+ "atualizado": "2026-11-12T08:55:24.261Z",
  "fotos": [
   {
    "id": "6eeb337c914d",
@@ -120,6 +120,106 @@
    "titulo": "Floods sever roads, swallow excavators, inundate hundreds of homes in central Vietnam",
    "date": "2026-11-12",
    "desc": "Floods sever roads, swallow excavators, inundate hundreds of homes in central Vietnam"
+  },
+  {
+   "id": "c6e7596fd27b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573673.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/politics/xi-trump-putin-summit-1945-yalta/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Xi-Trump-Putin summit evokes 1945 Yalta carve-up",
+   "date": "2026-11-12",
+   "desc": "Xi-Trump-Putin summit evokes 1945 Yalta carve-up"
+  },
+  {
+   "id": "14138f475662",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573665.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/12/tech/china-ai-nvidia-spy-us-chip-curbs/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Chinese AI firms rush to secure Nvidia chip capacity as scandal stirs fear of curbs",
+   "date": "2026-11-12",
+   "desc": "Chinese AI firms rush to secure Nvidia chip capacity as scandal stirs fear of curbs"
+  },
+  {
+   "id": "e4f11178be35",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573666.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/asia-pacific/politics/gibran-indonesia-diploma-scandal/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Indonesian vice president, son of former leader, steps down over diploma scandal",
+   "date": "2026-11-12",
+   "desc": "Indonesian vice president, son of former leader, steps down over diploma scandal"
+  },
+  {
+   "id": "b4f857a275a2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573228.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/12/japan/chatbots-prefer-japan/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "In the competition for cultural influence, AI has a default country",
+   "date": "2026-11-12",
+   "desc": "In the competition for cultural influence, AI has a default country"
+  },
+  {
+   "id": "2e6dd05cd33a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573672.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/science-health/congo-ebola-outbreak-six-months/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Congo Ebola outbreak still out of control after six months, MSF says",
+   "date": "2026-11-12",
+   "desc": "Congo Ebola outbreak still out of control after six months, MSF says"
+  },
+  {
+   "id": "c72f92ef60e3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573681.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/12/soccer/son-korea-team-rift/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "South Korea captain Son says players have resolved their differences",
+   "date": "2026-11-12",
+   "desc": "South Korea captain Son says players have resolved their differences"
+  },
+  {
+   "id": "38f6a29a0bcd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573623.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/politics/seat-reduction-bill-submitted/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "LDP, JIP and DPP submit Lower House seat-cut bill, driving contentious reform",
+   "date": "2026-11-12",
+   "desc": "LDP, JIP and DPP submit Lower House seat-cut bill, driving contentious reform"
+  },
+  {
+   "id": "0c00da2fe301",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573479.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/12/stage/japanese-theater-master-and-margarita/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘The Master and Margarita’ demolishes the fourth wall",
+   "date": "2026-11-12",
+   "desc": "‘The Master and Margarita’ demolishes the fourth wall"
+  },
+  {
+   "id": "6658cefb24bb",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/hegangapartment11yuanthumb1500-9162-8785-1794470221.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=x2Md5Z-WgoeKcDRN0YRXQQ",
+   "url": "https://e.vnexpress.net/news/news/man-buys-68-sq-m-apartment-for-1-64-during-china-s-biggest-shopping-festival-5143878.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Man buys 68 sq.m apartment for $1.64 during China's biggest shopping festival",
+   "date": "2026-11-12",
+   "desc": "Man buys 68 sq.m apartment for $1.64 during China's biggest shopping festival"
+  },
+  {
+   "id": "feae1f39758e",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/1794455615339-a4d7dc343167ad21-6354-2880-1794459520.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=hEhsSqwLHVZxSx45ZCT9qg",
+   "url": "https://e.vnexpress.net/news/news/politics/new-ho-chi-minh-city-chairman-pledges-to-tackle-traffic-congestion-flooding-5143852.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "New Ho Chi Minh City chairman pledges to tackle traffic congestion, flooding",
+   "date": "2026-11-12",
+   "desc": "New Ho Chi Minh City chairman pledges to tackle traffic congestion, flooding"
   },
   {
    "id": "d67feedfba25",
@@ -2900,106 +3000,6 @@
    "titulo": "India faces prolonged food inflation as weak monsoon threatens winter crops",
    "date": "2026-11-03",
    "desc": "India faces prolonged food inflation as weak monsoon threatens winter crops"
-  },
-  {
-   "id": "4572b6deab3e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572082.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/japan-vietnam-new-pact-crimes/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan and Vietnam consider new pact to prevent crimes",
-   "date": "2026-11-03",
-   "desc": "Japan and Vietnam consider new pact to prevent crimes"
-  },
-  {
-   "id": "54a2a47ca82e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572079.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/japan-south-korea-coal-mine-remains/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan, South Korea agree to cooperate over remains from undersea mine",
-   "date": "2026-11-03",
-   "desc": "Japan, South Korea agree to cooperate over remains from undersea mine"
-  },
-  {
-   "id": "1a55d8fdf5a7",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572075.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/war-black-sea-nato/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "War widens in the Black Sea in a test of NATO red lines",
-   "date": "2026-11-03",
-   "desc": "War widens in the Black Sea in a test of NATO red lines"
-  },
-  {
-   "id": "845e194f7003",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572032.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/politics/us-midterm-election-guide/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "A guide to the U.S. midterm elections’ biggest questions",
-   "date": "2026-11-03",
-   "desc": "A guide to the U.S. midterm elections’ biggest questions"
-  },
-  {
-   "id": "07b5ae968550",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572041.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/03/markets/global-markets-ai-bets/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Global markets were already fragile. Big AI bets could break them.",
-   "date": "2026-11-03",
-   "desc": "Global markets were already fragile. Big AI bets could break them."
-  },
-  {
-   "id": "869e1941d36d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572033.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/politics/south-africa-rwanda-us-trade/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "South Africa and Rwanda lose access to U.S.’ AGOA trade pact",
-   "date": "2026-11-03",
-   "desc": "South Africa and Rwanda lose access to U.S.’ AGOA trade pact"
-  },
-  {
-   "id": "10bb29fd51cd",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/wm1-39-1793311104-1793312806.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=u2fkiwbTSFxKbycr0qQjKA",
-   "url": "https://e.vnexpress.net/photo/news/with-no-wood-fired-kilns-left-hoi-an-ancient-town-patches-its-roofs-with-tin-and-tarps-5138932.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "With no wood-fired kilns left, Hoi An ancient town patches its roofs with tin and tarps",
-   "date": "2026-11-03",
-   "desc": "With no wood-fired kilns left, Hoi An ancient town patches its roofs with tin and tarps"
-  },
-  {
-   "id": "b31ee2a2d5d8",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/11-1793672952-6572-1793672990.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=njicUPpOxNO24cDaSG-MwQ",
-   "url": "https://e.vnexpress.net/news/news/danish-footwear-company-shuts-vietnam-factory-1-600-workers-lose-jobs-5140117.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Danish footwear company shuts Vietnam factory, 1,600 workers lose jobs",
-   "date": "2026-11-03",
-   "desc": "Danish footwear company shuts Vietnam factory, 1,600 workers lose jobs"
-  },
-  {
-   "id": "0676db843de2",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/elaina-gomez-villeda-jpeg-1793-7265-3967-1793687947.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=yOp_BPWmwZ--9CUcpBHq5g",
-   "url": "https://e.vnexpress.net/news/news/crime/10yo-boy-shoots-teen-over-loud-music-mother-faces-murder-charges-5140172.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "10yo boy shoots teen over loud music, mother faces murder charges",
-   "date": "2026-11-03",
-   "desc": "10yo boy shoots teen over loud music, mother faces murder charges"
-  },
-  {
-   "id": "be3e6aa2c183",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572111.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/society/private-sector-rural-community-revitalize/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Private sector steps in to revitalize Japan’s rural communities",
-   "date": "2026-11-03",
-   "desc": "Private sector steps in to revitalize Japan’s rural communities"
   }
  ]
 }
