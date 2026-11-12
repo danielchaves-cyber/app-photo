@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-11T21:28:50.194Z",
+ "atualizado": "2026-11-12T01:00:05.465Z",
  "fotos": [
+  {
+   "id": "6eeb337c914d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573509.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/politics/russia-ukraine-prisoner-swap-us-talks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Russia and Ukraine agree to prisoner swap as U.S. says lack of trust holds back talks",
+   "date": "2026-11-12",
+   "desc": "Russia and Ukraine agree to prisoner swap as U.S. says lack of trust holds back talks"
+  },
   {
    "id": "d67feedfba25",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573239.JPG",
@@ -340,6 +350,36 @@
    "titulo": "Rubio, Wang hold phone call before Xi-Trump meeting next week",
    "date": "2026-11-11",
    "desc": "Rubio, Wang hold phone call before Xi-Trump meeting next week"
+  },
+  {
+   "id": "1742c7e6ad65",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573508.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/12/tech/nvidia-jensen-huang-affairs/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia preparing to oust Jensen Huang after affairs, WSJ says",
+   "date": "2026-11-11",
+   "desc": "Nvidia preparing to oust Jensen Huang after affairs, WSJ says"
+  },
+  {
+   "id": "acdad55eebf0",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/dji-1794318056.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=gdpHAeJBf3-ZQpj-QPnZDA",
+   "url": "https://e.vnexpress.net/photo/traffic/busy-expressway-to-vietnams-largest-airport-long-thanh-widened-to-12-lanes-5143423.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Busy expressway to Vietnam's largest airport Long Thanh widened to 12 lanes",
+   "date": "2026-11-11",
+   "desc": "Busy expressway to Vietnam's largest airport Long Thanh widened to 12 lanes"
+  },
+  {
+   "id": "7008d087ca2d",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/11/chinadadtvquizthumb1500x900-17-8932-5861-1794386085.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ICLxFz7qKnfsg4xtJZXNww",
+   "url": "https://e.vnexpress.net/news/news/chinese-dad-uses-ai-to-make-son-answer-a-school-question-every-10-minutes-to-keep-watching-tv-5143465.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Chinese dad uses AI to make son answer a school question every 10 minutes to keep watching TV",
+   "date": "2026-11-11",
+   "desc": "Chinese dad uses AI to make son answer a school question every 10 minutes to keep watching TV"
   },
   {
    "id": "d678df8d6b52",
@@ -2960,46 +3000,6 @@
    "titulo": "China’s robot makers have mastered the moves. Now comes the race for brains.",
    "date": "2026-11-02",
    "desc": "China’s robot makers have mastered the moves. Now comes the race for brains."
-  },
-  {
-   "id": "8cbff5a62892",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571753.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/02/more-sports/miyu-yamashita-defends-title/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Miyu Yamashita defends title at Maybank Championship",
-   "date": "2026-11-02",
-   "desc": "Miyu Yamashita defends title at Maybank Championship"
-  },
-  {
-   "id": "ed3d51a72195",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/26/568921.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/japan-teacher-hearing-loss-advise/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "One teacher’s lesson in the power of saying, ‘I need help’",
-   "date": "2026-11-02",
-   "desc": "One teacher’s lesson in the power of saying, ‘I need help’"
-  },
-  {
-   "id": "a36e8595af5e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571796.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/02/companies/china-airlines-losses-fuel-costs/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "China’s top three airlines head for full-year losses as fuel costs weigh",
-   "date": "2026-11-02",
-   "desc": "China’s top three airlines head for full-year losses as fuel costs weigh"
-  },
-  {
-   "id": "69d3d22b34eb",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571813.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/02/more-sports/george-russell-distraught-formula-one/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Distraught’ George Russell makes quick exit after Kimi Antonelli wins F1 title",
-   "date": "2026-11-02",
-   "desc": "‘Distraught’ George Russell makes quick exit after Kimi Antonelli wins F1 title"
   }
  ]
 }
