@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T20:45:22.435Z",
+ "atualizado": "2026-11-13T00:57:08.332Z",
  "fotos": [
   {
    "id": "6eeb337c914d",
@@ -310,6 +310,16 @@
    "titulo": "2 foreign tourists rescued from sixth floor during Da Lat hotel fire",
    "date": "2026-11-12",
    "desc": "2 foreign tourists rescued from sixth floor during Da Lat hotel fire"
+  },
+  {
+   "id": "bfd6c75debdb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573770.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/nvidia-huang-ousted/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia’s Huang ousted by board in move that roils AI economy",
+   "date": "2026-11-12",
+   "desc": "Nvidia’s Huang ousted by board in move that roils AI economy"
   },
   {
    "id": "d67feedfba25",
@@ -2990,16 +3000,6 @@
    "titulo": "Ceremony held for recipients of Japan’s Order of Culture",
    "date": "2026-11-03",
    "desc": "Ceremony held for recipients of Japan’s Order of Culture"
-  },
-  {
-   "id": "07b132b4f0ac",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571987.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/politics/constitution-emergency-clause-debate/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "As Japan marks 80 years of Constitution, debate continues on emergency clause",
-   "date": "2026-11-03",
-   "desc": "As Japan marks 80 years of Constitution, debate continues on emergency clause"
   }
  ]
 }
