@@ -1,6 +1,146 @@
 {
- "atualizado": "2026-11-13T00:57:08.332Z",
+ "atualizado": "2026-11-13T04:54:14.168Z",
  "fotos": [
+  {
+   "id": "d8f114ef9f9e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573845.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/13/world/politics/congress-trump-nvidia-scrutiny/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. Congress steps up scrutiny of Trump and Nvidia after Huang exit",
+   "date": "2026-11-13",
+   "desc": "U.S. Congress steps up scrutiny of Trump and Nvidia after Huang exit"
+  },
+  {
+   "id": "0132c7a0cbf7",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573861.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/mlb/alvarez-crow-armstrong-mlb-mvp/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Yordan Alvarez, Pete Crow-Armstrong named MVPs by unanimous vote",
+   "date": "2026-11-13",
+   "desc": "Yordan Alvarez, Pete Crow-Armstrong named MVPs by unanimous vote"
+  },
+  {
+   "id": "f37788eed62b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573858.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/13/basketball/nba/cunningham-52-pistons-wizards/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Cunningham scores 52 as Pistons win double-OT thriller against Wizards",
+   "date": "2026-11-13",
+   "desc": "Cunningham scores 52 as Pistons win double-OT thriller against Wizards"
+  },
+  {
+   "id": "8add6bb8aa4f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573794.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/society/japan-yankii-fashion-london-exhibition/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "“Yankii” fashion for coming-of-age ceremony showcased in London",
+   "date": "2026-11-13",
+   "desc": "“Yankii” fashion for coming-of-age ceremony showcased in London"
+  },
+  {
+   "id": "95382ffc5f99",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573804.JPG",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/13/el-nino-climate-change-indonesia-fires/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "El Nino, climate change supercharged Indonesia fires, study says",
+   "date": "2026-11-13",
+   "desc": "El Nino, climate change supercharged Indonesia fires, study says"
+  },
+  {
+   "id": "7622e7afa656",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573805.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/lucky-bags-food/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Sheep-shearing and puffer fish among items in Japan’s New Year lucky bags",
+   "date": "2026-11-13",
+   "desc": "Sheep-shearing and puffer fish among items in Japan’s New Year lucky bags"
+  },
+  {
+   "id": "888460de1d56",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573795.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/13/world/politics/putin-allows-europe-in-ukraine-talks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Putin agrees to European participation in next round of Ukraine peace talks",
+   "date": "2026-11-13",
+   "desc": "Putin agrees to European participation in next round of Ukraine peace talks"
+  },
+  {
+   "id": "f72a09a40a6e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573833.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/13/tennis/pegula-noskova-gauff-wta-finals/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Pegula beats Noskova to advance at WTA Finals, knock out Gauff",
+   "date": "2026-11-13",
+   "desc": "Pegula beats Noskova to advance at WTA Finals, knock out Gauff"
+  },
+  {
+   "id": "5adff3b7de43",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/koreansmounjarojapanthumb1500x-5293-4468-1794494339.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=IGMNarQMUT6zkvyNC767Fw",
+   "url": "https://e.vnexpress.net/news/news/koreans-flock-to-japan-for-weight-loss-drug-that-costs-a-third-of-price-at-home-5144033.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Koreans flock to Japan for weight-loss drug that costs a third of price at home",
+   "date": "2026-11-13",
+   "desc": "Koreans flock to Japan for weight-loss drug that costs a third of price at home"
+  },
+  {
+   "id": "3eeb46e79151",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/ap26316456393208-1794543273-9047-1794543291.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=X22sfvo2Gf6fN9AOSHbwXw",
+   "url": "https://e.vnexpress.net/news/news/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-5144231.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "US Justice Department has not concluded Alice Huang was Chinese spy",
+   "date": "2026-11-13",
+   "desc": "US Justice Department has not concluded Alice Huang was Chinese spy"
+  },
+  {
+   "id": "fda9d8828301",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/wm10-wm10-tong-bi-thu-chu-tich-nuoc-4274-1843-1794538321.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=1ps2jMg5EINk4CJaf2UVTw",
+   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-attend-apec-summit-in-china-5144178.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's top leader to attend APEC summit in China",
+   "date": "2026-11-13",
+   "desc": "Vietnam's top leader to attend APEC summit in China"
+  },
+  {
+   "id": "95f01ad832e9",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/jensen-huang-jpeg-1794535501-1818-1794535561.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=W4NdG9MVwNVGUHaka4KvFA",
+   "url": "https://e.vnexpress.net/news/news/jensen-huang-summoned-to-testify-before-us-senate-committee-white-house-weighs-commerce-secretary-lutnick-s-ouster-5144146.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Jensen Huang summoned to testify before US Senate committee, White House weighs Commerce Secretary Lutnick's ouster",
+   "date": "2026-11-13",
+   "desc": "Jensen Huang summoned to testify before US Senate committee, White House weighs Commerce Secretary Lutnick's ouster"
+  },
+  {
+   "id": "5f390c69cd20",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/kuwaititouristsapathumb942x565-8548-1141-1794493828.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JE10df_Z2zfBotESabk3DA",
+   "url": "https://e.vnexpress.net/news/news/solo-foreign-traveler-missing-for-nearly-a-week-after-riding-off-from-sa-pa-homestay-5144034.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Solo foreign traveler missing for nearly a week after riding off from Sa Pa homestay",
+   "date": "2026-11-13",
+   "desc": "Solo foreign traveler missing for nearly a week after riding off from Sa Pa homestay"
+  },
+  {
+   "id": "db4bd194a4fc",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/joshua-kuswardi-r913yss-t7a-un-5434-3447-1794451498.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=vphcw9yItHnxkrYoNaNNtA",
+   "url": "https://e.vnexpress.net/news/news/environment/ai-boom-sparks-water-shortages-and-protests-on-indonesian-island-5143684.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "AI boom sparks water shortages and protests on Indonesian island",
+   "date": "2026-11-13",
+   "desc": "AI boom sparks water shortages and protests on Indonesian island"
+  },
   {
    "id": "6eeb337c914d",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573509.JPG",
@@ -2860,146 +3000,6 @@
    "titulo": "Amadeus data breach exposes 46,000 bookings at world's best airline",
    "date": "2026-11-04",
    "desc": "Amadeus data breach exposes 46,000 bookings at world's best airline"
-  },
-  {
-   "id": "9344dd1e4ec8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572331.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/texas-midterms-trump-musk-gop/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Texas turns blue in stunning rebuke of Donald Trump, Elon Musk and GOP",
-   "date": "2026-11-04",
-   "desc": "Texas turns blue in stunning rebuke of Donald Trump, Elon Musk and GOP"
-  },
-  {
-   "id": "222538be4a8b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572329.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/trump-midterms-iran-deal/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Beaten at home, Trump faces stark choice on Iran: deal or escalation",
-   "date": "2026-11-04",
-   "desc": "Beaten at home, Trump faces stark choice on Iran: deal or escalation"
-  },
-  {
-   "id": "48fd74bd5318",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/ethan-shi-h0scuyqc1ny-unsplash-5950-5620-1793767184.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=7ly4CA5jVarzGDCX3QBWBQ",
-   "url": "https://e.vnexpress.net/news/news/education/australia-s-inflation-storm-squeezing-international-students-5140627.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Australia's inflation storm squeezing international students",
-   "date": "2026-11-04",
-   "desc": "Australia's inflation storm squeezing international students"
-  },
-  {
-   "id": "78490c65b221",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/pisa2025quizthumb1500x900-1793-4785-5916-1793608905.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=nlI-_qBDQKWyasw4FISJmQ",
-   "url": "https://e.vnexpress.net/news/news/brainteaser/which-asian-country-has-the-smartest-students-5139819.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Which Asian country has the smartest students?",
-   "date": "2026-11-04",
-   "desc": "Which Asian country has the smartest students?"
-  },
-  {
-   "id": "c3084638b8c3",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/peacepalaceicjthumb1500x900-17-4061-9648-1793775589.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6OOFjaZ1OgRD6IDe02Ujsw",
-   "url": "https://e.vnexpress.net/news/news/singapore-wins-first-seat-on-un-s-top-court-topping-general-assembly-vote-5140679.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singapore wins first seat on UN's top court, topping General Assembly vote",
-   "date": "2026-11-04",
-   "desc": "Singapore wins first seat on UN's top court, topping General Assembly vote"
-  },
-  {
-   "id": "0992a249225a",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/02/pisa2025quizthumb1500x900-1793-4785-5916-1793608905.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=nlI-_qBDQKWyasw4FISJmQ",
-   "url": "https://e.vnexpress.net/news/news/brainteaser/which-asian-country-has-the-best-performing-students-in-pisa-test-5139819.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Which Asian country has the best-performing students in PISA test?",
-   "date": "2026-11-04",
-   "desc": "Which Asian country has the best-performing students in PISA test?"
-  },
-  {
-   "id": "e49e8d9b7e72",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571946.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/supermarkets-europe-freezer-hack/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Supermarkets across Europe report new suspected freezer hack",
-   "date": "2026-11-03",
-   "desc": "Supermarkets across Europe report new suspected freezer hack"
-  },
-  {
-   "id": "7884f60606b0",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571949.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/world/politics/israel-opposition-eisenkot-netanyahu/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Israel opposition meets to back Eisenkot, but Netanyahu says voters chose him",
-   "date": "2026-11-03",
-   "desc": "Israel opposition meets to back Eisenkot, but Netanyahu says voters chose him"
-  },
-  {
-   "id": "a9e7563167b0",
-   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/03/195cae94-5776-48ab-a9b6-adfce215e26d_55462d5b.jpg?itok=8CaCsery&v=1793678668",
-   "url": "https://www.scmp.com/news/china/politics/article/3373028/speak-last-chinas-fifth-plenum-moves-rein-regional-leaders",
-   "flag": "🇨🇳",
-   "src": "Alcott Wei · SCMP (Xinhua)",
-   "titulo": "‘Speak last’: China’s fifth plenum moves to rein in regional leaders",
-   "date": "2026-11-03",
-   "desc": "‘Speak last’: China’s fifth plenum moves to rein in regional leaders"
-  },
-  {
-   "id": "26f453636fb1",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571996.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/society/japan-government-autumn-honors/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan recognizes 3,861 people, including 99 foreign nationals, in autumn honors",
-   "date": "2026-11-03",
-   "desc": "Japan recognizes 3,861 people, including 99 foreign nationals, in autumn honors"
-  },
-  {
-   "id": "94c799e19988",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571995.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/asia-pacific/sea-drone-taiwan-investment/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Sea drone makers compete in Taiwan for soaring investment",
-   "date": "2026-11-03",
-   "desc": "Sea drone makers compete in Taiwan for soaring investment"
-  },
-  {
-   "id": "6e6a05f70c1c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571992.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/03/companies/sbi-fuji-media-business-alliance/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Fuji Media and SBI to form joint venture",
-   "date": "2026-11-03",
-   "desc": "Fuji Media and SBI to form joint venture"
-  },
-  {
-   "id": "4ac5e1e30e22",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571989.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/03/companies/disney-layoffs-cost-savings/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Disney plans thousands of layoffs while targeting 20% cost savings",
-   "date": "2026-11-03",
-   "desc": "Disney plans thousands of layoffs while targeting 20% cost savings"
-  },
-  {
-   "id": "542295e4ce21",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572001.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/ceremony-order-of-culture/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Ceremony held for recipients of Japan’s Order of Culture",
-   "date": "2026-11-03",
-   "desc": "Ceremony held for recipients of Japan’s Order of Culture"
   }
  ]
 }
