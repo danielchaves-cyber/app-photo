@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T04:47:41.505Z",
+ "atualizado": "2026-11-14T08:45:33.862Z",
  "fotos": [
   {
    "id": "9225d6602f58",
@@ -100,6 +100,66 @@
    "titulo": "Missing Kuwaiti tourist found dead at waterfall in Vietnam's Sa Pa",
    "date": "2026-11-14",
    "desc": "Missing Kuwaiti tourist found dead at waterfall in Vietnam's Sa Pa"
+  },
+  {
+   "id": "e3001805a99c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574018.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/14/huang-second-employee-relationship/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "date": "2026-11-14",
+   "desc": "Former Nvidia CEO Huang had a relationship with a second employee, sources say"
+  },
+  {
+   "id": "7d486c28a00b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574017.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/14/more-sports/eddie-jones-england-return/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Eddie Jones vows Japan will ‘play the house down’ in matchup with England",
+   "date": "2026-11-14",
+   "desc": "Eddie Jones vows Japan will ‘play the house down’ in matchup with England"
+  },
+  {
+   "id": "0bf741aa0e48",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573999.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-recovered/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Microsoft says services fully restored after outage roiled world",
+   "date": "2026-11-14",
+   "desc": "Microsoft says services fully restored after outage roiled world"
+  },
+  {
+   "id": "5515b834cfd9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574015.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/14/japan-philippines-oil-reserve-deal/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan and Philippines to ink deal on oil reserve cooperation",
+   "date": "2026-11-14",
+   "desc": "Japan and Philippines to ink deal on oil reserve cooperation"
+  },
+  {
+   "id": "902e693d059a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/14/originald4e284-c0edf-a686bd505-6295-5279-1794641819.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=YAj5mJIZC0hB1w8zpTBdPg",
+   "url": "https://e.vnexpress.net/news/news/asia-pacific-faces-growing-health-challenges-as-population-ages-5143905.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Asia Pacific faces growing health challenges as population ages",
+   "date": "2026-11-14",
+   "desc": "Asia Pacific faces growing health challenges as population ages"
+  },
+  {
+   "id": "9cf87e61d356",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/HUY346317278706841794634525334-3335-4163-1794637233.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=NwWh4ve1KO7XLDG7pU06xQ",
+   "url": "https://e.vnexpress.net/news/news/6-soldiers-killed-after-armored-vehicle-sinks-during-training-in-vietnam-5144205.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "6 soldiers killed after armored vehicle sinks during training in Vietnam",
+   "date": "2026-11-14",
+   "desc": "6 soldiers killed after armored vehicle sinks during training in Vietnam"
   },
   {
    "id": "d8f114ef9f9e",
@@ -2940,66 +3000,6 @@
    "titulo": "Japan’s seemingly unchanging ancient sport of sumo may already be at peak optimization",
    "date": "2026-11-05",
    "desc": "Japan’s seemingly unchanging ancient sport of sumo may already be at peak optimization"
-  },
-  {
-   "id": "e215f5dded6f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572500.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/nigeria-godfathers-elections/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nigeria’s ‘godfathers’ pull the strings ahead of elections",
-   "date": "2026-11-05",
-   "desc": "Nigeria’s ‘godfathers’ pull the strings ahead of elections"
-  },
-  {
-   "id": "b74bfa9fdd61",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572550.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/japan-deny-myanmar-blacklist-removal-push/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan denies seeking Myanmar’s removal from blacklist",
-   "date": "2026-11-05",
-   "desc": "Japan denies seeking Myanmar’s removal from blacklist"
-  },
-  {
-   "id": "33529d2bd2f1",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572495.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/politics/new-zealand-leaders-election/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "New Zealand leaders make final appeals as election remains tight",
-   "date": "2026-11-05",
-   "desc": "New Zealand leaders make final appeals as election remains tight"
-  },
-  {
-   "id": "5befbfc1ca8a",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/koreanjapanesemarriagesthumb15-5172-4159-1793875700.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2hvW_9PBtLjwNcdEWDVowg",
-   "url": "https://e.vnexpress.net/news/news/korean-men-marry-japanese-women-in-record-numbers-as-k-culture-s-pull-in-japan-grows-5141293.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Korean men marry Japanese women in record numbers as K-culture's pull in Japan grows",
-   "date": "2026-11-05",
-   "desc": "Korean men marry Japanese women in record numbers as K-culture's pull in Japan grows"
-  },
-  {
-   "id": "b6ecdf8d7a29",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/dji179378892836841793790515-17-6478-3669-1793875236.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=g9V4lbAgIJ1vf-3yHY-I_w",
-   "url": "https://e.vnexpress.net/news/news/traffic/vietnam-s-da-lat-eyes-over-100-km-of-electric-rail-linking-airport-and-top-attractions-5141291.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's Da Lat eyes over 100 km of electric rail linking airport and top attractions",
-   "date": "2026-11-05",
-   "desc": "Vietnam's Da Lat eyes over 100 km of electric rail linking airport and top attractions"
-  },
-  {
-   "id": "ed46bbb2ce14",
-   "img": "https://vcdn1-english.vnecdn.net/2026/10/30/795494501-1793345735-9091-1793345740.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=u9LTxbuSbgNKf4aOob2_YA",
-   "url": "https://e.vnexpress.net/news/news/education/american-private-universities-halve-tuition-amid-projections-of-enrollment-decline-5138796.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "American private universities halve tuition amid projections of enrollment decline",
-   "date": "2026-11-05",
-   "desc": "American private universities halve tuition amid projections of enrollment decline"
   }
  ]
 }
