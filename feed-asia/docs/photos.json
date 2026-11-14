@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T08:45:33.862Z",
+ "atualizado": "2026-11-14T12:41:47.451Z",
  "fotos": [
   {
    "id": "9225d6602f58",
@@ -160,6 +160,36 @@
    "titulo": "6 soldiers killed after armored vehicle sinks during training in Vietnam",
    "date": "2026-11-14",
    "desc": "6 soldiers killed after armored vehicle sinks during training in Vietnam"
+  },
+  {
+   "id": "c649fee275fc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574023.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/crime-legal/okinawa-us-captain-arrest/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. Air Force captain arrested in Okinawa for alleged drunk driving",
+   "date": "2026-11-14",
+   "desc": "U.S. Air Force captain arrested in Okinawa for alleged drunk driving"
+  },
+  {
+   "id": "d6b3068a3a7b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574019.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/world/society/gaza-6-year-old-burn-victim/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "6-year-old Gaza burn victim caught in Israeli dispute over aid",
+   "date": "2026-11-14",
+   "desc": "6-year-old Gaza burn victim caught in Israeli dispute over aid"
+  },
+  {
+   "id": "e8f36bd0ca2f",
+   "img": "https://i1-english.vnecdn.net/2026/11/14/pexelskindelmedia7773262-17946-9210-5126-1794645633.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=c_AYWEfa2K0uVUQckeAK5g",
+   "url": "https://e.vnexpress.net/news/news/crime/afghan-visa-overstayer-in-vietnam-faces-prosecution-for-smuggling-56-compatriots-into-cambodia-5144704.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Afghan visa overstayer in Vietnam faces prosecution for smuggling 56 compatriots into Cambodia",
+   "date": "2026-11-14",
+   "desc": "Afghan visa overstayer in Vietnam faces prosecution for smuggling 56 compatriots into Cambodia"
   },
   {
    "id": "d8f114ef9f9e",
@@ -2970,36 +3000,6 @@
    "titulo": "Takaichi to skip U.N. climate summit in Turkey",
    "date": "2026-11-05",
    "desc": "Takaichi to skip U.N. climate summit in Turkey"
-  },
-  {
-   "id": "06e02308773c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572558.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/05/ntt-docomo-network-glitches/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "NTT Docomo faces network glitches",
-   "date": "2026-11-05",
-   "desc": "NTT Docomo faces network glitches"
-  },
-  {
-   "id": "89f682590243",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572551.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/nintendo-quarterly-net-profit-drops/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nintendo’s net profit drops in Q2 as Switch 2 unit sales slow",
-   "date": "2026-11-05",
-   "desc": "Nintendo’s net profit drops in Q2 as Switch 2 unit sales slow"
-  },
-  {
-   "id": "1c2739c75dba",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572522.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/05/sumo/sumo-modern-sports-science/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan’s seemingly unchanging ancient sport of sumo may already be at peak optimization",
-   "date": "2026-11-05",
-   "desc": "Japan’s seemingly unchanging ancient sport of sumo may already be at peak optimization"
   }
  ]
 }
