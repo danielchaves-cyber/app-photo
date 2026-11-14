@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-13T20:48:46.017Z",
+ "atualizado": "2026-11-14T00:52:22.010Z",
  "fotos": [
+  {
+   "id": "9225d6602f58",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573999.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-stabilizing/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Microsoft Outlook and Teams outage eases after over a day but recovery timeline uncertain",
+   "date": "2026-11-14",
+   "desc": "Microsoft Outlook and Teams outage eases after over a day but recovery timeline uncertain"
+  },
   {
    "id": "d8f114ef9f9e",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573845.JPG",
@@ -300,6 +310,86 @@
    "titulo": "US traveler allowed to fly on after 19 live rounds found in luggage at Incheon airport",
    "date": "2026-11-13",
    "desc": "US traveler allowed to fly on after 19 live rounds found in luggage at Incheon airport"
+  },
+  {
+   "id": "cade9fef6089",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573998.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-crisis-scrutiny-agency/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia crisis spurs scrutiny of agency that oversees chip curbs",
+   "date": "2026-11-13",
+   "desc": "Nvidia crisis spurs scrutiny of agency that oversees chip curbs"
+  },
+  {
+   "id": "b9fc425e145d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573997.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-arm-ceo-haas-huang/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia approaches Arm CEO Haas as employees seek Huang’s return, reports say",
+   "date": "2026-11-13",
+   "desc": "Nvidia approaches Arm CEO Haas as employees seek Huang’s return, reports say"
+  },
+  {
+   "id": "a224bdd08b3b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573996.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/world/departing-us-flights-grounded/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "All departing U.S. flights grounded due to communication outage",
+   "date": "2026-11-13",
+   "desc": "All departing U.S. flights grounded due to communication outage"
+  },
+  {
+   "id": "76abb0c1f7cb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573709.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/14/tv-streaming/love-village-season-3/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Love Village’ is a warts-and-all take on the realities of middle-aged romance",
+   "date": "2026-11-13",
+   "desc": "‘Love Village’ is a warts-and-all take on the realities of middle-aged romance"
+  },
+  {
+   "id": "29a66315c926",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573611.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/14/travel/camping-japan-travel-hiking-mountains-guide/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "A beginner’s guide to camping in Japan",
+   "date": "2026-11-13",
+   "desc": "A beginner’s guide to camping in Japan"
+  },
+  {
+   "id": "276f3faab264",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573694.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/14/digital/switch-2-sports-resort-nintendo-golf-tennis/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "In a crowded fall, ‘Nintendo Switch Sports Resort’ is a casual gem",
+   "date": "2026-11-13",
+   "desc": "In a crowded fall, ‘Nintendo Switch Sports Resort’ is a casual gem"
+  },
+  {
+   "id": "dc805af3c409",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/snugwanakgatethumb1280x768-179-5300-5169-1794297522.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ZLbOPZSXzKOKICfGrAII3w",
+   "url": "https://e.vnexpress.net/news/news/education/south-korea-s-top-university-considers-748-monthly-stipend-free-tuition-for-first-foreign-only-class-5142935.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "South Korea's top university considers $748 monthly stipend, free tuition for first foreign-only class",
+   "date": "2026-11-13",
+   "desc": "South Korea's top university considers $748 monthly stipend, free tuition for first foreign-only class"
+  },
+  {
+   "id": "fc3107c70698",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/bangkokgamblingthumb1200x720-1-4492-1140-1794557181.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rKWNf4uRTAM27Z1Ip4aFnA",
+   "url": "https://e.vnexpress.net/news/news/crime/chinese-fugitive-behind-1-5b-football-betting-site-arrested-in-thailand-5144320.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Chinese fugitive behind $1.5B football betting site arrested in Thailand",
+   "date": "2026-11-13",
+   "desc": "Chinese fugitive behind $1.5B football betting site arrested in Thailand"
   },
   {
    "id": "6eeb337c914d",
@@ -2910,96 +3000,6 @@
    "titulo": "High waves around Ogasawara Islands expected as Typhoon In-fa approaches",
    "date": "2026-11-04",
    "desc": "High waves around Ogasawara Islands expected as Typhoon In-fa approaches"
-  },
-  {
-   "id": "84890551648d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572203.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/04/tennis/djokovic-paris-masters-opener/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Djokovic battles through Paris Masters opener",
-   "date": "2026-11-04",
-   "desc": "Djokovic battles through Paris Masters opener"
-  },
-  {
-   "id": "ad63e9bb0c4c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572186.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/manhole-card-collectors/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Manhole card’ collectors’ bad behavior forces some municipalities to end distribution",
-   "date": "2026-11-04",
-   "desc": "‘Manhole card’ collectors’ bad behavior forces some municipalities to end distribution"
-  },
-  {
-   "id": "55a63bd53fa5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572202.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/04/more-sports/camara-ocon-hirakawa-haas/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Camara to make home F1 debut in Brazil as Haas rules out Ocon’s return",
-   "date": "2026-11-04",
-   "desc": "Camara to make home F1 debut in Brazil as Haas rules out Ocon’s return"
-  },
-  {
-   "id": "71d8ff85b343",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/videocapture-1793760091-8640-1793760248.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=t4xVJwWESatXgk6DLckxsQ",
-   "url": "https://e.vnexpress.net/news/news/traffic/hcmc-to-build-2-pedestrian-bridges-over-busy-downtown-street-to-saigon-river-park-5140543.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "HCMC to build 2 pedestrian bridges over busy downtown street to Saigon River park",
-   "date": "2026-11-04",
-   "desc": "HCMC to build 2 pedestrian bridges over busy downtown street to Saigon River park"
-  },
-  {
-   "id": "5d9632ff237a",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/vnuhola-1793683813-3926-1793683857.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=hmH66WcFgjj8ICaDUne8RQ",
-   "url": "https://e.vnexpress.net/news/news/education/vietnam-has-record-33-universities-in-2027-qs-asian-rankings-despite-widespread-declines-5140426.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam has record 33 universities in 2027 QS Asian rankings, despite widespread declines",
-   "date": "2026-11-04",
-   "desc": "Vietnam has record 33 universities in 2027 QS Asian rankings, despite widespread declines"
-  },
-  {
-   "id": "94d1f43a4d73",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/yrcidwh3tvjhxeakgjitrpg564-179-1674-8907-1793763840.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=p1aYKf6yrIE3-MXnRLXR_Q",
-   "url": "https://e.vnexpress.net/news/news/traffic/guangzhou-airport-reclaims-title-as-china-s-busiest-5140502.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Guangzhou airport reclaims title as China's busiest",
-   "date": "2026-11-04",
-   "desc": "Guangzhou airport reclaims title as China's busiest"
-  },
-  {
-   "id": "9241c24f847b",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/lu-lut-thai-lan-jpeg-179375758-7004-4544-1793757712.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=eAsMtTyxS-un6dXtziYNOw",
-   "url": "https://e.vnexpress.net/news/news/environment/thailand-urges-residents-to-prepare-72-hour-emergency-bags-5140504.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Thailand urges residents to prepare 72-hour emergency bags",
-   "date": "2026-11-04",
-   "desc": "Thailand urges residents to prepare 72-hour emergency bags"
-  },
-  {
-   "id": "df5da79fc989",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/03/rdctqcf725lhjjxdb3t4hcd5ui-179-7349-8050-1793673917.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=MAkx8dZzZlk0LpVI2NACKA",
-   "url": "https://e.vnexpress.net/news/news/traffic/japan-s-narita-international-airport-plans-to-combine-3-terminals-5140017.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Japan's Narita International Airport plans to combine 3 terminals",
-   "date": "2026-11-04",
-   "desc": "Japan's Narita International Airport plans to combine 3 terminals"
-  },
-  {
-   "id": "16cc034625a3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572269.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/germany-japan-gcap-fighter-jet/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Talk of Germany joining GCAP fighter program grows, but Japanese concerns persist",
-   "date": "2026-11-04",
-   "desc": "Talk of Germany joining GCAP fighter program grows, but Japanese concerns persist"
   }
  ]
 }
