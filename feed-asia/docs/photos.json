@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T00:52:22.010Z",
+ "atualizado": "2026-11-14T04:47:41.505Z",
  "fotos": [
   {
    "id": "9225d6602f58",
@@ -10,6 +10,96 @@
    "titulo": "Microsoft Outlook and Teams outage eases after over a day but recovery timeline uncertain",
    "date": "2026-11-14",
    "desc": "Microsoft Outlook and Teams outage eases after over a day but recovery timeline uncertain"
+  },
+  {
+   "id": "16adaf8afb2a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574008.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/defense-spending-defense-ministry-finance-ministry/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan considers setting five-year defense spending plan at ¥60 trillion",
+   "date": "2026-11-14",
+   "desc": "Japan considers setting five-year defense spending plan at ¥60 trillion"
+  },
+  {
+   "id": "220344924b5e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574000.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/rubio-international-law-icc/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Rubio labels international law a tool of elites, attacks ICC",
+   "date": "2026-11-14",
+   "desc": "Rubio labels international law a tool of elites, attacks ICC"
+  },
+  {
+   "id": "0efdd98b386f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574012.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/colby-us-submarines-asia/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Pentagon No. 3 hails subs as ‘indispensable’ to deterring foes in Pacific",
+   "date": "2026-11-14",
+   "desc": "Pentagon No. 3 hails subs as ‘indispensable’ to deterring foes in Pacific"
+  },
+  {
+   "id": "51cc18a379f5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574003.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/asean-myanmar-dilemma/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "ASEAN faces Myanmar dilemma as some members pursue closer ties",
+   "date": "2026-11-14",
+   "desc": "ASEAN faces Myanmar dilemma as some members pursue closer ties"
+  },
+  {
+   "id": "e1ef283aa5f5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574001.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/progressive-challenge-senate-schumer/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Progressive challenge to Democratic Senate chief Schumer opens fight for bolder agenda",
+   "date": "2026-11-14",
+   "desc": "Progressive challenge to Democratic Senate chief Schumer opens fight for bolder agenda"
+  },
+  {
+   "id": "ecce7c3b31c1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574009.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/japan-triple-host-nation-support-us/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "White House demanding Japan triple host-nation support for U.S. troops",
+   "date": "2026-11-14",
+   "desc": "White House demanding Japan triple host-nation support for U.S. troops"
+  },
+  {
+   "id": "e8fd5e54c377",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574007.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump to raise nuclear-arms cuts with Putin and Xi at historic trilateral summit",
+   "date": "2026-11-14",
+   "desc": "Trump to raise nuclear-arms cuts with Putin and Xi at historic trilateral summit"
+  },
+  {
+   "id": "9430bc1e0369",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/dac-hieu-1794214970-5935-1794215206.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=eMK1C8BlZgDnCzupJCNnFA",
+   "url": "https://e.vnexpress.net/news/news/education/international-biology-olympiad-medalist-leaves-hong-kong-to-inspire-next-generation-in-vietnam-5142549.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "International Biology Olympiad medalist leaves Hong Kong to inspire next generation in Vietnam",
+   "date": "2026-11-14",
+   "desc": "International Biology Olympiad medalist leaves Hong Kong to inspire next generation in Vietnam"
+  },
+  {
+   "id": "8fff04797b3b",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/14/906174912n17945674473947179456-7293-6619-1794619857.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JiBZNlK-fMWHulAmvnigyw",
+   "url": "https://e.vnexpress.net/news/news/missing-kuwaiti-tourist-found-dead-at-waterfall-in-vietnam-s-sa-pa-5144558.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Missing Kuwaiti tourist found dead at waterfall in Vietnam's Sa Pa",
+   "date": "2026-11-14",
+   "desc": "Missing Kuwaiti tourist found dead at waterfall in Vietnam's Sa Pa"
   },
   {
    "id": "d8f114ef9f9e",
@@ -2910,96 +3000,6 @@
    "titulo": "American private universities halve tuition amid projections of enrollment decline",
    "date": "2026-11-05",
    "desc": "American private universities halve tuition amid projections of enrollment decline"
-  },
-  {
-   "id": "acc01a76f329",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/koreanjapanesemarriagesthumb15-5172-4159-1793875700.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2hvW_9PBtLjwNcdEWDVowg",
-   "url": "https://e.vnexpress.net/news/news/korean-men-marry-japanese-women-in-record-number-as-k-culture-s-pull-in-japan-grows-5141293.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Korean men marry Japanese women in record number as K-culture's pull in Japan grows",
-   "date": "2026-11-05",
-   "desc": "Korean men marry Japanese women in record number as K-culture's pull in Japan grows"
-  },
-  {
-   "id": "ac8a2425c504",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/04/tsing2-jpeg-1793779291-7650-1793779557.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=K3Msc1x4tkmB3XoE9ATC5w",
-   "url": "https://e.vnexpress.net/news/news/education/china-strengthens-standing-among-asia-s-top-universities-as-singapore-slips-in-qs-rankings-5140716.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "China strengthens standing among Asia's top universities as Singapore slips in QS rankings",
-   "date": "2026-11-05",
-   "desc": "China strengthens standing among Asia's top universities as Singapore slips in QS rankings"
-  },
-  {
-   "id": "1686d4a12279",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572170.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/04/tech/google-schools-gemini-ai-search/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Google lets schools turn off Gemini, but not the AI in search",
-   "date": "2026-11-04",
-   "desc": "Google lets schools turn off Gemini, but not the AI in search"
-  },
-  {
-   "id": "7c13ab7aa25d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572165.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/serbia-leaderless-vucic-regime/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Serbia’s leaderless force starts dismantling Vucic’s regime",
-   "date": "2026-11-04",
-   "desc": "Serbia’s leaderless force starts dismantling Vucic’s regime"
-  },
-  {
-   "id": "aafcfeb2ad37",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572162.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/americans-trump-us-aid-israel/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "As Americans vote, Trump says U.S. will stop $4 billion in aid to Israel",
-   "date": "2026-11-04",
-   "desc": "As Americans vote, Trump says U.S. will stop $4 billion in aid to Israel"
-  },
-  {
-   "id": "d848615207af",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572223.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/04/basketball/wnba-record-viewing-figures/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Record 3.3 million tuned in for WNBA’s first-ever Game 7",
-   "date": "2026-11-04",
-   "desc": "Record 3.3 million tuned in for WNBA’s first-ever Game 7"
-  },
-  {
-   "id": "664e22a703b2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572211.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/north-korea-missile-test-november-4/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "North Korea fires off ‘several’ missiles in latest weapons test",
-   "date": "2026-11-04",
-   "desc": "North Korea fires off ‘several’ missiles in latest weapons test"
-  },
-  {
-   "id": "2fc105440bda",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572212.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/04/more-sports/jets-canadiens-comeback-win/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Jets beat Habs in latest four-goal comeback win in NHL history",
-   "date": "2026-11-04",
-   "desc": "Jets beat Habs in latest four-goal comeback win in NHL history"
-  },
-  {
-   "id": "f28c6d2a601e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572198.png",
-   "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/typhoon-infa/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "High waves around Ogasawara Islands expected as Typhoon In-fa approaches",
-   "date": "2026-11-04",
-   "desc": "High waves around Ogasawara Islands expected as Typhoon In-fa approaches"
   }
  ]
 }
