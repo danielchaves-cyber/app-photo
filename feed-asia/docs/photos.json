@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T12:41:47.451Z",
+ "atualizado": "2026-11-14T16:35:34.417Z",
  "fotos": [
   {
    "id": "9225d6602f58",
@@ -190,6 +190,16 @@
    "titulo": "Afghan visa overstayer in Vietnam faces prosecution for smuggling 56 compatriots into Cambodia",
    "date": "2026-11-14",
    "desc": "Afghan visa overstayer in Vietnam faces prosecution for smuggling 56 compatriots into Cambodia"
+  },
+  {
+   "id": "cf6a75c87230",
+   "img": "https://i1-vnexpress.vnecdn.net/2026/11/12/dji-1794452716.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=1CK0Tj9YpFuF9udVv_juZg",
+   "url": "https://e.vnexpress.net/photo/traffic/ho-chi-minh-citys-future-financial-hub-gets-4-major-roads-underway-5144652.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Ho Chi Minh City's future financial hub gets 4 major roads underway",
+   "date": "2026-11-14",
+   "desc": "Ho Chi Minh City's future financial hub gets 4 major roads underway"
   },
   {
    "id": "d8f114ef9f9e",
@@ -2990,16 +3000,6 @@
    "titulo": "Thailand bans textbook on national security grounds",
    "date": "2026-11-05",
    "desc": "Thailand bans textbook on national security grounds"
-  },
-  {
-   "id": "1211e3ebd753",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572559.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/takaichi-climate-summit/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Takaichi to skip U.N. climate summit in Turkey",
-   "date": "2026-11-05",
-   "desc": "Takaichi to skip U.N. climate summit in Turkey"
   }
  ]
 }
