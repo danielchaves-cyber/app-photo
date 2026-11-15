@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T04:51:59.692Z",
+ "atualizado": "2026-11-15T08:48:11.819Z",
  "fotos": [
   {
    "id": "a04228267791",
@@ -90,6 +90,86 @@
    "titulo": "Vietnam's top leader To Lam meets with Cambodian Senate President Hun Sen",
    "date": "2026-11-15",
    "desc": "Vietnam's top leader To Lam meets with Cambodian Senate President Hun Sen"
+  },
+  {
+   "id": "c6ee5c04f02d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574123.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/politics/francophone-summit-congo-rwanda/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Francophone summit opens with Congo, Rwandan clash",
+   "date": "2026-11-15",
+   "desc": "Francophone summit opens with Congo, Rwandan clash"
+  },
+  {
+   "id": "646c4b6daf7a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574112.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/asean-manila-summit-myanmar/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan",
+   "date": "2026-11-15",
+   "desc": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan"
+  },
+  {
+   "id": "895981528499",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574113.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/ukraine-flying-evacuation-drones/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "In the ‘kill zone’, Ukraine bets on flying evacuation drones",
+   "date": "2026-11-15",
+   "desc": "In the ‘kill zone’, Ukraine bets on flying evacuation drones"
+  },
+  {
+   "id": "0dcb5dac739b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574110.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/south-korea-ai-test-cheating/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "South Korea probes top exam scorer after AI cheating confession",
+   "date": "2026-11-15",
+   "desc": "South Korea probes top exam scorer after AI cheating confession"
+  },
+  {
+   "id": "7c4a7b9b32ff",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574108.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/beijing-drone-ban/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Drone ownership ban comes into force in Beijing over security concerns",
+   "date": "2026-11-15",
+   "desc": "Drone ownership ban comes into force in Beijing over security concerns"
+  },
+  {
+   "id": "c0f47b890e22",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574107.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/iran-bahrain-us-attack/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Bahrain issues first threat alerts since September as Iran says it attacked U.S. base",
+   "date": "2026-11-15",
+   "desc": "Bahrain issues first threat alerts since September as Iran says it attacked U.S. base"
+  },
+  {
+   "id": "f372d69b46c5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574111.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/trilateral-us-china-russia-trump-xi-putin/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump-Putin-Xi meeting likely to be short on substance, rich in symbolism",
+   "date": "2026-11-15",
+   "desc": "Trump-Putin-Xi meeting likely to be short on substance, rich in symbolism"
+  },
+  {
+   "id": "e5ace1e4737e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/573617.jpg",
+   "url": "https://www.japantimes.co.jp/community/2026/11/15/voices/dei-policies-japan/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "As more foreign nationals join Japan’s workforce, diversity policies take on new importance",
+   "date": "2026-11-15",
+   "desc": "As more foreign nationals join Japan’s workforce, diversity policies take on new importance"
   },
   {
    "id": "9225d6602f58",
@@ -2920,86 +3000,6 @@
    "titulo": "Which Asian city is world's best for public transport?",
    "date": "2026-11-06",
    "desc": "Which Asian city is world's best for public transport?"
-  },
-  {
-   "id": "6697b10d5b8f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572843.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/trump-congress-tariffs-clash/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Trump and U.S. Congress set to clash over economic costs of tariffs",
-   "date": "2026-11-06",
-   "desc": "Trump and U.S. Congress set to clash over economic costs of tariffs"
-  },
-  {
-   "id": "a54b6686322e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572335.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/05/soccer/jesus-owono-collision-statement/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Goalkeeper Jesus Owono breaks silence after collision with Jesus De Miguel",
-   "date": "2026-11-05",
-   "desc": "Goalkeeper Jesus Owono breaks silence after collision with Jesus De Miguel"
-  },
-  {
-   "id": "ea3b4421b6e2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572399.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/us-marine-okinawa-training-death/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "U.S. Marine dies during training in Okinawa",
-   "date": "2026-11-05",
-   "desc": "U.S. Marine dies during training in Okinawa"
-  },
-  {
-   "id": "41d2c28ebc4a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572338.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/politics/tokyo-us-midterm-fallout/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Tokyo braces for fallout from the U.S. midterms",
-   "date": "2026-11-05",
-   "desc": "Tokyo braces for fallout from the U.S. midterms"
-  },
-  {
-   "id": "d7f8861c0f2e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572373.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/nidec-short-seller-corporate-governance/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nidec scandal exposes limits of Japan reform, Muddy Waters says",
-   "date": "2026-11-05",
-   "desc": "Nidec scandal exposes limits of Japan reform, Muddy Waters says"
-  },
-  {
-   "id": "f3e8e834c953",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572361.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/society/calligraphy-unesco-list/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japanese calligraphy poised to join UNESCO intangible cultural heritage list",
-   "date": "2026-11-05",
-   "desc": "Japanese calligraphy poised to join UNESCO intangible cultural heritage list"
-  },
-  {
-   "id": "c6dcd5dd8a4d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572363.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/china-trump-defeat-risks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "China keeps faith in Trump even as ‘total defeat’ adds new risks",
-   "date": "2026-11-05",
-   "desc": "China keeps faith in Trump even as ‘total defeat’ adds new risks"
-  },
-  {
-   "id": "990dc7db196c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/572358.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/05/companies/mitsui-chemicals-jsr-acquisition/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Mitsui Chemicals eyes acquisition of JSR for over ¥1 trillion",
-   "date": "2026-11-05",
-   "desc": "Mitsui Chemicals eyes acquisition of JSR for over ¥1 trillion"
   }
  ]
 }
