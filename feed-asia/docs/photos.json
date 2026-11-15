@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T12:43:06.626Z",
+ "atualizado": "2026-11-15T16:36:40.763Z",
  "fotos": [
   {
    "id": "a04228267791",
@@ -240,6 +240,16 @@
    "titulo": "Taiwan Indigenous farmer revives climate-resilient millet",
    "date": "2026-11-15",
    "desc": "Taiwan Indigenous farmer revives climate-resilient millet"
+  },
+  {
+   "id": "c07ff43290e8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574149.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/15/baseball/japan-korea-apbc-final/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Samurai Japan beats South Korea to win Asia Professional Baseball Championship",
+   "date": "2026-11-15",
+   "desc": "Samurai Japan beats South Korea to win Asia Professional Baseball Championship"
   },
   {
    "id": "9225d6602f58",
@@ -2990,16 +3000,6 @@
    "titulo": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest",
    "date": "2026-11-06",
    "desc": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest"
-  },
-  {
-   "id": "b3723c24de1a",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/wm1-wm1-chay-truong-1793956657-7276-1793956703.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=S5eTGuxQVZYjhi9hhW3E0w",
-   "url": "https://e.vnexpress.net/news/news/students-recount-moments-of-panic-as-fire-engulfs-hanoi-school-killing-one-5141651.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Students recount moments of panic as fire engulfs Hanoi school, killing one",
-   "date": "2026-11-06",
-   "desc": "Students recount moments of panic as fire engulfs Hanoi school, killing one"
   }
  ]
 }
