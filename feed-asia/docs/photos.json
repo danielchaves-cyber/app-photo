@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T17:07:20.598Z",
+ "atualizado": "2026-11-16T20:47:00.020Z",
  "fotos": [
   {
    "id": "a06f427a610b",
@@ -340,6 +340,26 @@
    "titulo": "Japan’s Babymetal, Lisa nominated for new Asian pop Grammy",
    "date": "2026-11-16",
    "desc": "Japan’s Babymetal, Lisa nominated for new Asian pop Grammy"
+  },
+  {
+   "id": "f648b85549e2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574412.JPG",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/17/entertainment-news/robert-pattinson-james-bond/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "British actor Robert Pattinson named as new James Bond",
+   "date": "2026-11-16",
+   "desc": "British actor Robert Pattinson named as new James Bond"
+  },
+  {
+   "id": "3b6b759584d7",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574409.JPG",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/17/entertainment-news/rock-hall-fame-music/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Wu-Tang Clan, Queen Latifah, Phil Collins join Rock Hall of Fame",
+   "date": "2026-11-16",
+   "desc": "Wu-Tang Clan, Queen Latifah, Phil Collins join Rock Hall of Fame"
   },
   {
    "id": "a04228267791",
@@ -2980,26 +3000,6 @@
    "titulo": "ICE arrests UC Berkeley student and asylum seeker at San Francisco airport",
    "date": "2026-11-07",
    "desc": "ICE arrests UC Berkeley student and asylum seeker at San Francisco airport"
-  },
-  {
-   "id": "66877f067418",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/st-1793936198.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=19PXc5mGxtH8R7sgUnjy5A",
-   "url": "https://e.vnexpress.net/photo/traffic/new-pedestrian-overpasses-set-to-transform-downtown-ho-chi-minh-citys-riverfront-5141800.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "New pedestrian overpasses set to transform downtown Ho Chi Minh City's riverfront",
-   "date": "2026-11-07",
-   "desc": "New pedestrian overpasses set to transform downtown Ho Chi Minh City's riverfront"
-  },
-  {
-   "id": "0bfa0c6cc643",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/07/wm1wm1anh28jpg1793961590778817-9049-6382-1794024492.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=H8asurV6OiAoIoATa10hxA",
-   "url": "https://e.vnexpress.net/news/news/traffic/authority-proposes-delaying-long-thanh-airport-catering-ground-handling-projects-5141849.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Authority proposes delaying Long Thanh airport catering, ground-handling projects",
-   "date": "2026-11-07",
-   "desc": "Authority proposes delaying Long Thanh airport catering, ground-handling projects"
   }
  ]
 }
