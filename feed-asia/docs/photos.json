@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T14:57:55.552Z",
+ "atualizado": "2026-11-16T17:07:20.598Z",
  "fotos": [
   {
    "id": "a06f427a610b",
@@ -330,6 +330,16 @@
    "titulo": "A Russian bribe the size of Europe",
    "date": "2026-11-16",
    "desc": "A Russian bribe the size of Europe"
+  },
+  {
+   "id": "c083b7d3e723",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574399.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/17/entertainment-news/japan-grammy-nominations-2026/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s Babymetal, Lisa nominated for new Asian pop Grammy",
+   "date": "2026-11-16",
+   "desc": "Japan’s Babymetal, Lisa nominated for new Asian pop Grammy"
   },
   {
    "id": "a04228267791",
@@ -2990,16 +3000,6 @@
    "titulo": "Authority proposes delaying Long Thanh airport catering, ground-handling projects",
    "date": "2026-11-07",
    "desc": "Authority proposes delaying Long Thanh airport catering, ground-handling projects"
-  },
-  {
-   "id": "216b5dc3d4b8",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/07/lisata2-1794044685-4176-1794044748.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=RSHJqH0Fa5Cqhd7KY-dNrQ",
-   "url": "https://e.vnexpress.net/news/news/crime/homicide-squad-takes-over-hunt-for-13-year-old-vietnamese-girl-missing-in-berlin-5141932.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Homicide squad takes over hunt for 13-year-old Vietnamese girl missing in Berlin",
-   "date": "2026-11-07",
-   "desc": "Homicide squad takes over hunt for 13-year-old Vietnamese girl missing in Berlin"
   }
  ]
 }
