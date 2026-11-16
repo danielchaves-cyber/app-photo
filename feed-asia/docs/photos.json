@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T10:12:41.819Z",
+ "atualizado": "2026-11-16T14:57:55.552Z",
  "fotos": [
   {
    "id": "a06f427a610b",
@@ -290,6 +290,46 @@
    "titulo": "Vietnam cancer deaths surge 2.4-fold in 5 years, lung cancer leads fatalities",
    "date": "2026-11-16",
    "desc": "Vietnam cancer deaths surge 2.4-fold in 5 years, lung cancer leads fatalities"
+  },
+  {
+   "id": "d13f99d34d23",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574398.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/16/ntt-docomo-nov16-network-glitch/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "NTT Docomo hit by another network glitch",
+   "date": "2026-11-16",
+   "desc": "NTT Docomo hit by another network glitch"
+  },
+  {
+   "id": "01c38b273d2b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574397.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/princess-aiko-singapore/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Princess Aiko to leave for Singapore",
+   "date": "2026-11-16",
+   "desc": "Princess Aiko to leave for Singapore"
+  },
+  {
+   "id": "0ab8f48a3d4d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574396.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/16/world/us-airports-returning-normal-disruption/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. airports slowly return to normal after three days of disruption",
+   "date": "2026-11-16",
+   "desc": "U.S. airports slowly return to normal after three days of disruption"
+  },
+  {
+   "id": "d40fde267e3c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/573501.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/16/world/russian-trump-bribe/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "A Russian bribe the size of Europe",
+   "date": "2026-11-16",
+   "desc": "A Russian bribe the size of Europe"
   },
   {
    "id": "a04228267791",
@@ -2960,46 +3000,6 @@
    "titulo": "Homicide squad takes over hunt for 13-year-old Vietnamese girl missing in Berlin",
    "date": "2026-11-07",
    "desc": "Homicide squad takes over hunt for 13-year-old Vietnamese girl missing in Berlin"
-  },
-  {
-   "id": "a6930d88d8b1",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/hai-an-1793278195-2942-1793282453.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wGrv4xS8OYhsk-BIhWYoEA",
-   "url": "https://e.vnexpress.net/news/news/education/student-chosen-by-fields-medalist-ngo-bao-chau-for-top-scholarship-sees-math-as-foundation-of-science-5140174.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Student chosen by Fields Medalist Ngo Bao Chau for top scholarship sees math as foundation of science",
-   "date": "2026-11-07",
-   "desc": "Student chosen by Fields Medalist Ngo Bao Chau for top scholarship sees math as foundation of science"
-  },
-  {
-   "id": "72e7b79224fe",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/07/vvv-1794044157-7048-1794044179.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6wSjHzSoV-eLDzqXqbkQpA",
-   "url": "https://e.vnexpress.net/news/news/vietnam-eyes-24-7-entertainment-zones-tax-holidays-for-billion-dollar-tourism-projects-5141908.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam eyes 24/7 entertainment zones, tax holidays for billion-dollar tourism projects",
-   "date": "2026-11-07",
-   "desc": "Vietnam eyes 24/7 entertainment zones, tax holidays for billion-dollar tourism projects"
-  },
-  {
-   "id": "a5edbf1fda38",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/571975.jpg",
-   "url": "https://www.japantimes.co.jp/life/2026/11/08/food-drink/naohiko-noguchi-living-national-treasure-sake-japan/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "A toast to Naohiko Noguchi, sake’s first living national treasure",
-   "date": "2026-11-07",
-   "desc": "A toast to Naohiko Noguchi, sake’s first living national treasure"
-  },
-  {
-   "id": "55011b9887df",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/571963.jpg",
-   "url": "https://www.japantimes.co.jp/life/2026/11/08/food-drink/curry-roux-cube-recipe-kakushi-aji-hidden-flavor/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "A curry palette for all your ‘hidden flavors’",
-   "date": "2026-11-07",
-   "desc": "A curry palette for all your ‘hidden flavors’"
   }
  ]
 }
