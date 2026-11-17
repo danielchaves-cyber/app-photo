@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T08:55:09.483Z",
+ "atualizado": "2026-11-17T12:57:57.898Z",
  "fotos": [
   {
    "id": "a7c2d579188f",
@@ -280,6 +280,66 @@
    "titulo": "China's waste-to-energy plant draws visitors with art, coffee and striking design",
    "date": "2026-11-17",
    "desc": "China's waste-to-energy plant draws visitors with art, coffee and striking design"
+  },
+  {
+   "id": "4f28fcc0467a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574586.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/politics/quad-leaders-summit-takaichi-trump/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump joins ‘Quad’ summit for first leaders’ meeting in two years",
+   "date": "2026-11-17",
+   "desc": "Trump joins ‘Quad’ summit for first leaders’ meeting in two years"
+  },
+  {
+   "id": "5a9ad0329d38",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574584.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/teaching-license-obtain-ease/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan to make teaching licenses easier to obtain",
+   "date": "2026-11-17",
+   "desc": "Japan to make teaching licenses easier to obtain"
+  },
+  {
+   "id": "5c38c67333a4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574581.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/science-health/hayabusa2-probe-changes-course/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan space probe changes target over engine trouble",
+   "date": "2026-11-17",
+   "desc": "Japan space probe changes target over engine trouble"
+  },
+  {
+   "id": "06d57fb36fae",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574579.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/bear-loose-maebashi/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mother bear on the loose prompts city in Gunma Prefecture to shut schools",
+   "date": "2026-11-17",
+   "desc": "Mother bear on the loose prompts city in Gunma Prefecture to shut schools"
+  },
+  {
+   "id": "8becf011997d",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/16/student-jpeg-1794818231-6864-1794820238.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=bOmLZjyl1reXMJbTaxUbpQ",
+   "url": "https://e.vnexpress.net/news/news/education/us-students-increasingly-shift-from-bachelor-s-degrees-to-shorter-career-focused-programs-5145299.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "​US students increasingly shift from bachelor's degrees to shorter, career-focused programs",
+   "date": "2026-11-17",
+   "desc": "​US students increasingly shift from bachelor's degrees to shorter, career-focused programs"
+  },
+  {
+   "id": "35f7b29339e3",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/vna-potal-tong-bi-thu-chu-1794-6066-6803-1794906176.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=uHTfiYNHcvsRPhIEBOVYdQ",
+   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-lam-holds-talks-with-xi-jinping-in-shenzhen-5145738.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's top leader To Lam holds talks with Xi Jinping in Shenzhen",
+   "date": "2026-11-17",
+   "desc": "Vietnam's top leader To Lam holds talks with Xi Jinping in Shenzhen"
   },
   {
    "id": "a06f427a610b",
@@ -2940,66 +3000,6 @@
    "titulo": "Nvidia scandal creates risks for whole AI industry, not just CEO",
    "date": "2026-11-09",
    "desc": "Nvidia scandal creates risks for whole AI industry, not just CEO"
-  },
-  {
-   "id": "0156ad0fcde3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573074.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/politics/russia-ukraine-ceasefire-territory/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Russia, Ukraine envoys to talk ceasefire monitoring, territory",
-   "date": "2026-11-09",
-   "desc": "Russia, Ukraine envoys to talk ceasefire monitoring, territory"
-  },
-  {
-   "id": "063427b1e1c3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573075.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/politics/hegseth-crimes-impeachment/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Hegseth accused of crimes, misconduct in impeachment effort",
-   "date": "2026-11-09",
-   "desc": "Hegseth accused of crimes, misconduct in impeachment effort"
-  },
-  {
-   "id": "5adc0a472b8a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572949.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/10/film/godzilla-minus-zero-takashi-yamazaki-interview/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Godzilla Minus Zero’ director sees the monster as a mirror",
-   "date": "2026-11-09",
-   "desc": "‘Godzilla Minus Zero’ director sees the monster as a mirror"
-  },
-  {
-   "id": "b625d6b636b1",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/08/4a685d4e-dd7fec0bc8-1794098454-1332-1794098470.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=WbnwUhcTEyVP72EnSkXHiQ",
-   "url": "https://e.vnexpress.net/news/news/traffic/two-ho-chi-minh-city-students-win-iphone-17s-for-frequent-bus-travel-5142061.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Two Ho Chi Minh City students win iPhone 17s for frequent bus travel",
-   "date": "2026-11-08",
-   "desc": "Two Ho Chi Minh City students win iPhone 17s for frequent bus travel"
-  },
-  {
-   "id": "a21c35787a2d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572879.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/earthquake-aichi-sunday/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Magnitude 5.7 quake injures dozens in central Japan",
-   "date": "2026-11-08",
-   "desc": "Magnitude 5.7 quake injures dozens in central Japan"
-  },
-  {
-   "id": "f99e8f6a1d14",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572878.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/08/companies/softbank-abb-china-carve-out/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "SoftBank, ABB consider China carve-out to salvage robotics deal",
-   "date": "2026-11-08",
-   "desc": "SoftBank, ABB consider China carve-out to salvage robotics deal"
   }
  ]
 }
