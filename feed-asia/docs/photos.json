@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T04:54:55.673Z",
+ "atualizado": "2026-11-17T08:55:09.483Z",
  "fotos": [
   {
    "id": "a7c2d579188f",
@@ -150,6 +150,136 @@
    "titulo": "US judge tosses new visa rules for foreign students, journalists",
    "date": "2026-11-17",
    "desc": "US judge tosses new visa rules for foreign students, journalists"
+  },
+  {
+   "id": "c669f484281d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574424.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/17/books/admiral-yamamoto-book/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "New biography of WWII admiral sets out to show his life story as a whole",
+   "date": "2026-11-17",
+   "desc": "New biography of WWII admiral sets out to show his life story as a whole"
+  },
+  {
+   "id": "a17ea9fc26cb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574574.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/futa-world-record-ceremony/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Chiba zoo’s Futa gets Guinness award for being oldest living red panda in captivity",
+   "date": "2026-11-17",
+   "desc": "Chiba zoo’s Futa gets Guinness award for being oldest living red panda in captivity"
+  },
+  {
+   "id": "59067bed0865",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574562.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/asia-pacific/politics/trump-kim-meeting-odds-rise/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Odds rise of Trump-Kim meeting on APEC sidelines, analysts say",
+   "date": "2026-11-17",
+   "desc": "Odds rise of Trump-Kim meeting on APEC sidelines, analysts say"
+  },
+  {
+   "id": "8cedb58fc23a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574550.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/japan-princess-aiko-singapore-visit/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Princess Aiko leaves for official visit to Singapore",
+   "date": "2026-11-17",
+   "desc": "Princess Aiko leaves for official visit to Singapore"
+  },
+  {
+   "id": "c22561275050",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574528.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/world/crime-legal/brand-walliams-uk-entertainment/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.K. entertainment industry under pressure to tighten safeguards after new case emerges",
+   "date": "2026-11-17",
+   "desc": "U.K. entertainment industry under pressure to tighten safeguards after new case emerges"
+  },
+  {
+   "id": "11b8a6f2087b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574533.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/fugaku-unauthorized-access/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s most powerful supercomputer hit by unauthorized access",
+   "date": "2026-11-17",
+   "desc": "Japan’s most powerful supercomputer hit by unauthorized access"
+  },
+  {
+   "id": "05c00b0d066d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574507.jpg",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/17/electrification-global-climate-talks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Why the electrification push at global climate talks is stalling",
+   "date": "2026-11-17",
+   "desc": "Why the electrification push at global climate talks is stalling"
+  },
+  {
+   "id": "218cbedce965",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/dji-1794888890.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=Ba72HymOYpvCkNjuGV0b4Q",
+   "url": "https://e.vnexpress.net/photo/traffic/hcmcs-largest-steel-flyover-takes-shape-at-four-level-interchange-5145622.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "HCMC's largest steel flyover takes shape at four-level interchange",
+   "date": "2026-11-17",
+   "desc": "HCMC's largest steel flyover takes shape at four-level interchange"
+  },
+  {
+   "id": "127448dbe416",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/screenshot20261117135638-17948-5407-8576-1794898685.png?w=900&h=0&q=100&dpr=1&fit=crop&s=9cCJZ-OJzSDdSM88MYwOVA",
+   "url": "https://e.vnexpress.net/news/news/traffic/chinese-electric-passenger-jet-makes-first-crewed-flight-5145677.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Chinese electric passenger jet makes first crewed flight",
+   "date": "2026-11-17",
+   "desc": "Chinese electric passenger jet makes first crewed flight"
+  },
+  {
+   "id": "57fb10376307",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/muarmatriarch61doctorsthumb124-8303-7102-1794898293.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=WUIFoZ-tyMU_Q_mE-QCnWA",
+   "url": "https://e.vnexpress.net/news/news/malaysian-rubber-tapper-with-no-schooling-dies-at-104-leaving-family-of-61-doctors-5145680.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Malaysian rubber tapper with no schooling dies at 104, leaving family of 61 doctors",
+   "date": "2026-11-17",
+   "desc": "Malaysian rubber tapper with no schooling dies at 104, leaving family of 61 doctors"
+  },
+  {
+   "id": "c902c4d8e8e2",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/mekongzombiefishthumb1500x900-7055-3967-1794898595.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=a41nqKsWpF1NQHN5VGP4hw",
+   "url": "https://e.vnexpress.net/news/news/environment/zombie-fish-covered-in-blisters-found-in-mekong-5145678.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "'Zombie fish' covered in blisters found in Mekong",
+   "date": "2026-11-17",
+   "desc": "'Zombie fish' covered in blisters found in Mekong"
+  },
+  {
+   "id": "015af6fcb377",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/kohsamuithaiidthumb1500x900-17-5733-7651-1794898129.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LHLj6cLRuLei4d5JvdgXLg",
+   "url": "https://e.vnexpress.net/news/news/crime/indian-man-s-1-770-shortcut-to-thai-citizenship-ends-in-arrest-after-face-scan-5145679.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Indian man's $1,770 shortcut to Thai citizenship ends in arrest after face scan",
+   "date": "2026-11-17",
+   "desc": "Indian man's $1,770 shortcut to Thai citizenship ends in arrest after face scan"
+  },
+  {
+   "id": "fdf6de5ba356",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/videocapture1794896347051-1794-4768-2194-1794896645.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=n4LGW_FBlb0rmwT8KBUcLA",
+   "url": "https://e.vnexpress.net/news/news/environment/china-s-waste-to-energy-plant-draws-visitors-with-art-coffee-and-striking-design-5145675.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "China's waste-to-energy plant draws visitors with art, coffee and striking design",
+   "date": "2026-11-17",
+   "desc": "China's waste-to-energy plant draws visitors with art, coffee and striking design"
   },
   {
    "id": "a06f427a610b",
@@ -2870,136 +3000,6 @@
    "titulo": "SoftBank, ABB consider China carve-out to salvage robotics deal",
    "date": "2026-11-08",
    "desc": "SoftBank, ABB consider China carve-out to salvage robotics deal"
-  },
-  {
-   "id": "826528d34d4e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572874.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/nuclear-disaster-drill-tomari-plant/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan holds nuclear disaster drill simulating Tomari plant accident",
-   "date": "2026-11-08",
-   "desc": "Japan holds nuclear disaster drill simulating Tomari plant accident"
-  },
-  {
-   "id": "0710beaba1d8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572872.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/astellas-employee-release-december/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Astellas employee to be released from China prison in December",
-   "date": "2026-11-08",
-   "desc": "Astellas employee to be released from China prison in December"
-  },
-  {
-   "id": "249bb90e89c2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572875.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/08/tech/china-clean-tech-climate/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "How China’s clean-tech machine is reshaping the global climate fight",
-   "date": "2026-11-08",
-   "desc": "How China’s clean-tech machine is reshaping the global climate fight"
-  },
-  {
-   "id": "b6c5dba3fe9b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572873.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/08/asia-pacific/politics/indonesia-data-centers/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Can’t cook or shower: Indonesians take aim at data centers",
-   "date": "2026-11-08",
-   "desc": "Can’t cook or shower: Indonesians take aim at data centers"
-  },
-  {
-   "id": "ad5d1aa58a6d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572487.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/08/film/grotesqqque/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Sci-fi anime anthology ‘Grotesqqque’ prizes style over substance",
-   "date": "2026-11-08",
-   "desc": "Sci-fi anime anthology ‘Grotesqqque’ prizes style over substance"
-  },
-  {
-   "id": "50137dda296a",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/08/000z7tq-1794106727-2397-1794107429.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6uqhlTJqXeKy-OZ9iSZpbQ",
-   "url": "https://e.vnexpress.net/news/news/environment/singapore-targets-at-least-40-reduction-in-emissions-from-aviation-fuels-5142096.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singapore targets at least 40% reduction in emissions from aviation fuels",
-   "date": "2026-11-08",
-   "desc": "Singapore targets at least 40% reduction in emissions from aviation fuels"
-  },
-  {
-   "id": "890d3d63ca8d",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/08/vna-potal-tong-bi-thu-chu-tich-5277-4470-1794108505.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=BG9xs2_QQxaPURRo4FGPsQ",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-and-spouse-depart-for-official-visit-to-japan-5142100.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's top leader and spouse depart for official visit to Japan",
-   "date": "2026-11-08",
-   "desc": "Vietnam's top leader and spouse depart for official visit to Japan"
-  },
-  {
-   "id": "fb28bb1505b2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572889.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/08/dutchman-spaniard-ecb-presidency/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Dutchman and Spaniard in two-horse race for ECB presidency",
-   "date": "2026-11-08",
-   "desc": "Dutchman and Spaniard in two-horse race for ECB presidency"
-  },
-  {
-   "id": "ce956be7c8b6",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572887.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/godzilla-megamullion-heritage/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "JCG-discovered ‘Godzilla’ seafloor formation wins heritage status",
-   "date": "2026-11-08",
-   "desc": "JCG-discovered ‘Godzilla’ seafloor formation wins heritage status"
-  },
-  {
-   "id": "d73d6c8706a2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572881.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/08/tv-streaming/azerbaijan-vivant/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Azerbaijan welcoming ‘set-jetting’ fans of Japan TV drama ‘Vivant’",
-   "date": "2026-11-08",
-   "desc": "Azerbaijan welcoming ‘set-jetting’ fans of Japan TV drama ‘Vivant’"
-  },
-  {
-   "id": "931b44bd46e5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/572891.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/08/music/eurovision-pop-politics-asia/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Eurovision brings pop and politics to Asia",
-   "date": "2026-11-08",
-   "desc": "Eurovision brings pop and politics to Asia"
-  },
-  {
-   "id": "17a806baf06a",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/08/1-1794123889-4448-1794124269.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=xQHwsyX0wJi9VUajilX-6Q",
-   "url": "https://e.vnexpress.net/news/news/thai-king-stages-grand-river-procession-to-celebrate-queen-suthida-s-48th-birthday-5142163.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Thai King stages grand river procession to celebrate Queen Suthida's 48th birthday",
-   "date": "2026-11-08",
-   "desc": "Thai King stages grand river procession to celebrate Queen Suthida's 48th birthday"
-  },
-  {
-   "id": "73dc91164a47",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/08/cv-y7-p46-nn-xmq-f6-eljqdcgq-j-2068-5432-1794119202.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=jS6-gARL-hhvQtGuAf7hiw",
-   "url": "https://e.vnexpress.net/news/news/crime/malaysian-king-at-odds-with-attorney-general-over-ex-pm-najib-s-pardon-5142150.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Malaysian king at odds with attorney general over ex-PM Najib's pardon",
-   "date": "2026-11-08",
-   "desc": "Malaysian king at odds with attorney general over ex-PM Najib's pardon"
   }
  ]
 }
