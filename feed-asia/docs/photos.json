@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T12:57:57.898Z",
+ "atualizado": "2026-11-17T16:57:34.454Z",
  "fotos": [
   {
    "id": "a7c2d579188f",
@@ -340,6 +340,16 @@
    "titulo": "Vietnam's top leader To Lam holds talks with Xi Jinping in Shenzhen",
    "date": "2026-11-17",
    "desc": "Vietnam's top leader To Lam holds talks with Xi Jinping in Shenzhen"
+  },
+  {
+   "id": "0aad5a3fcf4b",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/koreanmenobesitythumb1500x900-2394-8266-1794297225.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=gwkK23L7TlR05rTQ7ni2ug",
+   "url": "https://e.vnexpress.net/news/news/more-than-half-of-men-in-their-30s-and-40s-count-as-obese-in-south-korea-5142943.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "More than half of men in their 30s and 40s count as obese in South Korea",
+   "date": "2026-11-17",
+   "desc": "More than half of men in their 30s and 40s count as obese in South Korea"
   },
   {
    "id": "a06f427a610b",
@@ -2990,16 +3000,6 @@
    "titulo": "Japan’s search for a better public trash bin — and why robots may help",
    "date": "2026-11-09",
    "desc": "Japan’s search for a better public trash bin — and why robots may help"
-  },
-  {
-   "id": "0f753493d798",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573070.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/10/tech/nvidia-scandal-ai-industry-ceo/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nvidia scandal creates risks for whole AI industry, not just CEO",
-   "date": "2026-11-09",
-   "desc": "Nvidia scandal creates risks for whole AI industry, not just CEO"
   }
  ]
 }
