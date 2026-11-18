@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T13:01:51.909Z",
+ "atualizado": "2026-11-18T16:59:09.833Z",
  "fotos": [
   {
    "id": "43ad49f3d908",
@@ -320,6 +320,16 @@
    "titulo": "Xi greets Trump at China airport ahead of summit with Putin",
    "date": "2026-11-18",
    "desc": "Xi greets Trump at China airport ahead of summit with Putin"
+  },
+  {
+   "id": "8e7e6f05b41f",
+   "img": "https://i1-english.vnecdn.net/2026/11/18/tong-bi-thu-chu-tich-nuoc-to-l-4100-9384-1795011552.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JXC1qXOkfAVZyV5GdGp3hA",
+   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-lam-meets-with-russian-president-vladimir-putin-5146300.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam’s top leader To Lam meets with Russian President Vladimir Putin",
+   "date": "2026-11-18",
+   "desc": "Vietnam’s top leader To Lam meets with Russian President Vladimir Putin"
   },
   {
    "id": "a7c2d579188f",
@@ -2990,16 +3000,6 @@
    "titulo": "Are Japan and the U.S. losing South Korea as an ally?",
    "date": "2026-11-10",
    "desc": "Are Japan and the U.S. losing South Korea as an ally?"
-  },
-  {
-   "id": "6ea7a3141e8b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/572885.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/10/world/lame-duck-trump-plan/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "U.S. allies need a plan for a lame-duck Trump",
-   "date": "2026-11-10",
-   "desc": "U.S. allies need a plan for a lame-duck Trump"
   }
  ]
 }
