@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T04:56:29.053Z",
+ "atualizado": "2026-11-18T08:57:51.914Z",
  "fotos": [
   {
    "id": "43ad49f3d908",
@@ -150,6 +150,116 @@
    "titulo": "Vietnam PM Le Minh Hung meets US President Donald Trump",
    "date": "2026-11-18",
    "desc": "Vietnam PM Le Minh Hung meets US President Donald Trump"
+  },
+  {
+   "id": "ba038dec54c4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574796.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/education-minister-censure-motion-possible/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Education minister may face censure motion over fundraiser",
+   "date": "2026-11-18",
+   "desc": "Education minister may face censure motion over fundraiser"
+  },
+  {
+   "id": "bc0cde19d129",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574788.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/18/companies/suica-new-character-rabbit/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Purple rabbit-like character wins Suica mascot contest",
+   "date": "2026-11-18",
+   "desc": "Purple rabbit-like character wins Suica mascot contest"
+  },
+  {
+   "id": "80ba76218b7c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574749.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/18/sumo/basho-reports/kyushu-2026-atamifuji/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Rising star Atamifuji has been the story of the Kyushu Basho",
+   "date": "2026-11-18",
+   "desc": "Rising star Atamifuji has been the story of the Kyushu Basho"
+  },
+  {
+   "id": "5f3078116fe5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574781.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/18/asia-pacific/politics/putin-xi-china-russia-meeting-apec/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Xi and Putin blast Western ‘protectionism’ and sanctions before meeting Trump at APEC",
+   "date": "2026-11-18",
+   "desc": "Xi and Putin blast Western ‘protectionism’ and sanctions before meeting Trump at APEC"
+  },
+  {
+   "id": "027e565cf6e1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574754.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/japan-south-korea-talk/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tokyo and Seoul brace themselves ahead of Trump-Xi-Putin meeting",
+   "date": "2026-11-18",
+   "desc": "Tokyo and Seoul brace themselves ahead of Trump-Xi-Putin meeting"
+  },
+  {
+   "id": "e69b5d158758",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574758.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/18/soccer/moriyasu-legacy-japan-coach/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Historic wins but no trophies: Moriyasu’s mixed legacy as Japan coach",
+   "date": "2026-11-18",
+   "desc": "Historic wins but no trophies: Moriyasu’s mixed legacy as Japan coach"
+  },
+  {
+   "id": "edb93d7e0085",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574660.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/crime-legal/unauthorized-poker-tournament/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Four men arrested over unauthorized poker tournament, a first in Japan",
+   "date": "2026-11-18",
+   "desc": "Four men arrested over unauthorized poker tournament, a first in Japan"
+  },
+  {
+   "id": "a3425bbc3335",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574755.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/18/japan-firms-russia-business/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese firms struggle to navigate Russia operations as Moscow tightens grip",
+   "date": "2026-11-18",
+   "desc": "Japanese firms struggle to navigate Russia operations as Moscow tightens grip"
+  },
+  {
+   "id": "1d7c23f06277",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/hoankiemroadclosuresthumb1500x-6255-2186-1794986181.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=TvYbnos5lj_KZ27BhTeSMA",
+   "url": "https://e.vnexpress.net/news/news/traffic/hanoi-shuts-streets-around-central-lake-for-6-days-for-vietnam-s-first-culture-day-5146100.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Hanoi shuts streets around central lake for 6 days for Vietnam's first Culture Day",
+   "date": "2026-11-18",
+   "desc": "Hanoi shuts streets around central lake for 6 days for Vietnam's first Culture Day"
+  },
+  {
+   "id": "a3461742de80",
+   "img": "https://vcdn1-suckhoe.vnecdn.net/2026/11/18/bac-si2-1794966119-3846-1794966125.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=G1AiXwrZlORqr4BX9lNB1A",
+   "url": "https://e.vnexpress.net/news/news/vietnamese-doctors-treat-passenger-with-severe-abdominal-pain-on-beijing-bound-flight-5146067.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnamese doctors treat passenger with severe abdominal pain on Beijing-bound flight",
+   "date": "2026-11-18",
+   "desc": "Vietnamese doctors treat passenger with severe abdominal pain on Beijing-bound flight"
+  },
+  {
+   "id": "0fa6829b29dc",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/wm1wm1d56afb0cfeecb2dd15ef6cjp-8785-6675-1794977631.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=UkC6VBXI7IczC8FGtEejsA",
+   "url": "https://e.vnexpress.net/news/news/crime/vietnam-property-tycoon-on-trial-for-deceiving-519-apartment-buyers-5146074.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam property tycoon on trial for deceiving 519 apartment buyers",
+   "date": "2026-11-18",
+   "desc": "Vietnam property tycoon on trial for deceiving 519 apartment buyers"
   },
   {
    "id": "a7c2d579188f",
@@ -2890,116 +3000,6 @@
    "titulo": "Flights forced to circle over central Vietnam as thunderstorms cut airport visibility to 350 m",
    "date": "2026-11-10",
    "desc": "Flights forced to circle over central Vietnam as thunderstorms cut airport visibility to 350 m"
-  },
-  {
-   "id": "b8ac21e90fe5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573249.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/world/politics/us-house-impeach-hegseth/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "U.S. House blocks path to impeach Defense Secretary Hegseth",
-   "date": "2026-11-10",
-   "desc": "U.S. House blocks path to impeach Defense Secretary Hegseth"
-  },
-  {
-   "id": "754a9728e0ed",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572927.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/hacked-russians-killed-ukraine/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Hacked records show 400,000 Russians killed in war on Ukraine",
-   "date": "2026-11-09",
-   "desc": "Hacked records show 400,000 Russians killed in war on Ukraine"
-  },
-  {
-   "id": "d1434c5d0110",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572979.jpg",
-   "url": "https://www.japantimes.co.jp/environment/2026/11/09/climate-change/cop31-turkey-climate-war-ai/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "COP31 to open in Turkey, with climate goals under pressure from war and AI",
-   "date": "2026-11-09",
-   "desc": "COP31 to open in Turkey, with climate goals under pressure from war and AI"
-  },
-  {
-   "id": "105cbf071517",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572978.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/crime-legal/poland-krakow-victims-security/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Poland mourns victims of Krakow shooting amid security fears",
-   "date": "2026-11-09",
-   "desc": "Poland mourns victims of Krakow shooting amid security fears"
-  },
-  {
-   "id": "526619e4f190",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572960.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/politics/bank-collapse-paraguay-president/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "How a digital bank’s collapse toppled Paraguay’s president",
-   "date": "2026-11-09",
-   "desc": "How a digital bank’s collapse toppled Paraguay’s president"
-  },
-  {
-   "id": "04b1cd199346",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572959.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/kristallnacht-survivor-94-witness/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Last generation’: ‘Kristallnacht’ survivor, 94, bears witness",
-   "date": "2026-11-09",
-   "desc": "‘Last generation’: ‘Kristallnacht’ survivor, 94, bears witness"
-  },
-  {
-   "id": "3e55ca5c9233",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572981.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/09/more-sports/mercedes-constructors-championship/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Norris wins in wet Brazil as Mercedes takes constructors’ title",
-   "date": "2026-11-09",
-   "desc": "Norris wins in wet Brazil as Mercedes takes constructors’ title"
-  },
-  {
-   "id": "fe857413761f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572943.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/refugees-turkey-climate-change/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "War drove refugees into Turkey. Climate change is making it harder to leave.",
-   "date": "2026-11-09",
-   "desc": "War drove refugees into Turkey. Climate change is making it harder to leave."
-  },
-  {
-   "id": "33697dd09cc4",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572365.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/09/tv-streaming/koji-yakusho-did-someone-happen-to-mention-me/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Did Someone Happen to Mention Me?’: The comedy and horror of being forgotten",
-   "date": "2026-11-09",
-   "desc": "‘Did Someone Happen to Mention Me?’: The comedy and horror of being forgotten"
-  },
-  {
-   "id": "22866b2dce6f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/572935.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/politics/eisenkot-israeli-government-vote/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Eisenkot gets chance to form Israeli government after vote",
-   "date": "2026-11-09",
-   "desc": "Eisenkot gets chance to form Israeli government after vote"
-  },
-  {
-   "id": "043ae86683db",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/1794184748109-a6f8154de5ca13eb678e3622b1fb2493-1794186259.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=IasXKGd99jX0FXDTEl5C5g",
-   "url": "https://e.vnexpress.net/photo/traffic/rain-triggers-morning-traffic-jams-in-hanoi-5142317.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Rain triggers morning traffic jams in Hanoi",
-   "date": "2026-11-09",
-   "desc": "Rain triggers morning traffic jams in Hanoi"
   }
  ]
 }
