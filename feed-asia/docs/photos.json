@@ -1,6 +1,56 @@
 {
- "atualizado": "2026-11-17T20:49:05.101Z",
+ "atualizado": "2026-11-18T01:02:14.523Z",
  "fotos": [
+  {
+   "id": "43ad49f3d908",
+   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/4b671a15-5cfe-4ab1-a197-82b2542b2e16_dd99698d.jpg?itok=JEISZTZA&v=1794960661",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3374810/chiles-kast-meets-chinas-xi-first-time-steady-ties-strained-us-pressure",
+   "flag": "🇨🇳",
+   "src": "Igor Patrick · SCMP (Xinhua)",
+   "titulo": "Chile’s Kast meets China’s Xi for first time to steady ties strained by US pressure",
+   "date": "2026-11-18",
+   "desc": "Chile’s Kast meets China’s Xi for first time to steady ties strained by US pressure"
+  },
+  {
+   "id": "6d096b91acbf",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574612.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/18/woods-hero-world-challenge/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tiger Woods to make competitive return at December’s Hero World Challenge",
+   "date": "2026-11-18",
+   "desc": "Tiger Woods to make competitive return at December’s Hero World Challenge"
+  },
+  {
+   "id": "cc464c31e2f8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574609.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/18/tech/nvidia-upbeat-no-huang-return/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia gives upbeat outlook while quashing idea of Huang return",
+   "date": "2026-11-18",
+   "desc": "Nvidia gives upbeat outlook while quashing idea of Huang return"
+  },
+  {
+   "id": "2610cc81466f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574605.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/18/world/hoax-bomb-threats-europe/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
+   "date": "2026-11-18",
+   "desc": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports"
+  },
+  {
+   "id": "bda722065846",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/leetscorersuneungthumb1200x720-8380-9476-1794906213.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=KaQtPz6OnvBROqOpQ8CsJA",
+   "url": "https://e.vnexpress.net/news/news/education/perfect-korean-law-school-test-scorer-to-take-college-entrance-exam-on-camera-to-fight-ai-cheating-claims-5145748.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Perfect Korean law school test scorer to take college entrance exam on camera to fight AI cheating claims",
+   "date": "2026-11-18",
+   "desc": "Perfect Korean law school test scorer to take college entrance exam on camera to fight AI cheating claims"
+  },
   {
    "id": "a7c2d579188f",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574422.jpg",
@@ -350,6 +400,26 @@
    "titulo": "More than half of men in their 30s and 40s count as obese in South Korea",
    "date": "2026-11-17",
    "desc": "More than half of men in their 30s and 40s count as obese in South Korea"
+  },
+  {
+   "id": "d27575dc8e89",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574601.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/18/tech/tech-paranoia-outages-public-trust/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tech paranoia intensifies after outages roil public trust",
+   "date": "2026-11-17",
+   "desc": "Tech paranoia intensifies after outages roil public trust"
+  },
+  {
+   "id": "7a991fa7702d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574599.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/18/world/politics/trump-ukraine-push-europe/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump’s sudden Ukraine push leaves Europe walking a tightrope",
+   "date": "2026-11-17",
+   "desc": "Trump’s sudden Ukraine push leaves Europe walking a tightrope"
   },
   {
    "id": "a06f427a610b",
@@ -2930,76 +3000,6 @@
    "titulo": "Fire in China apartment building kills 14: state media",
    "date": "2026-11-09",
    "desc": "Fire in China apartment building kills 14: state media"
-  },
-  {
-   "id": "06ba720e4939",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573057.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/japan/japan-vietnam-economic-security/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan and Vietnam agree to boost economic security and energy ties",
-   "date": "2026-11-09",
-   "desc": "Japan and Vietnam agree to boost economic security and energy ties"
-  },
-  {
-   "id": "a640ebba287f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573025.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/world/politics/russia-ukraine-hotels-owner/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Russia has seized dozens of Ukrainian hotels. One owner is fighting back.",
-   "date": "2026-11-09",
-   "desc": "Russia has seized dozens of Ukrainian hotels. One owner is fighting back."
-  },
-  {
-   "id": "14bc31a54db3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573014.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/09/asia-pacific/science-health/india-dirtiest-skies-air-pollution/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Burning’: life under the world’s dirtiest skies",
-   "date": "2026-11-09",
-   "desc": "‘Burning’: life under the world’s dirtiest skies"
-  },
-  {
-   "id": "4a33a99e3d99",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/573030.JPG",
-   "url": "https://www.japantimes.co.jp/environment/2026/11/09/environmental-groups-ai-data-centers/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Environmental groups embrace AI, even as they warn of data center impacts",
-   "date": "2026-11-09",
-   "desc": "Environmental groups embrace AI, even as they warn of data center impacts"
-  },
-  {
-   "id": "542f812bc347",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/1-1794217122-9090-1794217143.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=l8-OaLhvivFSd5bdhG8Iuw",
-   "url": "https://e.vnexpress.net/news/news/crime/missing-vietnamese-girl-13-found-dead-near-german-polish-border-5142462.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Missing Vietnamese girl, 13, found dead near German-Polish border",
-   "date": "2026-11-09",
-   "desc": "Missing Vietnamese girl, 13, found dead near German-Polish border"
-  },
-  {
-   "id": "360f28f309d9",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/afp-d3-h88-zr-v3-mid-res-jpeg-3424-7252-1794221062.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=sNX7-a6TmLDuyAi_Wzqo_w",
-   "url": "https://e.vnexpress.net/news/news/environment/singapore-loses-1-8b-to-haze-crisis-exceeding-2015-record-5142592.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singapore loses $1.8B to haze crisis, exceeding 2015 record",
-   "date": "2026-11-09",
-   "desc": "Singapore loses $1.8B to haze crisis, exceeding 2015 record"
-  },
-  {
-   "id": "4b7932621f1b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/572147.jpg",
-   "url": "https://www.japantimes.co.jp/life/2026/11/10/style-design/robot-smart-garbage-bins/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan’s search for a better public trash bin — and why robots may help",
-   "date": "2026-11-09",
-   "desc": "Japan’s search for a better public trash bin — and why robots may help"
   }
  ]
 }
