@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T04:59:06.397Z",
+ "atualizado": "2026-11-19T08:57:37.936Z",
  "fotos": [
   {
    "id": "66638a31d5fb",
@@ -90,6 +90,106 @@
    "titulo": "34 foreign carriers seek to defer move to Long Thanh Airport to late 2027",
    "date": "2026-11-19",
    "desc": "34 foreign carriers seek to defer move to Long Thanh Airport to late 2027"
+  },
+  {
+   "id": "86645e0c33d0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575018.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/princess-aiko-singapore-orchid/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Princess Aiko has orchid named after her during Singapore visit",
+   "date": "2026-11-19",
+   "desc": "Princess Aiko has orchid named after her during Singapore visit"
+  },
+  {
+   "id": "fd7c0a29246e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575009.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/19/companies/kddi-infobar-phone/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "KDDI announces revival of Infobar dumbphone popular in early 2000s",
+   "date": "2026-11-19",
+   "desc": "KDDI announces revival of Infobar dumbphone popular in early 2000s"
+  },
+  {
+   "id": "872e1c9a6b41",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575006.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/niigata-promotion-competition-in-london/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Competition to promote Japan’s Niigata held in London",
+   "date": "2026-11-19",
+   "desc": "Competition to promote Japan’s Niigata held in London"
+  },
+  {
+   "id": "1f47bd03a2d0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574999.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/19/companies/tobu-facial-recognition-payment/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tobu launches facial recognition payment service at Tokyo store in Japan first",
+   "date": "2026-11-19",
+   "desc": "Tobu launches facial recognition payment service at Tokyo store in Japan first"
+  },
+  {
+   "id": "ba1e01783214",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575016.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/19/companies/consumption-tax-cut-pricing/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Consumption tax cut in Japan would create pricing dilemma for some businesses",
+   "date": "2026-11-19",
+   "desc": "Consumption tax cut in Japan would create pricing dilemma for some businesses"
+  },
+  {
+   "id": "9c576d3ef2f3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575017.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/19/film/2026-tokyo-filmex-preview/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese films get meta and meditative at Tokyo Filmex",
+   "date": "2026-11-19",
+   "desc": "Japanese films get meta and meditative at Tokyo Filmex"
+  },
+  {
+   "id": "5de353ac294d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575011.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/science-health/thai-floods-pollution-garbage-dump/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Thai floods expose waste pollution in ‘garbage dump’ region",
+   "date": "2026-11-19",
+   "desc": "Thai floods expose waste pollution in ‘garbage dump’ region"
+  },
+  {
+   "id": "98ca8467d01b",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/andrewleudmpvrxbotkkunsplash-1-5373-5751-1794994458.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wlp9hnZgG5UZG9z-18py7A",
+   "url": "https://e.vnexpress.net/news/news/traffic/kyoto-mulls-higher-bus-fares-for-nonlocals-amid-tourism-crush-5146232.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Kyoto mulls higher bus fares for nonlocals amid tourism crush",
+   "date": "2026-11-19",
+   "desc": "Kyoto mulls higher bus fares for nonlocals amid tourism crush"
+  },
+  {
+   "id": "33404a4ed17d",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/30f4982d-b609da5-b751e0807-179-8739-6383-1795073484.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6TaAJTuDfJ2LVwCQYZM9pQ",
+   "url": "https://e.vnexpress.net/news/news/education/south-korea-s-top-law-exam-scorer-found-dead-amid-ai-cheating-allegations-5146600.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "South Korea's top law exam scorer found dead amid AI cheating allegations",
+   "date": "2026-11-19",
+   "desc": "South Korea's top law exam scorer found dead amid AI cheating allegations"
+  },
+  {
+   "id": "5409509b7bdc",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/5wfkcey3rroajgqknd4v4k3fsa-jpg-4947-7035-1795070493.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=CQXmXgaKBjKtKnVnLv_63g",
+   "url": "https://e.vnexpress.net/news/news/mexican-president-is-internet-star-in-china-for-21-hour-economy-flight-5146578.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Mexican president is internet star in China for 21-hour economy flight",
+   "date": "2026-11-19",
+   "desc": "Mexican president is internet star in China for 21-hour economy flight"
   },
   {
    "id": "43ad49f3d908",
@@ -2900,106 +3000,6 @@
    "titulo": "Busy expressway to Vietnam's largest airport Long Thanh widened to 12 lanes",
    "date": "2026-11-11",
    "desc": "Busy expressway to Vietnam's largest airport Long Thanh widened to 12 lanes"
-  },
-  {
-   "id": "7008d087ca2d",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/11/chinadadtvquizthumb1500x900-17-8932-5861-1794386085.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ICLxFz7qKnfsg4xtJZXNww",
-   "url": "https://e.vnexpress.net/news/news/chinese-dad-uses-ai-to-make-son-answer-a-school-question-every-10-minutes-to-keep-watching-tv-5143465.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Chinese dad uses AI to make son answer a school question every 10 minutes to keep watching TV",
-   "date": "2026-11-11",
-   "desc": "Chinese dad uses AI to make son answer a school question every 10 minutes to keep watching TV"
-  },
-  {
-   "id": "d678df8d6b52",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573102.JPG",
-   "url": "https://www.japantimes.co.jp/environment/2026/11/10/energy/fossil-fuel-emissions-fall/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Fossil fuel emissions fall due to Iran war and renewables, research shows",
-   "date": "2026-11-10",
-   "desc": "Fossil fuel emissions fall due to Iran war and renewables, research shows"
-  },
-  {
-   "id": "5731df6b4d39",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573098.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/ukrainian-couple-occupation-meet/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Tears and joy as Ukrainian couple divided by occupation meet again",
-   "date": "2026-11-10",
-   "desc": "Tears and joy as Ukrainian couple divided by occupation meet again"
-  },
-  {
-   "id": "c8e14eadafac",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573135.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/10/economy/boj-summary-opinions-october/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "BOJ summary suggests good chance of December interest rate hike",
-   "date": "2026-11-10",
-   "desc": "BOJ summary suggests good chance of December interest rate hike"
-  },
-  {
-   "id": "c0382bceeaa8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573123.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/10/tech/ai-effective-altruism/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Under fire over AI, effective altruism wants to tell its own story",
-   "date": "2026-11-10",
-   "desc": "Under fire over AI, effective altruism wants to tell its own story"
-  },
-  {
-   "id": "475f4e781068",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573114.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/asia-pacific/taiwan-china-area-denial-pacific/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Taiwan says China is conducting ‘area denial’ drills in Western Pacific",
-   "date": "2026-11-10",
-   "desc": "Taiwan says China is conducting ‘area denial’ drills in Western Pacific"
-  },
-  {
-   "id": "8c5e1e9d900e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573116.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/10/economy/yen-forecaster-rate-gap/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Top yen forecaster predicts ¥147 per dollar as rate gap narrows",
-   "date": "2026-11-10",
-   "desc": "Top yen forecaster predicts ¥147 per dollar as rate gap narrows"
-  },
-  {
-   "id": "56b79dc58e9c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573096.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/cyberdefense-law-revision-talks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan mulls expanding cyberdefense monitoring to domestic communication",
-   "date": "2026-11-10",
-   "desc": "Japan mulls expanding cyberdefense monitoring to domestic communication"
-  },
-  {
-   "id": "98f7a262f131",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573103.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/10/companies/honda-new-hybrid-plant-ohio/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Honda to spend $3 billion on new hybrid car plant in Ohio",
-   "date": "2026-11-10",
-   "desc": "Honda to spend $3 billion on new hybrid car plant in Ohio"
-  },
-  {
-   "id": "2214b5699772",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/05/jason-yuen-wh2v9vxgxji-unsplas-2706-5893-1793852775.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_oXLN4Da9Gu1iv_qob7mCA",
-   "url": "https://e.vnexpress.net/news/news/education/hong-kong-develops-university-hubs-to-attract-global-talent-5141075.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Hong Kong develops university hubs to attract global talent",
-   "date": "2026-11-10",
-   "desc": "Hong Kong develops university hubs to attract global talent"
   }
  ]
 }
