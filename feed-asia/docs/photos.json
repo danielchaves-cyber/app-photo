@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T01:01:44.269Z",
+ "atualizado": "2026-11-19T04:59:06.397Z",
  "fotos": [
   {
    "id": "66638a31d5fb",
@@ -10,6 +10,86 @@
    "titulo": "JR Central announces delay in releasing maglev line’s opening schedule",
    "date": "2026-11-19",
    "desc": "JR Central announces delay in releasing maglev line’s opening schedule"
+  },
+  {
+   "id": "0a5044ec9453",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574947.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/society/south-korea-college-exam-cheating/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "South Korea college exam held with strict curbs in wake of cheating scandal",
+   "date": "2026-11-19",
+   "desc": "South Korea college exam held with strict curbs in wake of cheating scandal"
+  },
+  {
+   "id": "78396eebb85b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574952.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/trump-putin-xi-summit-apec/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump, Xi and Putin to hold first-ever trilateral summit",
+   "date": "2026-11-19",
+   "desc": "Trump, Xi and Putin to hold first-ever trilateral summit"
+  },
+  {
+   "id": "131d5ef5f350",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574955.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/19/soccer/mauricio-pochettino-arrives-united/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mauricio Pochettino arrives at Manchester United as team fights against relegation",
+   "date": "2026-11-19",
+   "desc": "Mauricio Pochettino arrives at Manchester United as team fights against relegation"
+  },
+  {
+   "id": "559652374406",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574931.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/19/companies/japan-rapidus-tax-relief/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Rapidus may get ¥54 billion tax exemption on Hokkaido plant transfer",
+   "date": "2026-11-19",
+   "desc": "Rapidus may get ¥54 billion tax exemption on Hokkaido plant transfer"
+  },
+  {
+   "id": "c833fd7c77ea",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574943.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/19/more-sports/russia-finland-figure-skating/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Russian skaters out of Grand Prix event after being denied entry into Finland",
+   "date": "2026-11-19",
+   "desc": "Russian skaters out of Grand Prix event after being denied entry into Finland"
+  },
+  {
+   "id": "550bd38885fe",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574939.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/xi-takaichi-apec-greeting-protocol/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Takaichi and Xi exchange warm greetings amid questions over diplomatic protocol",
+   "date": "2026-11-19",
+   "desc": "Takaichi and Xi exchange warm greetings amid questions over diplomatic protocol"
+  },
+  {
+   "id": "6f05831fedbb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574904.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/19/tech/meta-muse-ai-agent-safety/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+   "date": "2026-11-19",
+   "desc": "As Meta bets big on Muse AI agent, early safety mishaps surface"
+  },
+  {
+   "id": "f93841921ea8",
+   "img": "https://i1-english.vnecdn.net/2026/11/19/img-jpg-1795056685-5671-1795057124.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=fQNJaJCHiBH9sMozPqKaMQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/34-foreign-carriers-seek-to-defer-move-to-long-thanh-airport-to-late-2027-5146436.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "34 foreign carriers seek to defer move to Long Thanh Airport to late 2027",
+   "date": "2026-11-19",
+   "desc": "34 foreign carriers seek to defer move to Long Thanh Airport to late 2027"
   },
   {
    "id": "43ad49f3d908",
@@ -400,6 +480,16 @@
    "titulo": "Man jailed for using lookalike twin brother's passport to slip past Singapore border checks",
    "date": "2026-11-18",
    "desc": "Man jailed for using lookalike twin brother's passport to slip past Singapore border checks"
+  },
+  {
+   "id": "1ca0f29eda0f",
+   "img": "https://i1-english.vnecdn.net/2026/11/18/singaporetwinpassportthumb1200-2607-1642-1794975756.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2pQ9GRWr0la1eiulVvTQeA",
+   "url": "https://e.vnexpress.net/news/news/crime/man-jailed-for-using-twin-brother-s-passport-to-slip-past-singapore-border-checks-5146027.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Man jailed for using twin brother's passport to slip past Singapore border checks",
+   "date": "2026-11-18",
+   "desc": "Man jailed for using twin brother's passport to slip past Singapore border checks"
   },
   {
    "id": "a7c2d579188f",
@@ -2910,96 +3000,6 @@
    "titulo": "Hong Kong develops university hubs to attract global talent",
    "date": "2026-11-10",
    "desc": "Hong Kong develops university hubs to attract global talent"
-  },
-  {
-   "id": "28fbf9512c04",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/httpsarchive-images-prod-globa-3859-4201-1794216413.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=GIZrWO0TcmYjRZ_80PiaHQ",
-   "url": "https://e.vnexpress.net/news/news/education/south-korea-s-low-birth-rate-to-push-elementary-enrollment-below-300-000-for-first-time-5142559.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "South Korea's low birth rate to push elementary enrollment below 300,000 for first time",
-   "date": "2026-11-10",
-   "desc": "South Korea's low birth rate to push elementary enrollment below 300,000 for first time"
-  },
-  {
-   "id": "c11edbec2d4e",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/3qy2ln4lwncwvoyuvzmxi6mbpq-179-9096-4244-1794279175.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_3OW_ED-j3dLzh-LMalgig",
-   "url": "https://e.vnexpress.net/news/news/education/fewer-births-accelerate-widespread-us-school-closures-signaling-deeper-financial-pain-ahead-5142780.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Fewer births accelerate widespread US school closures, signaling deeper financial pain ahead",
-   "date": "2026-11-10",
-   "desc": "Fewer births accelerate widespread US school closures, signaling deeper financial pain ahead"
-  },
-  {
-   "id": "51b9955ef02f",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/ttxvntongbithuchutichnuo520988-2288-6448-1794266411.png?w=900&h=0&q=100&dpr=1&fit=crop&s=SORYG-Kj4m8PlG1mcWA3ag",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-japan-issue-joint-vision-statement-5142680.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam, Japan issue joint vision statement",
-   "date": "2026-11-10",
-   "desc": "Vietnam, Japan issue joint vision statement"
-  },
-  {
-   "id": "183b57425600",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/mockup-1794225375-5728-1794225421.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=jODRTU4fA8wfPevOC0XRKg",
-   "url": "https://e.vnexpress.net/news/news/vietnam-connect-forum-2026-to-connect-fdi-enterprises-with-business-opportunities-5141933.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam Connect Forum 2026 to connect FDI enterprises with business opportunities",
-   "date": "2026-11-10",
-   "desc": "Vietnam Connect Forum 2026 to connect FDI enterprises with business opportunities"
-  },
-  {
-   "id": "8ba46955e396",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573203.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/10/softbank-loss-data-center-costs/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "SoftBank logs $7 billion loss after U.S. data center costs swell",
-   "date": "2026-11-10",
-   "desc": "SoftBank logs $7 billion loss after U.S. data center costs swell"
-  },
-  {
-   "id": "303941207835",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573221.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/politics/cop31-japan-technologies/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan to use COP31 to showcase environmental technologies",
-   "date": "2026-11-10",
-   "desc": "Japan to use COP31 to showcase environmental technologies"
-  },
-  {
-   "id": "cc1d4f3db795",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573224.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/society/macron-angkor-france-role/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Macron’s Angkor visit highlights France’s custodial role",
-   "date": "2026-11-10",
-   "desc": "Macron’s Angkor visit highlights France’s custodial role"
-  },
-  {
-   "id": "af249a3c2da6",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573195.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/10/companies/sakana-ai-ipo/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Sakana AI may go public in 2027",
-   "date": "2026-11-10",
-   "desc": "Sakana AI may go public in 2027"
-  },
-  {
-   "id": "87aecaf88e22",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573162.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/government-guidelines-children-social-media/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan to call for limiting children’s exposure to social media",
-   "date": "2026-11-10",
-   "desc": "Japan to call for limiting children’s exposure to social media"
   }
  ]
 }
