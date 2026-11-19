@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T13:05:59.754Z",
+ "atualizado": "2026-11-19T16:59:47.274Z",
  "fotos": [
   {
    "id": "66638a31d5fb",
@@ -300,6 +300,26 @@
    "titulo": "China, US, Russia leaders issue 'peace declaration' after summit",
    "date": "2026-11-19",
    "desc": "China, US, Russia leaders issue 'peace declaration' after summit"
+  },
+  {
+   "id": "8a75ce396284",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/tolamtrumpshenzhenthumb1224x73-5783-4518-1795094637.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2zIP-oczePJYm9fb7SeIcg",
+   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-lam-meets-us-president-trump-on-apec-sidelines-in-shenzhen-5146791.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's top leader To Lam meets US President Trump on APEC sidelines in Shenzhen",
+   "date": "2026-11-19",
+   "desc": "Vietnam's top leader To Lam meets US President Trump on APEC sidelines in Shenzhen"
+  },
+  {
+   "id": "ea86fe1d8f3f",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/BalanhdaoNgaTrungQuocMy9178976-5509-4296-1795078779.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=P4Cz7zRf2zXfvQPAwXumZQ",
+   "url": "https://e.vnexpress.net/news/news/china-us-russia-issue-peace-declaration-after-first-summit-5146670.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "China, US, Russia issue 'peace declaration' after first summit",
+   "date": "2026-11-19",
+   "desc": "China, US, Russia issue 'peace declaration' after first summit"
   },
   {
    "id": "43ad49f3d908",
@@ -2980,26 +3000,6 @@
    "titulo": "Nissan pares car sales forecast on tougher China competition",
    "date": "2026-11-11",
    "desc": "Nissan pares car sales forecast on tougher China competition"
-  },
-  {
-   "id": "879b598d43cb",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573503.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/cambodia-exiled-opposition-leader-democracy/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Exiled Cambodian opposition leader urges Japan to aid democracy",
-   "date": "2026-11-11",
-   "desc": "Exiled Cambodian opposition leader urges Japan to aid democracy"
-  },
-  {
-   "id": "9bb66e42f0cc",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573502.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/climate-talks-fossil-award/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan, eight others get fossil award over leaders skipping climate talks",
-   "date": "2026-11-11",
-   "desc": "Japan, eight others get fossil award over leaders skipping climate talks"
   }
  ]
 }
