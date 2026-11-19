@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-18T20:51:00.826Z",
+ "atualizado": "2026-11-19T01:01:44.269Z",
  "fotos": [
+  {
+   "id": "66638a31d5fb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574877.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/19/companies/jr-central-maglev-delay/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "JR Central announces delay in releasing maglev line’s opening schedule",
+   "date": "2026-11-19",
+   "desc": "JR Central announces delay in releasing maglev line’s opening schedule"
+  },
   {
    "id": "43ad49f3d908",
    "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/4b671a15-5cfe-4ab1-a197-82b2542b2e16_dd99698d.jpg?itok=JEISZTZA&v=1794960661",
@@ -330,6 +340,66 @@
    "titulo": "Vietnam’s top leader To Lam meets with Russian President Vladimir Putin",
    "date": "2026-11-18",
    "desc": "Vietnam’s top leader To Lam meets with Russian President Vladimir Putin"
+  },
+  {
+   "id": "872b209d838e",
+   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8fb91728-0be5-488b-b447-49024e1854f6_3c6d2ba5.jpg?itok=wM2vPVlu&v=1795043432",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3374969/xi-trump-ties-tested-calls-grow-washington-tougher-china-policy",
+   "flag": "🇨🇳",
+   "src": "Nayan Seth · SCMP (Xinhua)",
+   "titulo": "Xi-Trump ties tested as calls grow in Washington for tougher China policy",
+   "date": "2026-11-18",
+   "desc": "Xi-Trump ties tested as calls grow in Washington for tougher China policy"
+  },
+  {
+   "id": "aa7b8cd12511",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574876.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-putin-russia-japan-talks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Takaichi and Putin meet on APEC sidelines amid ongoing tensions",
+   "date": "2026-11-18",
+   "desc": "Takaichi and Putin meet on APEC sidelines amid ongoing tensions"
+  },
+  {
+   "id": "c4e6eeac04d5",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/videocapture-1794904477-8684-1794905723.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rBXGuQo_zY0eLGgfUNkYNg",
+   "url": "https://e.vnexpress.net/news/news/education/singapore-stands-among-top-10-universities-for-career-prospects-as-us-dominates-5145735.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Singapore stands among top 10 universities for career prospects as US dominates",
+   "date": "2026-11-18",
+   "desc": "Singapore stands among top 10 universities for career prospects as US dominates"
+  },
+  {
+   "id": "3234be8dd9a9",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/16/thaioverstayersjapanthumb1500x-4643-1426-1794828221.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=fziZkC7HEKLFuq_SqjhySw",
+   "url": "https://e.vnexpress.net/news/news/vietnam-no-longer-japan-s-largest-source-of-visa-overstayers-as-violations-drop-5145366.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam no longer Japan's largest source of visa overstayers as violations drop",
+   "date": "2026-11-18",
+   "desc": "Vietnam no longer Japan's largest source of visa overstayers as violations drop"
+  },
+  {
+   "id": "5732bc720f38",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/pattayacondotowersthumb1500x90-6494-4514-1794922705.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=j0VuyC7qYCQUwSLFf_-uFw",
+   "url": "https://e.vnexpress.net/news/news/crime/singaporean-drug-fugitive-caught-after-posing-as-businessman-in-thailand-for-over-a-year-5145831.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Singaporean drug fugitive caught after posing as businessman in Thailand for over a year",
+   "date": "2026-11-18",
+   "desc": "Singaporean drug fugitive caught after posing as businessman in Thailand for over a year"
+  },
+  {
+   "id": "73669da9efc6",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/singaporetwinpassportthumb1200-2607-1642-1794975756.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2pQ9GRWr0la1eiulVvTQeA",
+   "url": "https://e.vnexpress.net/news/news/crime/man-jailed-for-using-lookalike-twin-brother-s-passport-to-slip-past-singapore-border-checks-5146027.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Man jailed for using lookalike twin brother's passport to slip past Singapore border checks",
+   "date": "2026-11-18",
+   "desc": "Man jailed for using lookalike twin brother's passport to slip past Singapore border checks"
   },
   {
    "id": "a7c2d579188f",
@@ -2930,76 +3000,6 @@
    "titulo": "Japan to call for limiting children’s exposure to social media",
    "date": "2026-11-10",
    "desc": "Japan to call for limiting children’s exposure to social media"
-  },
-  {
-   "id": "b5df2a2e8ac8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573185.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/10/tech/china-trade-surplus-1-trillion-ai/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "China’s trade surplus soars past $1 trillion as AI boom powers exports",
-   "date": "2026-11-10",
-   "desc": "China’s trade surplus soars past $1 trillion as AI boom powers exports"
-  },
-  {
-   "id": "eeb86f0ed3fe",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573184.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/asia-pacific/politics/indonesia-vice-president-probe/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Fate of Indonesia’s vice president hangs in the balance as lawmakers mull probe",
-   "date": "2026-11-10",
-   "desc": "Fate of Indonesia’s vice president hangs in the balance as lawmakers mull probe"
-  },
-  {
-   "id": "1dc33e4db031",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573169.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/politics/ldp-discipline-ishiba-tax-bill/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "LDP reprimands Ishiba and three others for walking out on consumption tax vote",
-   "date": "2026-11-10",
-   "desc": "LDP reprimands Ishiba and three others for walking out on consumption tax vote"
-  },
-  {
-   "id": "7bd22dd07020",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/1794274935325-6032111001673559666-6032111001673559666-9bcc5f81497f3868a9f4d5ffbb3a2ad8-1794284978.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=bZE59wbuEprjqg4NGWr00w",
-   "url": "https://e.vnexpress.net/photo/environment/heavy-rain-and-strong-winds-topple-trees-signboards-across-hue-da-nang-5142909.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Heavy rain and strong winds topple trees, signboards across Hue, Da Nang",
-   "date": "2026-11-10",
-   "desc": "Heavy rain and strong winds topple trees, signboards across Hue, Da Nang"
-  },
-  {
-   "id": "66f9d8353a88",
-   "img": "https://vcdn1-giadinh.vnecdn.net/2026/11/07/a-nh-ma-n-hi-nh-lu-c-179405976-8087-5666-1794059791.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=KOkvCF8Fljo96BXA-wTh9Q",
-   "url": "https://e.vnexpress.net/news/news/hundreds-of-young-patients-attend-sun-of-hope-festival-in-hanoi-5142931.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Hundreds of young patients attend Sun of Hope festival in Hanoi",
-   "date": "2026-11-10",
-   "desc": "Hundreds of young patients attend Sun of Hope festival in Hanoi"
-  },
-  {
-   "id": "e29c2a573567",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573194.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/10/world/society/war-putin-home-russia/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "The war Putin wanted to keep away is coming home to Russia",
-   "date": "2026-11-10",
-   "desc": "The war Putin wanted to keep away is coming home to Russia"
-  },
-  {
-   "id": "a5ab888d3dad",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/572905.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/10/japan/japan-us-losing-south-korea/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Are Japan and the U.S. losing South Korea as an ally?",
-   "date": "2026-11-10",
-   "desc": "Are Japan and the U.S. losing South Korea as an ally?"
   }
  ]
 }
