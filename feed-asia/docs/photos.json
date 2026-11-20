@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T08:57:15.124Z",
+ "atualizado": "2026-11-20T13:00:27.951Z",
  "fotos": [
   {
    "id": "f25a4f0ffea4",
@@ -280,6 +280,46 @@
    "titulo": "Thai official poses as homeless trash collector to catch drug dealer in Pattaya",
    "date": "2026-11-20",
    "desc": "Thai official poses as homeless trash collector to catch drug dealer in Pattaya"
+  },
+  {
+   "id": "5aadec259f7a",
+   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/0c9f0157-8f64-40e3-8340-8c4e22763c3b_94adf771.jpg?itok=CkshsBv9&v=1795160202",
+   "url": "https://www.scmp.com/economy/china-economy/article/3375202/chinas-195km-pure-hydrogen-pipeline-clean-energy-breakthrough",
+   "flag": "🇨🇳",
+   "src": "Ralph Jennings · SCMP (Xinhua)",
+   "titulo": "Is China’s 195km pure hydrogen pipeline a clean energy breakthrough?",
+   "date": "2026-11-20",
+   "desc": "Is China’s 195km pure hydrogen pipeline a clean energy breakthrough?"
+  },
+  {
+   "id": "38cba966b683",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575269.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/20/saudi-japan-oil-deal/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Saudis make deal with Japan to replenish depleted oil stockpiles",
+   "date": "2026-11-20",
+   "desc": "Saudis make deal with Japan to replenish depleted oil stockpiles"
+  },
+  {
+   "id": "84bc56915e84",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575265.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/takaichi-peru-chile-leaders-meet/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Takaichi meets with leaders of Chile and Peru in bid to boost ties",
+   "date": "2026-11-20",
+   "desc": "Takaichi meets with leaders of Chile and Peru in bid to boost ties"
+  },
+  {
+   "id": "638e8ca8c320",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575254.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/politics/japan-china-russia-ties-survey/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese see current ties with China and Russia as worst on record, survey shows",
+   "date": "2026-11-20",
+   "desc": "Japanese see current ties with China and Russia as worst on record, survey shows"
   },
   {
    "id": "66638a31d5fb",
@@ -2960,46 +3000,6 @@
    "titulo": "New Ho Chi Minh City chairman pledges to tackle traffic congestion, flooding",
    "date": "2026-11-12",
    "desc": "New Ho Chi Minh City chairman pledges to tackle traffic congestion, flooding"
-  },
-  {
-   "id": "9d0dca47de03",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573766.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/crime-legal/toyama-killings-death-penalty-sought/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Death penalty sought for ex-SDF member over 2018 Toyama murders",
-   "date": "2026-11-12",
-   "desc": "Death penalty sought for ex-SDF member over 2018 Toyama murders"
-  },
-  {
-   "id": "feb81623a8d6",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573765.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/12/softbank-apollo-open-ai-bet/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet",
-   "date": "2026-11-12",
-   "desc": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet"
-  },
-  {
-   "id": "e62ae1484fe5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573763.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/vance-buttigieg-us-presidential-hopefuls/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Vance, Rubio, Ossoff and Buttigieg lead 2028 White House hopefuls, Reuters/Ipsos poll finds",
-   "date": "2026-11-12",
-   "desc": "Vance, Rubio, Ossoff and Buttigieg lead 2028 White House hopefuls, Reuters/Ipsos poll finds"
-  },
-  {
-   "id": "197596a48afd",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573762.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/12/muji-credit-card-leak/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Muji operator fails to delete unnecessary credit card data",
-   "date": "2026-11-12",
-   "desc": "Muji operator fails to delete unnecessary credit card data"
   }
  ]
 }
