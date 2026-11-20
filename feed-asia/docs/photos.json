@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T13:00:27.951Z",
+ "atualizado": "2026-11-20T16:54:55.071Z",
  "fotos": [
   {
    "id": "f25a4f0ffea4",
@@ -320,6 +320,16 @@
    "titulo": "Japanese see current ties with China and Russia as worst on record, survey shows",
    "date": "2026-11-20",
    "desc": "Japanese see current ties with China and Russia as worst on record, survey shows"
+  },
+  {
+   "id": "61a95097b842",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/20/deathpenaltycutthumb1500x900-1-2962-7246-1795181789.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wM872UZu1zepXige4uhc8w",
+   "url": "https://e.vnexpress.net/news/news/vietnam-scraps-death-penalty-for-6-crimes-5147235.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam scraps death penalty for 6 crimes",
+   "date": "2026-11-20",
+   "desc": "Vietnam scraps death penalty for 6 crimes"
   },
   {
    "id": "66638a31d5fb",
@@ -2990,16 +3000,6 @@
    "titulo": "Man buys 68 sq.m apartment for $1.64 during China's biggest shopping festival",
    "date": "2026-11-12",
    "desc": "Man buys 68 sq.m apartment for $1.64 during China's biggest shopping festival"
-  },
-  {
-   "id": "feae1f39758e",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/1794455615339-a4d7dc343167ad21-6354-2880-1794459520.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=hEhsSqwLHVZxSx45ZCT9qg",
-   "url": "https://e.vnexpress.net/news/news/politics/new-ho-chi-minh-city-chairman-pledges-to-tackle-traffic-congestion-flooding-5143852.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "New Ho Chi Minh City chairman pledges to tackle traffic congestion, flooding",
-   "date": "2026-11-12",
-   "desc": "New Ho Chi Minh City chairman pledges to tackle traffic congestion, flooding"
   }
  ]
 }
