@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T04:56:04.779Z",
+ "atualizado": "2026-11-20T08:57:15.124Z",
  "fotos": [
   {
    "id": "f25a4f0ffea4",
@@ -170,6 +170,116 @@
    "titulo": "Three foreigners filmed weaving on motorbikes without helmets in Vietnam fined $752",
    "date": "2026-11-20",
    "desc": "Three foreigners filmed weaving on motorbikes without helmets in Vietnam fined $752"
+  },
+  {
+   "id": "a91f921003c4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575247.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/20/companies/h3-rocket-mitsubishi/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mitsubishi Heavy Industries to take on launch operations for Japan’s H3 rocket",
+   "date": "2026-11-20",
+   "desc": "Mitsubishi Heavy Industries to take on launch operations for Japan’s H3 rocket"
+  },
+  {
+   "id": "cca0350ef666",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575040.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/20/art/japanese-monsters-asian-art-exhibition-hong-kong/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "From ukiyo-e to ‘Godzilla,’ where do Japanese monsters stand in the Asian imagination?",
+   "date": "2026-11-20",
+   "desc": "From ukiyo-e to ‘Godzilla,’ where do Japanese monsters stand in the Asian imagination?"
+  },
+  {
+   "id": "9f046dec6d52",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575222.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/asia-pacific/politics/indonesia-south-china-sea-xi/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Indonesia’s Prabowo and China’s Xi discuss future South China Sea cooperation",
+   "date": "2026-11-20",
+   "desc": "Indonesia’s Prabowo and China’s Xi discuss future South China Sea cooperation"
+  },
+  {
+   "id": "5eb83aec227e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575248.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/20/soccer/kozo-tashima-red-card/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Red card drama at World Cup inspired Kozo Tashima’s run for FIFA presidency",
+   "date": "2026-11-20",
+   "desc": "Red card drama at World Cup inspired Kozo Tashima’s run for FIFA presidency"
+  },
+  {
+   "id": "2655728641ae",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575238.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/crime-legal/rakuten-securities-lawsuit/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Over 15,000 register interest in class action after Rakuten Securities breach",
+   "date": "2026-11-20",
+   "desc": "Over 15,000 register interest in class action after Rakuten Securities breach"
+  },
+  {
+   "id": "688d587f2b97",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575243.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/20/apple-ai-agent/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Apple working on AI agent for device control, apps, browsing and coding",
+   "date": "2026-11-20",
+   "desc": "Apple working on AI agent for device control, apps, browsing and coding"
+  },
+  {
+   "id": "37247272f7f5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575229.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/crime-legal/vietnam-fraud-arrest/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tokyo police arrest four Vietnamese men on suspicion of fraud",
+   "date": "2026-11-20",
+   "desc": "Tokyo police arrest four Vietnamese men on suspicion of fraud"
+  },
+  {
+   "id": "bf260f49c953",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575246.JPG",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/20/world/americas-measles-officially-back/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Measles is officially back — to America’s shame",
+   "date": "2026-11-20",
+   "desc": "Measles is officially back — to America’s shame"
+  },
+  {
+   "id": "8c988dc770ec",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/20/vietnamesewomanmalaysiasextort-9760-9420-1795163790.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tYhR1lKTmlcR-dB5xUEwJA",
+   "url": "https://e.vnexpress.net/news/news/crime/vietnamese-woman-in-malaysia-accuses-man-of-forcing-her-to-strip-over-fake-debt-5147109.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnamese woman in Malaysia accuses man of forcing her to strip over fake debt",
+   "date": "2026-11-20",
+   "desc": "Vietnamese woman in Malaysia accuses man of forcing her to strip over fake debt"
+  },
+  {
+   "id": "43abbb6e20f1",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/saocollapsethumb1500x900-17950-4041-7235-1795067523.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JcRZRU5RGeQNhe18NpIUrg",
+   "url": "https://e.vnexpress.net/news/news/crime/chinese-man-jailed-for-using-thai-nominees-to-run-construction-firm-in-bangkok-5146550.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Chinese man jailed for using Thai nominees to run construction firm in Bangkok",
+   "date": "2026-11-20",
+   "desc": "Chinese man jailed for using Thai nominees to run construction firm in Bangkok"
+  },
+  {
+   "id": "79a049e0822f",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/20/pattayadisguisedofficialthumb1-8627-5251-1795158826.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Bez1Ki_737G8U7ODBdv3RA",
+   "url": "https://e.vnexpress.net/news/news/crime/thai-official-poses-as-homeless-trash-collector-to-catch-drug-dealer-in-pattaya-5147040.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thai official poses as homeless trash collector to catch drug dealer in Pattaya",
+   "date": "2026-11-20",
+   "desc": "Thai official poses as homeless trash collector to catch drug dealer in Pattaya"
   },
   {
    "id": "66638a31d5fb",
@@ -2890,116 +3000,6 @@
    "titulo": "Muji operator fails to delete unnecessary credit card data",
    "date": "2026-11-12",
    "desc": "Muji operator fails to delete unnecessary credit card data"
-  },
-  {
-   "id": "62907d3239a1",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573751.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/crackdown-rip-offs-foreign-visitors-tokyo/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Five arrested in crackdown on rip-offs targeting foreign visitors in Tokyo",
-   "date": "2026-11-12",
-   "desc": "Five arrested in crackdown on rip-offs targeting foreign visitors in Tokyo"
-  },
-  {
-   "id": "d28b6a022438",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573714.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/12/nvidia-supply-chain-asia/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nvidia’s Asian supply chain prepares for life after Huang",
-   "date": "2026-11-12",
-   "desc": "Nvidia’s Asian supply chain prepares for life after Huang"
-  },
-  {
-   "id": "0e51c9f2b861",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/baiguixe-vnexpress1_1794197184-1794206813.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6T8rIwh2F_93q0-lFmNqIA",
-   "url": "https://e.vnexpress.net/photo/traffic/hanois-parking-shortage-pushes-cars-onto-sidewalks-and-streets-5143884.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Hanoi's parking shortage pushes cars onto sidewalks and streets",
-   "date": "2026-11-12",
-   "desc": "Hanoi's parking shortage pushes cars onto sidewalks and streets"
-  },
-  {
-   "id": "3fb6a1cb790f",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/thaitourscamsentencethumb1500x-4405-3522-1794468955.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=WPHWxUKpbkanUfb2SleKxQ",
-   "url": "https://e.vnexpress.net/news/news/crime/thai-businessman-gets-1-244-years-in-prison-for-tour-package-investment-scam-5143875.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Thai businessman gets 1,244 years in prison for tour package investment scam",
-   "date": "2026-11-12",
-   "desc": "Thai businessman gets 1,244 years in prison for tour package investment scam"
-  },
-  {
-   "id": "3eb850242337",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/2aoborc8cjy7wqcq60ycdtehy9wdks-9270-5697-1794495835.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=54lIgp8K9ay4fLP34m1VjQ",
-   "url": "https://e.vnexpress.net/news/news/2-foreign-tourists-rescued-from-sixth-floor-during-da-lat-hotel-fire-5144050.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "2 foreign tourists rescued from sixth floor during Da Lat hotel fire",
-   "date": "2026-11-12",
-   "desc": "2 foreign tourists rescued from sixth floor during Da Lat hotel fire"
-  },
-  {
-   "id": "bfd6c75debdb",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573770.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/nvidia-huang-ousted/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nvidia’s Huang ousted by board in move that roils AI economy",
-   "date": "2026-11-12",
-   "desc": "Nvidia’s Huang ousted by board in move that roils AI economy"
-  },
-  {
-   "id": "d67feedfba25",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573239.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/world/crime-legal/france-supermarket-hack-iran-war/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "France supermarket hack marks new phase in Iran’s shadow war",
-   "date": "2026-11-11",
-   "desc": "France supermarket hack marks new phase in Iran’s shadow war"
-  },
-  {
-   "id": "106a75b5ed40",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573243.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/world/politics/eisenkot-netanyahu-israeli-parliament/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament",
-   "date": "2026-11-11",
-   "desc": "Eisenkot quickly targets Netanyahu’s legacy in new Israeli parliament"
-  },
-  {
-   "id": "7a971dc3d849",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573289.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/crime-legal/yusaku-maezawa-lawsuit-meta/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Tokyo court dismisses suit against Meta over fake ads involving celebrity",
-   "date": "2026-11-11",
-   "desc": "Tokyo court dismisses suit against Meta over fake ads involving celebrity"
-  },
-  {
-   "id": "8e4018938741",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573285.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/crime-legal/awa-mayor-arrest-fraud/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Mayor arrested for allegedly defrauding city to pay for accident he caused",
-   "date": "2026-11-11",
-   "desc": "Mayor arrested for allegedly defrauding city to pay for accident he caused"
-  },
-  {
-   "id": "a9aa6b71242d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573353.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/11/tennis/gauff-noskova-wta-finals/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Gauff upset at WTA Finals; Pegula back on track",
-   "date": "2026-11-11",
-   "desc": "Gauff upset at WTA Finals; Pegula back on track"
   }
  ]
 }
