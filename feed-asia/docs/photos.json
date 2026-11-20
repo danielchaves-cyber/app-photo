@@ -1,6 +1,66 @@
 {
- "atualizado": "2026-11-19T20:50:03.062Z",
+ "atualizado": "2026-11-20T00:56:01.453Z",
  "fotos": [
+  {
+   "id": "f25a4f0ffea4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575094.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/world/putin-ukraine-crimea-bridge/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Putin says no sea or energy truce after Ukraine hits Crimea Bridge again",
+   "date": "2026-11-20",
+   "desc": "Putin says no sea or energy truce after Ukraine hits Crimea Bridge again"
+  },
+  {
+   "id": "9c95cf5edb85",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575092.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/world/iran-hormuz-attacks-oil-prices/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Iran intensifies Hormuz tanker attacks just as oil prices slide",
+   "date": "2026-11-20",
+   "desc": "Iran intensifies Hormuz tanker attacks just as oil prices slide"
+  },
+  {
+   "id": "071282b5a924",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/574843.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/20/language/japanese-spy-disguise-language/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Espionage, intrigue and a little Japanese grammar",
+   "date": "2026-11-20",
+   "desc": "Espionage, intrigue and a little Japanese grammar"
+  },
+  {
+   "id": "612acace8ce0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575090.jpeg",
+   "url": "https://www.japantimes.co.jp/community/2026/11/20/issues/tokyo-salone-ideas-creatives/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tokyo Salone wants to make Japan’s creative circles less exclusive",
+   "date": "2026-11-20",
+   "desc": "Tokyo Salone wants to make Japan’s creative circles less exclusive"
+  },
+  {
+   "id": "4d153c99dfea",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/wantedchinesemenhcmcthumb1122x-4068-5422-1795069222.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rkfO7ilETDT4cTT1wN1uiA",
+   "url": "https://e.vnexpress.net/news/news/crime/two-internationally-wanted-men-caught-in-ho-chi-minh-city-during-routine-checks-on-foreigners-5146548.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Two internationally wanted men caught in Ho Chi Minh City during routine checks on foreigners",
+   "date": "2026-11-20",
+   "desc": "Two internationally wanted men caught in Ho Chi Minh City during routine checks on foreigners"
+  },
+  {
+   "id": "f765fdb4bd90",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/anh-8-1795012571.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ALHCYsh3c6nFipGOaxg7Zw",
+   "url": "https://e.vnexpress.net/photo/news/solar-power-clean-water-reach-remote-school-in-central-vietnam-5146628.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Solar power, clean water reach remote school in central Vietnam",
+   "date": "2026-11-20",
+   "desc": "Solar power, clean water reach remote school in central Vietnam"
+  },
   {
    "id": "66638a31d5fb",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574877.jpg",
@@ -320,6 +380,16 @@
    "titulo": "China, US, Russia issue 'peace declaration' after first summit",
    "date": "2026-11-19",
    "desc": "China, US, Russia issue 'peace declaration' after first summit"
+  },
+  {
+   "id": "6bd27c80378b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575088.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/world/politics/trump-xi-putin-pushback/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump’s camaraderie with Xi and Putin draws pushback at home",
+   "date": "2026-11-19",
+   "desc": "Trump’s camaraderie with Xi and Putin draws pushback at home"
   },
   {
    "id": "43ad49f3d908",
@@ -2930,76 +3000,6 @@
    "titulo": "Iran producing 50 missiles per month despite crippled industry",
    "date": "2026-11-11",
    "desc": "Iran producing 50 missiles per month despite crippled industry"
-  },
-  {
-   "id": "c282135ceedc",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573411.JPG",
-   "url": "https://www.japantimes.co.jp/environment/2026/11/11/climate-change/disaster-warning-systems-climate/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Disaster warning systems race to keep pace with galloping climate risks",
-   "date": "2026-11-11",
-   "desc": "Disaster warning systems race to keep pace with galloping climate risks"
-  },
-  {
-   "id": "4c6fbabb8403",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573471.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/crime-legal/stolen-luxury-watch-arrest/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Man arrested over theft of watch that was returned days later to Tokyo mall",
-   "date": "2026-11-11",
-   "desc": "Man arrested over theft of watch that was returned days later to Tokyo mall"
-  },
-  {
-   "id": "57a90b299f71",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573444.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/asia-pacific/politics/thailand-arsenic-rivers-myanmar/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Thailand to raise arsenic-tainted rivers in talks with Myanmar",
-   "date": "2026-11-11",
-   "desc": "Thailand to raise arsenic-tainted rivers in talks with Myanmar"
-  },
-  {
-   "id": "2fc934aaf4ac",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573412.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/asia-pacific/bangladesh-garment-worker-wages/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Behind Bangladesh’s garment boom, workers cut food, healthcare as wages fall short",
-   "date": "2026-11-11",
-   "desc": "Behind Bangladesh’s garment boom, workers cut food, healthcare as wages fall short"
-  },
-  {
-   "id": "ad9e84438abc",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573455.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/11/sumo/kyushu-basho-week-1/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Onosato looks sharp as Kyushu Basho contenders emerge",
-   "date": "2026-11-11",
-   "desc": "Onosato looks sharp as Kyushu Basho contenders emerge"
-  },
-  {
-   "id": "c7d39f4aa736",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573433.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/tax-debate-kickoff-senate/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Opposition presses for consumption tax cut details as Upper House debate begins",
-   "date": "2026-11-11",
-   "desc": "Opposition presses for consumption tax cut details as Upper House debate begins"
-  },
-  {
-   "id": "8d33bb94941f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573504.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/11/companies/nissan-sales-forecast/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nissan pares car sales forecast on tougher China competition",
-   "date": "2026-11-11",
-   "desc": "Nissan pares car sales forecast on tougher China competition"
   }
  ]
 }
