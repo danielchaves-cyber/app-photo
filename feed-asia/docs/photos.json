@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T00:56:01.453Z",
+ "atualizado": "2026-11-20T04:56:04.779Z",
  "fotos": [
   {
    "id": "f25a4f0ffea4",
@@ -60,6 +60,116 @@
    "titulo": "Solar power, clean water reach remote school in central Vietnam",
    "date": "2026-11-20",
    "desc": "Solar power, clean water reach remote school in central Vietnam"
+  },
+  {
+   "id": "58aa9be77b32",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575169.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/world/trump-reporters-phones-china/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "White House took reporters’ phones as Trump departed China",
+   "date": "2026-11-20",
+   "desc": "White House took reporters’ phones as Trump departed China"
+  },
+  {
+   "id": "7ddcd30869f3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575078.JPG",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/20/climate-change/cop-fossil-fuel-language/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Climate talks ditch call to quit fossil fuels as deal nears",
+   "date": "2026-11-20",
+   "desc": "Climate talks ditch call to quit fossil fuels as deal nears"
+  },
+  {
+   "id": "cd1abcf27197",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575149.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/20/more-sports/las-vegas-stakes-gp/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Formula One drivers prepare for Las Vegas race with plenty still at stake",
+   "date": "2026-11-20",
+   "desc": "Formula One drivers prepare for Las Vegas race with plenty still at stake"
+  },
+  {
+   "id": "1325a1707a23",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575152.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/20/companies/nonlife-insurance-profit-first-half/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "First-half profit falls at two out of three major Japan nonlife insurers",
+   "date": "2026-11-20",
+   "desc": "First-half profit falls at two out of three major Japan nonlife insurers"
+  },
+  {
+   "id": "e25e68af3dfe",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575057.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/20/japan-tobacco-russia-seizure-charge/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan Tobacco hit by $8.9 billion charge on Russia seizure",
+   "date": "2026-11-20",
+   "desc": "Japan Tobacco hit by $8.9 billion charge on Russia seizure"
+  },
+  {
+   "id": "8afbc21365d2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575144.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/20/tech/physicist-ai-amodei-safety/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "From anti-war physicist to AI power broker, Amodei takes his safety approach public",
+   "date": "2026-11-20",
+   "desc": "From anti-war physicist to AI power broker, Amodei takes his safety approach public"
+  },
+  {
+   "id": "c95ff9caa90d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575114.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/20/asia-pacific/politics/myanmar-genocide-general-president/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Min Aung Hlaing’s words could have contributed to Myanmar genocide, court says",
+   "date": "2026-11-20",
+   "desc": "Min Aung Hlaing’s words could have contributed to Myanmar genocide, court says"
+  },
+  {
+   "id": "215311147cdb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575141.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/20/economy/cpi-up-boj-rate-hike/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s CPI picks up, keeping BOJ on track for rate hike",
+   "date": "2026-11-20",
+   "desc": "Japan’s CPI picks up, keeping BOJ on track for rate hike"
+  },
+  {
+   "id": "bbf2f925215e",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/1795123447404a48eafeb65bbc874b-9071-9111-1795123911.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wn3vn2iwIyLn75Y5xir0yQ",
+   "url": "https://e.vnexpress.net/news/news/fire-engulfs-20-000-square-meter-warehouse-of-hong-kong-paper-mill-in-vietnam-5146845.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Fire engulfs 20,000-square-meter warehouse of Hong Kong paper mill in Vietnam",
+   "date": "2026-11-20",
+   "desc": "Fire engulfs 20,000-square-meter warehouse of Hong Kong paper mill in Vietnam"
+  },
+  {
+   "id": "a02a22d22369",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/singaporeancannabisipohthumb15-5208-8185-1795083862.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=cHv8XvAECH0Axm-7rJPRnA",
+   "url": "https://e.vnexpress.net/news/news/crime/singaporean-carrying-cannabis-suitcase-to-london-faces-possible-death-penalty-in-malaysia-5146734.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Singaporean carrying cannabis suitcase to London faces possible death penalty in Malaysia",
+   "date": "2026-11-20",
+   "desc": "Singaporean carrying cannabis suitcase to London faces possible death penalty in Malaysia"
+  },
+  {
+   "id": "cf7496ed716f",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/hoianforeignersfinedthumb1200x-1231-1394-1795084877.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=IyiAwqiMQ6Jv5hAtYNcetQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/three-foreigners-filmed-weaving-on-motorbikes-without-helmets-in-vietnam-fined-752-5146735.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Three foreigners filmed weaving on motorbikes without helmets in Vietnam fined $752",
+   "date": "2026-11-20",
+   "desc": "Three foreigners filmed weaving on motorbikes without helmets in Vietnam fined $752"
   },
   {
    "id": "66638a31d5fb",
@@ -2890,116 +3000,6 @@
    "titulo": "Gauff upset at WTA Finals; Pegula back on track",
    "date": "2026-11-11",
    "desc": "Gauff upset at WTA Finals; Pegula back on track"
-  },
-  {
-   "id": "6bb91e25a126",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573346.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/11/more-sports/eddie-jones-england-return-japan/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan coach Jones returns to face his former England charges",
-   "date": "2026-11-11",
-   "desc": "Japan coach Jones returns to face his former England charges"
-  },
-  {
-   "id": "ddde55a2325a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573341.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/11/more-sports/vikings-cousins-trade/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Vikings reacquire Kirk Cousins in deadline deal with Raiders",
-   "date": "2026-11-11",
-   "desc": "Vikings reacquire Kirk Cousins in deadline deal with Raiders"
-  },
-  {
-   "id": "5d7fa4d393a9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573245.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/society/osaka-cigaretter-littering/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Osaka struggles to stamp out cigarette littering",
-   "date": "2026-11-11",
-   "desc": "Osaka struggles to stamp out cigarette littering"
-  },
-  {
-   "id": "09544bc6b4df",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573326.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/11/tech/microsoft-trump-china-data-center/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Microsoft presses Trump to scuttle ban on Chinese data center tech",
-   "date": "2026-11-11",
-   "desc": "Microsoft presses Trump to scuttle ban on Chinese data center tech"
-  },
-  {
-   "id": "6625f974dd4a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573337.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/11/nvidia-huang-affair-taiwan/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Jensen Huang’s woes evoke sympathy and disbelief in his birthplace Taiwan",
-   "date": "2026-11-11",
-   "desc": "Jensen Huang’s woes evoke sympathy and disbelief in his birthplace Taiwan"
-  },
-  {
-   "id": "353fbda79485",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/stanfordrmnamjooningcoursethum-5587-5755-1794308969.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=uBsFYhukJZ45CAf1cVcm_Q",
-   "url": "https://e.vnexpress.net/news/news/education/stanford-offers-course-on-well-being-inspired-by-bts-leader-rm-5143074.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Stanford offers course on well-being inspired by BTS leader RM",
-   "date": "2026-11-11",
-   "desc": "Stanford offers course on well-being inspired by BTS leader RM"
-  },
-  {
-   "id": "9923e351a979",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/afp20160704cn2d8v1highresskore-9982-1725-1794296426.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=iInlo3UV0VlfPS0sGaFTyQ",
-   "url": "https://e.vnexpress.net/news/news/disgraced-cloning-scientist-loses-korean-citizenship-after-becoming-uae-national-5142934.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Disgraced cloning scientist loses Korean citizenship after becoming UAE national",
-   "date": "2026-11-11",
-   "desc": "Disgraced cloning scientist loses Korean citizenship after becoming UAE national"
-  },
-  {
-   "id": "431f7b6e2707",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/ipohairportcannabisthumb1500x9-1740-5569-1794309087.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=zPsiRp8wuDJh-22jr8VuKQ",
-   "url": "https://e.vnexpress.net/news/news/crime/malaysia-arrests-singaporean-with-375-000-of-cannabis-bound-for-london-5143079.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Malaysia arrests Singaporean with $375,000 of cannabis bound for London",
-   "date": "2026-11-11",
-   "desc": "Malaysia arrests Singaporean with $375,000 of cannabis bound for London"
-  },
-  {
-   "id": "ed08f961d2a0",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/nammoi481767191049176719105917-9294-5941-1794298436.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=4HrqVxmNLzBokc_UGMg9yg",
-   "url": "https://e.vnexpress.net/news/news/ho-chi-minh-city-to-hold-4-day-new-year-countdown-on-nguyen-hue-walking-street-5142983.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Ho Chi Minh City to hold 4-day New Year countdown on Nguyen Hue walking street",
-   "date": "2026-11-11",
-   "desc": "Ho Chi Minh City to hold 4-day New Year countdown on Nguyen Hue walking street"
-  },
-  {
-   "id": "aed174df4c26",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573470.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/koizumi-obuchi-ldp/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Amid concerns over internal opposition within LDP, Koizumi pledges support for Takaichi",
-   "date": "2026-11-11",
-   "desc": "Amid concerns over internal opposition within LDP, Koizumi pledges support for Takaichi"
-  },
-  {
-   "id": "38d8939eca59",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573456.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/11/world/iran-50-missiles-month-industry/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Iran producing 50 missiles per month despite crippled industry",
-   "date": "2026-11-11",
-   "desc": "Iran producing 50 missiles per month despite crippled industry"
   }
  ]
 }
