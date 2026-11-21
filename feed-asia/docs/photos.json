@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T00:59:05.453Z",
+ "atualizado": "2026-11-21T04:52:07.710Z",
  "fotos": [
   {
    "id": "795107ac2e34",
@@ -20,6 +20,106 @@
    "titulo": "Japan wary of U.S., Russia and China holding regular summits",
    "date": "2026-11-21",
    "desc": "Japan wary of U.S., Russia and China holding regular summits"
+  },
+  {
+   "id": "b8286fab95a9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575303.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/trump-xi-putin-middle-powers-analysis/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "As Trump courts Xi and Putin, middle powers make their own moves",
+   "date": "2026-11-21",
+   "desc": "As Trump courts Xi and Putin, middle powers make their own moves"
+  },
+  {
+   "id": "4170a8f2baef",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575302.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/21/markets/anthropic-ai-stocks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Anthropic’s post-debut stumble delivers reality check for AI trade",
+   "date": "2026-11-21",
+   "desc": "Anthropic’s post-debut stumble delivers reality check for AI trade"
+  },
+  {
+   "id": "53d3e398ad5b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575300.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/us-cyber-director-ousted/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Trump ousts cyber director after tech outages spark criticism",
+   "date": "2026-11-21",
+   "desc": "Trump ousts cyber director after tech outages spark criticism"
+  },
+  {
+   "id": "57e58446faf0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575297.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/humble-bag-migration-history/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "From Hong Kong to Africa: humble bag carries history of migration",
+   "date": "2026-11-21",
+   "desc": "From Hong Kong to Africa: humble bag carries history of migration"
+  },
+  {
+   "id": "9f9a871d2cc3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575296.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/iran-diplomacy-terms-unacceptable/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Iran foreign minister wants diplomacy to end war, Trump says terms unacceptable",
+   "date": "2026-11-21",
+   "desc": "Iran foreign minister wants diplomacy to end war, Trump says terms unacceptable"
+  },
+  {
+   "id": "f6ef1c65114e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575301.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/21/more-sports/mao-shimada-finlandia-trophy/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mao Shimada grabs lead at Finlandia Trophy after short program",
+   "date": "2026-11-21",
+   "desc": "Mao Shimada grabs lead at Finlandia Trophy after short program"
+  },
+  {
+   "id": "4fe491fdbb3e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575293.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/21/japan-us-industrial-icon-revive/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan attempts to revive an American industrial icon",
+   "date": "2026-11-21",
+   "desc": "Japan attempts to revive an American industrial icon"
+  },
+  {
+   "id": "1b9a4a285102",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575292.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/myanmar-ruling-bolster-gaza-case/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Myanmar genocide judgment may bolster Gaza case against Israel",
+   "date": "2026-11-21",
+   "desc": "Myanmar genocide judgment may bolster Gaza case against Israel"
+  },
+  {
+   "id": "e52534e57ebd",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/21/vienphusan-1795232999-6675-1795233068.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LD-y4ZL_DKEzkYBrppbE5g",
+   "url": "https://e.vnexpress.net/news/news/vietnam-s-fertility-rate-falls-sharply-to-1-66-children-per-woman-5147373.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's fertility rate falls sharply to 1.66 children per woman",
+   "date": "2026-11-21",
+   "desc": "Vietnam's fertility rate falls sharply to 1.66 children per woman"
+  },
+  {
+   "id": "b6b138268f78",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/20/studentgovernmentx529-jpeg-179-2369-8975-1795147901.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=pDd5ptyecEiaTuiztiqXVg",
+   "url": "https://e.vnexpress.net/news/news/education/california-professor-outearns-college-chancellor-by-making-800-000-a-year-teaching-30-online-courses-5146943.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "California professor outearns college chancellor by making $800,000 a year teaching 30 online courses",
+   "date": "2026-11-21",
+   "desc": "California professor outearns college chancellor by making $800,000 a year teaching 30 online courses"
   },
   {
    "id": "f25a4f0ffea4",
@@ -2900,106 +3000,6 @@
    "titulo": "Chinese fugitive behind $1.5B football betting site arrested in Thailand",
    "date": "2026-11-13",
    "desc": "Chinese fugitive behind $1.5B football betting site arrested in Thailand"
-  },
-  {
-   "id": "6eeb337c914d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573509.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/politics/russia-ukraine-prisoner-swap-us-talks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Russia and Ukraine agree to prisoner swap as U.S. says lack of trust holds back talks",
-   "date": "2026-11-12",
-   "desc": "Russia and Ukraine agree to prisoner swap as U.S. says lack of trust holds back talks"
-  },
-  {
-   "id": "841f2adebb48",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573577.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/kyoto-first-bird-flu-season/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "First bird flu case of the season confirmed at Kyoto poultry farm",
-   "date": "2026-11-12",
-   "desc": "First bird flu case of the season confirmed at Kyoto poultry farm"
-  },
-  {
-   "id": "1ae06821acad",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573591.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/12/tennis/andreeva-sabalenka-wta-finals/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Andreeva powers past Sabalenka to reach WTA Finals last four",
-   "date": "2026-11-12",
-   "desc": "Andreeva powers past Sabalenka to reach WTA Finals last four"
-  },
-  {
-   "id": "188043142291",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573590.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/12/soccer/pochettino-carrick-man-utd/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Man Utd reaches ‘verbal agreement’ with Pochettino to replace Carrick",
-   "date": "2026-11-12",
-   "desc": "Man Utd reaches ‘verbal agreement’ with Pochettino to replace Carrick"
-  },
-  {
-   "id": "0d88470dc0e9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573585.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/12/soccer/kane-england-appearance-record/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Kane says England appearance record a ‘testament to dedication’",
-   "date": "2026-11-12",
-   "desc": "Kane says England appearance record a ‘testament to dedication’"
-  },
-  {
-   "id": "09570d29b7db",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573567.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/12/companies/nomura-europe-crypto-unit-sale-talks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nomura explores possible sale of Laser Digital crypto unit",
-   "date": "2026-11-12",
-   "desc": "Nomura explores possible sale of Laser Digital crypto unit"
-  },
-  {
-   "id": "cecc76b303ba",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573559.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/12/markets/yen-near-160-renewed-intervention-risks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Yen nears key ¥160 level after U.S. inflation data, sparking intervention risk",
-   "date": "2026-11-12",
-   "desc": "Yen nears key ¥160 level after U.S. inflation data, sparking intervention risk"
-  },
-  {
-   "id": "ca0e9921d53e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573542.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/crime-legal/japan-crime-leader-trial-hearing/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Luffy’ crime group’s alleged leader denies robbery resulting in death",
-   "date": "2026-11-12",
-   "desc": "‘Luffy’ crime group’s alleged leader denies robbery resulting in death"
-  },
-  {
-   "id": "43ef359034d2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573555.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/japan-aid-to-gaza-healthcare/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan to contribute ¥294 million to Gaza’s healthcare system",
-   "date": "2026-11-12",
-   "desc": "Japan to contribute ¥294 million to Gaza’s healthcare system"
-  },
-  {
-   "id": "b0e02c58eb7f",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/settop-1794448557-4857-1794453949.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mxcXFoliZ9FfB9ckZtEE4Q",
-   "url": "https://e.vnexpress.net/news/news/politics/ho-chi-minh-city-gets-new-chairman-5143740.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Ho Chi Minh City gets new chairman",
-   "date": "2026-11-12",
-   "desc": "Ho Chi Minh City gets new chairman"
   }
  ]
 }
