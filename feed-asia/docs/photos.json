@@ -1,6 +1,26 @@
 {
- "atualizado": "2026-11-20T20:46:11.074Z",
+ "atualizado": "2026-11-21T00:59:05.453Z",
  "fotos": [
+  {
+   "id": "795107ac2e34",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575290.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/21/honda-us-airbag-recall/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Honda to recall 810,000 U.S. vehicles over Takata air bag rupture risk",
+   "date": "2026-11-21",
+   "desc": "Honda to recall 810,000 U.S. vehicles over Takata air bag rupture risk"
+  },
+  {
+   "id": "4b81632f1e0e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575289.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/us-china-russia-summits-japan-wary/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan wary of U.S., Russia and China holding regular summits",
+   "date": "2026-11-21",
+   "desc": "Japan wary of U.S., Russia and China holding regular summits"
+  },
   {
    "id": "f25a4f0ffea4",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575094.JPG",
@@ -330,6 +350,96 @@
    "titulo": "Vietnam scraps death penalty for 6 crimes",
    "date": "2026-11-20",
    "desc": "Vietnam scraps death penalty for 6 crimes"
+  },
+  {
+   "id": "7be3ad6f9d6d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575285.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/21/tokyo-real-estate-boom/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tokyo is being reshaped by a historic real estate boom",
+   "date": "2026-11-20",
+   "desc": "Tokyo is being reshaped by a historic real estate boom"
+  },
+  {
+   "id": "6c93b034dc53",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575284.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/china-snub-boost-takaichi-base/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China’s summit snub could strengthen Takaichi’s standing at home",
+   "date": "2026-11-20",
+   "desc": "China’s summit snub could strengthen Takaichi’s standing at home"
+  },
+  {
+   "id": "0bd8bc13c8d2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575283.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/japan/takaichi-akane-meeting-tuesday/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Takaichi to meet ICC president on Tuesday",
+   "date": "2026-11-20",
+   "desc": "Takaichi to meet ICC president on Tuesday"
+  },
+  {
+   "id": "5b5ea70c2ff6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575282.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/21/ai-property-insurer-claims-surge/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "AI-fueled cyberattacks drive claims surge at Japan insurers",
+   "date": "2026-11-20",
+   "desc": "AI-fueled cyberattacks drive claims surge at Japan insurers"
+  },
+  {
+   "id": "a2364171fd79",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/574567.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/21/film/all-the-lovers-in-the-night/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘All the Lovers in the Night’: A poetic and perceptive Mieko Kawakami adaptation",
+   "date": "2026-11-20",
+   "desc": "‘All the Lovers in the Night’: A poetic and perceptive Mieko Kawakami adaptation"
+  },
+  {
+   "id": "8ea2a8cf99cb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/574913.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/21/digital/grand-theft-auto-6-satire-america-video-games/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "GTA made its name satirizing America — then reality caught up",
+   "date": "2026-11-20",
+   "desc": "GTA made its name satirizing America — then reality caught up"
+  },
+  {
+   "id": "cfe704300648",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/20261117-1795070917.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=gUZe-BSUrJvLc-mmU_x36w",
+   "url": "https://e.vnexpress.net/photo/traffic/long-thanh-airports-lotus-shaped-terminal-nears-completion-ahead-of-december-opening-5146994.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Long Thanh airport's lotus-shaped terminal nears completion ahead of December opening",
+   "date": "2026-11-20",
+   "desc": "Long Thanh airport's lotus-shaped terminal nears completion ahead of December opening"
+  },
+  {
+   "id": "3391350c9e2b",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/pexelsmikhailnilov8101999-1795-2458-6852-1795063002.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=tfzXTqH-5Wkvl_QnJhsTSQ",
+   "url": "https://e.vnexpress.net/news/news/brainteaser/which-southeast-asian-country-works-the-most-hours-5146525.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Which Southeast Asian country works the most hours?",
+   "date": "2026-11-20",
+   "desc": "Which Southeast Asian country works the most hours?"
+  },
+  {
+   "id": "1b6a028ad2a0",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/20/thailandcitizenshipthumb1500x9-4269-6657-1795158868.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=NO1rAjvb4X_2dIRhDbpUjw",
+   "url": "https://e.vnexpress.net/news/news/thailand-weighs-tenfold-jump-in-price-of-citizenship-by-investment-to-nearly-3m-5147043.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thailand weighs tenfold jump in price of citizenship by investment to nearly $3M",
+   "date": "2026-11-20",
+   "desc": "Thailand weighs tenfold jump in price of citizenship by investment to nearly $3M"
   },
   {
    "id": "66638a31d5fb",
@@ -2890,116 +3000,6 @@
    "titulo": "Ho Chi Minh City gets new chairman",
    "date": "2026-11-12",
    "desc": "Ho Chi Minh City gets new chairman"
-  },
-  {
-   "id": "37af3a18e7b6",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/11/diorceoewhathumb1500x900-17943-5242-3213-1794398213.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=RwV0z9Io2xX5W5TJIRtlGQ",
-   "url": "https://e.vnexpress.net/news/news/education/dior-ceo-delphine-arnault-to-receive-honorary-doctorate-from-korea-s-first-school-for-women-5143555.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Dior CEO Delphine Arnault to receive honorary doctorate from Korea's first school for women",
-   "date": "2026-11-12",
-   "desc": "Dior CEO Delphine Arnault to receive honorary doctorate from Korea's first school for women"
-  },
-  {
-   "id": "dc4367f97692",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/15b1c5a6-a8eb-4fe3-9a35-0bd5bcec6151-jpeg-1794398939.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=PzB3QQZpALk_N0khNUhndQ",
-   "url": "https://e.vnexpress.net/photo/environment/floods-sever-roads-swallow-excavators-inundate-hundreds-of-homes-in-central-vietnam-5143658.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Floods sever roads, swallow excavators, inundate hundreds of homes in central Vietnam",
-   "date": "2026-11-12",
-   "desc": "Floods sever roads, swallow excavators, inundate hundreds of homes in central Vietnam"
-  },
-  {
-   "id": "c6e7596fd27b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573673.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/politics/xi-trump-putin-summit-1945-yalta/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Xi-Trump-Putin summit evokes 1945 Yalta carve-up",
-   "date": "2026-11-12",
-   "desc": "Xi-Trump-Putin summit evokes 1945 Yalta carve-up"
-  },
-  {
-   "id": "14138f475662",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573665.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/12/tech/china-ai-nvidia-spy-us-chip-curbs/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Chinese AI firms rush to secure Nvidia chip capacity as scandal stirs fear of curbs",
-   "date": "2026-11-12",
-   "desc": "Chinese AI firms rush to secure Nvidia chip capacity as scandal stirs fear of curbs"
-  },
-  {
-   "id": "e4f11178be35",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573666.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/asia-pacific/politics/gibran-indonesia-diploma-scandal/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Indonesian vice president, son of former leader, steps down over diploma scandal",
-   "date": "2026-11-12",
-   "desc": "Indonesian vice president, son of former leader, steps down over diploma scandal"
-  },
-  {
-   "id": "b4f857a275a2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573228.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/12/japan/chatbots-prefer-japan/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "In the competition for cultural influence, AI has a default country",
-   "date": "2026-11-12",
-   "desc": "In the competition for cultural influence, AI has a default country"
-  },
-  {
-   "id": "2e6dd05cd33a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573672.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/science-health/congo-ebola-outbreak-six-months/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Congo Ebola outbreak still out of control after six months, MSF says",
-   "date": "2026-11-12",
-   "desc": "Congo Ebola outbreak still out of control after six months, MSF says"
-  },
-  {
-   "id": "c72f92ef60e3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573681.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/12/soccer/son-korea-team-rift/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "South Korea captain Son says players have resolved their differences",
-   "date": "2026-11-12",
-   "desc": "South Korea captain Son says players have resolved their differences"
-  },
-  {
-   "id": "38f6a29a0bcd",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573623.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/12/japan/politics/seat-reduction-bill-submitted/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "LDP, JIP and DPP submit Lower House seat-cut bill, driving contentious reform",
-   "date": "2026-11-12",
-   "desc": "LDP, JIP and DPP submit Lower House seat-cut bill, driving contentious reform"
-  },
-  {
-   "id": "0c00da2fe301",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573479.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/12/stage/japanese-theater-master-and-margarita/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘The Master and Margarita’ demolishes the fourth wall",
-   "date": "2026-11-12",
-   "desc": "‘The Master and Margarita’ demolishes the fourth wall"
-  },
-  {
-   "id": "6658cefb24bb",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/hegangapartment11yuanthumb1500-9162-8785-1794470221.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=x2Md5Z-WgoeKcDRN0YRXQQ",
-   "url": "https://e.vnexpress.net/news/news/man-buys-68-sq-m-apartment-for-1-64-during-china-s-biggest-shopping-festival-5143878.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Man buys 68 sq.m apartment for $1.64 during China's biggest shopping festival",
-   "date": "2026-11-12",
-   "desc": "Man buys 68 sq.m apartment for $1.64 during China's biggest shopping festival"
   }
  ]
 }
