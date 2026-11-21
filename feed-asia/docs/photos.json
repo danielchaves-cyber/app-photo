@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T04:52:07.710Z",
+ "atualizado": "2026-11-21T08:48:48.830Z",
  "fotos": [
   {
    "id": "795107ac2e34",
@@ -120,6 +120,106 @@
    "titulo": "California professor outearns college chancellor by making $800,000 a year teaching 30 online courses",
    "date": "2026-11-21",
    "desc": "California professor outearns college chancellor by making $800,000 a year teaching 30 online courses"
+  },
+  {
+   "id": "efc66dcedae8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575309.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/uk-burnham-brexit-welfare-trump-iran/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "British PM Burnham’s big worry Isn’t Brexit or welfare — it’s Trump and Iran",
+   "date": "2026-11-21",
+   "desc": "British PM Burnham’s big worry Isn’t Brexit or welfare — it’s Trump and Iran"
+  },
+  {
+   "id": "90b55c265510",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575308.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/us-fbi-usda-cyberattacks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. Agriculture Department, FBI breached by hackers, reports say",
+   "date": "2026-11-21",
+   "desc": "U.S. Agriculture Department, FBI breached by hackers, reports say"
+  },
+  {
+   "id": "ac459039a899",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575307.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Anthropic researcher says Claude solved math’s greatest riddle",
+   "date": "2026-11-21",
+   "desc": "Anthropic researcher says Claude solved math’s greatest riddle"
+  },
+  {
+   "id": "d350372b63e0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575310.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Countries open path towards ‘killer robots’ pact",
+   "date": "2026-11-21",
+   "desc": "Countries open path towards ‘killer robots’ pact"
+  },
+  {
+   "id": "c59ba0fb552b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/574653.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/21/music/susumu-hirasawa-paprika-soundtrack/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Susumu Hirasawa’s ‘Paprika’ score is the perfect ‘retrofuturist’ sound for today",
+   "date": "2026-11-21",
+   "desc": "Susumu Hirasawa’s ‘Paprika’ score is the perfect ‘retrofuturist’ sound for today"
+  },
+  {
+   "id": "4b667620babd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575306.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/asia-pacific/politics/why-kim-didnt-meet-trump/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Why Kim didn’t meet Trump, despite the hype",
+   "date": "2026-11-21",
+   "desc": "Why Kim didn’t meet Trump, despite the hype"
+  },
+  {
+   "id": "6899c4628e5c",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/1795233871168badcee7d33bc886b9-8473-2055-1795234387.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=XjCC8oqK6a8vl2x4twYDmg",
+   "url": "https://e.vnexpress.net/news/news/traffic/100-electric-sleeper-buses-begin-operating-on-three-routes-from-ho-chi-minh-city-5147449.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "100 electric sleeper buses begin operating on three routes from Ho Chi Minh City",
+   "date": "2026-11-21",
+   "desc": "100 electric sleeper buses begin operating on three routes from Ho Chi Minh City"
+  },
+  {
+   "id": "603a0fec2f89",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/nusinterdisciplinaryrankingthu-6101-4420-1795074855.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=g5dzRzaoz_-hLOK8Cy_XZA",
+   "url": "https://e.vnexpress.net/news/news/education/singapore-university-jumps-6-places-to-overtake-stanford-in-global-science-ranking-5146615.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Singapore university jumps 6 places to overtake Stanford in global science ranking",
+   "date": "2026-11-21",
+   "desc": "Singapore university jumps 6 places to overtake Stanford in global science ranking"
+  },
+  {
+   "id": "ab449454ed88",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/malaysiapasswordsthumb1500x900-3608-6329-1795066757.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=5-8kFX1iu5hbURA_wZZ-YQ",
+   "url": "https://e.vnexpress.net/news/news/000000-overtakes-123456-as-malaysia-s-most-common-password-5146551.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "'000000' overtakes '123456' as Malaysia's most common password",
+   "date": "2026-11-21",
+   "desc": "'000000' overtakes '123456' as Malaysia's most common password"
+  },
+  {
+   "id": "fa826102f9f1",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/21/233a2725-jpeg-1795237426-5507-1795237434.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=VlkJbusUxEtEdcUqnOEDig",
+   "url": "https://e.vnexpress.net/news/news/vietnam-adds-two-paid-public-holidays-brings-annual-total-to-13-5147405.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam adds two paid public holidays, brings annual total to 13",
+   "date": "2026-11-21",
+   "desc": "Vietnam adds two paid public holidays, brings annual total to 13"
   },
   {
    "id": "f25a4f0ffea4",
@@ -2900,106 +3000,6 @@
    "titulo": "Japan yet to make full use of nuclear power equipment export treaty with India",
    "date": "2026-11-13",
    "desc": "Japan yet to make full use of nuclear power equipment export treaty with India"
-  },
-  {
-   "id": "43b53a3ebede",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/1794553148778-1794563501-5278-1794563623.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=cBneIy3IrlS7DLA5R62QJw",
-   "url": "https://e.vnexpress.net/news/news/2-dead-12-injured-as-gas-shop-explosion-destroys-houses-in-ho-chi-minh-city-5144404.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "2 dead, 12 injured as gas shop explosion destroys houses in Ho Chi Minh City",
-   "date": "2026-11-13",
-   "desc": "2 dead, 12 injured as gas shop explosion destroys houses in Ho Chi Minh City"
-  },
-  {
-   "id": "3652ce79dd49",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/incheonliveroundsthumb1500x900-7236-8382-1794555633.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=O3M_7J9h43cQMG-Dub1svQ",
-   "url": "https://e.vnexpress.net/news/news/traffic/us-traveler-allowed-to-fly-on-after-19-live-rounds-found-in-luggage-at-incheon-airport-5144317.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "US traveler allowed to fly on after 19 live rounds found in luggage at Incheon airport",
-   "date": "2026-11-13",
-   "desc": "US traveler allowed to fly on after 19 live rounds found in luggage at Incheon airport"
-  },
-  {
-   "id": "cade9fef6089",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573998.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-crisis-scrutiny-agency/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nvidia crisis spurs scrutiny of agency that oversees chip curbs",
-   "date": "2026-11-13",
-   "desc": "Nvidia crisis spurs scrutiny of agency that oversees chip curbs"
-  },
-  {
-   "id": "b9fc425e145d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573997.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-arm-ceo-haas-huang/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nvidia approaches Arm CEO Haas as employees seek Huang’s return, reports say",
-   "date": "2026-11-13",
-   "desc": "Nvidia approaches Arm CEO Haas as employees seek Huang’s return, reports say"
-  },
-  {
-   "id": "a224bdd08b3b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573996.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/14/world/departing-us-flights-grounded/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "All departing U.S. flights grounded due to communication outage",
-   "date": "2026-11-13",
-   "desc": "All departing U.S. flights grounded due to communication outage"
-  },
-  {
-   "id": "76abb0c1f7cb",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573709.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/14/tv-streaming/love-village-season-3/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Love Village’ is a warts-and-all take on the realities of middle-aged romance",
-   "date": "2026-11-13",
-   "desc": "‘Love Village’ is a warts-and-all take on the realities of middle-aged romance"
-  },
-  {
-   "id": "29a66315c926",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573611.jpg",
-   "url": "https://www.japantimes.co.jp/life/2026/11/14/travel/camping-japan-travel-hiking-mountains-guide/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "A beginner’s guide to camping in Japan",
-   "date": "2026-11-13",
-   "desc": "A beginner’s guide to camping in Japan"
-  },
-  {
-   "id": "276f3faab264",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573694.jpg",
-   "url": "https://www.japantimes.co.jp/life/2026/11/14/digital/switch-2-sports-resort-nintendo-golf-tennis/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "In a crowded fall, ‘Nintendo Switch Sports Resort’ is a casual gem",
-   "date": "2026-11-13",
-   "desc": "In a crowded fall, ‘Nintendo Switch Sports Resort’ is a casual gem"
-  },
-  {
-   "id": "dc805af3c409",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/snugwanakgatethumb1280x768-179-5300-5169-1794297522.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ZLbOPZSXzKOKICfGrAII3w",
-   "url": "https://e.vnexpress.net/news/news/education/south-korea-s-top-university-considers-748-monthly-stipend-free-tuition-for-first-foreign-only-class-5142935.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "South Korea's top university considers $748 monthly stipend, free tuition for first foreign-only class",
-   "date": "2026-11-13",
-   "desc": "South Korea's top university considers $748 monthly stipend, free tuition for first foreign-only class"
-  },
-  {
-   "id": "fc3107c70698",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/bangkokgamblingthumb1200x720-1-4492-1140-1794557181.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rKWNf4uRTAM27Z1Ip4aFnA",
-   "url": "https://e.vnexpress.net/news/news/crime/chinese-fugitive-behind-1-5b-football-betting-site-arrested-in-thailand-5144320.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Chinese fugitive behind $1.5B football betting site arrested in Thailand",
-   "date": "2026-11-13",
-   "desc": "Chinese fugitive behind $1.5B football betting site arrested in Thailand"
   }
  ]
 }
