@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T08:48:48.830Z",
+ "atualizado": "2026-11-21T12:49:35.671Z",
  "fotos": [
   {
    "id": "795107ac2e34",
@@ -220,6 +220,46 @@
    "titulo": "Vietnam adds two paid public holidays, brings annual total to 13",
    "date": "2026-11-21",
    "desc": "Vietnam adds two paid public holidays, brings annual total to 13"
+  },
+  {
+   "id": "6d1f9e26f1fa",
+   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/61675aad-28d7-44cd-8807-4a0dd5e37414_2a7be201.jpg?itok=mijIE3zf&v=1795263339",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375335/how-china-showcased-shenzhen-miracle-apec-cooperation-push",
+   "flag": "🇨🇳",
+   "src": "Caroline Lin · SCMP (Xinhua)",
+   "titulo": "How China showcased the ‘Shenzhen miracle’ in Apec cooperation push",
+   "date": "2026-11-21",
+   "desc": "How China showcased the ‘Shenzhen miracle’ in Apec cooperation push"
+  },
+  {
+   "id": "700e6a70db92",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/dji-d-1795241698.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=OKMbwwf915F6qGnEgwydwQ",
+   "url": "https://e.vnexpress.net/photo/traffic/road-to-vietnams-largest-airport-long-thanh-widens-to-10-lanes-5147479.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Road to Vietnam's largest airport Long Thanh widens to 10 lanes",
+   "date": "2026-11-21",
+   "desc": "Road to Vietnam's largest airport Long Thanh widens to 10 lanes"
+  },
+  {
+   "id": "179a125b54c1",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/21/xie179523774273481795238014png-4916-7261-1795252535.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ffyoYPhIGBM8reNvjX6EdA",
+   "url": "https://e.vnexpress.net/news/news/ice-detains-chinese-born-princeton-phd-student-at-airport-after-neuroscience-conference-5147463.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "ICE detains Chinese-born Princeton PhD student at airport after neuroscience conference",
+   "date": "2026-11-21",
+   "desc": "ICE detains Chinese-born Princeton PhD student at airport after neuroscience conference"
+  },
+  {
+   "id": "0ca44381afed",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/21/233a6661jpeg179507024617950292-8016-2517-1795251161.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Smk5HTUt7xJB8umV6TiLqQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/vietnam-s-largest-airport-long-thanh-to-open-with-flights-to-hanoi-5147456.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's largest airport Long Thanh to open with flights to Hanoi",
+   "date": "2026-11-21",
+   "desc": "Vietnam's largest airport Long Thanh to open with flights to Hanoi"
   },
   {
    "id": "f25a4f0ffea4",
@@ -2960,46 +3000,6 @@
    "titulo": "Thailand tightens aviation cybersecurity after 60,000 passenger data breach",
    "date": "2026-11-13",
    "desc": "Thailand tightens aviation cybersecurity after 60,000 passenger data breach"
-  },
-  {
-   "id": "5b89ab73136c",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/ap26315101380080-1794540156-7442-1794550554.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ahNnFLGjhbwZKgsD-Mwqiw",
-   "url": "https://e.vnexpress.net/news/news/no-longer-the-person-we-used-to-know-jensen-huang-loses-his-shine-in-birthplace-taiwan-5144199.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "'No longer the person we used to know': Jensen Huang loses his shine in birthplace Taiwan",
-   "date": "2026-11-13",
-   "desc": "'No longer the person we used to know': Jensen Huang loses his shine in birthplace Taiwan"
-  },
-  {
-   "id": "4cdcc82de946",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573930.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/malaysia-airasia-aid/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Malaysia weighing how to aid AirAsia without risking public funds, ex-minister says",
-   "date": "2026-11-13",
-   "desc": "Malaysia weighing how to aid AirAsia without risking public funds, ex-minister says"
-  },
-  {
-   "id": "183290c22479",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573952.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/science-health/plant-animal-cells/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan team creates ‘planimal’ hybrid plant-animal cells in world first",
-   "date": "2026-11-13",
-   "desc": "Japan team creates ‘planimal’ hybrid plant-animal cells in world first"
-  },
-  {
-   "id": "5a918d30f4cf",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573916.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/nuclear-plant-exports-india/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan yet to make full use of nuclear power equipment export treaty with India",
-   "date": "2026-11-13",
-   "desc": "Japan yet to make full use of nuclear power equipment export treaty with India"
   }
  ]
 }
