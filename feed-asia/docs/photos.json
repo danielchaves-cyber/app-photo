@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T00:55:25.486Z",
+ "atualizado": "2026-11-22T04:55:13.851Z",
  "fotos": [
   {
    "id": "ffe636aa4c81",
@@ -10,6 +10,116 @@
    "titulo": "U.S. Agriculture Department and FBI breached by hackers, reports say",
    "date": "2026-11-22",
    "desc": "U.S. Agriculture Department and FBI breached by hackers, reports say"
+  },
+  {
+   "id": "994b1cb20be1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575388.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/new-zealand-coach-under-pressure/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "All Blacks coach Dave Rennie on hot seat after poor showing in loss against England",
+   "date": "2026-11-22",
+   "desc": "All Blacks coach Dave Rennie on hot seat after poor showing in loss against England"
+  },
+  {
+   "id": "368f35b0db06",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/574472.jpg",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/22/climate-change/celery-harvest-climate-change/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nagano farmers are running out of altitude as warming hits key celery crop",
+   "date": "2026-11-22",
+   "desc": "Nagano farmers are running out of altitude as warming hits key celery crop"
+  },
+  {
+   "id": "63c8195ee98c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575349.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/22/bank-deposits-100-million/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Bank accounts with deposits of over 100 million yen surge: BOJ",
+   "date": "2026-11-22",
+   "desc": "Bank accounts with deposits of over 100 million yen surge: BOJ"
+  },
+  {
+   "id": "d175e5f87735",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575341.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/22/soccer/manchester-city-fulham-draw/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Frustration mounts as Manchester City’s slump continues",
+   "date": "2026-11-22",
+   "desc": "Frustration mounts as Manchester City’s slump continues"
+  },
+  {
+   "id": "5271137e1691",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575343.jpg",
+   "url": "https://www.japantimes.co.jp/community/2026/11/22/kelly-cat-adoption/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Kelly, an orange-and-white beauty, is a true delight",
+   "date": "2026-11-22",
+   "desc": "Kelly, an orange-and-white beauty, is a true delight"
+  },
+  {
+   "id": "d2f35a0c5ce3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575342.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/22/japan/princess-aiko-returns-singapore-visit/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s Princess Aiko returns from Singapore visit",
+   "date": "2026-11-22",
+   "desc": "Japan’s Princess Aiko returns from Singapore visit"
+  },
+  {
+   "id": "458cbcb50562",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575334.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/scotland-routs-brave-blossoms/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Scotland overpowers Japan in Nations Championship clash",
+   "date": "2026-11-22",
+   "desc": "Scotland overpowers Japan in Nations Championship clash"
+  },
+  {
+   "id": "abc9e031de3f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575340.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/22/japan/ldp-replacing-scandal-minister/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "LDP executive hints at replacing scandal-hit education minister",
+   "date": "2026-11-22",
+   "desc": "LDP executive hints at replacing scandal-hit education minister"
+  },
+  {
+   "id": "60ea671df425",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/864210928-n-1795276594-1352-1795276619.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ui8DeRKEAzn0vUrDFjtO3w",
+   "url": "https://e.vnexpress.net/news/news/education/where-most-international-students-study-in-the-us-5147564.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Where most international students study in the US",
+   "date": "2026-11-22",
+   "desc": "Where most international students study in the US"
+  },
+  {
+   "id": "9f7b7ae3cedd",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/16/tong-bi-thu-chu-tich-nuoc-to-l-7045-5738-1794812888.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=SiNXX33fKY9d7COOWwHKGQ",
+   "url": "https://e.vnexpress.net/news/news/education/vietnamese-scholar-turns-love-of-mathematics-into-career-at-china-s-space-science-hub-5145234.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnamese scholar turns love of mathematics into career at China's space science hub",
+   "date": "2026-11-22",
+   "desc": "Vietnamese scholar turns love of mathematics into career at China's space science hub"
+  },
+  {
+   "id": "ea3f2fa9b88a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/20/phuketairtaxithumb1360x816-179-6216-7295-1795158939.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=gfwug_31Dox1T7cFefV0GA",
+   "url": "https://e.vnexpress.net/news/news/traffic/pilotless-air-taxis-could-fly-tourists-on-thailand-s-phuket-island-as-early-as-next-year-5147042.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Pilotless air taxis could fly tourists on Thailand's Phuket island as early as next year",
+   "date": "2026-11-22",
+   "desc": "Pilotless air taxis could fly tourists on Thailand's Phuket island as early as next year"
   },
   {
    "id": "795107ac2e34",
@@ -2890,116 +3000,6 @@
    "titulo": "Sheep-shearing and puffer fish among items in Japan’s New Year lucky bags",
    "date": "2026-11-13",
    "desc": "Sheep-shearing and puffer fish among items in Japan’s New Year lucky bags"
-  },
-  {
-   "id": "888460de1d56",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573795.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/13/world/politics/putin-allows-europe-in-ukraine-talks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Putin agrees to European participation in next round of Ukraine peace talks",
-   "date": "2026-11-13",
-   "desc": "Putin agrees to European participation in next round of Ukraine peace talks"
-  },
-  {
-   "id": "f72a09a40a6e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573833.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/13/tennis/pegula-noskova-gauff-wta-finals/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Pegula beats Noskova to advance at WTA Finals, knock out Gauff",
-   "date": "2026-11-13",
-   "desc": "Pegula beats Noskova to advance at WTA Finals, knock out Gauff"
-  },
-  {
-   "id": "5adff3b7de43",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/koreansmounjarojapanthumb1500x-5293-4468-1794494339.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=IGMNarQMUT6zkvyNC767Fw",
-   "url": "https://e.vnexpress.net/news/news/koreans-flock-to-japan-for-weight-loss-drug-that-costs-a-third-of-price-at-home-5144033.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Koreans flock to Japan for weight-loss drug that costs a third of price at home",
-   "date": "2026-11-13",
-   "desc": "Koreans flock to Japan for weight-loss drug that costs a third of price at home"
-  },
-  {
-   "id": "3eeb46e79151",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/ap26316456393208-1794543273-9047-1794543291.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=X22sfvo2Gf6fN9AOSHbwXw",
-   "url": "https://e.vnexpress.net/news/news/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-5144231.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "US Justice Department has not concluded Alice Huang was Chinese spy",
-   "date": "2026-11-13",
-   "desc": "US Justice Department has not concluded Alice Huang was Chinese spy"
-  },
-  {
-   "id": "fda9d8828301",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/wm10-wm10-tong-bi-thu-chu-tich-nuoc-4274-1843-1794538321.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=1ps2jMg5EINk4CJaf2UVTw",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-attend-apec-summit-in-china-5144178.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's top leader to attend APEC summit in China",
-   "date": "2026-11-13",
-   "desc": "Vietnam's top leader to attend APEC summit in China"
-  },
-  {
-   "id": "95f01ad832e9",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/jensen-huang-jpeg-1794535501-1818-1794535561.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=W4NdG9MVwNVGUHaka4KvFA",
-   "url": "https://e.vnexpress.net/news/news/jensen-huang-summoned-to-testify-before-us-senate-committee-white-house-weighs-commerce-secretary-lutnick-s-ouster-5144146.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Jensen Huang summoned to testify before US Senate committee, White House weighs Commerce Secretary Lutnick's ouster",
-   "date": "2026-11-13",
-   "desc": "Jensen Huang summoned to testify before US Senate committee, White House weighs Commerce Secretary Lutnick's ouster"
-  },
-  {
-   "id": "5f390c69cd20",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/kuwaititouristsapathumb942x565-8548-1141-1794493828.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JE10df_Z2zfBotESabk3DA",
-   "url": "https://e.vnexpress.net/news/news/solo-foreign-traveler-missing-for-nearly-a-week-after-riding-off-from-sa-pa-homestay-5144034.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Solo foreign traveler missing for nearly a week after riding off from Sa Pa homestay",
-   "date": "2026-11-13",
-   "desc": "Solo foreign traveler missing for nearly a week after riding off from Sa Pa homestay"
-  },
-  {
-   "id": "db4bd194a4fc",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/joshua-kuswardi-r913yss-t7a-un-5434-3447-1794451498.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=vphcw9yItHnxkrYoNaNNtA",
-   "url": "https://e.vnexpress.net/news/news/environment/ai-boom-sparks-water-shortages-and-protests-on-indonesian-island-5143684.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "AI boom sparks water shortages and protests on Indonesian island",
-   "date": "2026-11-13",
-   "desc": "AI boom sparks water shortages and protests on Indonesian island"
-  },
-  {
-   "id": "b187616f1241",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573945.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/sumitomo-mitsui-mizuho-profit-forecast/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Sumitomo Mitsui, Mizuho raises annual profit forecast and announces share buyback",
-   "date": "2026-11-13",
-   "desc": "Sumitomo Mitsui, Mizuho raises annual profit forecast and announces share buyback"
-  },
-  {
-   "id": "8f243652867f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573924.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "China stages unannounced Pacific drills in ‘silent intimidation’ push: Taiwan officials",
-   "date": "2026-11-13",
-   "desc": "China stages unannounced Pacific drills in ‘silent intimidation’ push: Taiwan officials"
-  },
-  {
-   "id": "de346a5cefde",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573951.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/explainer/explainer-ruling-disparity-upper-house-seat/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Ruling on 2025 election’s ‘unconstitutional state’ raises questions on electoral reform",
-   "date": "2026-11-13",
-   "desc": "Ruling on 2025 election’s ‘unconstitutional state’ raises questions on electoral reform"
   }
  ]
 }
