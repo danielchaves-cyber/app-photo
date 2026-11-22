@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-21T20:37:49.498Z",
+ "atualizado": "2026-11-22T00:55:25.486Z",
  "fotos": [
+  {
+   "id": "ffe636aa4c81",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575308.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/22/world/crime-legal/us-fbi-usda-cyberattacks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. Agriculture Department and FBI breached by hackers, reports say",
+   "date": "2026-11-22",
+   "desc": "U.S. Agriculture Department and FBI breached by hackers, reports say"
+  },
   {
    "id": "795107ac2e34",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575290.jpg",
@@ -260,6 +270,66 @@
    "titulo": "Vietnam's largest airport Long Thanh to open with flights to Hanoi",
    "date": "2026-11-21",
    "desc": "Vietnam's largest airport Long Thanh to open with flights to Hanoi"
+  },
+  {
+   "id": "58768d70e537",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575326.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/politics/trump-china-xi-strength-analysis/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "As Trump basks in summit pomp, China’s Xi strengthens his hand",
+   "date": "2026-11-21",
+   "desc": "As Trump basks in summit pomp, China’s Xi strengthens his hand"
+  },
+  {
+   "id": "1de59f9cede5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575013.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/22/film/armored-trooper-votoms-die-graue-hexe/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Armored Trooper VOTOMS: Die Graue Hexe’: Sci-fi franchise gets a stylish reboot",
+   "date": "2026-11-21",
+   "desc": "‘Armored Trooper VOTOMS: Die Graue Hexe’: Sci-fi franchise gets a stylish reboot"
+  },
+  {
+   "id": "286ed29dd123",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/574675.jpeg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/22/food-drink/washoku-essentials-datemaki-sweet-omelet-osechi-new-year/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "A sweet, rolled omelet worthy of a samurai warlord",
+   "date": "2026-11-21",
+   "desc": "A sweet, rolled omelet worthy of a samurai warlord"
+  },
+  {
+   "id": "09b4b4f57a6a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575311.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/mao-shimada-wins-finland/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mao Shimada wins Finlandia Trophy to book spot in Grand Prix Final",
+   "date": "2026-11-21",
+   "desc": "Mao Shimada wins Finlandia Trophy to book spot in Grand Prix Final"
+  },
+  {
+   "id": "74b2ed50da5e",
+   "img": "https://i1-english.vnecdn.net/2026/11/19/asiainterdisciplinaryrankingth-3681-7241-1795074835.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=31rDtQ_AKCr6ZliUtRV_Nw",
+   "url": "https://e.vnexpress.net/news/news/education/asia-outnumbers-north-america-and-europe-combined-in-top-100-of-global-science-ranking-5146612.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Asia outnumbers North America and Europe combined in top 100 of global science ranking",
+   "date": "2026-11-21",
+   "desc": "Asia outnumbers North America and Europe combined in top 100 of global science ranking"
+  },
+  {
+   "id": "f7f7283bf9ed",
+   "img": "https://i1-english.vnecdn.net/2026/11/18/stephanie-hau-vj3cfy8ii9c-unsp-7136-7199-1794991004.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=vCD8LTWAG8swyEyXh4AUYQ",
+   "url": "https://e.vnexpress.net/news/news/brainteaser/which-asian-country-ranks-in-world-s-top-10-public-education-systems-5146160.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Which Asian country ranks in world's top 10 public education systems?",
+   "date": "2026-11-21",
+   "desc": "Which Asian country ranks in world's top 10 public education systems?"
   },
   {
    "id": "f25a4f0ffea4",
@@ -2930,76 +3000,6 @@
    "titulo": "Ruling on 2025 election’s ‘unconstitutional state’ raises questions on electoral reform",
    "date": "2026-11-13",
    "desc": "Ruling on 2025 election’s ‘unconstitutional state’ raises questions on electoral reform"
-  },
-  {
-   "id": "235561953968",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573953.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/japanese-baseball/oh-kuriyama-npb-mlb/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Oh and Kuriyama call for change as Japan’s baseball landscape shifts",
-   "date": "2026-11-13",
-   "desc": "Oh and Kuriyama call for change as Japan’s baseball landscape shifts"
-  },
-  {
-   "id": "b726b754297c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573862.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/prabowo-consolidates-power/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Indonesia’s Prabowo rushes end of Jokowi era with son’s ouster",
-   "date": "2026-11-13",
-   "desc": "Indonesia’s Prabowo rushes end of Jokowi era with son’s ouster"
-  },
-  {
-   "id": "4baee937ea77",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573950.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/politics/tax-cut-debate-komeito-dpp/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Opposition in Upper House seeks to expand relief during and after food tax cut",
-   "date": "2026-11-13",
-   "desc": "Opposition in Upper House seeks to expand relief during and after food tax cut"
-  },
-  {
-   "id": "b1992baa7564",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573557.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/13/film/tiff-chinese-films-competition/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Chinese filmmakers at TIFF take risks and reap rewards",
-   "date": "2026-11-13",
-   "desc": "Chinese filmmakers at TIFF take risks and reap rewards"
-  },
-  {
-   "id": "77e7f373ffdd",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573867.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/bird-flu-chiba/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan’s second bird flu case this season confirmed in Chiba",
-   "date": "2026-11-13",
-   "desc": "Japan’s second bird flu case this season confirmed in Chiba"
-  },
-  {
-   "id": "141a19e25cb0",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/tong-bi-thu-chu-tich-nuoc-to-l-9369-8846-1794553722.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mV4XQ4a4Vn5jESxcZhcdkQ",
-   "url": "https://e.vnexpress.net/news/news/education/vietnam-to-end-ielts-bonus-points-in-university-admissions-from-2028-5144311.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam to end IELTS bonus points in university admissions from 2028",
-   "date": "2026-11-13",
-   "desc": "Vietnam to end IELTS bonus points in university admissions from 2028"
-  },
-  {
-   "id": "bf842e9e4fc9",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/13/pexelsandromeda9911289783-1794-5232-9824-1794553663.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=mKuwzvSUUnG5IT2BJlMfcA",
-   "url": "https://e.vnexpress.net/news/news/thailand-tightens-aviation-cybersecurity-after-60-000-passenger-data-breach-5144310.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Thailand tightens aviation cybersecurity after 60,000 passenger data breach",
-   "date": "2026-11-13",
-   "desc": "Thailand tightens aviation cybersecurity after 60,000 passenger data breach"
   }
  ]
 }
