@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-22T20:40:47.401Z",
+ "atualizado": "2026-11-23T00:58:35.361Z",
  "fotos": [
+  {
+   "id": "cac5ea4740ff",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/chulalongkornuniversitythumb15-2748-3709-1795074798.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=BAAmxbtVFMp_eaDSaJsIjw",
+   "url": "https://e.vnexpress.net/news/news/education/indonesia-thailand-have-most-southeast-asian-universities-in-top-100-of-global-science-ranking-5146613.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Indonesia, Thailand have most Southeast Asian universities in top 100 of global science ranking",
+   "date": "2026-11-23",
+   "desc": "Indonesia, Thailand have most Southeast Asian universities in top 100 of global science ranking"
+  },
   {
    "id": "ffe636aa4c81",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575308.jpg",
@@ -310,6 +320,26 @@
    "titulo": "Vietnam-France-South Korea consortium wins $400M high-speed rail consultancy contract",
    "date": "2026-11-22",
    "desc": "Vietnam-France-South Korea consortium wins $400M high-speed rail consultancy contract"
+  },
+  {
+   "id": "ea1d9443b64f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575464.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/23/tech/us-spy-ex-nvidia-ceo/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. probing alleged spy tied to ex-Nvidia CEO, spy chief says",
+   "date": "2026-11-22",
+   "desc": "U.S. probing alleged spy tied to ex-Nvidia CEO, spy chief says"
+  },
+  {
+   "id": "9a096b0c5e2d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575465.jpg",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/23/climate-change/climate-diplomacy-cop31-collapse/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Can climate diplomacy build on the collapse of COP31?",
+   "date": "2026-11-22",
+   "desc": "Can climate diplomacy build on the collapse of COP31?"
   },
   {
    "id": "795107ac2e34",
@@ -2970,36 +3000,6 @@
    "titulo": "Eddie Jones vows Japan will ‘play the house down’ in matchup with England",
    "date": "2026-11-14",
    "desc": "Eddie Jones vows Japan will ‘play the house down’ in matchup with England"
-  },
-  {
-   "id": "0bf741aa0e48",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573999.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-recovered/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Microsoft says services fully restored after outage roiled world",
-   "date": "2026-11-14",
-   "desc": "Microsoft says services fully restored after outage roiled world"
-  },
-  {
-   "id": "5515b834cfd9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574015.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/14/japan-philippines-oil-reserve-deal/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan and Philippines to ink deal on oil reserve cooperation",
-   "date": "2026-11-14",
-   "desc": "Japan and Philippines to ink deal on oil reserve cooperation"
-  },
-  {
-   "id": "902e693d059a",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/14/originald4e284-c0edf-a686bd505-6295-5279-1794641819.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=YAj5mJIZC0hB1w8zpTBdPg",
-   "url": "https://e.vnexpress.net/news/news/asia-pacific-faces-growing-health-challenges-as-population-ages-5143905.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Asia Pacific faces growing health challenges as population ages",
-   "date": "2026-11-14",
-   "desc": "Asia Pacific faces growing health challenges as population ages"
   }
  ]
 }
