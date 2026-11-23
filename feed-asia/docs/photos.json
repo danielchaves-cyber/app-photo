@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T05:12:38.445Z",
+ "atualizado": "2026-11-23T09:19:03.767Z",
  "fotos": [
   {
    "id": "cac5ea4740ff",
@@ -110,6 +110,126 @@
    "titulo": "Search for Indonesia factory fire missing resumes Monday, police remove 24 body bags",
    "date": "2026-11-23",
    "desc": "Search for Indonesia factory fire missing resumes Monday, police remove 24 body bags"
+  },
+  {
+   "id": "370f3168cf33",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575469.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/23/world/libya-drone-attack-russian-ship-ukraine/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ukraine claims strikes on two Russian ships off Libya",
+   "date": "2026-11-23",
+   "desc": "Ukraine claims strikes on two Russian ships off Libya"
+  },
+  {
+   "id": "1332eab99471",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/574629.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/23/world/china-getting-inflation/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China is getting inflation in all the wrong places",
+   "date": "2026-11-23",
+   "desc": "China is getting inflation in all the wrong places"
+  },
+  {
+   "id": "dc0c5755d1d3",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575266.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/23/japan/japan-failed-government-communication/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "It’s no urban legend; it’s failed government communication",
+   "date": "2026-11-23",
+   "desc": "It’s no urban legend; it’s failed government communication"
+  },
+  {
+   "id": "584fcfebe773",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/573468.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/23/japan/society/fukushima-hydrogen-station-struggle/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Cost burden keeps Fukushima’s hydrogen dream from taking off",
+   "date": "2026-11-23",
+   "desc": "Cost burden keeps Fukushima’s hydrogen dream from taking off"
+  },
+  {
+   "id": "57de3c2885eb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575580.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/23/japan/shuri-castle-seiden-opens-public/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Restored main hall of Okinawa’s Shuri Castle opens to public",
+   "date": "2026-11-23",
+   "desc": "Restored main hall of Okinawa’s Shuri Castle opens to public"
+  },
+  {
+   "id": "11087a27b1e9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575579.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/23/more-sports/49ers-rout-vikings-mexico-city/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "49ers rout Vikings as NFL wraps up international slate in style in Mexico City",
+   "date": "2026-11-23",
+   "desc": "49ers rout Vikings as NFL wraps up international slate in style in Mexico City"
+  },
+  {
+   "id": "fe314344c036",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575565.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/23/asia-pacific/thailand-ban-exports-chemicals-pollution/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Thailand plans to ban exports of chemicals as it tackles pollution",
+   "date": "2026-11-23",
+   "desc": "Thailand plans to ban exports of chemicals as it tackles pollution"
+  },
+  {
+   "id": "5acaef17a536",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575578.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/23/asia-pacific/politics/south-korea-ministers-spy-chief/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "South Korea nominates new foreign and unification ministers",
+   "date": "2026-11-23",
+   "desc": "South Korea nominates new foreign and unification ministers"
+  },
+  {
+   "id": "63ce7c69b692",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/23/set-top-1795414016.png?w=900&h=0&q=100&dpr=1&fit=crop&s=StKZYTu_IxNzyEOcEG36Tw",
+   "url": "https://e.vnexpress.net/infographics/news/vietnams-13-paid-public-holidays-in-2027-after-two-new-additions-5148028.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's 13 paid public holidays in 2027 after two new additions",
+   "date": "2026-11-23",
+   "desc": "Vietnam's 13 paid public holidays in 2027 after two new additions"
+  },
+  {
+   "id": "3fa19ee23264",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/23/indonesiagoldbanjarmasinthumb1-8943-1331-1795418163.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=947mNqMB4ADg5V8T3PEjTw",
+   "url": "https://e.vnexpress.net/news/news/crime/three-passengers-caught-trying-to-smuggle-26-kg-of-gold-on-flights-to-malaysia-5148043.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Three passengers caught trying to smuggle 26 kg of gold on flights to Malaysia",
+   "date": "2026-11-23",
+   "desc": "Three passengers caught trying to smuggle 26 kg of gold on flights to Malaysia"
+  },
+  {
+   "id": "b2a573e9b1da",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/23/russiancouplephuketthumb1200x7-8467-7706-1795417996.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=OdH0BhCK7OBpCM2VpVe-WA",
+   "url": "https://e.vnexpress.net/news/news/crime/russian-couple-with-vanuatu-passports-arrested-in-thailand-over-1-8m-fraud-5148041.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Russian couple with Vanuatu passports arrested in Thailand over $1.8M fraud",
+   "date": "2026-11-23",
+   "desc": "Russian couple with Vanuatu passports arrested in Thailand over $1.8M fraud"
+  },
+  {
+   "id": "e5b7a9cf7d77",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/23/267fbaf1ef8fc4-ff7d22ddef67-jf-7543-9145-1795420709.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=5ekBGVkh8mcZHx4wPDsrkQ",
+   "url": "https://e.vnexpress.net/news/news/hcmc-issues-master-plan-to-become-attractive-sustainable-global-city-by-2050-5148065.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "HCMC issues master plan to become attractive, sustainable global city by 2050",
+   "date": "2026-11-23",
+   "desc": "HCMC issues master plan to become attractive, sustainable global city by 2050"
   },
   {
    "id": "ffe636aa4c81",
@@ -2880,126 +3000,6 @@
    "titulo": "As more foreign nationals join Japan’s workforce, diversity policies take on new importance",
    "date": "2026-11-15",
    "desc": "As more foreign nationals join Japan’s workforce, diversity policies take on new importance"
-  },
-  {
-   "id": "93f612db398c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574145.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/megaspeed-says-alice-huang-left/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Megaspeed says Alice Huang left firm in August 2025",
-   "date": "2026-11-15",
-   "desc": "Megaspeed says Alice Huang left firm in August 2025"
-  },
-  {
-   "id": "a32081fd70ce",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574143.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/okinawa-gets-us-f-15ex-fighters/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "New U.S. F-15EX fighters arrive at Okinawa Kadena Base",
-   "date": "2026-11-15",
-   "desc": "New U.S. F-15EX fighters arrive at Okinawa Kadena Base"
-  },
-  {
-   "id": "163af9645a4e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574141.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/iran-bahrain-base-us-deal/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Iran strikes Bahrain base, repeats path to U.S. deal remains open",
-   "date": "2026-11-15",
-   "desc": "Iran strikes Bahrain base, repeats path to U.S. deal remains open"
-  },
-  {
-   "id": "dcb04f3f299f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574139.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/respiratory-illness-gaza-floods-who/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says",
-   "date": "2026-11-15",
-   "desc": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says"
-  },
-  {
-   "id": "c3624feacf05",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/573678.jpg",
-   "url": "https://www.japantimes.co.jp/environment/2026/11/15/wildlife/chiba-kyon-issue-invasive-species/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Chiba’s big agricultural headache comes in a tiny package",
-   "date": "2026-11-15",
-   "desc": "Chiba’s big agricultural headache comes in a tiny package"
-  },
-  {
-   "id": "5069307814cc",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574128.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/politics/japan-iea-asian-version/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan to propose Asian version of IEA at AZEC summit",
-   "date": "2026-11-15",
-   "desc": "Japan to propose Asian version of IEA at AZEC summit"
-  },
-  {
-   "id": "3084e29c638c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574124.jpg",
-   "url": "https://www.japantimes.co.jp/environment/2026/11/15/climate-change/taiwan-indigenous-farmer-climate-millet/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Taiwan Indigenous farmer revives climate-resilient millet",
-   "date": "2026-11-15",
-   "desc": "Taiwan Indigenous farmer revives climate-resilient millet"
-  },
-  {
-   "id": "c07ff43290e8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574149.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/15/baseball/japan-korea-apbc-final/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Samurai Japan beats South Korea to win Asia Professional Baseball Championship",
-   "date": "2026-11-15",
-   "desc": "Samurai Japan beats South Korea to win Asia Professional Baseball Championship"
-  },
-  {
-   "id": "72ab1efdd12c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574170.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/world/airlines-flights-faa-router/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Airlines work to restore flights as FAA probes faulty router",
-   "date": "2026-11-15",
-   "desc": "Airlines work to restore flights as FAA probes faulty router"
-  },
-  {
-   "id": "d41b3587ab1d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574171.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/politics/manila-summit-trade-us-risks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "World leaders at Manila summit seek trade to offset U.S. risks",
-   "date": "2026-11-15",
-   "desc": "World leaders at Manila summit seek trade to offset U.S. risks"
-  },
-  {
-   "id": "9225d6602f58",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573999.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-stabilizing/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Microsoft Outlook and Teams outage eases after over a day but recovery timeline uncertain",
-   "date": "2026-11-14",
-   "desc": "Microsoft Outlook and Teams outage eases after over a day but recovery timeline uncertain"
-  },
-  {
-   "id": "16adaf8afb2a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574008.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/defense-spending-defense-ministry-finance-ministry/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan considers setting five-year defense spending plan at ¥60 trillion",
-   "date": "2026-11-14",
-   "desc": "Japan considers setting five-year defense spending plan at ¥60 trillion"
   }
  ]
 }
