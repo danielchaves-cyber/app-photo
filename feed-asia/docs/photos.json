@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T09:19:03.767Z",
+ "atualizado": "2026-11-23T13:09:35.117Z",
  "fotos": [
   {
    "id": "cac5ea4740ff",
@@ -230,6 +230,36 @@
    "titulo": "HCMC issues master plan to become attractive, sustainable global city by 2050",
    "date": "2026-11-23",
    "desc": "HCMC issues master plan to become attractive, sustainable global city by 2050"
+  },
+  {
+   "id": "7767f492cfa4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575599.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/23/japan/japan-nk-intel-asian-games/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese and North Korean intel officials likely had contact during Asian Games",
+   "date": "2026-11-23",
+   "desc": "Japanese and North Korean intel officials likely had contact during Asian Games"
+  },
+  {
+   "id": "baa2a773ee07",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575598.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/23/tamagotchi-30th-anniversary/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s Tamagotchi digital pet toy marks 30th anniversary",
+   "date": "2026-11-23",
+   "desc": "Japan’s Tamagotchi digital pet toy marks 30th anniversary"
+  },
+  {
+   "id": "c093d3292b9f",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/23/banocactrungtamvungnambo-17954-3559-8107-1795427280.png?w=900&h=0&q=100&dpr=1&fit=crop&s=_TiR-rcAcpyNa_DWKAM1lw",
+   "url": "https://e.vnexpress.net/news/news/redrawing-ho-chi-minh-citys-megacity-5148151.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Redrawing Ho Chi Minh City's megacity",
+   "date": "2026-11-23",
+   "desc": "Redrawing Ho Chi Minh City's megacity"
   },
   {
    "id": "ffe636aa4c81",
@@ -2970,36 +3000,6 @@
    "titulo": "Drone ownership ban comes into force in Beijing over security concerns",
    "date": "2026-11-15",
    "desc": "Drone ownership ban comes into force in Beijing over security concerns"
-  },
-  {
-   "id": "c0f47b890e22",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574107.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/iran-bahrain-us-attack/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Bahrain issues first threat alerts since September as Iran says it attacked U.S. base",
-   "date": "2026-11-15",
-   "desc": "Bahrain issues first threat alerts since September as Iran says it attacked U.S. base"
-  },
-  {
-   "id": "f372d69b46c5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574111.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/trilateral-us-china-russia-trump-xi-putin/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Trump-Putin-Xi meeting likely to be short on substance, rich in symbolism",
-   "date": "2026-11-15",
-   "desc": "Trump-Putin-Xi meeting likely to be short on substance, rich in symbolism"
-  },
-  {
-   "id": "e5ace1e4737e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/573617.jpg",
-   "url": "https://www.japantimes.co.jp/community/2026/11/15/voices/dei-policies-japan/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "As more foreign nationals join Japan’s workforce, diversity policies take on new importance",
-   "date": "2026-11-15",
-   "desc": "As more foreign nationals join Japan’s workforce, diversity policies take on new importance"
   }
  ]
 }
