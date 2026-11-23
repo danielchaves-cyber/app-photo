@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T00:58:35.361Z",
+ "atualizado": "2026-11-23T05:12:38.445Z",
  "fotos": [
   {
    "id": "cac5ea4740ff",
@@ -10,6 +10,106 @@
    "titulo": "Indonesia, Thailand have most Southeast Asian universities in top 100 of global science ranking",
    "date": "2026-11-23",
    "desc": "Indonesia, Thailand have most Southeast Asian universities in top 100 of global science ranking"
+  },
+  {
+   "id": "6ad0ba8b9add",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575497.JPG",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/23/climate-change/saudi-arabia-influence-cop31/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Saudi Arabia’s influence loomed large over failed COP31 deal",
+   "date": "2026-11-23",
+   "desc": "Saudi Arabia’s influence loomed large over failed COP31 deal"
+  },
+  {
+   "id": "16ea916e879f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575489.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/23/more-sports/nfl-roundup-chiefs-bills/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Chiefs and Bills set for showdown while Lions, Bears roll",
+   "date": "2026-11-23",
+   "desc": "Chiefs and Bills set for showdown while Lions, Bears roll"
+  },
+  {
+   "id": "39d314e9241e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575480.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/23/baseball/mlb/tarik-skubal-mets-dead/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tarik Skubal agrees to record 9-year deal with Mets worth $450 million",
+   "date": "2026-11-23",
+   "desc": "Tarik Skubal agrees to record 9-year deal with Mets worth $450 million"
+  },
+  {
+   "id": "d9d685e612aa",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/572200.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/23/japan/society/hiroshima-bus-network-revamp/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Hiroshima joins forces with bus operators to redraw local routes",
+   "date": "2026-11-23",
+   "desc": "Hiroshima joins forces with bus operators to redraw local routes"
+  },
+  {
+   "id": "926c4dc33c29",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575487.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/23/more-sports/verstappen-russell-las-vegas/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Max Verstappen mocks George Russell as ‘so far below my level’ after Las Vegas GP",
+   "date": "2026-11-23",
+   "desc": "Max Verstappen mocks George Russell as ‘so far below my level’ after Las Vegas GP"
+  },
+  {
+   "id": "f8866b74f9a4",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575486.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/23/tech/us-alice-huang-china-spy-nvidia/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. tracked Alice Huang’s contacts with China spy agency during Nvidia affair",
+   "date": "2026-11-23",
+   "desc": "U.S. tracked Alice Huang’s contacts with China spy agency during Nvidia affair"
+  },
+  {
+   "id": "fed3abd2cb90",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575479.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/23/tennis/alcaraz-atp-finals-title/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Carlos Alcaraz rolls past No. 1 Alexander Zverev to win first ATP Finals title",
+   "date": "2026-11-23",
+   "desc": "Carlos Alcaraz rolls past No. 1 Alexander Zverev to win first ATP Finals title"
+  },
+  {
+   "id": "0ed6bbde0069",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575475.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/23/tech/defense-ai-balance-armies-industry/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Defense, AI, high tech: A delicate balance between armies and industry",
+   "date": "2026-11-23",
+   "desc": "Defense, AI, high tech: A delicate balance between armies and industry"
+  },
+  {
+   "id": "4736c70d298c",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/23/anthropic-1795404286-9870-1795404312.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=crfbsnDjAFCXKOTmlUVibw",
+   "url": "https://e.vnexpress.net/news/news/education/meet-anthropic-s-7-billionaire-founders-from-elite-universities-to-1-5-trillion-ai-empire-5147904.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Meet Anthropic's 7 billionaire founders: from elite universities to $1.5 trillion AI empire",
+   "date": "2026-11-23",
+   "desc": "Meet Anthropic's 7 billionaire founders: from elite universities to $1.5 trillion AI empire"
+  },
+  {
+   "id": "8e0a6e456556",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/23/ap26326405411369-1795403556-6754-1795403569.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=231pNmj3mcYVP0HXkCDhUg",
+   "url": "https://e.vnexpress.net/news/news/search-for-indonesia-factory-fire-missing-resumes-monday-police-remove-24-body-bags-5147891.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Search for Indonesia factory fire missing resumes Monday, police remove 24 body bags",
+   "date": "2026-11-23",
+   "desc": "Search for Indonesia factory fire missing resumes Monday, police remove 24 body bags"
   },
   {
    "id": "ffe636aa4c81",
@@ -2900,106 +3000,6 @@
    "titulo": "Japan considers setting five-year defense spending plan at ¥60 trillion",
    "date": "2026-11-14",
    "desc": "Japan considers setting five-year defense spending plan at ¥60 trillion"
-  },
-  {
-   "id": "220344924b5e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574000.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/rubio-international-law-icc/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Rubio labels international law a tool of elites, attacks ICC",
-   "date": "2026-11-14",
-   "desc": "Rubio labels international law a tool of elites, attacks ICC"
-  },
-  {
-   "id": "0efdd98b386f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574012.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/colby-us-submarines-asia/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Pentagon No. 3 hails subs as ‘indispensable’ to deterring foes in Pacific",
-   "date": "2026-11-14",
-   "desc": "Pentagon No. 3 hails subs as ‘indispensable’ to deterring foes in Pacific"
-  },
-  {
-   "id": "51cc18a379f5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574003.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/asean-myanmar-dilemma/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "ASEAN faces Myanmar dilemma as some members pursue closer ties",
-   "date": "2026-11-14",
-   "desc": "ASEAN faces Myanmar dilemma as some members pursue closer ties"
-  },
-  {
-   "id": "e1ef283aa5f5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574001.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/progressive-challenge-senate-schumer/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Progressive challenge to Democratic Senate chief Schumer opens fight for bolder agenda",
-   "date": "2026-11-14",
-   "desc": "Progressive challenge to Democratic Senate chief Schumer opens fight for bolder agenda"
-  },
-  {
-   "id": "ecce7c3b31c1",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574009.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/politics/japan-triple-host-nation-support-us/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "White House demanding Japan triple host-nation support for U.S. troops",
-   "date": "2026-11-14",
-   "desc": "White House demanding Japan triple host-nation support for U.S. troops"
-  },
-  {
-   "id": "e8fd5e54c377",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574007.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Trump to raise nuclear-arms cuts with Putin and Xi at historic trilateral summit",
-   "date": "2026-11-14",
-   "desc": "Trump to raise nuclear-arms cuts with Putin and Xi at historic trilateral summit"
-  },
-  {
-   "id": "9430bc1e0369",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/09/dac-hieu-1794214970-5935-1794215206.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=eMK1C8BlZgDnCzupJCNnFA",
-   "url": "https://e.vnexpress.net/news/news/education/international-biology-olympiad-medalist-leaves-hong-kong-to-inspire-next-generation-in-vietnam-5142549.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "International Biology Olympiad medalist leaves Hong Kong to inspire next generation in Vietnam",
-   "date": "2026-11-14",
-   "desc": "International Biology Olympiad medalist leaves Hong Kong to inspire next generation in Vietnam"
-  },
-  {
-   "id": "8fff04797b3b",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/14/906174912n17945674473947179456-7293-6619-1794619857.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JiBZNlK-fMWHulAmvnigyw",
-   "url": "https://e.vnexpress.net/news/news/missing-kuwaiti-tourist-found-dead-at-waterfall-in-vietnam-s-sa-pa-5144558.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Missing Kuwaiti tourist found dead at waterfall in Vietnam's Sa Pa",
-   "date": "2026-11-14",
-   "desc": "Missing Kuwaiti tourist found dead at waterfall in Vietnam's Sa Pa"
-  },
-  {
-   "id": "e3001805a99c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574018.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/14/huang-second-employee-relationship/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-   "date": "2026-11-14",
-   "desc": "Former Nvidia CEO Huang had a relationship with a second employee, sources say"
-  },
-  {
-   "id": "7d486c28a00b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574017.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/14/more-sports/eddie-jones-england-return/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Eddie Jones vows Japan will ‘play the house down’ in matchup with England",
-   "date": "2026-11-14",
-   "desc": "Eddie Jones vows Japan will ‘play the house down’ in matchup with England"
   }
  ]
 }
