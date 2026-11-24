@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T13:09:13.254Z",
+ "atualizado": "2026-11-24T17:00:21.198Z",
  "fotos": [
   {
    "id": "1a223f7b5d34",
@@ -230,6 +230,46 @@
    "titulo": "Six killed, 10 injured in Hanoi eatery blast",
    "date": "2026-11-24",
    "desc": "Six killed, 10 injured in Hanoi eatery blast"
+  },
+  {
+   "id": "bed25c832b66",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575780.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/japan-first-ebola-response-drill/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan conducts first Ebola response drill amid outbreak in Congo",
+   "date": "2026-11-24",
+   "desc": "Japan conducts first Ebola response drill amid outbreak in Congo"
+  },
+  {
+   "id": "007e8544b952",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575757.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/japan-law-self-driving-amend/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan to amend law regarding the investigation of self-driving car accidents",
+   "date": "2026-11-24",
+   "desc": "Japan to amend law regarding the investigation of self-driving car accidents"
+  },
+  {
+   "id": "83d54e5bb6b8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575756.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/loss-making-train-line/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan proposes bus conversion for part of loss-making train line",
+   "date": "2026-11-24",
+   "desc": "Japan proposes bus conversion for part of loss-making train line"
+  },
+  {
+   "id": "345ee83a6706",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/24/1-1795488791-8783-1795488796.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=xztitlB-T9CCVu8HEaRjSw",
+   "url": "https://e.vnexpress.net/news/news/death-toll-from-hanoi-eatery-blast-rises-to-7-5148312.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Death toll from Hanoi eatery blast rises to 7",
+   "date": "2026-11-24",
+   "desc": "Death toll from Hanoi eatery blast rises to 7"
   },
   {
    "id": "cac5ea4740ff",
@@ -2960,46 +3000,6 @@
    "titulo": "Shanghai fires 2 scientists after girl dies in world's first brain gene-editing attempt",
    "date": "2026-11-16",
    "desc": "Shanghai fires 2 scientists after girl dies in world's first brain gene-editing attempt"
-  },
-  {
-   "id": "b88fabf4ff3c",
-   "img": "https://i1-english.vnecdn.net/2026/11/16/tong-bi-thu-chu-tich-nuoc-to-l-4046-2534-1794808419.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=7tqrvicNmsFCmNQz2zGo8A",
-   "url": "https://e.vnexpress.net/news/news/vietnam-cancer-deaths-surge-2-4-fold-in-5-years-lung-cancer-leads-fatalities-5145229.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam cancer deaths surge 2.4-fold in 5 years, lung cancer leads fatalities",
-   "date": "2026-11-16",
-   "desc": "Vietnam cancer deaths surge 2.4-fold in 5 years, lung cancer leads fatalities"
-  },
-  {
-   "id": "d13f99d34d23",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574398.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/16/ntt-docomo-nov16-network-glitch/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "NTT Docomo hit by another network glitch",
-   "date": "2026-11-16",
-   "desc": "NTT Docomo hit by another network glitch"
-  },
-  {
-   "id": "01c38b273d2b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574397.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/princess-aiko-singapore/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Princess Aiko to leave for Singapore",
-   "date": "2026-11-16",
-   "desc": "Princess Aiko to leave for Singapore"
-  },
-  {
-   "id": "0ab8f48a3d4d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574396.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/world/us-airports-returning-normal-disruption/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "U.S. airports slowly return to normal after three days of disruption",
-   "date": "2026-11-16",
-   "desc": "U.S. airports slowly return to normal after three days of disruption"
   }
  ]
 }
