@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T00:59:10.491Z",
+ "atualizado": "2026-11-24T05:00:21.751Z",
  "fotos": [
   {
    "id": "1a223f7b5d34",
@@ -30,6 +30,106 @@
    "titulo": "Burnham says ‘unthinkable’ to join EU without U.K. referendum",
    "date": "2026-11-24",
    "desc": "Burnham says ‘unthinkable’ to join EU without U.K. referendum"
+  },
+  {
+   "id": "3cb7e021f32d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575683.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/24/more-sports/commanders-bengals-mnf/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Commanders rally past Bengals with last-minute drive",
+   "date": "2026-11-24",
+   "desc": "Commanders rally past Bengals with last-minute drive"
+  },
+  {
+   "id": "4c8c52bc30d5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575643.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/south-korea-jets-russia-warplanes/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "South Korea scrambles jets as Russian warplanes enter air zone",
+   "date": "2026-11-24",
+   "desc": "South Korea scrambles jets as Russian warplanes enter air zone"
+  },
+  {
+   "id": "a0efe2f1e8d1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575644.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/politics/north-korea-swiss-diplomatic-office/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "North Korea threatens to close Swiss diplomatic office",
+   "date": "2026-11-24",
+   "desc": "North Korea threatens to close Swiss diplomatic office"
+  },
+  {
+   "id": "ec620d864af2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575653.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/24/markets/japan-stocks-surge-bonds/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese bonds rally across curve as domestic stocks surge",
+   "date": "2026-11-24",
+   "desc": "Japanese bonds rally across curve as domestic stocks surge"
+  },
+  {
+   "id": "e3d49dae7381",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575646.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/politics/sheikh-hasina-bangladesh-dec-16/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ousted Sheikh Hasina seeks return to Bangladesh, where she faces death sentence",
+   "date": "2026-11-24",
+   "desc": "Ousted Sheikh Hasina seeks return to Bangladesh, where she faces death sentence"
+  },
+  {
+   "id": "b189b5af471d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575647.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/politics/japan-takaichi-china-arrival-faulty-stairs/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Faulty boarding stairs likely caused gap for Takaichi in China",
+   "date": "2026-11-24",
+   "desc": "Faulty boarding stairs likely caused gap for Takaichi in China"
+  },
+  {
+   "id": "7f0e63bc0271",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575645.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/crime-legal/indonesia-ex-police-chief-treason/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Indonesia charges ex-police chief with treason aimed at undermining president, official says",
+   "date": "2026-11-24",
+   "desc": "Indonesia charges ex-police chief with treason aimed at undermining president, official says"
+  },
+  {
+   "id": "a5c1650321b6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575633.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/society/russia-reporter-second-meeting/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan holds second consular meeting with reporter detained by Russia",
+   "date": "2026-11-24",
+   "desc": "Japan holds second consular meeting with reporter detained by Russia"
+  },
+  {
+   "id": "e18f9c6200c3",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/24/1-1795488791-8783-1795488796.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=xztitlB-T9CCVu8HEaRjSw",
+   "url": "https://e.vnexpress.net/news/news/hanoi-eatery-explosion-kills-three-injures-six-5148312.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Hanoi eatery explosion kills three, injures six",
+   "date": "2026-11-24",
+   "desc": "Hanoi eatery explosion kills three, injures six"
+  },
+  {
+   "id": "900d645abecc",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/23/thumb-1795426561.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=00sQXwoS_n9TJxL1BgSC1A",
+   "url": "https://e.vnexpress.net/infographics/education/how-well-prepared-are-fresh-graduates-for-the-workplace-5145635.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "How well-prepared are fresh graduates for the workplace?",
+   "date": "2026-11-24",
+   "desc": "How well-prepared are fresh graduates for the workplace?"
   },
   {
    "id": "cac5ea4740ff",
@@ -2900,106 +3000,6 @@
    "titulo": "Which is the smartest city in Asia in 2026?",
    "date": "2026-11-16",
    "desc": "Which is the smartest city in Asia in 2026?"
-  },
-  {
-   "id": "e093a268309b",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/twinsistersdouyinthumb1500x900-9290-4430-1794474874.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LG2VdyglZHZJpF3lWnQ3lg",
-   "url": "https://e.vnexpress.net/news/news/chinese-woman-finds-possible-twin-on-douyin-5143933.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Chinese woman finds possible twin on Douyin",
-   "date": "2026-11-16",
-   "desc": "Chinese woman finds possible twin on Douyin"
-  },
-  {
-   "id": "a04228267791",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574014.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/15/basketball/nba/victor-wembanyama-sports-villans/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Victor Wembanyama and why we crave sports villains",
-   "date": "2026-11-15",
-   "desc": "Victor Wembanyama and why we crave sports villains"
-  },
-  {
-   "id": "e6c06d090905",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574064.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/politics/sanae-takaichi-x-posts/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Concerns arise as Takaichi’s X posts not kept as records",
-   "date": "2026-11-15",
-   "desc": "Concerns arise as Takaichi’s X posts not kept as records"
-  },
-  {
-   "id": "4cc1edefe1d4",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/573792.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/15/world/cop31-disastrous-post-american-world/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "The COP31 talks showcase a disastrous post-American world",
-   "date": "2026-11-15",
-   "desc": "The COP31 talks showcase a disastrous post-American world"
-  },
-  {
-   "id": "f8fbda49884c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574035.jpg",
-   "url": "https://www.japantimes.co.jp/community/2026/11/15/cacao-pomeranian-adoption/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "This Pomeranian is affectionate and strong-willed",
-   "date": "2026-11-15",
-   "desc": "This Pomeranian is affectionate and strong-willed"
-  },
-  {
-   "id": "5dcb805f77b9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574034.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/gcap-germany-observer-status/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Italy pitches Germany observer status in GCAP fighter jet program",
-   "date": "2026-11-15",
-   "desc": "Italy pitches Germany observer status in GCAP fighter jet program"
-  },
-  {
-   "id": "69d556c22fa3",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574037.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/society/visa-of-life-recipient-honored/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Visa of life’ recipient honored for preserving diplomat’s legacy",
-   "date": "2026-11-15",
-   "desc": "‘Visa of life’ recipient honored for preserving diplomat’s legacy"
-  },
-  {
-   "id": "17aa90ac90b8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574038.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/fukushima-plant-fuel-removal/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Fuel removal at Fukushima No. 2 reactor proceeding smoothly",
-   "date": "2026-11-15",
-   "desc": "Fuel removal at Fukushima No. 2 reactor proceeding smoothly"
-  },
-  {
-   "id": "ac27ac654715",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574041.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/society/megumi-yokota-abductee-49-years/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "PM Takaichi reiterates her determination to bring abductee Yokota home from North Korea",
-   "date": "2026-11-15",
-   "desc": "PM Takaichi reiterates her determination to bring abductee Yokota home from North Korea"
-  },
-  {
-   "id": "33d47d33cf2a",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/15/hudsn-1794706991-8920-1794707133.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=kR8jC7eIOQ3Cc9-ZZXLcCA",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-lam-meets-with-cambodian-senate-president-hun-sen-5144816.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's top leader To Lam meets with Cambodian Senate President Hun Sen",
-   "date": "2026-11-15",
-   "desc": "Vietnam's top leader To Lam meets with Cambodian Senate President Hun Sen"
   }
  ]
 }
