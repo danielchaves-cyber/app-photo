@@ -1,6 +1,36 @@
 {
- "atualizado": "2026-11-23T20:48:41.206Z",
+ "atualizado": "2026-11-24T00:59:10.491Z",
  "fotos": [
+  {
+   "id": "1a223f7b5d34",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575611.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/world/ukraine-russian-warship-libyan-coast/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ukraine sinks Russian warship off Libyan coast as war widens",
+   "date": "2026-11-24",
+   "desc": "Ukraine sinks Russian warship off Libyan coast as war widens"
+  },
+  {
+   "id": "21fd55461be1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575608.jpg",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/24/climate-change/china-150-billion-cop31-negotiations/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "China’s $150 billion COP31 sideshow upstages negotiations",
+   "date": "2026-11-24",
+   "desc": "China’s $150 billion COP31 sideshow upstages negotiations"
+  },
+  {
+   "id": "c8457eaedd60",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575613.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/world/politics/burnham-eu-uk-referendum/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Burnham says ‘unthinkable’ to join EU without U.K. referendum",
+   "date": "2026-11-24",
+   "desc": "Burnham says ‘unthinkable’ to join EU without U.K. referendum"
+  },
   {
    "id": "cac5ea4740ff",
    "img": "https://vcdn1-english.vnecdn.net/2026/11/19/chulalongkornuniversitythumb15-2748-3709-1795074798.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=BAAmxbtVFMp_eaDSaJsIjw",
@@ -260,6 +290,26 @@
    "titulo": "Redrawing Ho Chi Minh City's megacity",
    "date": "2026-11-23",
    "desc": "Redrawing Ho Chi Minh City's megacity"
+  },
+  {
+   "id": "54188ad78801",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575607.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/world/politics/russia-nuclear-space-weapon/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Allies say Russia may launch nuclear space weapon next month",
+   "date": "2026-11-23",
+   "desc": "Allies say Russia may launch nuclear space weapon next month"
+  },
+  {
+   "id": "e3f9aca6c0fc",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575604.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/24/tech/nvidia-huang-trump-push/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nvidia rehires Huang in stunning reversal after Trump push",
+   "date": "2026-11-23",
+   "desc": "Nvidia rehires Huang in stunning reversal after Trump push"
   },
   {
    "id": "ffe636aa4c81",
@@ -2950,56 +3000,6 @@
    "titulo": "Vietnam's top leader To Lam meets with Cambodian Senate President Hun Sen",
    "date": "2026-11-15",
    "desc": "Vietnam's top leader To Lam meets with Cambodian Senate President Hun Sen"
-  },
-  {
-   "id": "c6ee5c04f02d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574123.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/politics/francophone-summit-congo-rwanda/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Francophone summit opens with Congo, Rwandan clash",
-   "date": "2026-11-15",
-   "desc": "Francophone summit opens with Congo, Rwandan clash"
-  },
-  {
-   "id": "646c4b6daf7a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574112.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/asean-manila-summit-myanmar/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan",
-   "date": "2026-11-15",
-   "desc": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan"
-  },
-  {
-   "id": "895981528499",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574113.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/ukraine-flying-evacuation-drones/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "In the ‘kill zone’, Ukraine bets on flying evacuation drones",
-   "date": "2026-11-15",
-   "desc": "In the ‘kill zone’, Ukraine bets on flying evacuation drones"
-  },
-  {
-   "id": "0dcb5dac739b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574110.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/south-korea-ai-test-cheating/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "South Korea probes top exam scorer after AI cheating confession",
-   "date": "2026-11-15",
-   "desc": "South Korea probes top exam scorer after AI cheating confession"
-  },
-  {
-   "id": "7c4a7b9b32ff",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574108.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/beijing-drone-ban/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Drone ownership ban comes into force in Beijing over security concerns",
-   "date": "2026-11-15",
-   "desc": "Drone ownership ban comes into force in Beijing over security concerns"
   }
  ]
 }
