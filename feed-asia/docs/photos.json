@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T05:00:21.751Z",
+ "atualizado": "2026-11-24T08:58:24.169Z",
  "fotos": [
   {
    "id": "1a223f7b5d34",
@@ -130,6 +130,106 @@
    "titulo": "How well-prepared are fresh graduates for the workplace?",
    "date": "2026-11-24",
    "desc": "How well-prepared are fresh graduates for the workplace?"
+  },
+  {
+   "id": "7c03239b644a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575748.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/politics/japan-pm-takaichi-icc-akane/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Takaichi moves up ICC financial support in first meeting with court chief since U.S. sanctions",
+   "date": "2026-11-24",
+   "desc": "Takaichi moves up ICC financial support in first meeting with court chief since U.S. sanctions"
+  },
+  {
+   "id": "7010f5e10d40",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575428.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/24/world/myanmar-genocide-ruling-matters/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Why this genocide ruling matters way beyond Myanmar",
+   "date": "2026-11-24",
+   "desc": "Why this genocide ruling matters way beyond Myanmar"
+  },
+  {
+   "id": "1e75499bf1d5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575750.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/24/companies/fujitsu-chips/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s Fujitsu woos demand for alternatives to U.S. and China chips",
+   "date": "2026-11-24",
+   "desc": "Japan’s Fujitsu woos demand for alternatives to U.S. and China chips"
+  },
+  {
+   "id": "166b83a8a676",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575736.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/japan-student-loan-petition/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Over 20,000 sign petition for lowering student loan interest rates in Japan",
+   "date": "2026-11-24",
+   "desc": "Over 20,000 sign petition for lowering student loan interest rates in Japan"
+  },
+  {
+   "id": "9249300d4ac2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575721.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/tokyo-crematoria-hakuzen/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Parent of Tokyo crematoria firm sparks concerns with partial Chinese ownership",
+   "date": "2026-11-24",
+   "desc": "Parent of Tokyo crematoria firm sparks concerns with partial Chinese ownership"
+  },
+  {
+   "id": "cc17650bcc49",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575437.jpg",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/24/japan/japans-doge-redefine-accountability/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s DOGE: A chance to redefine accountability",
+   "date": "2026-11-24",
+   "desc": "Japan’s DOGE: A chance to redefine accountability"
+  },
+  {
+   "id": "fe5c77e972e5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575709.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/japan/traditional-dance-kumamoto-event/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Traditional dance brings energy to quake-hit city in Kumamoto Prefecture",
+   "date": "2026-11-24",
+   "desc": "Traditional dance brings energy to quake-hit city in Kumamoto Prefecture"
+  },
+  {
+   "id": "4326ba9c6acd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/575148.JPG",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/24/world/russia-european-security-architecture/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "There is only one thing to talk about with Russia",
+   "date": "2026-11-24",
+   "desc": "There is only one thing to talk about with Russia"
+  },
+  {
+   "id": "4d39b1ad8892",
+   "img": "https://i1-vnexpress.vnecdn.net/2026/11/24/m1-1795490305.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=d-oIPplay1YajWWjXg_xEw",
+   "url": "https://e.vnexpress.net/photo/news/hanoi-eatery-blast-leaves-row-of-houses-damaged-5148344.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Hanoi eatery blast leaves row of houses damaged",
+   "date": "2026-11-24",
+   "desc": "Hanoi eatery blast leaves row of houses damaged"
+  },
+  {
+   "id": "9b85f246dadf",
+   "img": "https://i1-english.vnecdn.net/2026/11/24/1-1795488791-8783-1795488796.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=xztitlB-T9CCVu8HEaRjSw",
+   "url": "https://e.vnexpress.net/news/news/six-killed-10-injured-in-hanoi-eatery-blast-5148312.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Six killed, 10 injured in Hanoi eatery blast",
+   "date": "2026-11-24",
+   "desc": "Six killed, 10 injured in Hanoi eatery blast"
   },
   {
    "id": "cac5ea4740ff",
@@ -2900,106 +3000,6 @@
    "titulo": "U.S. airports slowly return to normal after three days of disruption",
    "date": "2026-11-16",
    "desc": "U.S. airports slowly return to normal after three days of disruption"
-  },
-  {
-   "id": "d40fde267e3c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/573501.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/16/world/russian-trump-bribe/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "A Russian bribe the size of Europe",
-   "date": "2026-11-16",
-   "desc": "A Russian bribe the size of Europe"
-  },
-  {
-   "id": "c083b7d3e723",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574399.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/17/entertainment-news/japan-grammy-nominations-2026/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan’s Babymetal, Lisa nominated for new Asian pop Grammy",
-   "date": "2026-11-16",
-   "desc": "Japan’s Babymetal, Lisa nominated for new Asian pop Grammy"
-  },
-  {
-   "id": "f648b85549e2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574412.JPG",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/17/entertainment-news/robert-pattinson-james-bond/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "British actor Robert Pattinson named as new James Bond",
-   "date": "2026-11-16",
-   "desc": "British actor Robert Pattinson named as new James Bond"
-  },
-  {
-   "id": "3b6b759584d7",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574409.JPG",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/17/entertainment-news/rock-hall-fame-music/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Wu-Tang Clan, Queen Latifah, Phil Collins join Rock Hall of Fame",
-   "date": "2026-11-16",
-   "desc": "Wu-Tang Clan, Queen Latifah, Phil Collins join Rock Hall of Fame"
-  },
-  {
-   "id": "b211b873a293",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574418.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/17/tech/us-china-nvidia-ai-chips/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "U.S. moves to curb China’s remote access to Nvidia’s AI chips",
-   "date": "2026-11-16",
-   "desc": "U.S. moves to curb China’s remote access to Nvidia’s AI chips"
-  },
-  {
-   "id": "b07336b18ce7",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574415.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/17/asia-pacific/politics/kim-trump-apec-russia/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Trump says he may meet North Korea’s Kim in China as top regime official visits Moscow",
-   "date": "2026-11-16",
-   "desc": "Trump says he may meet North Korea’s Kim in China as top regime official visits Moscow"
-  },
-  {
-   "id": "52ed9cfc4c5d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574419.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/17/us-employer-sponsor-green-cards/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "U.S. proposes tighter rules for employer-sponsored green cards",
-   "date": "2026-11-16",
-   "desc": "U.S. proposes tighter rules for employer-sponsored green cards"
-  },
-  {
-   "id": "cc54564b6131",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/m34jnzlnvbl6zlhzsfkdno4moi-179-1598-4401-1794867534.png?w=900&h=0&q=100&dpr=1&fit=crop&s=0wlTvXsmQrWrGom30FlYtQ",
-   "url": "https://e.vnexpress.net/news/news/trump-backs-potential-return-of-jensen-huang-as-nvidia-ceo-5145438.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Trump backs potential return of Jensen Huang as Nvidia CEO",
-   "date": "2026-11-16",
-   "desc": "Trump backs potential return of Jensen Huang as Nvidia CEO"
-  },
-  {
-   "id": "70f569d1c190",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/12/tsinghua-jpeg-1794466683-2876-1794468290.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=bR4APEOnm75i_Ow_CPZ88A",
-   "url": "https://e.vnexpress.net/news/news/education/surging-rankings-affordable-tuition-and-scholarships-draw-international-students-to-china-5143776.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Surging rankings, affordable tuition, and scholarships draw international students to China",
-   "date": "2026-11-16",
-   "desc": "Surging rankings, affordable tuition, and scholarships draw international students to China"
-  },
-  {
-   "id": "f4f7b16aa03c",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/14/darceybeauq8d7wzc40eaunsplash-6475-3610-1794619886.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9izibKyk-AskLf5IMpXSXA",
-   "url": "https://e.vnexpress.net/news/news/brainteaser/which-is-the-smartest-city-in-asia-in-2026-5144318.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Which is the smartest city in Asia in 2026?",
-   "date": "2026-11-16",
-   "desc": "Which is the smartest city in Asia in 2026?"
   }
  ]
 }
