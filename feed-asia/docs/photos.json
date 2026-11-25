@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T05:03:30.579Z",
+ "atualizado": "2026-11-25T09:00:09.322Z",
  "fotos": [
   {
    "id": "b00a99a784a7",
@@ -140,6 +140,116 @@
    "titulo": "China rocket blasts off on Shenzhou-24 mission",
    "date": "2026-11-25",
    "desc": "China rocket blasts off on Shenzhou-24 mission"
+  },
+  {
+   "id": "ebb3c41be99a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576009.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/politics/japan-defense-spending-focus/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Fight over defense spending in Japan enters final showdown",
+   "date": "2026-11-25",
+   "desc": "Fight over defense spending in Japan enters final showdown"
+  },
+  {
+   "id": "c5a7c3a1f4ac",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576013.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/25/companies/mizuho-avendus-hire-private-bankers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mizuho’s Avendus to hire 75 private bankers over four years",
+   "date": "2026-11-25",
+   "desc": "Mizuho’s Avendus to hire 75 private bankers over four years"
+  },
+  {
+   "id": "8f9b4f16157e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575992.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/tuna-paint-ships-speed/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Paint inspired by tuna’s slimy skin expected to speed up ships",
+   "date": "2026-11-25",
+   "desc": "Paint inspired by tuna’s slimy skin expected to speed up ships"
+  },
+  {
+   "id": "9e01ef1e4c88",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575973.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/world/science-health/ebola-violence-women-congo-unicef/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ebola tied to rising violence against women and girls in Congo, UNICEF says",
+   "date": "2026-11-25",
+   "desc": "Ebola tied to rising violence against women and girls in Congo, UNICEF says"
+  },
+  {
+   "id": "e525c133602d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575983.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/keio-personal-data-leakage/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Personal information of over 11 million possibly leaked in September Keio hack",
+   "date": "2026-11-25",
+   "desc": "Personal information of over 11 million possibly leaked in September Keio hack"
+  },
+  {
+   "id": "28fa4f3d568f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575976.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/25/sumo/onosato-dai-yokozuna/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Is Onosato on track to become a dai-yokozuna ?",
+   "date": "2026-11-25",
+   "desc": "Is Onosato on track to become a dai-yokozuna ?"
+  },
+  {
+   "id": "2e19ea84c940",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575913.jpg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/25/travel/shuri-castle-reopening-okinawa-travel-fire/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Shuri Castle’s main hall reopens after historical restoration",
+   "date": "2026-11-25",
+   "desc": "Shuri Castle’s main hall reopens after historical restoration"
+  },
+  {
+   "id": "8fcc95ca6041",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575936.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/japan-revamps-school-budget-lessons/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Finance Ministry revamps its budget lessons to schools amid fiscal shift",
+   "date": "2026-11-25",
+   "desc": "Finance Ministry revamps its budget lessons to schools amid fiscal shift"
+  },
+  {
+   "id": "b8308b997b8b",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/25/a803f428c11b65-a624-d8b46642f9-6885-6875-1795586535.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=pRb8z0EW91ru8ynsE7t8cw",
+   "url": "https://e.vnexpress.net/news/news/traffic/north-south-high-speed-railway-construction-targeted-for-late-2028-5148705.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "North-South high-speed railway construction targeted for late 2028",
+   "date": "2026-11-25",
+   "desc": "North-South high-speed railway construction targeted for late 2028"
+  },
+  {
+   "id": "48c0367b82d7",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/25/pexelsmikhailnilov8943274-1795-1461-8883-1795594766.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2dJyX7fwgerz02yjCeNmRw",
+   "url": "https://e.vnexpress.net/news/news/crime/man-fined-15-for-attacking-hospital-workers-amid-cpr-in-thailand-5148758.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Man fined $15 for attacking hospital workers amid CPR in Thailand",
+   "date": "2026-11-25",
+   "desc": "Man fined $15 for attacking hospital workers amid CPR in Thailand"
+  },
+  {
+   "id": "6c999b32dffc",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/25/samutprakantaxfugitivethumb147-1854-5307-1795592570.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=-nUKrXtLrZ6xUC3ui8okpg",
+   "url": "https://e.vnexpress.net/news/news/crime/thailand-catches-chinese-man-wanted-for-nearly-1m-tax-refund-fraud-5148750.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Thailand catches Chinese man wanted for nearly $1M tax refund fraud",
+   "date": "2026-11-25",
+   "desc": "Thailand catches Chinese man wanted for nearly $1M tax refund fraud"
   },
   {
    "id": "1a223f7b5d34",
@@ -2890,116 +3000,6 @@
    "titulo": "Africa CDC says Ebola outbreak still out of control six months since it was declared",
    "date": "2026-11-16",
    "desc": "Africa CDC says Ebola outbreak still out of control six months since it was declared"
-  },
-  {
-   "id": "f905c158b884",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574180.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/16/economy/japan-gdp-july-september-shrink/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan’s economy shrinks as bad weather weighs on consumption",
-   "date": "2026-11-16",
-   "desc": "Japan’s economy shrinks as bad weather weighs on consumption"
-  },
-  {
-   "id": "2bcf387b9155",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/573292.jpg",
-   "url": "https://www.japantimes.co.jp/culture/2026/11/16/music/japanese-music-monaki-honmayade/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "How Monaki went from mall performances to viral J-pop stardom",
-   "date": "2026-11-16",
-   "desc": "How Monaki went from mall performances to viral J-pop stardom"
-  },
-  {
-   "id": "57eb6d0116c7",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574189.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/16/more-sports/ami-nakai-skate-america/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Ami Nakai captures Skate America title for second win of Grand Prix season",
-   "date": "2026-11-16",
-   "desc": "Ami Nakai captures Skate America title for second win of Grand Prix season"
-  },
-  {
-   "id": "4e18c5b900d5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574173.JPG",
-   "url": "https://www.japantimes.co.jp/business/2026/11/16/tech/nvidia-ceo-search-bessent/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nvidia feels the heat on CEO search as Bessent calls for shakeup",
-   "date": "2026-11-16",
-   "desc": "Nvidia feels the heat on CEO search as Bessent calls for shakeup"
-  },
-  {
-   "id": "675051dcf1e1",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574247.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/16/companies/korea-instant-ramen-giants-global/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "South Korea’s instant ramen giants take their spicy rivalry global",
-   "date": "2026-11-16",
-   "desc": "South Korea’s instant ramen giants take their spicy rivalry global"
-  },
-  {
-   "id": "4cdfff2f2915",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574266.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/politics/china-confirms-xi-trump-putin-summit/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "China confirms first Xi-Trump-Putin summit on Thursday",
-   "date": "2026-11-16",
-   "desc": "China confirms first Xi-Trump-Putin summit on Thursday"
-  },
-  {
-   "id": "63c43ba264cf",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574265.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/politics/japan-takaichi-lee-south-korea-asean/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Takaichi to hold fourth round of bilateral talks with South Korea’s Lee",
-   "date": "2026-11-16",
-   "desc": "Takaichi to hold fourth round of bilateral talks with South Korea’s Lee"
-  },
-  {
-   "id": "80f785be4df2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574264.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/16/more-sports/russia-barred-world-juniors/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Russia to miss world juniors after Canada bars entry",
-   "date": "2026-11-16",
-   "desc": "Russia to miss world juniors after Canada bars entry"
-  },
-  {
-   "id": "e9a5b96530b9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/570919.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/society/aichi-wildlife-lures-crop-damage/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Firm ramps up sales of U.S. wildlife lures as farmers fight crop damage",
-   "date": "2026-11-16",
-   "desc": "Firm ramps up sales of U.S. wildlife lures as farmers fight crop damage"
-  },
-  {
-   "id": "5904d2e1c455",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574249.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/16/soccer/ronaldinho-soccer-return-ravenna/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Soccer great Ronaldinho plays in first competitive match in 11 years at age 46",
-   "date": "2026-11-16",
-   "desc": "Soccer great Ronaldinho plays in first competitive match in 11 years at age 46"
-  },
-  {
-   "id": "063a1fd5b7a4",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574246.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/16/more-sports/akane-yamaguchi-kumamoto-masters/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Akane Yamaguchi thrills fans with win at Kumamoto Masters as An Se-young sits out",
-   "date": "2026-11-16",
-   "desc": "Akane Yamaguchi thrills fans with win at Kumamoto Masters as An Se-young sits out"
   }
  ]
 }
