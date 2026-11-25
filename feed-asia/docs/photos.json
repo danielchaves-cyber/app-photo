@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T01:03:29.989Z",
+ "atualizado": "2026-11-25T05:03:30.579Z",
  "fotos": [
   {
    "id": "b00a99a784a7",
@@ -40,6 +40,106 @@
    "titulo": "Japanese companies pushed to profit from patents",
    "date": "2026-11-25",
    "desc": "Japanese companies pushed to profit from patents"
+  },
+  {
+   "id": "a131d7bddcb5",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575836.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/australia-solomon-islands-pact-china/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Australia edges China out of Pacific foothold in Solomon Islands",
+   "date": "2026-11-25",
+   "desc": "Australia edges China out of Pacific foothold in Solomon Islands"
+  },
+  {
+   "id": "57e28ad0d697",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575865.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/crime-legal/chiba-murder-arson-trial/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Prosecutors seek death penalty for 79-year-old man over couple’s murder and arson",
+   "date": "2026-11-25",
+   "desc": "Prosecutors seek death penalty for 79-year-old man over couple’s murder and arson"
+  },
+  {
+   "id": "5a01e7ec1196",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575862.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/society/japan-world-heritage-wedding-venue/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Couples pick Japan’s World Heritage sites to tie the knot",
+   "date": "2026-11-25",
+   "desc": "Couples pick Japan’s World Heritage sites to tie the knot"
+  },
+  {
+   "id": "6e0807ae81c1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575856.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/society/japan-restaurants-foreign-workers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Visa freeze for foreign workers hits regional restaurants harder, survey shows",
+   "date": "2026-11-25",
+   "desc": "Visa freeze for foreign workers hits regional restaurants harder, survey shows"
+  },
+  {
+   "id": "2bd03995b644",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575860.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/sheikh-hasina-return-bangladesh/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Why is Sheikh Hasina’s plan to return to Bangladesh contentious?",
+   "date": "2026-11-25",
+   "desc": "Why is Sheikh Hasina’s plan to return to Bangladesh contentious?"
+  },
+  {
+   "id": "77feafa52ab2",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575757.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/japan-law-self-driving-amend/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan to amend law regarding the investigation of self-driving car accidents",
+   "date": "2026-11-25",
+   "desc": "Japan to amend law regarding the investigation of self-driving car accidents"
+  },
+  {
+   "id": "819c5445a44f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575857.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/thailand-china-myanmar-mines-rivers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Thailand asks China to help halt Myanmar mines over toxic rivers",
+   "date": "2026-11-25",
+   "desc": "Thailand asks China to help halt Myanmar mines over toxic rivers"
+  },
+  {
+   "id": "63a9d326879a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575861.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/world/us-australia-social-media-speech/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. criticizes Australia social media law as harming free speech",
+   "date": "2026-11-25",
+   "desc": "U.S. criticizes Australia social media law as harming free speech"
+  },
+  {
+   "id": "dd0f412e1814",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/td5-1795439414.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=Fy22NYdSKu5MHfD2AtWuJA",
+   "url": "https://e.vnexpress.net/photo/news/saigon-notre-dame-cathedral-dazzles-ahead-of-christmas-with-1000-km-led-display-5148667.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Saigon Notre-Dame Cathedral dazzles ahead of Christmas with 1,000-km LED display",
+   "date": "2026-11-25",
+   "desc": "Saigon Notre-Dame Cathedral dazzles ahead of Christmas with 1,000-km LED display"
+  },
+  {
+   "id": "aac73de5fa83",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/25/ap26329031074487-1795575133-8838-1795575171.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=KCAVJZiwaY9VtYnwkBaeEA",
+   "url": "https://e.vnexpress.net/news/news/china-rocket-blasts-off-on-shenzhou-24-mission-5148611.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "China rocket blasts off on Shenzhou-24 mission",
+   "date": "2026-11-25",
+   "desc": "China rocket blasts off on Shenzhou-24 mission"
   },
   {
    "id": "1a223f7b5d34",
@@ -2900,106 +3000,6 @@
    "titulo": "Akane Yamaguchi thrills fans with win at Kumamoto Masters as An Se-young sits out",
    "date": "2026-11-16",
    "desc": "Akane Yamaguchi thrills fans with win at Kumamoto Masters as An Se-young sits out"
-  },
-  {
-   "id": "76c647c3c93a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574244.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/world/estonia-russia-border-sabotage-bid/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Estonia to close Russia border after ‘sabotage’ bid",
-   "date": "2026-11-16",
-   "desc": "Estonia to close Russia border after ‘sabotage’ bid"
-  },
-  {
-   "id": "fe7ba313d978",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/16/phuketmotorcycleshopfirethumb1-9335-3519-1794803901.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=YG56XVg8qWnHkHhPZ_UrEg",
-   "url": "https://e.vnexpress.net/news/news/fire-at-phuket-motorcycle-rental-shop-kills-11-5145192.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Fire at Phuket motorcycle rental shop kills 11",
-   "date": "2026-11-16",
-   "desc": "Fire at Phuket motorcycle rental shop kills 11"
-  },
-  {
-   "id": "e004f8ab244d",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/16/afp20261016d3g892cv2highre7024-3671-6595-1794803104.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ba-X2kml0zKetI2tXePY2Q",
-   "url": "https://e.vnexpress.net/news/news/environment/indonesia-apologizes-to-malaysia-singapore-as-wildfire-haze-sickens-hundreds-of-thousands-5145183.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Indonesia apologizes to Malaysia, Singapore as wildfire haze sickens hundreds of thousands",
-   "date": "2026-11-16",
-   "desc": "Indonesia apologizes to Malaysia, Singapore as wildfire haze sickens hundreds of thousands"
-  },
-  {
-   "id": "6520c541edbe",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/16/usstudentss-1794793674-4081-1794793684.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=UbhBG-GSqlgifJbTrSijTA",
-   "url": "https://e.vnexpress.net/news/news/education/visa-barriers-push-students-from-us-and-uk-to-asia-and-europe-survey-5145059.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Visa barriers push students from US and UK to Asia and Europe: survey",
-   "date": "2026-11-16",
-   "desc": "Visa barriers push students from US and UK to Asia and Europe: survey"
-  },
-  {
-   "id": "f588a8e2097e",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/573977.JPG",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/16/world/global-outcry-pro-democracy-sentences/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Global outcry over Joshua Wong’s 10-year sentence",
-   "date": "2026-11-16",
-   "desc": "Global outcry over Joshua Wong’s 10-year sentence"
-  },
-  {
-   "id": "0f3f040d82eb",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/572884.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/16/world/us-allies-american-f-35s/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "U.S. allies are afraid, very afraid, of those American F-35s",
-   "date": "2026-11-16",
-   "desc": "U.S. allies are afraid, very afraid, of those American F-35s"
-  },
-  {
-   "id": "98851053e86a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/571674.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/16/world/gulliver-visited-ai-world-300-years-ago/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Gulliver visited our AI world 300 years ago. He left in disgust.",
-   "date": "2026-11-16",
-   "desc": "Gulliver visited our AI world 300 years ago. He left in disgust."
-  },
-  {
-   "id": "48f01cef9902",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574382.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/world/who-alarm-antimicrobial-resistance/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "WHO sounds the alarm on antimicrobial resistance threat",
-   "date": "2026-11-16",
-   "desc": "WHO sounds the alarm on antimicrobial resistance threat"
-  },
-  {
-   "id": "a10113023cc2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574379.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/crime-legal/jungle-pocket-saito-sentence/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Ex-Jungle Pocket member Shinji Saito sentenced to four years for sexual assault",
-   "date": "2026-11-16",
-   "desc": "Ex-Jungle Pocket member Shinji Saito sentenced to four years for sexual assault"
-  },
-  {
-   "id": "8674a2664ad9",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574354.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/world/politics/eu-migrant-return-hub-rwanda/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "EU nations to unveil Rwanda deal for migrant return hub",
-   "date": "2026-11-16",
-   "desc": "EU nations to unveil Rwanda deal for migrant return hub"
   }
  ]
 }
