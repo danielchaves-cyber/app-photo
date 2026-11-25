@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T17:00:42.576Z",
+ "atualizado": "2026-11-25T20:52:22.845Z",
  "fotos": [
   {
    "id": "b00a99a784a7",
@@ -350,6 +350,16 @@
    "titulo": "Japanese judge dismissed over online casino gambling",
    "date": "2026-11-25",
    "desc": "Japanese judge dismissed over online casino gambling"
+  },
+  {
+   "id": "a65ef018fb98",
+   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/062083f6-4d79-459a-ba1a-38aef26e2b0e_86faecf4.jpg?itok=DCWGcIc2&v=1795636350",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375815/colombia-quiet-china-says-lawmakers-taiwan-trip-crossed-its-first-red-line",
+   "flag": "🇨🇳",
+   "src": "Igor Patrick · SCMP (Xinhua)",
+   "titulo": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’",
+   "date": "2026-11-25",
+   "desc": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’"
   },
   {
    "id": "1a223f7b5d34",
@@ -2990,16 +3000,6 @@
    "titulo": "Indian man's $1,770 shortcut to Thai citizenship ends in arrest after face scan",
    "date": "2026-11-17",
    "desc": "Indian man's $1,770 shortcut to Thai citizenship ends in arrest after face scan"
-  },
-  {
-   "id": "fdf6de5ba356",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/videocapture1794896347051-1794-4768-2194-1794896645.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=n4LGW_FBlb0rmwT8KBUcLA",
-   "url": "https://e.vnexpress.net/news/news/environment/china-s-waste-to-energy-plant-draws-visitors-with-art-coffee-and-striking-design-5145675.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "China's waste-to-energy plant draws visitors with art, coffee and striking design",
-   "date": "2026-11-17",
-   "desc": "China's waste-to-energy plant draws visitors with art, coffee and striking design"
   }
  ]
 }
