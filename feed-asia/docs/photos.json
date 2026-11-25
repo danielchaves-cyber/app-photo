@@ -1,6 +1,46 @@
 {
- "atualizado": "2026-11-24T20:50:19.931Z",
+ "atualizado": "2026-11-25T01:03:29.989Z",
  "fotos": [
+  {
+   "id": "b00a99a784a7",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575820.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/25/trump-tariffs-probe-factory-capacity/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Washington to unveil new tariffs after probe on excess factory capacity: sources",
+   "date": "2026-11-25",
+   "desc": "Washington to unveil new tariffs after probe on excess factory capacity: sources"
+  },
+  {
+   "id": "e1f425b5c15c",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575786.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/xi-shanghai-boss-shakeup/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Xi probes Shanghai boss, widening biggest shakeup in decades",
+   "date": "2026-11-25",
+   "desc": "Xi probes Shanghai boss, widening biggest shakeup in decades"
+  },
+  {
+   "id": "e88d36b8435b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575818.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/25/economy/boj-rate-hike-ex-member/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "BOJ likely to lift rate to 2% by mid-2027, ex-board member says",
+   "date": "2026-11-25",
+   "desc": "BOJ likely to lift rate to 2% by mid-2027, ex-board member says"
+  },
+  {
+   "id": "757ae7b7a8cd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575755.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/25/tech/patent-litigation-rising-japanese-companies/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese companies pushed to profit from patents",
+   "date": "2026-11-25",
+   "desc": "Japanese companies pushed to profit from patents"
+  },
   {
    "id": "1a223f7b5d34",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575611.JPG",
@@ -270,6 +310,26 @@
    "titulo": "Death toll from Hanoi eatery blast rises to 7",
    "date": "2026-11-24",
    "desc": "Death toll from Hanoi eatery blast rises to 7"
+  },
+  {
+   "id": "db7a564d4785",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575782.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/25/companies/uk-russia-sabotage-companies-ukraine/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.K. warns of Russian sabotage threat to companies that supply Ukraine",
+   "date": "2026-11-24",
+   "desc": "U.K. warns of Russian sabotage threat to companies that supply Ukraine"
+  },
+  {
+   "id": "3b48d476615a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575785.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/taiwan-vote-lai-presidential-race/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Taiwan’s local vote tests Lai with presidential race on horizon",
+   "date": "2026-11-24",
+   "desc": "Taiwan’s local vote tests Lai with presidential race on horizon"
   },
   {
    "id": "cac5ea4740ff",
@@ -2940,66 +3000,6 @@
    "titulo": "EU nations to unveil Rwanda deal for migrant return hub",
    "date": "2026-11-16",
    "desc": "EU nations to unveil Rwanda deal for migrant return hub"
-  },
-  {
-   "id": "70ad269d4cfc",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574383.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/politics/japan-takaichi-apec-asean-china/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Takaichi heads to Asia summits with focus on warming chilly ties with China",
-   "date": "2026-11-16",
-   "desc": "Takaichi heads to Asia summits with focus on warming chilly ties with China"
-  },
-  {
-   "id": "9f8ba4573ebf",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574355.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/tokyo-cocaine-offenders-record-high/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Cocaine offenders on pace to hit record number in Tokyo",
-   "date": "2026-11-16",
-   "desc": "Cocaine offenders on pace to hit record number in Tokyo"
-  },
-  {
-   "id": "092634a8398a",
-   "img": "https://i1-english.vnecdn.net/2026/11/16/wm1wm1img4160jpg17948125903864-5425-5936-1794822359.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=3fTbOvqcKqd_Yz0m1rLnKw",
-   "url": "https://e.vnexpress.net/news/news/crime/vietnam-s-biggest-forex-fraud-boss-mr-pips-gets-life-in-prison-for-60m-scam-5145352.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's biggest forex fraud boss 'Mr Pips' gets life in prison for $60M scam",
-   "date": "2026-11-16",
-   "desc": "Vietnam's biggest forex fraud boss 'Mr Pips' gets life in prison for $60M scam"
-  },
-  {
-   "id": "71ff46b9988f",
-   "img": "https://i1-english.vnecdn.net/2026/11/16/cannabislonganthumb1020x612-17-3137-8944-1794816723.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=cNLvyb4eeNWEVb6DsOb7AA",
-   "url": "https://e.vnexpress.net/news/news/crime/1-8-tonnes-of-cannabis-smuggled-from-thailand-to-vietnam-in-baskets-of-dried-longan-5145279.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "1.8 tonnes of cannabis smuggled from Thailand to Vietnam in baskets of dried longan",
-   "date": "2026-11-16",
-   "desc": "1.8 tonnes of cannabis smuggled from Thailand to Vietnam in baskets of dried longan"
-  },
-  {
-   "id": "6535bc5c218c",
-   "img": "https://i1-english.vnecdn.net/2026/11/16/videocapture-1794813564-1770-1794814362.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=fg5ZZzNWihU5hdDYGfHmCg",
-   "url": "https://e.vnexpress.net/news/news/traffic/long-thanh-airport-runs-first-full-passenger-trials-ahead-of-commercial-launch-5145257.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Long Thanh airport runs first full passenger trials ahead of commercial launch",
-   "date": "2026-11-16",
-   "desc": "Long Thanh airport runs first full passenger trials ahead of commercial launch"
-  },
-  {
-   "id": "5114967ffd13",
-   "img": "https://i1-english.vnecdn.net/2026/11/16/shanghaigeneeditingthumb1500x9-8642-5988-1794811218.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=EVTFlFq9z0MaH5mxVVVlig",
-   "url": "https://e.vnexpress.net/news/news/shanghai-fires-2-scientists-after-girl-dies-in-world-s-first-brain-gene-editing-attempt-5145201.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Shanghai fires 2 scientists after girl dies in world's first brain gene-editing attempt",
-   "date": "2026-11-16",
-   "desc": "Shanghai fires 2 scientists after girl dies in world's first brain gene-editing attempt"
   }
  ]
 }
