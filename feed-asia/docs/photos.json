@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T13:13:06.402Z",
+ "atualizado": "2026-11-25T17:00:42.576Z",
  "fotos": [
   {
    "id": "b00a99a784a7",
@@ -340,6 +340,16 @@
    "titulo": "HCMC aims to rank among world's 100 most livable cities by 2030",
    "date": "2026-11-25",
    "desc": "HCMC aims to rank among world's 100 most livable cities by 2030"
+  },
+  {
+   "id": "d67780aed7a0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576034.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/judge-casino-gambling/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japanese judge dismissed over online casino gambling",
+   "date": "2026-11-25",
+   "desc": "Japanese judge dismissed over online casino gambling"
   },
   {
    "id": "1a223f7b5d34",
@@ -2990,16 +3000,6 @@
    "titulo": "China's waste-to-energy plant draws visitors with art, coffee and striking design",
    "date": "2026-11-17",
    "desc": "China's waste-to-energy plant draws visitors with art, coffee and striking design"
-  },
-  {
-   "id": "4f28fcc0467a",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574586.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/politics/quad-leaders-summit-takaichi-trump/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Trump joins ‘Quad’ summit for first leaders’ meeting in two years",
-   "date": "2026-11-17",
-   "desc": "Trump joins ‘Quad’ summit for first leaders’ meeting in two years"
   }
  ]
 }
