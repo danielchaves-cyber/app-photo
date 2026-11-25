@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T09:00:09.322Z",
+ "atualizado": "2026-11-25T13:13:06.402Z",
  "fotos": [
   {
    "id": "b00a99a784a7",
@@ -250,6 +250,96 @@
    "titulo": "Thailand catches Chinese man wanted for nearly $1M tax refund fraud",
    "date": "2026-11-25",
    "desc": "Thailand catches Chinese man wanted for nearly $1M tax refund fraud"
+  },
+  {
+   "id": "73626d707244",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576036.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/new-language-test-foreign-workers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan mulls new Japanese-language test for foreign workers",
+   "date": "2026-11-25",
+   "desc": "Japan mulls new Japanese-language test for foreign workers"
+  },
+  {
+   "id": "ca82341adb15",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan to declare aim to become AI nation after U.S. and China",
+   "date": "2026-11-25",
+   "desc": "Japan to declare aim to become AI nation after U.S. and China"
+  },
+  {
+   "id": "e58bace026a9",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576032.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/kenta-izumi-political-system/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ex-CDP chief Izumi proposes two-bloc political system in Japan",
+   "date": "2026-11-25",
+   "desc": "Ex-CDP chief Izumi proposes two-bloc political system in Japan"
+  },
+  {
+   "id": "7799fa2c8821",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576030.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/25/economy/boj-inflation-indicator-hike/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "BOJ’s faster inflation indicator backs case for another hike",
+   "date": "2026-11-25",
+   "desc": "BOJ’s faster inflation indicator backs case for another hike"
+  },
+  {
+   "id": "ecdc48ad85b8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576029.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/25/companies/stabucks-banks-sale/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Starbucks is said to engage banks for sale of Japan business",
+   "date": "2026-11-25",
+   "desc": "Starbucks is said to engage banks for sale of Japan business"
+  },
+  {
+   "id": "45055f540b2b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576015.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/25/gpif-portfolio-review-progress/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "GPIF agenda may signal portfolio review progress, JPMorgan says",
+   "date": "2026-11-25",
+   "desc": "GPIF agenda may signal portfolio review progress, JPMorgan says"
+  },
+  {
+   "id": "1b130ac230fd",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/25/dji-1795608987-7032-1795609135.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=qkV12Vii3YV1Y3jVgeHgLA",
+   "url": "https://e.vnexpress.net/news/news/traffic/developer-seeks-to-extend-long-thanh-international-airport-s-completion-deadline-to-2027-or-2028-5148883.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Developer seeks to extend Long Thanh International Airport’s completion deadline to 2027 or 2028",
+   "date": "2026-11-25",
+   "desc": "Developer seeks to extend Long Thanh International Airport’s completion deadline to 2027 or 2028"
+  },
+  {
+   "id": "2ee1e1a16d4a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/25/australianwomangunscautreothum-9978-6026-1795598358.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=J9ESlJjHvga12x7UR4GwsQ",
+   "url": "https://e.vnexpress.net/news/news/crime/australian-traveler-enters-vietnam-with-three-handguns-17-bullets-hidden-in-suitcase-5148816.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Australian traveler enters Vietnam with three handguns, 17 bullets hidden in suitcase",
+   "date": "2026-11-25",
+   "desc": "Australian traveler enters Vietnam with three handguns, 17 bullets hidden in suitcase"
+  },
+  {
+   "id": "57b7de250e4a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/25/233a0142-1795571886-2065-1795571898.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=2viCUATh4Fsy2omsY5MbMA",
+   "url": "https://e.vnexpress.net/news/news/hcmc-aims-to-rank-among-world-s-100-most-livable-cities-by-2030-5148169.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "HCMC aims to rank among world's 100 most livable cities by 2030",
+   "date": "2026-11-25",
+   "desc": "HCMC aims to rank among world's 100 most livable cities by 2030"
   },
   {
    "id": "1a223f7b5d34",
@@ -2910,96 +3000,6 @@
    "titulo": "Trump joins ‘Quad’ summit for first leaders’ meeting in two years",
    "date": "2026-11-17",
    "desc": "Trump joins ‘Quad’ summit for first leaders’ meeting in two years"
-  },
-  {
-   "id": "5a9ad0329d38",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574584.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/teaching-license-obtain-ease/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan to make teaching licenses easier to obtain",
-   "date": "2026-11-17",
-   "desc": "Japan to make teaching licenses easier to obtain"
-  },
-  {
-   "id": "5c38c67333a4",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574581.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/science-health/hayabusa2-probe-changes-course/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan space probe changes target over engine trouble",
-   "date": "2026-11-17",
-   "desc": "Japan space probe changes target over engine trouble"
-  },
-  {
-   "id": "06d57fb36fae",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574579.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/17/japan/bear-loose-maebashi/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Mother bear on the loose prompts city in Gunma Prefecture to shut schools",
-   "date": "2026-11-17",
-   "desc": "Mother bear on the loose prompts city in Gunma Prefecture to shut schools"
-  },
-  {
-   "id": "8becf011997d",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/16/student-jpeg-1794818231-6864-1794820238.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=bOmLZjyl1reXMJbTaxUbpQ",
-   "url": "https://e.vnexpress.net/news/news/education/us-students-increasingly-shift-from-bachelor-s-degrees-to-shorter-career-focused-programs-5145299.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "​US students increasingly shift from bachelor's degrees to shorter, career-focused programs",
-   "date": "2026-11-17",
-   "desc": "​US students increasingly shift from bachelor's degrees to shorter, career-focused programs"
-  },
-  {
-   "id": "35f7b29339e3",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/vna-potal-tong-bi-thu-chu-1794-6066-6803-1794906176.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=uHTfiYNHcvsRPhIEBOVYdQ",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-lam-holds-talks-with-xi-jinping-in-shenzhen-5145738.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's top leader To Lam holds talks with Xi Jinping in Shenzhen",
-   "date": "2026-11-17",
-   "desc": "Vietnam's top leader To Lam holds talks with Xi Jinping in Shenzhen"
-  },
-  {
-   "id": "0aad5a3fcf4b",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/10/koreanmenobesitythumb1500x900-2394-8266-1794297225.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=gwkK23L7TlR05rTQ7ni2ug",
-   "url": "https://e.vnexpress.net/news/news/more-than-half-of-men-in-their-30s-and-40s-count-as-obese-in-south-korea-5142943.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "More than half of men in their 30s and 40s count as obese in South Korea",
-   "date": "2026-11-17",
-   "desc": "More than half of men in their 30s and 40s count as obese in South Korea"
-  },
-  {
-   "id": "d27575dc8e89",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574601.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/18/tech/tech-paranoia-outages-public-trust/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Tech paranoia intensifies after outages roil public trust",
-   "date": "2026-11-17",
-   "desc": "Tech paranoia intensifies after outages roil public trust"
-  },
-  {
-   "id": "7a991fa7702d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574599.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/world/politics/trump-ukraine-push-europe/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Trump’s sudden Ukraine push leaves Europe walking a tightrope",
-   "date": "2026-11-17",
-   "desc": "Trump’s sudden Ukraine push leaves Europe walking a tightrope"
-  },
-  {
-   "id": "a06f427a610b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574187.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/16/world/science-health/africa-ebola-outbreak-six-months/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Africa CDC says Ebola outbreak still out of control six months since it was declared",
-   "date": "2026-11-16",
-   "desc": "Africa CDC says Ebola outbreak still out of control six months since it was declared"
   }
  ]
 }
