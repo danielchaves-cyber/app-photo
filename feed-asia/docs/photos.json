@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T08:58:55.397Z",
+ "atualizado": "2026-11-26T13:12:04.960Z",
  "fotos": [
   {
    "id": "29d1f6c9dae6",
@@ -250,6 +250,96 @@
    "titulo": "Woman caught smuggling 21 snakes strapped to her legs into China",
    "date": "2026-11-26",
    "desc": "Woman caught smuggling 21 snakes strapped to her legs into China"
+  },
+  {
+   "id": "84c2daea049b",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576231.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/26/companies/japan-tobacco-considers-imperial-acquisition/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan Tobacco studies deal for Imperial Brands",
+   "date": "2026-11-26",
+   "desc": "Japan Tobacco studies deal for Imperial Brands"
+  },
+  {
+   "id": "b9ddc1101b87",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576230.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/vietnam-activists-un-experts/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Vietnam must explain ‘abduction’ of activists: U.N. experts",
+   "date": "2026-11-26",
+   "desc": "Vietnam must explain ‘abduction’ of activists: U.N. experts"
+  },
+  {
+   "id": "5c9846e3b452",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576229.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/26/economy/japan-firms-hikes-bite/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan firms say rate hikes are starting to bite, new study shows",
+   "date": "2026-11-26",
+   "desc": "Japan firms say rate hikes are starting to bite, new study shows"
+  },
+  {
+   "id": "7d692e0309ad",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576228.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/bangkok-oil-facility-explosion/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Nine hurt in huge explosion at Bangkok oil facility",
+   "date": "2026-11-26",
+   "desc": "Nine hurt in huge explosion at Bangkok oil facility"
+  },
+  {
+   "id": "f7d8bffde25e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576223.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/society/south-korea-designer-stroller-boom/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Designer baby toys and strollers drive South Korean retail boom",
+   "date": "2026-11-26",
+   "desc": "Designer baby toys and strollers drive South Korean retail boom"
+  },
+  {
+   "id": "77cb2b40a010",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576205.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/26/companies/starbucks-south-korea-profit/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Starbucks Korea sees profit return after ‘Tank Day’ backlash",
+   "date": "2026-11-26",
+   "desc": "Starbucks Korea sees profit return after ‘Tank Day’ backlash"
+  },
+  {
+   "id": "7cece3bea0f1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576207.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/26/yen-headwinds-insurers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan’s insurers have ‘given up’ on yen with record-low hedging",
+   "date": "2026-11-26",
+   "desc": "Japan’s insurers have ‘given up’ on yen with record-low hedging"
+  },
+  {
+   "id": "a5c7da131d61",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576203.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/26/companies/china-ai-development-hurdles/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. chip curbs and distillation crackdown to impact Chinese AI model progress",
+   "date": "2026-11-26",
+   "desc": "U.S. chip curbs and distillation crackdown to impact Chinese AI model progress"
+  },
+  {
+   "id": "6deb43ec9b09",
+   "img": "https://i1-english.vnecdn.net/2026/11/26/lethanhthanverdictthumb1500x90-1983-8174-1795685792.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=55wxS4vFCpXX2Ca8D9q9pw",
+   "url": "https://e.vnexpress.net/news/news/crime/vietnamese-property-tycoon-who-deceived-519-homebuyers-gets-suspended-sentence-5149289.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnamese property tycoon who deceived 519 homebuyers gets suspended sentence",
+   "date": "2026-11-26",
+   "desc": "Vietnamese property tycoon who deceived 519 homebuyers gets suspended sentence"
   },
   {
    "id": "b00a99a784a7",
@@ -2910,96 +3000,6 @@
    "titulo": "Foreign visitors to Japan hit record 3.9 million in October",
    "date": "2026-11-18",
    "desc": "Foreign visitors to Japan hit record 3.9 million in October"
-  },
-  {
-   "id": "9e602ea789e6",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574803.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/ef-english-survey/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan improves on English learning in global ranking, but still lags behind",
-   "date": "2026-11-18",
-   "desc": "Japan improves on English learning in global ranking, but still lags behind"
-  },
-  {
-   "id": "34538a74782a",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/trump-tap-1795005546-4454-1795005564.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=lKbKDlpKZEIrz4j3wah7Lw",
-   "url": "https://e.vnexpress.net/news/news/xi-greets-trump-at-china-airport-ahead-of-summit-with-putin-5141145.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Xi greets Trump at China airport ahead of summit with Putin",
-   "date": "2026-11-18",
-   "desc": "Xi greets Trump at China airport ahead of summit with Putin"
-  },
-  {
-   "id": "8e7e6f05b41f",
-   "img": "https://i1-english.vnecdn.net/2026/11/18/tong-bi-thu-chu-tich-nuoc-to-l-4100-9384-1795011552.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=JXC1qXOkfAVZyV5GdGp3hA",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-lam-meets-with-russian-president-vladimir-putin-5146300.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam’s top leader To Lam meets with Russian President Vladimir Putin",
-   "date": "2026-11-18",
-   "desc": "Vietnam’s top leader To Lam meets with Russian President Vladimir Putin"
-  },
-  {
-   "id": "872b209d838e",
-   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/8fb91728-0be5-488b-b447-49024e1854f6_3c6d2ba5.jpg?itok=wM2vPVlu&v=1795043432",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3374969/xi-trump-ties-tested-calls-grow-washington-tougher-china-policy",
-   "flag": "🇨🇳",
-   "src": "Nayan Seth · SCMP (Xinhua)",
-   "titulo": "Xi-Trump ties tested as calls grow in Washington for tougher China policy",
-   "date": "2026-11-18",
-   "desc": "Xi-Trump ties tested as calls grow in Washington for tougher China policy"
-  },
-  {
-   "id": "aa7b8cd12511",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574876.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-putin-russia-japan-talks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Takaichi and Putin meet on APEC sidelines amid ongoing tensions",
-   "date": "2026-11-18",
-   "desc": "Takaichi and Putin meet on APEC sidelines amid ongoing tensions"
-  },
-  {
-   "id": "c4e6eeac04d5",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/videocapture-1794904477-8684-1794905723.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rBXGuQo_zY0eLGgfUNkYNg",
-   "url": "https://e.vnexpress.net/news/news/education/singapore-stands-among-top-10-universities-for-career-prospects-as-us-dominates-5145735.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singapore stands among top 10 universities for career prospects as US dominates",
-   "date": "2026-11-18",
-   "desc": "Singapore stands among top 10 universities for career prospects as US dominates"
-  },
-  {
-   "id": "3234be8dd9a9",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/16/thaioverstayersjapanthumb1500x-4643-1426-1794828221.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=fziZkC7HEKLFuq_SqjhySw",
-   "url": "https://e.vnexpress.net/news/news/vietnam-no-longer-japan-s-largest-source-of-visa-overstayers-as-violations-drop-5145366.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam no longer Japan's largest source of visa overstayers as violations drop",
-   "date": "2026-11-18",
-   "desc": "Vietnam no longer Japan's largest source of visa overstayers as violations drop"
-  },
-  {
-   "id": "5732bc720f38",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/pattayacondotowersthumb1500x90-6494-4514-1794922705.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=j0VuyC7qYCQUwSLFf_-uFw",
-   "url": "https://e.vnexpress.net/news/news/crime/singaporean-drug-fugitive-caught-after-posing-as-businessman-in-thailand-for-over-a-year-5145831.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Singaporean drug fugitive caught after posing as businessman in Thailand for over a year",
-   "date": "2026-11-18",
-   "desc": "Singaporean drug fugitive caught after posing as businessman in Thailand for over a year"
-  },
-  {
-   "id": "73669da9efc6",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/singaporetwinpassportthumb1200-2607-1642-1794975756.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2pQ9GRWr0la1eiulVvTQeA",
-   "url": "https://e.vnexpress.net/news/news/crime/man-jailed-for-using-lookalike-twin-brother-s-passport-to-slip-past-singapore-border-checks-5146027.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Man jailed for using lookalike twin brother's passport to slip past Singapore border checks",
-   "date": "2026-11-18",
-   "desc": "Man jailed for using lookalike twin brother's passport to slip past Singapore border checks"
   }
  ]
 }
