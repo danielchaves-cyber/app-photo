@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T13:12:04.960Z",
+ "atualizado": "2026-11-26T17:02:53.741Z",
  "fotos": [
   {
    "id": "29d1f6c9dae6",
@@ -340,6 +340,16 @@
    "titulo": "Vietnamese property tycoon who deceived 519 homebuyers gets suspended sentence",
    "date": "2026-11-26",
    "desc": "Vietnamese property tycoon who deceived 519 homebuyers gets suspended sentence"
+  },
+  {
+   "id": "ceb1830fda0a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/26/aurelia-dubois-ztjexurgude-uns-2097-9852-1795704160.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=ZNYlQGlnAi5Ri4Du73OiBg",
+   "url": "https://e.vnexpress.net/news/news/french-village-tackles-depopulation-with-near-free-plots-of-land-5139930.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "French village tackles depopulation with near-free plots of land",
+   "date": "2026-11-26",
+   "desc": "French village tackles depopulation with near-free plots of land"
   },
   {
    "id": "b00a99a784a7",
@@ -2990,16 +3000,6 @@
    "titulo": "Takaichi and China’s Xi share cordial handshake in first encounter since explosive Taiwan remarks",
    "date": "2026-11-18",
    "desc": "Takaichi and China’s Xi share cordial handshake in first encounter since explosive Taiwan remarks"
-  },
-  {
-   "id": "eb4b7970c1f2",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574837.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/tourists-record-october/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Foreign visitors to Japan hit record 3.9 million in October",
-   "date": "2026-11-18",
-   "desc": "Foreign visitors to Japan hit record 3.9 million in October"
   }
  ]
 }
