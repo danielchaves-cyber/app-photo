@@ -1,6 +1,26 @@
 {
- "atualizado": "2026-11-25T20:52:22.845Z",
+ "atualizado": "2026-11-26T01:03:38.928Z",
  "fotos": [
+  {
+   "id": "29d1f6c9dae6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576051.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/russia-ukraine-germany-merz-aid/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘Russia wants more than Ukraine,’ says Germany’s Merz as he defends aid for Kyiv",
+   "date": "2026-11-26",
+   "desc": "‘Russia wants more than Ukraine,’ says Germany’s Merz as he defends aid for Kyiv"
+  },
+  {
+   "id": "f16b5b0e648f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576045.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/xi-china-shanghai-chen-jining/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Xi unleashes China ‘earthquake’ with shock ouster of rising star",
+   "date": "2026-11-26",
+   "desc": "Xi unleashes China ‘earthquake’ with shock ouster of rising star"
+  },
   {
    "id": "b00a99a784a7",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575820.jpg",
@@ -360,6 +380,36 @@
    "titulo": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’",
    "date": "2026-11-25",
    "desc": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’"
+  },
+  {
+   "id": "7b4c4a84d4df",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576055.JPG",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/26/more-sports/steelers-cut-aaron-rodgers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Steelers cut Aaron Rodgers after star QB blasts head coach in explosive interview",
+   "date": "2026-11-25",
+   "desc": "Steelers cut Aaron Rodgers after star QB blasts head coach in explosive interview"
+  },
+  {
+   "id": "0ddd6584b287",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576054.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/trump-tariffs-power-popularity/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "For Trump, doubling down on tariffs is about power, not popularity",
+   "date": "2026-11-25",
+   "desc": "For Trump, doubling down on tariffs is about power, not popularity"
+  },
+  {
+   "id": "d29dbb132619",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576044.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/26/us-china-eu-tariffs-overcapacity/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. targets China, EU with new tariffs citing overcapacity",
+   "date": "2026-11-25",
+   "desc": "U.S. targets China, EU with new tariffs citing overcapacity"
   },
   {
    "id": "1a223f7b5d34",
@@ -2950,56 +3000,6 @@
    "titulo": "Why the electrification push at global climate talks is stalling",
    "date": "2026-11-17",
    "desc": "Why the electrification push at global climate talks is stalling"
-  },
-  {
-   "id": "218cbedce965",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/dji-1794888890.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=Ba72HymOYpvCkNjuGV0b4Q",
-   "url": "https://e.vnexpress.net/photo/traffic/hcmcs-largest-steel-flyover-takes-shape-at-four-level-interchange-5145622.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "HCMC's largest steel flyover takes shape at four-level interchange",
-   "date": "2026-11-17",
-   "desc": "HCMC's largest steel flyover takes shape at four-level interchange"
-  },
-  {
-   "id": "127448dbe416",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/screenshot20261117135638-17948-5407-8576-1794898685.png?w=900&h=0&q=100&dpr=1&fit=crop&s=9cCJZ-OJzSDdSM88MYwOVA",
-   "url": "https://e.vnexpress.net/news/news/traffic/chinese-electric-passenger-jet-makes-first-crewed-flight-5145677.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Chinese electric passenger jet makes first crewed flight",
-   "date": "2026-11-17",
-   "desc": "Chinese electric passenger jet makes first crewed flight"
-  },
-  {
-   "id": "57fb10376307",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/muarmatriarch61doctorsthumb124-8303-7102-1794898293.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=WUIFoZ-tyMU_Q_mE-QCnWA",
-   "url": "https://e.vnexpress.net/news/news/malaysian-rubber-tapper-with-no-schooling-dies-at-104-leaving-family-of-61-doctors-5145680.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Malaysian rubber tapper with no schooling dies at 104, leaving family of 61 doctors",
-   "date": "2026-11-17",
-   "desc": "Malaysian rubber tapper with no schooling dies at 104, leaving family of 61 doctors"
-  },
-  {
-   "id": "c902c4d8e8e2",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/mekongzombiefishthumb1500x900-7055-3967-1794898595.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=a41nqKsWpF1NQHN5VGP4hw",
-   "url": "https://e.vnexpress.net/news/news/environment/zombie-fish-covered-in-blisters-found-in-mekong-5145678.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "'Zombie fish' covered in blisters found in Mekong",
-   "date": "2026-11-17",
-   "desc": "'Zombie fish' covered in blisters found in Mekong"
-  },
-  {
-   "id": "015af6fcb377",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/kohsamuithaiidthumb1500x900-17-5733-7651-1794898129.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=LHLj6cLRuLei4d5JvdgXLg",
-   "url": "https://e.vnexpress.net/news/news/crime/indian-man-s-1-770-shortcut-to-thai-citizenship-ends-in-arrest-after-face-scan-5145679.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Indian man's $1,770 shortcut to Thai citizenship ends in arrest after face scan",
-   "date": "2026-11-17",
-   "desc": "Indian man's $1,770 shortcut to Thai citizenship ends in arrest after face scan"
   }
  ]
 }
