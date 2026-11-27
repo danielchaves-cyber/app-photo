@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-26T20:51:20.138Z",
+ "atualizado": "2026-11-27T01:08:54.676Z",
  "fotos": [
+  {
+   "id": "3bc3773a8356",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576250.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/asia-pacific/ukraine-north-korea-missiles/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Ukraine says North Korea temporarily halted missile shipments to ally Russia",
+   "date": "2026-11-27",
+   "desc": "Ukraine says North Korea temporarily halted missile shipments to ally Russia"
+  },
   {
    "id": "29d1f6c9dae6",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576051.jpg",
@@ -2990,16 +3000,6 @@
    "titulo": "Top court rules prisoner voting restriction constitutional",
    "date": "2026-11-18",
    "desc": "Top court rules prisoner voting restriction constitutional"
-  },
-  {
-   "id": "f85618f33b71",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574838.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/takaichi-xi-china-japan-apec/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Takaichi and China’s Xi share cordial handshake in first encounter since explosive Taiwan remarks",
-   "date": "2026-11-18",
-   "desc": "Takaichi and China’s Xi share cordial handshake in first encounter since explosive Taiwan remarks"
   }
  ]
 }
