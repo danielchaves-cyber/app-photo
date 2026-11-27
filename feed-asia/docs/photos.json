@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T05:01:37.957Z",
+ "atualizado": "2026-11-27T08:59:13.740Z",
  "fotos": [
   {
    "id": "3bc3773a8356",
@@ -110,6 +110,116 @@
    "titulo": "Drug syndicate used Malaysia's air force 21 times to smuggle three tonnes of meth: minister",
    "date": "2026-11-27",
    "desc": "Drug syndicate used Malaysia's air force 21 times to smuggle three tonnes of meth: minister"
+  },
+  {
+   "id": "d26a12ec6833",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576371.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/kobe-vacant-condo-tax/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Kobe city government proposes tax on vacant condo units",
+   "date": "2026-11-27",
+   "desc": "Kobe city government proposes tax on vacant condo units"
+  },
+  {
+   "id": "0cb900107458",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576368.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/27/companies/suzuki-rare-metal-free-batteries/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Suzuki to domestically produce rare metal-free EV batteries",
+   "date": "2026-11-27",
+   "desc": "Suzuki to domestically produce rare metal-free EV batteries"
+  },
+  {
+   "id": "6df73ff6257d",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/575672.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/27/film/bunyo-ishikawa-documentary-atsunori-kawamura-interview/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "A documentarian’s painstaking portrait of Bunyo Ishikawa, the ‘Battlefield Bohemian’",
+   "date": "2026-11-27",
+   "desc": "A documentarian’s painstaking portrait of Bunyo Ishikawa, the ‘Battlefield Bohemian’"
+  },
+  {
+   "id": "8bddf41ed0b6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576334.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/politics/censure-motion-voted-down/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Upper House rejects censure motion against education minister",
+   "date": "2026-11-27",
+   "desc": "Upper House rejects censure motion against education minister"
+  },
+  {
+   "id": "86bb1de229c6",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576325.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/society/japan-school-absency-record/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Number of students not attending school in Japan reaches record",
+   "date": "2026-11-27",
+   "desc": "Number of students not attending school in Japan reaches record"
+  },
+  {
+   "id": "efe3a2811edd",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576351.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/27/trump-tariff-japan/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. tariff plan has Japan asking questions and pushing back",
+   "date": "2026-11-27",
+   "desc": "U.S. tariff plan has Japan asking questions and pushing back"
+  },
+  {
+   "id": "794c1c31bca8",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576361.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/27/companies/new-sony-walkman/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Sony launches its new Walkman series, with a price tag of up to ¥655,000",
+   "date": "2026-11-27",
+   "desc": "Sony launches its new Walkman series, with a price tag of up to ¥655,000"
+  },
+  {
+   "id": "3488bcd2cfb1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576348.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/self-defense-forces-ai-use/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan releases new guidelines on use of AI by Self-Defense Forces",
+   "date": "2026-11-27",
+   "desc": "Japan releases new guidelines on use of AI by Self-Defense Forces"
+  },
+  {
+   "id": "4d8598f6d5ac",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/27/pexels-sims1217-1795765609-4993-1795765792.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rhEuruUhS0UUW7Gz5KdyBg",
+   "url": "https://e.vnexpress.net/news/news/environment/ho-chi-minh-city-braces-for-heavy-rain-in-middle-of-dry-season-5149657.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Ho Chi Minh City braces for heavy rain in middle of dry season",
+   "date": "2026-11-27",
+   "desc": "Ho Chi Minh City braces for heavy rain in middle of dry season"
+  },
+  {
+   "id": "8f3d55947b1f",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/1795686767565-1566247374512513913-1566247374512513913-d936af6d4a90bc3cead14cb5da476cd1-1795686834.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=h60MnBUzbEHINJJNpcYfHA",
+   "url": "https://e.vnexpress.net/photo/traffic/crowded-trains-and-full-parking-lots-mark-hcmc-metros-2nd-year-5149446.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Crowded trains and full parking lots mark HCMC metro's 2nd year",
+   "date": "2026-11-27",
+   "desc": "Crowded trains and full parking lots mark HCMC metro's 2nd year"
+  },
+  {
+   "id": "85e7f273cd44",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/27/pexelssims121712195421-1795763-4186-3861-1795763008.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=L1oyHcVpzSw5vlj5QPwsNA",
+   "url": "https://e.vnexpress.net/news/news/vietnam-s-growing-affection-for-pets-challenges-longstanding-dog-and-cat-meat-trade-5149636.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam's growing affection for pets challenges longstanding dog and cat meat trade",
+   "date": "2026-11-27",
+   "desc": "Vietnam's growing affection for pets challenges longstanding dog and cat meat trade"
   },
   {
    "id": "29d1f6c9dae6",
@@ -2890,116 +3000,6 @@
    "titulo": "Five, including minors, arrested in Aichi Prefecture for burglary, attempted murder",
    "date": "2026-11-18",
    "desc": "Five, including minors, arrested in Aichi Prefecture for burglary, attempted murder"
-  },
-  {
-   "id": "8cd2e94fd89b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574622.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/small-ships-registration-henoko-accident/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan to make it easier to identify licensed small boat operators after fatal case",
-   "date": "2026-11-18",
-   "desc": "Japan to make it easier to identify licensed small boat operators after fatal case"
-  },
-  {
-   "id": "c19a927b3baa",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574663.jpg",
-   "url": "https://www.japantimes.co.jp/life/2026/11/18/food-drink/naohiko-noguchi-sake-living-national-treasure-ceremony-kyoto/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Naohiko Noguchi officially conferred as sake’s first living national treasure",
-   "date": "2026-11-18",
-   "desc": "Naohiko Noguchi officially conferred as sake’s first living national treasure"
-  },
-  {
-   "id": "553191d52c54",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574659.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/18/companies/skylark-mergers-acquisitions/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Restaurant chain Skylark eyes more M&A after ramen chain deal",
-   "date": "2026-11-18",
-   "desc": "Restaurant chain Skylark eyes more M&A after ramen chain deal"
-  },
-  {
-   "id": "d5f901d97f7d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/573357.jpg",
-   "url": "https://www.japantimes.co.jp/commentary/2026/11/18/world/democracy-religious-difference/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Democracy needs room for religious difference",
-   "date": "2026-11-18",
-   "desc": "Democracy needs room for religious difference"
-  },
-  {
-   "id": "b5284af7def6",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574650.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/18/markets/panel-takaichi-market-trust/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Finance Ministry panel set to caution Takaichi over importance of market trust",
-   "date": "2026-11-18",
-   "desc": "Finance Ministry panel set to caution Takaichi over importance of market trust"
-  },
-  {
-   "id": "3e50044a4a70",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574651.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/world/science-health/us-doctors-measles-resurgence/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘A ghost from the past’: U.S. doctors lament measles resurgence",
-   "date": "2026-11-18",
-   "desc": "‘A ghost from the past’: U.S. doctors lament measles resurgence"
-  },
-  {
-   "id": "1db36f97eb80",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/qssustainabilityvnuhanoithumb1-6375-1773-1794974813.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=gsTskjK7acg5RUAaaHTPrw",
-   "url": "https://e.vnexpress.net/news/news/education/vietnam-gets-15-universities-into-global-sustainability-ranking-three-more-than-last-year-5146025.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam gets 15 universities into global sustainability ranking, three more than last year",
-   "date": "2026-11-18",
-   "desc": "Vietnam gets 15 universities into global sustainability ranking, three more than last year"
-  },
-  {
-   "id": "e2aa074a8e18",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/wm10-wm10-1794936881475087-17949612-7395-5752-1794961843.png?w=900&h=0&q=100&dpr=1&fit=crop&s=hI3JQZRp8ZjlrafRoje_hA",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-pm-le-minh-hung-meets-us-president-donald-trump-5145956.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam PM Le Minh Hung meets US President Donald Trump",
-   "date": "2026-11-18",
-   "desc": "Vietnam PM Le Minh Hung meets US President Donald Trump"
-  },
-  {
-   "id": "ba038dec54c4",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574796.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/education-minister-censure-motion-possible/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Education minister may face censure motion over fundraiser",
-   "date": "2026-11-18",
-   "desc": "Education minister may face censure motion over fundraiser"
-  },
-  {
-   "id": "bc0cde19d129",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574788.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/18/companies/suica-new-character-rabbit/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Purple rabbit-like character wins Suica mascot contest",
-   "date": "2026-11-18",
-   "desc": "Purple rabbit-like character wins Suica mascot contest"
-  },
-  {
-   "id": "80ba76218b7c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574749.jpg",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/18/sumo/basho-reports/kyushu-2026-atamifuji/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Rising star Atamifuji has been the story of the Kyushu Basho",
-   "date": "2026-11-18",
-   "desc": "Rising star Atamifuji has been the story of the Kyushu Basho"
   }
  ]
 }
