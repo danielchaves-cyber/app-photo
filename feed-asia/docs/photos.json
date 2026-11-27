@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T17:01:51.071Z",
+ "atualizado": "2026-11-27T20:52:18.745Z",
  "fotos": [
   {
    "id": "3bc3773a8356",
@@ -220,6 +220,16 @@
    "titulo": "Vietnam's growing affection for pets challenges longstanding dog and cat meat trade",
    "date": "2026-11-27",
    "desc": "Vietnam's growing affection for pets challenges longstanding dog and cat meat trade"
+  },
+  {
+   "id": "256fd21c34b5",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/2aoborfam0xazhncdjquhpwtn00youdtpydkejg0-1795793337.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=j6QroyQ5ts-pdsxTT97VIQ",
+   "url": "https://e.vnexpress.net/photo/news/heavy-rain-at-peak-tide-leaves-ho-chi-minh-city-roads-under-half-a-meter-of-water-5149825.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Heavy rain at peak tide leaves Ho Chi Minh City roads under half a meter of water",
+   "date": "2026-11-27",
+   "desc": "Heavy rain at peak tide leaves Ho Chi Minh City roads under half a meter of water"
   },
   {
    "id": "29d1f6c9dae6",
@@ -2990,16 +3000,6 @@
    "titulo": "Over half of drivers drove through floodwater during Chiba’s torrential rain: survey",
    "date": "2026-11-18",
    "desc": "Over half of drivers drove through floodwater during Chiba’s torrential rain: survey"
-  },
-  {
-   "id": "d10653811f84",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574637.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/crime-legal/aichi-burglary-attempted-murder/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Five, including minors, arrested in Aichi Prefecture for burglary, attempted murder",
-   "date": "2026-11-18",
-   "desc": "Five, including minors, arrested in Aichi Prefecture for burglary, attempted murder"
   }
  ]
 }
