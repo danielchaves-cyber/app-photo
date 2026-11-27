@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T01:08:54.676Z",
+ "atualizado": "2026-11-27T05:01:37.957Z",
  "fotos": [
   {
    "id": "3bc3773a8356",
@@ -10,6 +10,106 @@
    "titulo": "Ukraine says North Korea temporarily halted missile shipments to ally Russia",
    "date": "2026-11-27",
    "desc": "Ukraine says North Korea temporarily halted missile shipments to ally Russia"
+  },
+  {
+   "id": "7ec91be85b96",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576280.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/society/foreign-travelers-drink-spiking/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Britain warns young male visitors of drink-spiking risk in Tokyo",
+   "date": "2026-11-27",
+   "desc": "Britain warns young male visitors of drink-spiking risk in Tokyo"
+  },
+  {
+   "id": "d522abcc70c1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576276.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/27/companies/tepco-kashiwazaki-kariwa-delay-antiterrorism/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Tepco delays completion date of Niigata nuclear plant’s anti-terrorism facility",
+   "date": "2026-11-27",
+   "desc": "Tepco delays completion date of Niigata nuclear plant’s anti-terrorism facility"
+  },
+  {
+   "id": "e61d9ff86e1e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576274.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/society/older-adults-care-insurance/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Health ministry mulls raising care insurance premiums for some older adults",
+   "date": "2026-11-27",
+   "desc": "Health ministry mulls raising care insurance premiums for some older adults"
+  },
+  {
+   "id": "d5be36c97a21",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576275.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/japan/dolls-people-of-the-year/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Dolls depicting 2026 newsmakers showcased in Tokyo",
+   "date": "2026-11-27",
+   "desc": "Dolls depicting 2026 newsmakers showcased in Tokyo"
+  },
+  {
+   "id": "b52aa4416632",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576300.jpg",
+   "url": "https://www.japantimes.co.jp/olympics/2026/11/27/anita-defrantz-dies-ioc/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Olympic trailblazer Anita DeFrantz dies",
+   "date": "2026-11-27",
+   "desc": "Olympic trailblazer Anita DeFrantz dies"
+  },
+  {
+   "id": "24fae9b23dc0",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576258.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/27/australia-gas-reserve-law-lng/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Australia clears law requiring LNG exporters to keep 20% for domestic use",
+   "date": "2026-11-27",
+   "desc": "Australia clears law requiring LNG exporters to keep 20% for domestic use"
+  },
+  {
+   "id": "aca51bdd9894",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576273.jpg",
+   "url": "https://www.japantimes.co.jp/business/2026/11/27/economy/tokyo-inflation-november/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Faster inflation in Tokyo supports case for BOJ rate hike in December",
+   "date": "2026-11-27",
+   "desc": "Faster inflation in Tokyo supports case for BOJ rate hike in December"
+  },
+  {
+   "id": "711c34854b84",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576257.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/27/opec-2027-output-talks/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "OPEC+ facing tricky talks on 2027 output and capacity targets",
+   "date": "2026-11-27",
+   "desc": "OPEC+ facing tricky talks on 2027 output and capacity targets"
+  },
+  {
+   "id": "1fe6c6ac9b5e",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/26/chinapolicestationkidsthumb150-5369-2890-1795698923.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=eiaSLBGyT2EADAqhmPme5w",
+   "url": "https://e.vnexpress.net/news/news/chinese-police-station-has-watched-over-children-from-school-next-door-for-21-years-5149360.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Chinese police station has watched over children from school next door for 21 years",
+   "date": "2026-11-27",
+   "desc": "Chinese police station has watched over children from school next door for 21 years"
+  },
+  {
+   "id": "7d38f8cd8ede",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/26/malaysiaairforcemeththumb1500x-2980-1667-1795699516.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2L8gXbmWU6_nGUineLSHWA",
+   "url": "https://e.vnexpress.net/news/news/crime/drug-syndicate-used-malaysia-s-air-force-21-times-to-smuggle-three-tonnes-of-meth-minister-5149362.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Drug syndicate used Malaysia's air force 21 times to smuggle three tonnes of meth: minister",
+   "date": "2026-11-27",
+   "desc": "Drug syndicate used Malaysia's air force 21 times to smuggle three tonnes of meth: minister"
   },
   {
    "id": "29d1f6c9dae6",
@@ -2900,106 +3000,6 @@
    "titulo": "Rising star Atamifuji has been the story of the Kyushu Basho",
    "date": "2026-11-18",
    "desc": "Rising star Atamifuji has been the story of the Kyushu Basho"
-  },
-  {
-   "id": "5f3078116fe5",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574781.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/asia-pacific/politics/putin-xi-china-russia-meeting-apec/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Xi and Putin blast Western ‘protectionism’ and sanctions before meeting Trump at APEC",
-   "date": "2026-11-18",
-   "desc": "Xi and Putin blast Western ‘protectionism’ and sanctions before meeting Trump at APEC"
-  },
-  {
-   "id": "027e565cf6e1",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574754.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/politics/japan-south-korea-talk/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Tokyo and Seoul brace themselves ahead of Trump-Xi-Putin meeting",
-   "date": "2026-11-18",
-   "desc": "Tokyo and Seoul brace themselves ahead of Trump-Xi-Putin meeting"
-  },
-  {
-   "id": "e69b5d158758",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574758.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/18/soccer/moriyasu-legacy-japan-coach/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Historic wins but no trophies: Moriyasu’s mixed legacy as Japan coach",
-   "date": "2026-11-18",
-   "desc": "Historic wins but no trophies: Moriyasu’s mixed legacy as Japan coach"
-  },
-  {
-   "id": "edb93d7e0085",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574660.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/crime-legal/unauthorized-poker-tournament/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Four men arrested over unauthorized poker tournament, a first in Japan",
-   "date": "2026-11-18",
-   "desc": "Four men arrested over unauthorized poker tournament, a first in Japan"
-  },
-  {
-   "id": "a3425bbc3335",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574755.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/18/japan-firms-russia-business/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japanese firms struggle to navigate Russia operations as Moscow tightens grip",
-   "date": "2026-11-18",
-   "desc": "Japanese firms struggle to navigate Russia operations as Moscow tightens grip"
-  },
-  {
-   "id": "1d7c23f06277",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/hoankiemroadclosuresthumb1500x-6255-2186-1794986181.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=TvYbnos5lj_KZ27BhTeSMA",
-   "url": "https://e.vnexpress.net/news/news/traffic/hanoi-shuts-streets-around-central-lake-for-6-days-for-vietnam-s-first-culture-day-5146100.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Hanoi shuts streets around central lake for 6 days for Vietnam's first Culture Day",
-   "date": "2026-11-18",
-   "desc": "Hanoi shuts streets around central lake for 6 days for Vietnam's first Culture Day"
-  },
-  {
-   "id": "a3461742de80",
-   "img": "https://vcdn1-suckhoe.vnecdn.net/2026/11/18/bac-si2-1794966119-3846-1794966125.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=G1AiXwrZlORqr4BX9lNB1A",
-   "url": "https://e.vnexpress.net/news/news/vietnamese-doctors-treat-passenger-with-severe-abdominal-pain-on-beijing-bound-flight-5146067.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnamese doctors treat passenger with severe abdominal pain on Beijing-bound flight",
-   "date": "2026-11-18",
-   "desc": "Vietnamese doctors treat passenger with severe abdominal pain on Beijing-bound flight"
-  },
-  {
-   "id": "0fa6829b29dc",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/wm1wm1d56afb0cfeecb2dd15ef6cjp-8785-6675-1794977631.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=UkC6VBXI7IczC8FGtEejsA",
-   "url": "https://e.vnexpress.net/news/news/crime/vietnam-property-tycoon-on-trial-for-deceiving-519-apartment-buyers-5146074.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam property tycoon on trial for deceiving 519 apartment buyers",
-   "date": "2026-11-18",
-   "desc": "Vietnam property tycoon on trial for deceiving 519 apartment buyers"
-  },
-  {
-   "id": "4dbbde1c2402",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574840.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/asia-pacific/china-xi-trump-greet-shenzhen/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Xi greets Trump at Shenzhen at airport in rare move",
-   "date": "2026-11-18",
-   "desc": "Xi greets Trump at Shenzhen at airport in rare move"
-  },
-  {
-   "id": "fe95489f2534",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574839.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/inmate-voting-ruling/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Top court rules prisoner voting restriction constitutional",
-   "date": "2026-11-18",
-   "desc": "Top court rules prisoner voting restriction constitutional"
   }
  ]
 }
