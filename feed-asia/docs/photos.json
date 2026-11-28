@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T12:53:38.672Z",
+ "atualizado": "2026-11-28T16:45:01.503Z",
  "fotos": [
   {
    "id": "be75e6694119",
@@ -240,6 +240,16 @@
    "titulo": "Vietnam city plans trial of flying taxis in mid-2027",
    "date": "2026-11-28",
    "desc": "Vietnam city plans trial of flying taxis in mid-2027"
+  },
+  {
+   "id": "3efac4824a8e",
+   "img": "https://i1-english.vnecdn.net/2026/11/28/1795852228554-1795876446-3336-1795876456.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=iRy7Zkn2aScwUOSvU5zZbw",
+   "url": "https://e.vnexpress.net/news/news/politics/vietnam-pm-proposes-three-links-to-build-joint-production-base-with-cambodia-laos-myanmar-5148822.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Vietnam PM proposes three links to build joint production base with Cambodia, Laos, Myanmar",
+   "date": "2026-11-28",
+   "desc": "Vietnam PM proposes three links to build joint production base with Cambodia, Laos, Myanmar"
   },
   {
    "id": "3bc3773a8356",
@@ -2990,16 +3000,6 @@
    "titulo": "34 foreign carriers seek to defer move to Long Thanh Airport to late 2027",
    "date": "2026-11-19",
    "desc": "34 foreign carriers seek to defer move to Long Thanh Airport to late 2027"
-  },
-  {
-   "id": "86645e0c33d0",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575018.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/princess-aiko-singapore-orchid/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Princess Aiko has orchid named after her during Singapore visit",
-   "date": "2026-11-19",
-   "desc": "Princess Aiko has orchid named after her during Singapore visit"
   }
  ]
 }
