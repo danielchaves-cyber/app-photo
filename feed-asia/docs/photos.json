@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T04:56:19.901Z",
+ "atualizado": "2026-11-28T08:48:01.578Z",
  "fotos": [
   {
    "id": "be75e6694119",
@@ -130,6 +130,66 @@
    "titulo": "Chinese PhDs from Tsinghua, Cambridge are ending up as high school teachers",
    "date": "2026-11-28",
    "desc": "Chinese PhDs from Tsinghua, Cambridge are ending up as high school teachers"
+  },
+  {
+   "id": "0208f5ba23ed",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576297.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/28/tv-streaming/vivant-season-2-controversies/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "How spy drama ‘Vivant’ set off a furor — and a fervor",
+   "date": "2026-11-28",
+   "desc": "How spy drama ‘Vivant’ set off a furor — and a fervor"
+  },
+  {
+   "id": "d8389c2980ee",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576447.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/society/japan-births-rise/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Number of births in Japan rises for the first time in 11 years",
+   "date": "2026-11-28",
+   "desc": "Number of births in Japan rises for the first time in 11 years"
+  },
+  {
+   "id": "a7d3d0fee7b1",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576446.jpg",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/28/more-sports/bronson-reed-wwe-wrestling/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "WWE star Bronson Reed dies at 38",
+   "date": "2026-11-28",
+   "desc": "WWE star Bronson Reed dies at 38"
+  },
+  {
+   "id": "91621a00b291",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576444.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/japan-nuclear-submarines-security-documents/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Japan expected to push for debate on nuclear subs in security document revisions",
+   "date": "2026-11-28",
+   "desc": "Japan expected to push for debate on nuclear subs in security document revisions"
+  },
+  {
+   "id": "9ef249403f6f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576440.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/world/science-health/deepest-explosive-volcanic-eruption/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Evidence of deepest explosive volcanic eruption found in Pacific trench",
+   "date": "2026-11-28",
+   "desc": "Evidence of deepest explosive volcanic eruption found in Pacific trench"
+  },
+  {
+   "id": "b53a5ff720aa",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/28/499925199-n-1795836021-5879-1795836458.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2t9Ht3kbjFJ0aHAb5mKF4g",
+   "url": "https://e.vnexpress.net/news/news/education/australian-universities-cut-jobs-as-international-student-numbers-decline-5149898.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Australian universities cut jobs as international student numbers decline",
+   "date": "2026-11-28",
+   "desc": "Australian universities cut jobs as international student numbers decline"
   },
   {
    "id": "3bc3773a8356",
@@ -2940,66 +3000,6 @@
    "titulo": "Japanese films get meta and meditative at Tokyo Filmex",
    "date": "2026-11-19",
    "desc": "Japanese films get meta and meditative at Tokyo Filmex"
-  },
-  {
-   "id": "5de353ac294d",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575011.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/science-health/thai-floods-pollution-garbage-dump/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Thai floods expose waste pollution in ‘garbage dump’ region",
-   "date": "2026-11-19",
-   "desc": "Thai floods expose waste pollution in ‘garbage dump’ region"
-  },
-  {
-   "id": "98ca8467d01b",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/18/andrewleudmpvrxbotkkunsplash-1-5373-5751-1794994458.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=wlp9hnZgG5UZG9z-18py7A",
-   "url": "https://e.vnexpress.net/news/news/traffic/kyoto-mulls-higher-bus-fares-for-nonlocals-amid-tourism-crush-5146232.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Kyoto mulls higher bus fares for nonlocals amid tourism crush",
-   "date": "2026-11-19",
-   "desc": "Kyoto mulls higher bus fares for nonlocals amid tourism crush"
-  },
-  {
-   "id": "33404a4ed17d",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/30f4982d-b609da5-b751e0807-179-8739-6383-1795073484.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=6TaAJTuDfJ2LVwCQYZM9pQ",
-   "url": "https://e.vnexpress.net/news/news/education/south-korea-s-top-law-exam-scorer-found-dead-amid-ai-cheating-allegations-5146600.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "South Korea's top law exam scorer found dead amid AI cheating allegations",
-   "date": "2026-11-19",
-   "desc": "South Korea's top law exam scorer found dead amid AI cheating allegations"
-  },
-  {
-   "id": "5409509b7bdc",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/5wfkcey3rroajgqknd4v4k3fsa-jpg-4947-7035-1795070493.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=CQXmXgaKBjKtKnVnLv_63g",
-   "url": "https://e.vnexpress.net/news/news/mexican-president-is-internet-star-in-china-for-21-hour-economy-flight-5146578.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Mexican president is internet star in China for 21-hour economy flight",
-   "date": "2026-11-19",
-   "desc": "Mexican president is internet star in China for 21-hour economy flight"
-  },
-  {
-   "id": "e60fc8a83c19",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575078.JPG",
-   "url": "https://www.japantimes.co.jp/environment/2026/11/19/climate-change/cop-fossil-fuel-language/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
-   "date": "2026-11-19",
-   "desc": "COP31 negotiators publish revised deal text with no mention of fossil fuels"
-  },
-  {
-   "id": "ba9fbe662dd6",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575077.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/myanmar-rohingya-genocide/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya",
-   "date": "2026-11-19",
-   "desc": "Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya"
   }
  ]
 }
