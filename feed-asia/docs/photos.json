@@ -1,6 +1,16 @@
 {
- "atualizado": "2026-11-27T20:52:18.745Z",
+ "atualizado": "2026-11-28T01:03:26.301Z",
  "fotos": [
+  {
+   "id": "be75e6694119",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/27/phuket7elevenitaliantouriststh-9677-5224-1795773245.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=_DFDTY7QAbzr75ml8XPH0w",
+   "url": "https://e.vnexpress.net/news/news/crime/3-italian-tourists-accused-of-shoplifting-at-phuket-7-eleven-get-cornered-by-bystanders-5149731.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "3 Italian tourists accused of shoplifting at Phuket 7-Eleven get cornered by bystanders",
+   "date": "2026-11-28",
+   "desc": "3 Italian tourists accused of shoplifting at Phuket 7-Eleven get cornered by bystanders"
+  },
   {
    "id": "3bc3773a8356",
    "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576250.JPG",
@@ -225,6 +235,46 @@
    "id": "256fd21c34b5",
    "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/2aoborfam0xazhncdjquhpwtn00youdtpydkejg0-1795793337.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=j6QroyQ5ts-pdsxTT97VIQ",
    "url": "https://e.vnexpress.net/photo/news/heavy-rain-at-peak-tide-leaves-ho-chi-minh-city-roads-under-half-a-meter-of-water-5149825.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Heavy rain at peak tide leaves Ho Chi Minh City roads under half a meter of water",
+   "date": "2026-11-27",
+   "desc": "Heavy rain at peak tide leaves Ho Chi Minh City roads under half a meter of water"
+  },
+  {
+   "id": "aa8629047f0f",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/575710.jpg",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/28/film/the-moon-is-watching/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "‘The Moon is Watching’ stages an absurd erotica in the French countryside",
+   "date": "2026-11-27",
+   "desc": "‘The Moon is Watching’ stages an absurd erotica in the French countryside"
+  },
+  {
+   "id": "c815b0167275",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/575940.jpeg",
+   "url": "https://www.japantimes.co.jp/life/2026/11/28/travel/kyoto-tango-peninsula-silk-road-kaya-loom-house/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "A former loom house offers a quiet look into Kyoto’s bygone Silk Road",
+   "date": "2026-11-27",
+   "desc": "A former loom house offers a quiet look into Kyoto’s bygone Silk Road"
+  },
+  {
+   "id": "0b6f1c94fdca",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/27/rajahtanndatabreachthumb1500x9-5166-5721-1795773264.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=I1vVXu7VsQmcGNT3CYanRw",
+   "url": "https://e.vnexpress.net/news/news/top-singapore-law-firm-fined-for-data-breach-affecting-143-756-people-5149736.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Top Singapore law firm fined for data breach affecting 143,756 people",
+   "date": "2026-11-27",
+   "desc": "Top Singapore law firm fined for data breach affecting 143,756 people"
+  },
+  {
+   "id": "4b3faa8a315a",
+   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/2aoborfam0xazhncdjquhpwtn00youdtpydkejg0-1795793337.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=j6QroyQ5ts-pdsxTT97VIQ",
+   "url": "https://e.vnexpress.net/photo/environment/heavy-rain-at-peak-tide-leaves-ho-chi-minh-city-roads-under-half-a-meter-of-water-5149825.html",
    "flag": "🇻🇳",
    "src": "VnExpress Intl",
    "titulo": "Heavy rain at peak tide leaves Ho Chi Minh City roads under half a meter of water",
@@ -2950,56 +3000,6 @@
    "titulo": "Chile’s Kast meets China’s Xi for first time to steady ties strained by US pressure",
    "date": "2026-11-18",
    "desc": "Chile’s Kast meets China’s Xi for first time to steady ties strained by US pressure"
-  },
-  {
-   "id": "6d096b91acbf",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574612.JPG",
-   "url": "https://www.japantimes.co.jp/sports/2026/11/18/woods-hero-world-challenge/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Tiger Woods to make competitive return at December’s Hero World Challenge",
-   "date": "2026-11-18",
-   "desc": "Tiger Woods to make competitive return at December’s Hero World Challenge"
-  },
-  {
-   "id": "cc464c31e2f8",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574609.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/18/tech/nvidia-upbeat-no-huang-return/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nvidia gives upbeat outlook while quashing idea of Huang return",
-   "date": "2026-11-18",
-   "desc": "Nvidia gives upbeat outlook while quashing idea of Huang return"
-  },
-  {
-   "id": "2610cc81466f",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574605.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/world/hoax-bomb-threats-europe/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
-   "date": "2026-11-18",
-   "desc": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports"
-  },
-  {
-   "id": "bda722065846",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/17/leetscorersuneungthumb1200x720-8380-9476-1794906213.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=KaQtPz6OnvBROqOpQ8CsJA",
-   "url": "https://e.vnexpress.net/news/news/education/perfect-korean-law-school-test-scorer-to-take-college-entrance-exam-on-camera-to-fight-ai-cheating-claims-5145748.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Perfect Korean law school test scorer to take college entrance exam on camera to fight AI cheating claims",
-   "date": "2026-11-18",
-   "desc": "Perfect Korean law school test scorer to take college entrance exam on camera to fight AI cheating claims"
-  },
-  {
-   "id": "865f3823f093",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574630.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/18/japan/society/driving-flooded-roads/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Over half of drivers drove through floodwater during Chiba’s torrential rain: survey",
-   "date": "2026-11-18",
-   "desc": "Over half of drivers drove through floodwater during Chiba’s torrential rain: survey"
   }
  ]
 }
