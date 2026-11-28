@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T01:03:26.301Z",
+ "atualizado": "2026-11-28T04:56:19.901Z",
  "fotos": [
   {
    "id": "be75e6694119",
@@ -10,6 +10,126 @@
    "titulo": "3 Italian tourists accused of shoplifting at Phuket 7-Eleven get cornered by bystanders",
    "date": "2026-11-28",
    "desc": "3 Italian tourists accused of shoplifting at Phuket 7-Eleven get cornered by bystanders"
+  },
+  {
+   "id": "2da817a5aeeb",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576441.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/asia-pacific/politics/seoul-north-korea-kim-visit-china/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Seoul monitoring signs of possible visit to China by North Korea’s Kim",
+   "date": "2026-11-28",
+   "desc": "Seoul monitoring signs of possible visit to China by North Korea’s Kim"
+  },
+  {
+   "id": "eaa7cf28ba41",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576437.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/28/tech/north-korea-money-laundering-binance/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "North Korean launderers turn to little-known crypto services to move Binance haul: researchers",
+   "date": "2026-11-28",
+   "desc": "North Korean launderers turn to little-known crypto services to move Binance haul: researchers"
+  },
+  {
+   "id": "8f1a29b724ce",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576436.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/world/russian-military-flotilla-libya-turns-around/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Russian military flotilla bound for Libya turns around after sinking of warship",
+   "date": "2026-11-28",
+   "desc": "Russian military flotilla bound for Libya turns around after sinking of warship"
+  },
+  {
+   "id": "6681a2bf5764",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576435.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/world/hackers-us-air-force-computing-platform/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+   "date": "2026-11-28",
+   "desc": "Hackers breach U.S. Air Force flagship Cloud One computing platform"
+  },
+  {
+   "id": "23b7f93e0544",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576434.jpg",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/world/crime-legal/mexico-us-combat-drug-cartels/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Mexico and U.S. combat drug cartels together as Trump pressure looms large",
+   "date": "2026-11-28",
+   "desc": "Mexico and U.S. combat drug cartels together as Trump pressure looms large"
+  },
+  {
+   "id": "18fe4bea172a",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576433.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/world/us-military-fires-ship-iran-blockade/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "U.S. military fires on ship violating Iran blockade",
+   "date": "2026-11-28",
+   "desc": "U.S. military fires on ship violating Iran blockade"
+  },
+  {
+   "id": "42de15396d28",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576432.JPG",
+   "url": "https://www.japantimes.co.jp/business/2026/11/28/tech/openai-apple-pressured-suppliers/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "OpenAI says Apple pressured suppliers to shun its devices",
+   "date": "2026-11-28",
+   "desc": "OpenAI says Apple pressured suppliers to shun its devices"
+  },
+  {
+   "id": "0ef8c253864e",
+   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576431.JPG",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/world/son-hamas-chief-survives-israeli-strike/",
+   "flag": "🇯🇵",
+   "src": "The Japan Times",
+   "titulo": "Son of Hamas chief survives Israeli strike, militant group says",
+   "date": "2026-11-28",
+   "desc": "Son of Hamas chief survives Israeli strike, militant group says"
+  },
+  {
+   "id": "5e7a78e00768",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/27/1280px-board-of-k3-1795767728-7246-1795767737.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=oTWrCjgNC1saAom4pRfqjQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/china-mongolia-russia-train-route-welcomes-passengers-again-after-six-year-suspension-5149688.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "China, Mongolia, Russia train route welcomes passengers again after six-year suspension",
+   "date": "2026-11-28",
+   "desc": "China, Mongolia, Russia train route welcomes passengers again after six-year suspension"
+  },
+  {
+   "id": "dbfce70d3303",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/27/233a9721-1795797973.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=_6PR9x9bpZcB7kybV9H0Ww",
+   "url": "https://e.vnexpress.net/photo/news/inside-hcmcs-31m-exhibition-center-recently-opened-5149823.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Inside HCMC's $31M exhibition center recently opened",
+   "date": "2026-11-28",
+   "desc": "Inside HCMC's $31M exhibition center recently opened"
+  },
+  {
+   "id": "201e9bbc8a3c",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/27/norseatlanticthumb1500x900-179-9826-7075-1795768012.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=3VPuDGeyKzHigz7UwU5LaQ",
+   "url": "https://e.vnexpress.net/news/news/traffic/norwegian-long-haul-budget-airline-halts-all-flights-putting-bangkok-and-phuket-winter-services-in-doubt-5149680.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Norwegian long-haul budget airline halts all flights, putting Bangkok and Phuket winter services in doubt",
+   "date": "2026-11-28",
+   "desc": "Norwegian long-haul budget airline halts all flights, putting Bangkok and Phuket winter services in doubt"
+  },
+  {
+   "id": "a508b0afc2f5",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/25/chinaphdshighschoolthumb1080x6-1940-2165-1795591978.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=hY-D6_MmZUxyQGf-h6K31A",
+   "url": "https://e.vnexpress.net/news/news/education/chinese-phds-from-tsinghua-cambridge-are-ending-up-as-high-school-teachers-5148727.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Chinese PhDs from Tsinghua, Cambridge are ending up as high school teachers",
+   "date": "2026-11-28",
+   "desc": "Chinese PhDs from Tsinghua, Cambridge are ending up as high school teachers"
   },
   {
    "id": "3bc3773a8356",
@@ -280,6 +400,16 @@
    "titulo": "Heavy rain at peak tide leaves Ho Chi Minh City roads under half a meter of water",
    "date": "2026-11-27",
    "desc": "Heavy rain at peak tide leaves Ho Chi Minh City roads under half a meter of water"
+  },
+  {
+   "id": "337cd5029f3a",
+   "img": "https://vcdn1-english.vnecdn.net/2026/11/27/pexels-sims1217-1795765609-4993-1795765792.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=rhEuruUhS0UUW7Gz5KdyBg",
+   "url": "https://e.vnexpress.net/news/news/environment/ho-chi-minh-city-braces-for-heavy-rain-amid-dry-season-5149657.html",
+   "flag": "🇻🇳",
+   "src": "VnExpress Intl",
+   "titulo": "Ho Chi Minh City braces for heavy rain amid dry season",
+   "date": "2026-11-27",
+   "desc": "Ho Chi Minh City braces for heavy rain amid dry season"
   },
   {
    "id": "29d1f6c9dae6",
@@ -2870,136 +3000,6 @@
    "titulo": "Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya",
    "date": "2026-11-19",
    "desc": "Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya"
-  },
-  {
-   "id": "6814452dc66b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575076.jpg",
-   "url": "https://www.japantimes.co.jp/business/2026/11/19/companies/rakuten-securities-data-breach/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Rakuten Securities rushes to cope with data breach",
-   "date": "2026-11-19",
-   "desc": "Rakuten Securities rushes to cope with data breach"
-  },
-  {
-   "id": "50fb8bae0144",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575075.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "South Korea court orders retrial of ex-PM Han in martial law case",
-   "date": "2026-11-19",
-   "desc": "South Korea court orders retrial of ex-PM Han in martial law case"
-  },
-  {
-   "id": "a0f9c1af7866",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575074.JPG",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-tax-bill-deliberations/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Takaichi vows to attend deliberations on tax-cut bill ‘in good faith’",
-   "date": "2026-11-19",
-   "desc": "Takaichi vows to attend deliberations on tax-cut bill ‘in good faith’"
-  },
-  {
-   "id": "499fa7d1afe7",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575073.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/world/riyadh-saudi-houthi-attacks/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Riyadh’s tallest building damaged as Saudi reports new Houthi attacks",
-   "date": "2026-11-19",
-   "desc": "Riyadh’s tallest building damaged as Saudi reports new Houthi attacks"
-  },
-  {
-   "id": "096175493b53",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575071.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/conspiracy-theory-youtuber-pr/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Japan government under fire for using conspiracy theory YouTuber in PR",
-   "date": "2026-11-19",
-   "desc": "Japan government under fire for using conspiracy theory YouTuber in PR"
-  },
-  {
-   "id": "2f20ff7f253c",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/575070.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-china-stance-disapprove/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Nearly 40% disapprove of Takaichi’s China stance, poll shows",
-   "date": "2026-11-19",
-   "desc": "Nearly 40% disapprove of Takaichi’s China stance, poll shows"
-  },
-  {
-   "id": "c2ef473c3dff",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/longthanhterminalthumb1500x900-6528-7375-1795087104.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=W71Q1EwCJuC4fPkkV2kPSA",
-   "url": "https://e.vnexpress.net/news/news/traffic/four-unfinished-projects-could-put-christmas-opening-of-vietnam-s-largest-airport-long-thanh-at-risk-5146761.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Four unfinished projects could put Christmas opening of Vietnam's largest airport Long Thanh at risk",
-   "date": "2026-11-19",
-   "desc": "Four unfinished projects could put Christmas opening of Vietnam's largest airport Long Thanh at risk"
-  },
-  {
-   "id": "94e08ae0313c",
-   "img": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm30-wm30-cats-1795071190-7446-1795071202.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=9hEKzBNeKZiwVj-hsdbP_A",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-assumes-apec-2027-host-role-5146680.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's top leader assumes APEC 2027 host role",
-   "date": "2026-11-19",
-   "desc": "Vietnam's top leader assumes APEC 2027 host role"
-  },
-  {
-   "id": "ed8a56adcc36",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/BalanhdaoNgaTrungQuocMy9178976-5509-4296-1795078779.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=P4Cz7zRf2zXfvQPAwXumZQ",
-   "url": "https://e.vnexpress.net/news/news/china-us-russia-leaders-issue-peace-declaration-after-summit-5146670.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "China, US, Russia leaders issue 'peace declaration' after summit",
-   "date": "2026-11-19",
-   "desc": "China, US, Russia leaders issue 'peace declaration' after summit"
-  },
-  {
-   "id": "8a75ce396284",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/tolamtrumpshenzhenthumb1224x73-5783-4518-1795094637.jpg?w=900&h=0&q=100&dpr=1&fit=crop&s=2zIP-oczePJYm9fb7SeIcg",
-   "url": "https://e.vnexpress.net/news/news/politics/vietnam-s-top-leader-to-lam-meets-us-president-trump-on-apec-sidelines-in-shenzhen-5146791.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "Vietnam's top leader To Lam meets US President Trump on APEC sidelines in Shenzhen",
-   "date": "2026-11-19",
-   "desc": "Vietnam's top leader To Lam meets US President Trump on APEC sidelines in Shenzhen"
-  },
-  {
-   "id": "ea86fe1d8f3f",
-   "img": "https://vcdn1-english.vnecdn.net/2026/11/19/BalanhdaoNgaTrungQuocMy9178976-5509-4296-1795078779.webp?w=900&h=0&q=100&dpr=1&fit=crop&s=P4Cz7zRf2zXfvQPAwXumZQ",
-   "url": "https://e.vnexpress.net/news/news/china-us-russia-issue-peace-declaration-after-first-summit-5146670.html",
-   "flag": "🇻🇳",
-   "src": "VnExpress Intl",
-   "titulo": "China, US, Russia issue 'peace declaration' after first summit",
-   "date": "2026-11-19",
-   "desc": "China, US, Russia issue 'peace declaration' after first summit"
-  },
-  {
-   "id": "6bd27c80378b",
-   "img": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/575088.jpg",
-   "url": "https://www.japantimes.co.jp/news/2026/11/20/world/politics/trump-xi-putin-pushback/",
-   "flag": "🇯🇵",
-   "src": "The Japan Times",
-   "titulo": "Trump’s camaraderie with Xi and Putin draws pushback at home",
-   "date": "2026-11-19",
-   "desc": "Trump’s camaraderie with Xi and Putin draws pushback at home"
-  },
-  {
-   "id": "43ad49f3d908",
-   "img": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/4b671a15-5cfe-4ab1-a197-82b2542b2e16_dd99698d.jpg?itok=JEISZTZA&v=1794960661",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3374810/chiles-kast-meets-chinas-xi-first-time-steady-ties-strained-us-pressure",
-   "flag": "🇨🇳",
-   "src": "Igor Patrick · SCMP (Xinhua)",
-   "titulo": "Chile’s Kast meets China’s Xi for first time to steady ties strained by US pressure",
-   "date": "2026-11-18",
-   "desc": "Chile’s Kast meets China’s Xi for first time to steady ties strained by US pressure"
   }
  ]
 }
